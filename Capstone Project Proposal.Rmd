@@ -1,0 +1,44 @@
+---
+title: "Capstone Project Proposal"
+author: "Anna Vaughan"
+date: "September 24, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```  
+  
+    
+    
+   
+## Which UK undergraduates from which regions go to which institutions to study which subjects?  
+    
+    
+  
+    
+    
+###What is the problem you want to solve?
+Understand the profile of students who studied each UCAS subject area in the UK for the academic year 2016/17, in terms of their region of origin and the university they chose to study at.  
+  
+  
+###Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
+The University of Salford is my client, and they can use the information to:
+understand for each academic subject area the regions students most often come from, to help target them best with marketing to encourage them to consider a suitable course at Salford;
+understand which other institutions are popular with students in Salford’s target regions for each academic subject area, to learn from those institutions’ appeal.   
+  
+###What data are you going to use for this? How will you acquire this data?
+At the end of each academic year, UCAS publishes data on applications and acceptances across the UK here:  <https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/ucas-undergraduate-end-cycle-data-resources>.  
+The data is freely downloadable in pdf or csv format, but each individual combination of variables sits within a different file (e.g. subject by provider is separate to subject by regional domicile), so the data will need some cleaning and possibly joining.  
+  
+   
+###In brief, outline your approach to solving this problem (knowing that this might change later).  
+* I will download the original UCAS files, inspect them and combine the different datasets if possible.  
+* I will formulate the exact hypotheses/research objectives I want to answer (fleshing out further the overall objectives listed above.  
+* I will then review the data available and work out which data elements answer which objectives and hypotheses.  
+* I will use R to transform the data into its most usable form given the conclusions of the previous stage.  
+* I will then create a file in R Markdown that produces a report for each subject area recommending which regions, subjects and institutions Salford’s marketing team should focus their attention on to improve recruitment.  
+  
+  
+###What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.  
+I will produce an interactive R Markdown document and associated datafile that will generate recmomendation reports on a subject area basis. I will produce a short slide deck summarising the findings from the work, specific to Salford.
