@@ -1,0 +1,685 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Provider Country 2016 , Sex , Acceptance Route , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_008_07.pdf"
+ 
+Cycle Year,Provider Country 2016 , Sex , Acceptance Route,Number of Acceptances,
+2006 ,"'England' ","'Men' ","'Firm choice' ",106120
+2006 ,"'England' ","'Men' ","'Insurance choice' ",9005
+2006 ,"'England' ","'Men' ","'Other main scheme choice' ",7195
+2006 ,"'England' ","'Men' ","'Extra' ",1105
+2006 ,"'England' ","'Men' ","'Main scheme Clearing' ",11550
+2006 ,"'England' ","'Men' ","'Direct Clearing' ",4375
+2006 ,"'England' ","'Men' ","'RPA' ",11090
+2006 ,"'England' ","'Women' ","'Firm choice' ",131220
+2006 ,"'England' ","'Women' ","'Insurance choice' ",8705
+2006 ,"'England' ","'Women' ","'Other main scheme choice' ",7070
+2006 ,"'England' ","'Women' ","'Extra' ",1765
+2006 ,"'England' ","'Women' ","'Main scheme Clearing' ",13195
+2006 ,"'England' ","'Women' ","'Direct Clearing' ",3635
+2006 ,"'England' ","'Women' ","'RPA' ",9220
+2006 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",2770
+2006 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",505
+2006 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",65
+2006 ,"'Northern Ireland' ","'Men' ","'Extra' ",15
+2006 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",280
+2006 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",70
+2006 ,"'Northern Ireland' ","'Men' ","'RPA' ",35
+2006 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",3735
+2006 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",545
+2006 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",60
+2006 ,"'Northern Ireland' ","'Women' ","'Extra' ",30
+2006 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",385
+2006 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",45
+2006 ,"'Northern Ireland' ","'Women' ","'RPA' ",30
+2006 ,"'Scotland' ","'Men' ","'Firm choice' ",11790
+2006 ,"'Scotland' ","'Men' ","'Insurance choice' ",1020
+2006 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",965
+2006 ,"'Scotland' ","'Men' ","'Extra' ",75
+2006 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",940
+2006 ,"'Scotland' ","'Men' ","'Direct Clearing' ",285
+2006 ,"'Scotland' ","'Men' ","'RPA' ",1415
+2006 ,"'Scotland' ","'Women' ","'Firm choice' ",14375
+2006 ,"'Scotland' ","'Women' ","'Insurance choice' ",1035
+2006 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",745
+2006 ,"'Scotland' ","'Women' ","'Extra' ",105
+2006 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1045
+2006 ,"'Scotland' ","'Women' ","'Direct Clearing' ",215
+2006 ,"'Scotland' ","'Women' ","'RPA' ",1305
+2006 ,"'Wales' ","'Men' ","'Firm choice' ",7150
+2006 ,"'Wales' ","'Men' ","'Insurance choice' ",550
+2006 ,"'Wales' ","'Men' ","'Other main scheme choice' ",435
+2006 ,"'Wales' ","'Men' ","'Extra' ",60
+2006 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",615
+2006 ,"'Wales' ","'Men' ","'Direct Clearing' ",345
+2006 ,"'Wales' ","'Men' ","'RPA' ",735
+2006 ,"'Wales' ","'Women' ","'Firm choice' ",9145
+2006 ,"'Wales' ","'Women' ","'Insurance choice' ",455
+2006 ,"'Wales' ","'Women' ","'Other main scheme choice' ",410
+2006 ,"'Wales' ","'Women' ","'Extra' ",105
+2006 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",775
+2006 ,"'Wales' ","'Women' ","'Direct Clearing' ",270
+2006 ,"'Wales' ","'Women' ","'RPA' ",695
+2007 ,"'England' ","'Men' ","'Firm choice' ",111935
+2007 ,"'England' ","'Men' ","'Insurance choice' ",10110
+2007 ,"'England' ","'Men' ","'Other main scheme choice' ",7310
+2007 ,"'England' ","'Men' ","'Extra' ",1245
+2007 ,"'England' ","'Men' ","'Main scheme Clearing' ",12015
+2007 ,"'England' ","'Men' ","'Direct Clearing' ",4220
+2007 ,"'England' ","'Men' ","'RPA' ",12020
+2007 ,"'England' ","'Women' ","'Firm choice' ",139355
+2007 ,"'England' ","'Women' ","'Insurance choice' ",9660
+2007 ,"'England' ","'Women' ","'Other main scheme choice' ",7200
+2007 ,"'England' ","'Women' ","'Extra' ",2035
+2007 ,"'England' ","'Women' ","'Main scheme Clearing' ",13775
+2007 ,"'England' ","'Women' ","'Direct Clearing' ",3620
+2007 ,"'England' ","'Women' ","'RPA' ",10675
+2007 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",2990
+2007 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",445
+2007 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",85
+2007 ,"'Northern Ireland' ","'Men' ","'Extra' ",20
+2007 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",235
+2007 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",90
+2007 ,"'Northern Ireland' ","'Men' ","'RPA' ",5
+2007 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4275
+2007 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",525
+2007 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",95
+2007 ,"'Northern Ireland' ","'Women' ","'Extra' ",50
+2007 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",375
+2007 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",95
+2007 ,"'Northern Ireland' ","'Women' ","'RPA' ",5
+2007 ,"'Scotland' ","'Men' ","'Firm choice' ",12140
+2007 ,"'Scotland' ","'Men' ","'Insurance choice' ",970
+2007 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",905
+2007 ,"'Scotland' ","'Men' ","'Extra' ",80
+2007 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",905
+2007 ,"'Scotland' ","'Men' ","'Direct Clearing' ",310
+2007 ,"'Scotland' ","'Men' ","'RPA' ",1510
+2007 ,"'Scotland' ","'Women' ","'Firm choice' ",15205
+2007 ,"'Scotland' ","'Women' ","'Insurance choice' ",935
+2007 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",715
+2007 ,"'Scotland' ","'Women' ","'Extra' ",140
+2007 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1095
+2007 ,"'Scotland' ","'Women' ","'Direct Clearing' ",260
+2007 ,"'Scotland' ","'Women' ","'RPA' ",1300
+2007 ,"'Wales' ","'Men' ","'Firm choice' ",7395
+2007 ,"'Wales' ","'Men' ","'Insurance choice' ",585
+2007 ,"'Wales' ","'Men' ","'Other main scheme choice' ",405
+2007 ,"'Wales' ","'Men' ","'Extra' ",80
+2007 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",585
+2007 ,"'Wales' ","'Men' ","'Direct Clearing' ",290
+2007 ,"'Wales' ","'Men' ","'RPA' ",790
+2007 ,"'Wales' ","'Women' ","'Firm choice' ",9680
+2007 ,"'Wales' ","'Women' ","'Insurance choice' ",520
+2007 ,"'Wales' ","'Women' ","'Other main scheme choice' ",385
+2007 ,"'Wales' ","'Women' ","'Extra' ",115
+2007 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",700
+2007 ,"'Wales' ","'Women' ","'Direct Clearing' ",295
+2007 ,"'Wales' ","'Women' ","'RPA' ",665
+2008 ,"'England' ","'Men' ","'Firm choice' ",119400
+2008 ,"'England' ","'Men' ","'Insurance choice' ",11560
+2008 ,"'England' ","'Men' ","'Other main scheme choice' ",7205
+2008 ,"'England' ","'Men' ","'Extra' ",1810
+2008 ,"'England' ","'Men' ","'Main scheme Clearing' ",13150
+2008 ,"'England' ","'Men' ","'Direct Clearing' ",4615
+2008 ,"'England' ","'Men' ","'RPA' ",13045
+2008 ,"'England' ","'Women' ","'Firm choice' ",156945
+2008 ,"'England' ","'Women' ","'Insurance choice' ",11290
+2008 ,"'England' ","'Women' ","'Other main scheme choice' ",7985
+2008 ,"'England' ","'Women' ","'Extra' ",2925
+2008 ,"'England' ","'Women' ","'Main scheme Clearing' ",15910
+2008 ,"'England' ","'Women' ","'Direct Clearing' ",4450
+2008 ,"'England' ","'Women' ","'RPA' ",12255
+2008 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3185
+2008 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",410
+2008 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",75
+2008 ,"'Northern Ireland' ","'Men' ","'Extra' ",25
+2008 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",280
+2008 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",140
+2008 ,"'Northern Ireland' ","'Men' ","'RPA' ",20
+2008 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4630
+2008 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",440
+2008 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",80
+2008 ,"'Northern Ireland' ","'Women' ","'Extra' ",55
+2008 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",370
+2008 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",100
+2008 ,"'Northern Ireland' ","'Women' ","'RPA' ",15
+2008 ,"'Scotland' ","'Men' ","'Firm choice' ",12940
+2008 ,"'Scotland' ","'Men' ","'Insurance choice' ",1195
+2008 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",905
+2008 ,"'Scotland' ","'Men' ","'Extra' ",115
+2008 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",980
+2008 ,"'Scotland' ","'Men' ","'Direct Clearing' ",305
+2008 ,"'Scotland' ","'Men' ","'RPA' ",2610
+2008 ,"'Scotland' ","'Women' ","'Firm choice' ",15750
+2008 ,"'Scotland' ","'Women' ","'Insurance choice' ",1080
+2008 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",720
+2008 ,"'Scotland' ","'Women' ","'Extra' ",170
+2008 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1080
+2008 ,"'Scotland' ","'Women' ","'Direct Clearing' ",285
+2008 ,"'Scotland' ","'Women' ","'RPA' ",2485
+2008 ,"'Wales' ","'Men' ","'Firm choice' ",7585
+2008 ,"'Wales' ","'Men' ","'Insurance choice' ",640
+2008 ,"'Wales' ","'Men' ","'Other main scheme choice' ",375
+2008 ,"'Wales' ","'Men' ","'Extra' ",85
+2008 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",690
+2008 ,"'Wales' ","'Men' ","'Direct Clearing' ",380
+2008 ,"'Wales' ","'Men' ","'RPA' ",965
+2008 ,"'Wales' ","'Women' ","'Firm choice' ",9780
+2008 ,"'Wales' ","'Women' ","'Insurance choice' ",585
+2008 ,"'Wales' ","'Women' ","'Other main scheme choice' ",350
+2008 ,"'Wales' ","'Women' ","'Extra' ",135
+2008 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",805
+2008 ,"'Wales' ","'Women' ","'Direct Clearing' ",355
+2008 ,"'Wales' ","'Women' ","'RPA' ",910
+2009 ,"'England' ","'Men' ","'Firm choice' ",124690
+2009 ,"'England' ","'Men' ","'Insurance choice' ",14075
+2009 ,"'England' ","'Men' ","'Other main scheme choice' ",8930
+2009 ,"'England' ","'Men' ","'Extra' ",1910
+2009 ,"'England' ","'Men' ","'Adjustment' ",150
+2009 ,"'England' ","'Men' ","'Main scheme Clearing' ",14535
+2009 ,"'England' ","'Men' ","'Direct Clearing' ",4735
+2009 ,"'England' ","'Men' ","'RPA' ",11750
+2009 ,"'England' ","'Women' ","'Firm choice' ",162315
+2009 ,"'England' ","'Women' ","'Insurance choice' ",13535
+2009 ,"'England' ","'Women' ","'Other main scheme choice' ",10555
+2009 ,"'England' ","'Women' ","'Extra' ",3115
+2009 ,"'England' ","'Women' ","'Adjustment' ",175
+2009 ,"'England' ","'Women' ","'Main scheme Clearing' ",16825
+2009 ,"'England' ","'Women' ","'Direct Clearing' ",4300
+2009 ,"'England' ","'Women' ","'RPA' ",10620
+2009 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3400
+2009 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",595
+2009 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",110
+2009 ,"'Northern Ireland' ","'Men' ","'Extra' ",25
+2009 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",5
+2009 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",260
+2009 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",110
+2009 ,"'Northern Ireland' ","'Men' ","'RPA' ",20
+2009 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4385
+2009 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",605
+2009 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",95
+2009 ,"'Northern Ireland' ","'Women' ","'Extra' ",55
+2009 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",20
+2009 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",365
+2009 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",85
+2009 ,"'Northern Ireland' ","'Women' ","'RPA' ",25
+2009 ,"'Scotland' ","'Men' ","'Firm choice' ",13805
+2009 ,"'Scotland' ","'Men' ","'Insurance choice' ",1370
+2009 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",960
+2009 ,"'Scotland' ","'Men' ","'Extra' ",105
+2009 ,"'Scotland' ","'Men' ","'Adjustment' ",5
+2009 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",1265
+2009 ,"'Scotland' ","'Men' ","'Direct Clearing' ",465
+2009 ,"'Scotland' ","'Men' ","'RPA' ",2480
+2009 ,"'Scotland' ","'Women' ","'Firm choice' ",16430
+2009 ,"'Scotland' ","'Women' ","'Insurance choice' ",1270
+2009 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",755
+2009 ,"'Scotland' ","'Women' ","'Extra' ",155
+2009 ,"'Scotland' ","'Women' ","'Adjustment' ",5
+2009 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1325
+2009 ,"'Scotland' ","'Women' ","'Direct Clearing' ",350
+2009 ,"'Scotland' ","'Women' ","'RPA' ",2315
+2009 ,"'Wales' ","'Men' ","'Firm choice' ",8250
+2009 ,"'Wales' ","'Men' ","'Insurance choice' ",985
+2009 ,"'Wales' ","'Men' ","'Other main scheme choice' ",565
+2009 ,"'Wales' ","'Men' ","'Extra' ",100
+2009 ,"'Wales' ","'Men' ","'Adjustment' ",10
+2009 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1155
+2009 ,"'Wales' ","'Men' ","'Direct Clearing' ",470
+2009 ,"'Wales' ","'Men' ","'RPA' ",900
+2009 ,"'Wales' ","'Women' ","'Firm choice' ",10185
+2009 ,"'Wales' ","'Women' ","'Insurance choice' ",865
+2009 ,"'Wales' ","'Women' ","'Other main scheme choice' ",555
+2009 ,"'Wales' ","'Women' ","'Extra' ",155
+2009 ,"'Wales' ","'Women' ","'Adjustment' ",15
+2009 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1130
+2009 ,"'Wales' ","'Women' ","'Direct Clearing' ",295
+2009 ,"'Wales' ","'Women' ","'RPA' ",785
+2010 ,"'England' ","'Men' ","'Firm choice' ",132100
+2010 ,"'England' ","'Men' ","'Insurance choice' ",16175
+2010 ,"'England' ","'Men' ","'Other main scheme choice' ",5655
+2010 ,"'England' ","'Men' ","'Extra' ",2285
+2010 ,"'England' ","'Men' ","'Adjustment' ",135
+2010 ,"'England' ","'Men' ","'Main scheme Clearing' ",16145
+2010 ,"'England' ","'Men' ","'Direct Clearing' ",3950
+2010 ,"'England' ","'Men' ","'RPA' ",8990
+2010 ,"'England' ","'Women' ","'Firm choice' ",169185
+2010 ,"'England' ","'Women' ","'Insurance choice' ",15375
+2010 ,"'England' ","'Women' ","'Other main scheme choice' ",6360
+2010 ,"'England' ","'Women' ","'Extra' ",3925
+2010 ,"'England' ","'Women' ","'Adjustment' ",190
+2010 ,"'England' ","'Women' ","'Main scheme Clearing' ",18170
+2010 ,"'England' ","'Women' ","'Direct Clearing' ",3295
+2010 ,"'England' ","'Women' ","'RPA' ",8175
+2010 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3420
+2010 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",640
+2010 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",90
+2010 ,"'Northern Ireland' ","'Men' ","'Extra' ",40
+2010 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",10
+2010 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",165
+2010 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",30
+2010 ,"'Northern Ireland' ","'Men' ","'RPA' ",70
+2010 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4275
+2010 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",635
+2010 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",45
+2010 ,"'Northern Ireland' ","'Women' ","'Extra' ",65
+2010 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",10
+2010 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",200
+2010 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",25
+2010 ,"'Northern Ireland' ","'Women' ","'RPA' ",35
+2010 ,"'Scotland' ","'Men' ","'Firm choice' ",13370
+2010 ,"'Scotland' ","'Men' ","'Insurance choice' ",1410
+2010 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",495
+2010 ,"'Scotland' ","'Men' ","'Extra' ",145
+2010 ,"'Scotland' ","'Men' ","'Adjustment' ",5
+2010 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",905
+2010 ,"'Scotland' ","'Men' ","'Direct Clearing' ",160
+2010 ,"'Scotland' ","'Men' ","'RPA' ",2015
+2010 ,"'Scotland' ","'Women' ","'Firm choice' ",18300
+2010 ,"'Scotland' ","'Women' ","'Insurance choice' ",1410
+2010 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",525
+2010 ,"'Scotland' ","'Women' ","'Extra' ",215
+2010 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1055
+2010 ,"'Scotland' ","'Women' ","'Direct Clearing' ",90
+2010 ,"'Scotland' ","'Women' ","'RPA' ",2205
+2010 ,"'Wales' ","'Men' ","'Firm choice' ",8045
+2010 ,"'Wales' ","'Men' ","'Insurance choice' ",950
+2010 ,"'Wales' ","'Men' ","'Other main scheme choice' ",310
+2010 ,"'Wales' ","'Men' ","'Extra' ",130
+2010 ,"'Wales' ","'Men' ","'Adjustment' ",5
+2010 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1150
+2010 ,"'Wales' ","'Men' ","'Direct Clearing' ",230
+2010 ,"'Wales' ","'Men' ","'RPA' ",865
+2010 ,"'Wales' ","'Women' ","'Firm choice' ",10115
+2010 ,"'Wales' ","'Women' ","'Insurance choice' ",875
+2010 ,"'Wales' ","'Women' ","'Other main scheme choice' ",250
+2010 ,"'Wales' ","'Women' ","'Extra' ",210
+2010 ,"'Wales' ","'Women' ","'Adjustment' ",15
+2010 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1165
+2010 ,"'Wales' ","'Women' ","'Direct Clearing' ",185
+2010 ,"'Wales' ","'Women' ","'RPA' ",660
+2011 ,"'England' ","'Men' ","'Firm choice' ",134135
+2011 ,"'England' ","'Men' ","'Insurance choice' ",17660
+2011 ,"'England' ","'Men' ","'Other main scheme choice' ",5945
+2011 ,"'England' ","'Men' ","'Extra' ",3030
+2011 ,"'England' ","'Men' ","'Adjustment' ",230
+2011 ,"'England' ","'Men' ","'Main scheme Clearing' ",17515
+2011 ,"'England' ","'Men' ","'Direct Clearing' ",4010
+2011 ,"'England' ","'Men' ","'RPA' ",4900
+2011 ,"'England' ","'Women' ","'Firm choice' ",169485
+2011 ,"'England' ","'Women' ","'Insurance choice' ",16770
+2011 ,"'England' ","'Women' ","'Other main scheme choice' ",6550
+2011 ,"'England' ","'Women' ","'Extra' ",5565
+2011 ,"'England' ","'Women' ","'Adjustment' ",260
+2011 ,"'England' ","'Women' ","'Main scheme Clearing' ",20220
+2011 ,"'England' ","'Women' ","'Direct Clearing' ",3445
+2011 ,"'England' ","'Women' ","'RPA' ",5340
+2011 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3400
+2011 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",665
+2011 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",55
+2011 ,"'Northern Ireland' ","'Men' ","'Extra' ",30
+2011 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",5
+2011 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",170
+2011 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",25
+2011 ,"'Northern Ireland' ","'Men' ","'RPA' ",75
+2011 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4120
+2011 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",605
+2011 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",45
+2011 ,"'Northern Ireland' ","'Women' ","'Extra' ",50
+2011 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",15
+2011 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",235
+2011 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",20
+2011 ,"'Northern Ireland' ","'Women' ","'RPA' ",45
+2011 ,"'Scotland' ","'Men' ","'Firm choice' ",13230
+2011 ,"'Scotland' ","'Men' ","'Insurance choice' ",1355
+2011 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",440
+2011 ,"'Scotland' ","'Men' ","'Extra' ",155
+2011 ,"'Scotland' ","'Men' ","'Adjustment' ",5
+2011 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",640
+2011 ,"'Scotland' ","'Men' ","'Direct Clearing' ",110
+2011 ,"'Scotland' ","'Men' ","'RPA' ",1730
+2011 ,"'Scotland' ","'Women' ","'Firm choice' ",18555
+2011 ,"'Scotland' ","'Women' ","'Insurance choice' ",1330
+2011 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",525
+2011 ,"'Scotland' ","'Women' ","'Extra' ",260
+2011 ,"'Scotland' ","'Women' ","'Adjustment' ",10
+2011 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",790
+2011 ,"'Scotland' ","'Women' ","'Direct Clearing' ",90
+2011 ,"'Scotland' ","'Women' ","'RPA' ",1930
+2011 ,"'Wales' ","'Men' ","'Firm choice' ",7915
+2011 ,"'Wales' ","'Men' ","'Insurance choice' ",1090
+2011 ,"'Wales' ","'Men' ","'Other main scheme choice' ",325
+2011 ,"'Wales' ","'Men' ","'Extra' ",155
+2011 ,"'Wales' ","'Men' ","'Adjustment' ",10
+2011 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1785
+2011 ,"'Wales' ","'Men' ","'Direct Clearing' ",250
+2011 ,"'Wales' ","'Men' ","'RPA' ",835
+2011 ,"'Wales' ","'Women' ","'Firm choice' ",9930
+2011 ,"'Wales' ","'Women' ","'Insurance choice' ",905
+2011 ,"'Wales' ","'Women' ","'Other main scheme choice' ",305
+2011 ,"'Wales' ","'Women' ","'Extra' ",295
+2011 ,"'Wales' ","'Women' ","'Adjustment' ",15
+2011 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1680
+2011 ,"'Wales' ","'Women' ","'Direct Clearing' ",180
+2011 ,"'Wales' ","'Women' ","'RPA' ",580
+2012 ,"'England' ","'Men' ","'Firm choice' ",124165
+2012 ,"'England' ","'Men' ","'Insurance choice' ",12690
+2012 ,"'England' ","'Men' ","'Other main scheme choice' ",4655
+2012 ,"'England' ","'Men' ","'Extra' ",2355
+2012 ,"'England' ","'Men' ","'Adjustment' ",530
+2012 ,"'England' ","'Men' ","'Main scheme Clearing' ",17395
+2012 ,"'England' ","'Men' ","'Direct Clearing' ",5965
+2012 ,"'England' ","'Men' ","'RPA' ",6475
+2012 ,"'England' ","'Women' ","'Firm choice' ",159925
+2012 ,"'England' ","'Women' ","'Insurance choice' ",12020
+2012 ,"'England' ","'Women' ","'Other main scheme choice' ",5145
+2012 ,"'England' ","'Women' ","'Extra' ",4725
+2012 ,"'England' ","'Women' ","'Adjustment' ",705
+2012 ,"'England' ","'Women' ","'Main scheme Clearing' ",20635
+2012 ,"'England' ","'Women' ","'Direct Clearing' ",5315
+2012 ,"'England' ","'Women' ","'RPA' ",6100
+2012 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3600
+2012 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",615
+2012 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",40
+2012 ,"'Northern Ireland' ","'Men' ","'Extra' ",15
+2012 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",10
+2012 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",265
+2012 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",30
+2012 ,"'Northern Ireland' ","'Men' ","'RPA' ",120
+2012 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4325
+2012 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",555
+2012 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",55
+2012 ,"'Northern Ireland' ","'Women' ","'Extra' ",65
+2012 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",15
+2012 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",255
+2012 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",30
+2012 ,"'Northern Ireland' ","'Women' ","'RPA' ",50
+2012 ,"'Scotland' ","'Men' ","'Firm choice' ",13575
+2012 ,"'Scotland' ","'Men' ","'Insurance choice' ",1265
+2012 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",410
+2012 ,"'Scotland' ","'Men' ","'Extra' ",135
+2012 ,"'Scotland' ","'Men' ","'Adjustment' ",10
+2012 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",880
+2012 ,"'Scotland' ","'Men' ","'Direct Clearing' ",125
+2012 ,"'Scotland' ","'Men' ","'RPA' ",1595
+2012 ,"'Scotland' ","'Women' ","'Firm choice' ",19015
+2012 ,"'Scotland' ","'Women' ","'Insurance choice' ",1375
+2012 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",425
+2012 ,"'Scotland' ","'Women' ","'Extra' ",240
+2012 ,"'Scotland' ","'Women' ","'Adjustment' ",15
+2012 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1020
+2012 ,"'Scotland' ","'Women' ","'Direct Clearing' ",140
+2012 ,"'Scotland' ","'Women' ","'RPA' ",1715
+2012 ,"'Wales' ","'Men' ","'Firm choice' ",7445
+2012 ,"'Wales' ","'Men' ","'Insurance choice' ",830
+2012 ,"'Wales' ","'Men' ","'Other main scheme choice' ",285
+2012 ,"'Wales' ","'Men' ","'Extra' ",105
+2012 ,"'Wales' ","'Men' ","'Adjustment' ",25
+2012 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1480
+2012 ,"'Wales' ","'Men' ","'Direct Clearing' ",385
+2012 ,"'Wales' ","'Men' ","'RPA' ",815
+2012 ,"'Wales' ","'Women' ","'Firm choice' ",9250
+2012 ,"'Wales' ","'Women' ","'Insurance choice' ",650
+2012 ,"'Wales' ","'Women' ","'Other main scheme choice' ",220
+2012 ,"'Wales' ","'Women' ","'Extra' ",215
+2012 ,"'Wales' ","'Women' ","'Adjustment' ",15
+2012 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1500
+2012 ,"'Wales' ","'Women' ","'Direct Clearing' ",305
+2012 ,"'Wales' ","'Women' ","'RPA' ",595
+2013 ,"'England' ","'Men' ","'Firm choice' ",132650
+2013 ,"'England' ","'Men' ","'Insurance choice' ",13940
+2013 ,"'England' ","'Men' ","'Other main scheme choice' ",6035
+2013 ,"'England' ","'Men' ","'Extra' ",2170
+2013 ,"'England' ","'Men' ","'Adjustment' ",545
+2013 ,"'England' ","'Men' ","'Main scheme Clearing' ",17070
+2013 ,"'England' ","'Men' ","'Direct Clearing' ",7150
+2013 ,"'England' ","'Men' ","'RPA' ",7035
+2013 ,"'England' ","'Women' ","'Firm choice' ",170625
+2013 ,"'England' ","'Women' ","'Insurance choice' ",13275
+2013 ,"'England' ","'Women' ","'Other main scheme choice' ",6770
+2013 ,"'England' ","'Women' ","'Extra' ",4710
+2013 ,"'England' ","'Women' ","'Adjustment' ",585
+2013 ,"'England' ","'Women' ","'Main scheme Clearing' ",20375
+2013 ,"'England' ","'Women' ","'Direct Clearing' ",6540
+2013 ,"'England' ","'Women' ","'RPA' ",7095
+2013 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3935
+2013 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",695
+2013 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",60
+2013 ,"'Northern Ireland' ","'Men' ","'Extra' ",40
+2013 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",10
+2013 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",230
+2013 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",70
+2013 ,"'Northern Ireland' ","'Men' ","'RPA' ",55
+2013 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4690
+2013 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",560
+2013 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",65
+2013 ,"'Northern Ireland' ","'Women' ","'Extra' ",105
+2013 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",15
+2013 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",370
+2013 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",45
+2013 ,"'Northern Ireland' ","'Women' ","'RPA' ",25
+2013 ,"'Scotland' ","'Men' ","'Firm choice' ",14045
+2013 ,"'Scotland' ","'Men' ","'Insurance choice' ",1270
+2013 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",330
+2013 ,"'Scotland' ","'Men' ","'Extra' ",175
+2013 ,"'Scotland' ","'Men' ","'Adjustment' ",10
+2013 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",800
+2013 ,"'Scotland' ","'Men' ","'Direct Clearing' ",115
+2013 ,"'Scotland' ","'Men' ","'RPA' ",1505
+2013 ,"'Scotland' ","'Women' ","'Firm choice' ",19465
+2013 ,"'Scotland' ","'Women' ","'Insurance choice' ",1285
+2013 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",350
+2013 ,"'Scotland' ","'Women' ","'Extra' ",230
+2013 ,"'Scotland' ","'Women' ","'Adjustment' ",10
+2013 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1000
+2013 ,"'Scotland' ","'Women' ","'Direct Clearing' ",135
+2013 ,"'Scotland' ","'Women' ","'RPA' ",1825
+2013 ,"'Wales' ","'Men' ","'Firm choice' ",8105
+2013 ,"'Wales' ","'Men' ","'Insurance choice' ",1015
+2013 ,"'Wales' ","'Men' ","'Other main scheme choice' ",360
+2013 ,"'Wales' ","'Men' ","'Extra' ",145
+2013 ,"'Wales' ","'Men' ","'Adjustment' ",20
+2013 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1215
+2013 ,"'Wales' ","'Men' ","'Direct Clearing' ",440
+2013 ,"'Wales' ","'Men' ","'RPA' ",835
+2013 ,"'Wales' ","'Women' ","'Firm choice' ",9740
+2013 ,"'Wales' ","'Women' ","'Insurance choice' ",805
+2013 ,"'Wales' ","'Women' ","'Other main scheme choice' ",305
+2013 ,"'Wales' ","'Women' ","'Extra' ",245
+2013 ,"'Wales' ","'Women' ","'Adjustment' ",25
+2013 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1225
+2013 ,"'Wales' ","'Women' ","'Direct Clearing' ",320
+2013 ,"'Wales' ","'Women' ","'RPA' ",710
+2014 ,"'England' ","'Men' ","'Firm choice' ",134350
+2014 ,"'England' ","'Men' ","'Insurance choice' ",15530
+2014 ,"'England' ","'Men' ","'Other main scheme choice' ",5700
+2014 ,"'England' ","'Men' ","'Extra' ",2070
+2014 ,"'England' ","'Men' ","'Adjustment' ",470
+2014 ,"'England' ","'Men' ","'Main scheme Clearing' ",19225
+2014 ,"'England' ","'Men' ","'Direct Clearing' ",6570
+2014 ,"'England' ","'Men' ","'RPA' ",8365
+2014 ,"'England' ","'Women' ","'Firm choice' ",176660
+2014 ,"'England' ","'Women' ","'Insurance choice' ",15030
+2014 ,"'England' ","'Women' ","'Other main scheme choice' ",6445
+2014 ,"'England' ","'Women' ","'Extra' ",4695
+2014 ,"'England' ","'Women' ","'Adjustment' ",575
+2014 ,"'England' ","'Women' ","'Main scheme Clearing' ",23020
+2014 ,"'England' ","'Women' ","'Direct Clearing' ",5875
+2014 ,"'England' ","'Women' ","'RPA' ",8595
+2014 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3865
+2014 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",610
+2014 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",85
+2014 ,"'Northern Ireland' ","'Men' ","'Extra' ",30
+2014 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",10
+2014 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",305
+2014 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",305
+2014 ,"'Northern Ireland' ","'Men' ","'RPA' ",15
+2014 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4655
+2014 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",600
+2014 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",55
+2014 ,"'Northern Ireland' ","'Women' ","'Extra' ",70
+2014 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",15
+2014 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",450
+2014 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",155
+2014 ,"'Northern Ireland' ","'Women' ","'RPA' ",35
+2014 ,"'Scotland' ","'Men' ","'Firm choice' ",14175
+2014 ,"'Scotland' ","'Men' ","'Insurance choice' ",1380
+2014 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",290
+2014 ,"'Scotland' ","'Men' ","'Extra' ",170
+2014 ,"'Scotland' ","'Men' ","'Adjustment' ",20
+2014 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",855
+2014 ,"'Scotland' ","'Men' ","'Direct Clearing' ",105
+2014 ,"'Scotland' ","'Men' ","'RPA' ",590
+2014 ,"'Scotland' ","'Women' ","'Firm choice' ",20615
+2014 ,"'Scotland' ","'Women' ","'Insurance choice' ",1400
+2014 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",395
+2014 ,"'Scotland' ","'Women' ","'Extra' ",275
+2014 ,"'Scotland' ","'Women' ","'Adjustment' ",35
+2014 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",920
+2014 ,"'Scotland' ","'Women' ","'Direct Clearing' ",115
+2014 ,"'Scotland' ","'Women' ","'RPA' ",650
+2014 ,"'Wales' ","'Men' ","'Firm choice' ",7975
+2014 ,"'Wales' ","'Men' ","'Insurance choice' ",1235
+2014 ,"'Wales' ","'Men' ","'Other main scheme choice' ",340
+2014 ,"'Wales' ","'Men' ","'Extra' ",110
+2014 ,"'Wales' ","'Men' ","'Adjustment' ",10
+2014 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1375
+2014 ,"'Wales' ","'Men' ","'Direct Clearing' ",375
+2014 ,"'Wales' ","'Men' ","'RPA' ",765
+2014 ,"'Wales' ","'Women' ","'Firm choice' ",9860
+2014 ,"'Wales' ","'Women' ","'Insurance choice' ",950
+2014 ,"'Wales' ","'Women' ","'Other main scheme choice' ",285
+2014 ,"'Wales' ","'Women' ","'Extra' ",200
+2014 ,"'Wales' ","'Women' ","'Adjustment' ",25
+2014 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1350
+2014 ,"'Wales' ","'Women' ","'Direct Clearing' ",300
+2014 ,"'Wales' ","'Women' ","'RPA' ",770
+2015 ,"'England' ","'Men' ","'Firm choice' ",137540
+2015 ,"'England' ","'Men' ","'Insurance choice' ",16690
+2015 ,"'England' ","'Men' ","'Other main scheme choice' ",5380
+2015 ,"'England' ","'Men' ","'Extra' ",2050
+2015 ,"'England' ","'Men' ","'Adjustment' ",465
+2015 ,"'England' ","'Men' ","'Main scheme Clearing' ",19825
+2015 ,"'England' ","'Men' ","'Direct Clearing' ",7085
+2015 ,"'England' ","'Men' ","'RPA' ",8305
+2015 ,"'England' ","'Women' ","'Firm choice' ",183970
+2015 ,"'England' ","'Women' ","'Insurance choice' ",16570
+2015 ,"'England' ","'Women' ","'Other main scheme choice' ",6515
+2015 ,"'England' ","'Women' ","'Extra' ",4500
+2015 ,"'England' ","'Women' ","'Adjustment' ",575
+2015 ,"'England' ","'Women' ","'Main scheme Clearing' ",24055
+2015 ,"'England' ","'Women' ","'Direct Clearing' ",6935
+2015 ,"'England' ","'Women' ","'RPA' ",9555
+2015 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3535
+2015 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",660
+2015 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",55
+2015 ,"'Northern Ireland' ","'Men' ","'Extra' ",25
+2015 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",10
+2015 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",165
+2015 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",40
+2015 ,"'Northern Ireland' ","'Men' ","'RPA' ",15
+2015 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4540
+2015 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",625
+2015 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",40
+2015 ,"'Northern Ireland' ","'Women' ","'Extra' ",65
+2015 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",20
+2015 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",280
+2015 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",60
+2015 ,"'Northern Ireland' ","'Women' ","'RPA' ",35
+2015 ,"'Scotland' ","'Men' ","'Firm choice' ",14515
+2015 ,"'Scotland' ","'Men' ","'Insurance choice' ",1370
+2015 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",315
+2015 ,"'Scotland' ","'Men' ","'Extra' ",205
+2015 ,"'Scotland' ","'Men' ","'Adjustment' ",10
+2015 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",970
+2015 ,"'Scotland' ","'Men' ","'Direct Clearing' ",155
+2015 ,"'Scotland' ","'Men' ","'RPA' ",1435
+2015 ,"'Scotland' ","'Women' ","'Firm choice' ",22275
+2015 ,"'Scotland' ","'Women' ","'Insurance choice' ",1415
+2015 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",395
+2015 ,"'Scotland' ","'Women' ","'Extra' ",325
+2015 ,"'Scotland' ","'Women' ","'Adjustment' ",15
+2015 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1145
+2015 ,"'Scotland' ","'Women' ","'Direct Clearing' ",215
+2015 ,"'Scotland' ","'Women' ","'RPA' ",1630
+2015 ,"'Wales' ","'Men' ","'Firm choice' ",7820
+2015 ,"'Wales' ","'Men' ","'Insurance choice' ",1190
+2015 ,"'Wales' ","'Men' ","'Other main scheme choice' ",355
+2015 ,"'Wales' ","'Men' ","'Extra' ",110
+2015 ,"'Wales' ","'Men' ","'Adjustment' ",20
+2015 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1305
+2015 ,"'Wales' ","'Men' ","'Direct Clearing' ",390
+2015 ,"'Wales' ","'Men' ","'RPA' ",700
+2015 ,"'Wales' ","'Women' ","'Firm choice' ",9930
+2015 ,"'Wales' ","'Women' ","'Insurance choice' ",970
+2015 ,"'Wales' ","'Women' ","'Other main scheme choice' ",325
+2015 ,"'Wales' ","'Women' ","'Extra' ",210
+2015 ,"'Wales' ","'Women' ","'Adjustment' ",20
+2015 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1390
+2015 ,"'Wales' ","'Women' ","'Direct Clearing' ",335
+2015 ,"'Wales' ","'Women' ","'RPA' ",625
+2016 ,"'England' ","'Men' ","'Firm choice' ",137000
+2016 ,"'England' ","'Men' ","'Insurance choice' ",16685
+2016 ,"'England' ","'Men' ","'Other main scheme choice' ",5935
+2016 ,"'England' ","'Men' ","'Extra' ",2090
+2016 ,"'England' ","'Men' ","'Adjustment' ",355
+2016 ,"'England' ","'Men' ","'Main scheme Clearing' ",19710
+2016 ,"'England' ","'Men' ","'Direct Clearing' ",7020
+2016 ,"'England' ","'Men' ","'RPA' ",8065
+2016 ,"'England' ","'Women' ","'Firm choice' ",184975
+2016 ,"'England' ","'Women' ","'Insurance choice' ",16705
+2016 ,"'England' ","'Women' ","'Other main scheme choice' ",6965
+2016 ,"'England' ","'Women' ","'Extra' ",4435
+2016 ,"'England' ","'Women' ","'Adjustment' ",455
+2016 ,"'England' ","'Women' ","'Main scheme Clearing' ",24480
+2016 ,"'England' ","'Women' ","'Direct Clearing' ",6600
+2016 ,"'England' ","'Women' ","'RPA' ",9075
+2016 ,"'Northern Ireland' ","'Men' ","'Firm choice' ",3695
+2016 ,"'Northern Ireland' ","'Men' ","'Insurance choice' ",685
+2016 ,"'Northern Ireland' ","'Men' ","'Other main scheme choice' ",45
+2016 ,"'Northern Ireland' ","'Men' ","'Extra' ",25
+2016 ,"'Northern Ireland' ","'Men' ","'Adjustment' ",5
+2016 ,"'Northern Ireland' ","'Men' ","'Main scheme Clearing' ",220
+2016 ,"'Northern Ireland' ","'Men' ","'Direct Clearing' ",55
+2016 ,"'Northern Ireland' ","'Men' ","'RPA' ",10
+2016 ,"'Northern Ireland' ","'Women' ","'Firm choice' ",4550
+2016 ,"'Northern Ireland' ","'Women' ","'Insurance choice' ",585
+2016 ,"'Northern Ireland' ","'Women' ","'Other main scheme choice' ",45
+2016 ,"'Northern Ireland' ","'Women' ","'Extra' ",75
+2016 ,"'Northern Ireland' ","'Women' ","'Adjustment' ",15
+2016 ,"'Northern Ireland' ","'Women' ","'Main scheme Clearing' ",370
+2016 ,"'Northern Ireland' ","'Women' ","'Direct Clearing' ",50
+2016 ,"'Northern Ireland' ","'Women' ","'RPA' ",15
+2016 ,"'Scotland' ","'Men' ","'Firm choice' ",15150
+2016 ,"'Scotland' ","'Men' ","'Insurance choice' ",1320
+2016 ,"'Scotland' ","'Men' ","'Other main scheme choice' ",360
+2016 ,"'Scotland' ","'Men' ","'Extra' ",195
+2016 ,"'Scotland' ","'Men' ","'Adjustment' ",15
+2016 ,"'Scotland' ","'Men' ","'Main scheme Clearing' ",975
+2016 ,"'Scotland' ","'Men' ","'Direct Clearing' ",240
+2016 ,"'Scotland' ","'Men' ","'RPA' ",1385
+2016 ,"'Scotland' ","'Women' ","'Firm choice' ",23050
+2016 ,"'Scotland' ","'Women' ","'Insurance choice' ",1385
+2016 ,"'Scotland' ","'Women' ","'Other main scheme choice' ",470
+2016 ,"'Scotland' ","'Women' ","'Extra' ",365
+2016 ,"'Scotland' ","'Women' ","'Adjustment' ",10
+2016 ,"'Scotland' ","'Women' ","'Main scheme Clearing' ",1145
+2016 ,"'Scotland' ","'Women' ","'Direct Clearing' ",225
+2016 ,"'Scotland' ","'Women' ","'RPA' ",1605
+2016 ,"'Wales' ","'Men' ","'Firm choice' ",7645
+2016 ,"'Wales' ","'Men' ","'Insurance choice' ",1200
+2016 ,"'Wales' ","'Men' ","'Other main scheme choice' ",335
+2016 ,"'Wales' ","'Men' ","'Extra' ",110
+2016 ,"'Wales' ","'Men' ","'Adjustment' ",15
+2016 ,"'Wales' ","'Men' ","'Main scheme Clearing' ",1530
+2016 ,"'Wales' ","'Men' ","'Direct Clearing' ",345
+2016 ,"'Wales' ","'Men' ","'RPA' ",705
+2016 ,"'Wales' ","'Women' ","'Firm choice' ",10280
+2016 ,"'Wales' ","'Women' ","'Insurance choice' ",930
+2016 ,"'Wales' ","'Women' ","'Other main scheme choice' ",365
+2016 ,"'Wales' ","'Women' ","'Extra' ",200
+2016 ,"'Wales' ","'Women' ","'Adjustment' ",20
+2016 ,"'Wales' ","'Women' ","'Main scheme Clearing' ",1600
+2016 ,"'Wales' ","'Women' ","'Direct Clearing' ",320
+2016 ,"'Wales' ","'Women' ","'RPA' ",695

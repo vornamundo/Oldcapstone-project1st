@@ -1,0 +1,635 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Deferred Status , Applicant Domicile (High Level) , Acceptance Route , Cycle Year"
+"Coverage:   UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_003_07.pdf"
+ 
+Cycle Year,Deferred Status , Applicant Domicile (High Level) , Acceptance Route,Number of Acceptances,
+2006 ,"'Deferred' ","'England' ","'Firm choice' ",18950
+2006 ,"'Deferred' ","'England' ","'Insurance choice' ",1990
+2006 ,"'Deferred' ","'England' ","'Other main scheme choice' ",440
+2006 ,"'Deferred' ","'England' ","'Extra' ",105
+2006 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",915
+2006 ,"'Deferred' ","'England' ","'Direct Clearing' ",135
+2006 ,"'Deferred' ","'England' ","'RPA' ",155
+2006 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",355
+2006 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",55
+2006 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2006 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2006 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",25
+2006 ,"'Deferred' ","'Northern Ireland' ","'Direct Clearing' ",10
+2006 ,"'Deferred' ","'Scotland' ","'Firm choice' ",1215
+2006 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",135
+2006 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",35
+2006 ,"'Deferred' ","'Scotland' ","'Extra' ",5
+2006 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",60
+2006 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",20
+2006 ,"'Deferred' ","'Scotland' ","'RPA' ",15
+2006 ,"'Deferred' ","'Wales' ","'Firm choice' ",735
+2006 ,"'Deferred' ","'Wales' ","'Insurance choice' ",65
+2006 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",15
+2006 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2006 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",35
+2006 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2006 ,"'Deferred' ","'Wales' ","'RPA' ",10
+2006 ,"'Not deferred' ","'England' ","'Firm choice' ",195745
+2006 ,"'Not deferred' ","'England' ","'Insurance choice' ",13560
+2006 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",9440
+2006 ,"'Not deferred' ","'England' ","'Extra' ",2415
+2006 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",20940
+2006 ,"'Not deferred' ","'England' ","'Direct Clearing' ",6905
+2006 ,"'Not deferred' ","'England' ","'RPA' ",16335
+2006 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",9030
+2006 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1390
+2006 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",195
+2006 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",95
+2006 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",965
+2006 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",135
+2006 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",125
+2006 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",19495
+2006 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1275
+2006 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",980
+2006 ,"'Not deferred' ","'Scotland' ","'Extra' ",130
+2006 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1490
+2006 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",415
+2006 ,"'Not deferred' ","'Scotland' ","'RPA' ",1545
+2006 ,"'Not deferred' ","'Wales' ","'Firm choice' ",12170
+2006 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",670
+2006 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",535
+2006 ,"'Not deferred' ","'Wales' ","'Extra' ",165
+2006 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1065
+2006 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",500
+2006 ,"'Not deferred' ","'Wales' ","'RPA' ",1170
+2007 ,"'Deferred' ","'England' ","'Firm choice' ",19005
+2007 ,"'Deferred' ","'England' ","'Insurance choice' ",2135
+2007 ,"'Deferred' ","'England' ","'Other main scheme choice' ",510
+2007 ,"'Deferred' ","'England' ","'Extra' ",95
+2007 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",805
+2007 ,"'Deferred' ","'England' ","'Direct Clearing' ",70
+2007 ,"'Deferred' ","'England' ","'RPA' ",195
+2007 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",320
+2007 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",55
+2007 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",10
+2007 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2007 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",10
+2007 ,"'Deferred' ","'Northern Ireland' ","'RPA' ",5
+2007 ,"'Deferred' ","'Scotland' ","'Firm choice' ",1165
+2007 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",130
+2007 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",45
+2007 ,"'Deferred' ","'Scotland' ","'Extra' ",5
+2007 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",35
+2007 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2007 ,"'Deferred' ","'Scotland' ","'RPA' ",60
+2007 ,"'Deferred' ","'Wales' ","'Firm choice' ",715
+2007 ,"'Deferred' ","'Wales' ","'Insurance choice' ",60
+2007 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",20
+2007 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2007 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",30
+2007 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2007 ,"'Deferred' ","'Wales' ","'RPA' ",10
+2007 ,"'Not deferred' ","'England' ","'Firm choice' ",208155
+2007 ,"'Not deferred' ","'England' ","'Insurance choice' ",15025
+2007 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",9870
+2007 ,"'Not deferred' ","'England' ","'Extra' ",2845
+2007 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",22210
+2007 ,"'Not deferred' ","'England' ","'Direct Clearing' ",6985
+2007 ,"'Not deferred' ","'England' ","'RPA' ",17880
+2007 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",9910
+2007 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1195
+2007 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",220
+2007 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",140
+2007 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",880
+2007 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",205
+2007 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",55
+2007 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",19790
+2007 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1275
+2007 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",950
+2007 ,"'Not deferred' ","'Scotland' ","'Extra' ",135
+2007 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1455
+2007 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",440
+2007 ,"'Not deferred' ","'Scotland' ","'RPA' ",1730
+2007 ,"'Not deferred' ","'Wales' ","'Firm choice' ",12525
+2007 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",745
+2007 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",500
+2007 ,"'Not deferred' ","'Wales' ","'Extra' ",155
+2007 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1000
+2007 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",510
+2007 ,"'Not deferred' ","'Wales' ","'RPA' ",1085
+2008 ,"'Deferred' ","'England' ","'Firm choice' ",19770
+2008 ,"'Deferred' ","'England' ","'Insurance choice' ",2500
+2008 ,"'Deferred' ","'England' ","'Other main scheme choice' ",555
+2008 ,"'Deferred' ","'England' ","'Extra' ",175
+2008 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",915
+2008 ,"'Deferred' ","'England' ","'Direct Clearing' ",115
+2008 ,"'Deferred' ","'England' ","'RPA' ",330
+2008 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",400
+2008 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",55
+2008 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",10
+2008 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2008 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",15
+2008 ,"'Deferred' ","'Scotland' ","'Firm choice' ",1270
+2008 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",145
+2008 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",50
+2008 ,"'Deferred' ","'Scotland' ","'Extra' ",10
+2008 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",35
+2008 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2008 ,"'Deferred' ","'Scotland' ","'RPA' ",20
+2008 ,"'Deferred' ","'Wales' ","'Firm choice' ",740
+2008 ,"'Deferred' ","'Wales' ","'Insurance choice' ",90
+2008 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",25
+2008 ,"'Deferred' ","'Wales' ","'Extra' ",10
+2008 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",35
+2008 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2008 ,"'Deferred' ","'Wales' ","'RPA' ",10
+2008 ,"'Not deferred' ","'England' ","'Firm choice' ",231350
+2008 ,"'Not deferred' ","'England' ","'Insurance choice' ",17660
+2008 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",11025
+2008 ,"'Not deferred' ","'England' ","'Extra' ",4080
+2008 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",25225
+2008 ,"'Not deferred' ","'England' ","'Direct Clearing' ",8185
+2008 ,"'Not deferred' ","'England' ","'RPA' ",20550
+2008 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",10380
+2008 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1035
+2008 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",185
+2008 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",145
+2008 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",850
+2008 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",265
+2008 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",85
+2008 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",20075
+2008 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1365
+2008 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",985
+2008 ,"'Not deferred' ","'Scotland' ","'Extra' ",195
+2008 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1485
+2008 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",475
+2008 ,"'Not deferred' ","'Scotland' ","'RPA' ",3275
+2008 ,"'Not deferred' ","'Wales' ","'Firm choice' ",13220
+2008 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",750
+2008 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",515
+2008 ,"'Not deferred' ","'Wales' ","'Extra' ",200
+2008 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1075
+2008 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",590
+2008 ,"'Not deferred' ","'Wales' ","'RPA' ",1330
+2009 ,"'Deferred' ","'England' ","'Firm choice' ",18770
+2009 ,"'Deferred' ","'England' ","'Insurance choice' ",2700
+2009 ,"'Deferred' ","'England' ","'Other main scheme choice' ",845
+2009 ,"'Deferred' ","'England' ","'Extra' ",185
+2009 ,"'Deferred' ","'England' ","'Adjustment' ",5
+2009 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",1195
+2009 ,"'Deferred' ","'England' ","'Direct Clearing' ",180
+2009 ,"'Deferred' ","'England' ","'RPA' ",215
+2009 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",365
+2009 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",60
+2009 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",10
+2009 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2009 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",35
+2009 ,"'Deferred' ","'Scotland' ","'Firm choice' ",1190
+2009 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",150
+2009 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",50
+2009 ,"'Deferred' ","'Scotland' ","'Extra' ",10
+2009 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",40
+2009 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2009 ,"'Deferred' ","'Scotland' ","'RPA' ",20
+2009 ,"'Deferred' ","'Wales' ","'Firm choice' ",645
+2009 ,"'Deferred' ","'Wales' ","'Insurance choice' ",90
+2009 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",35
+2009 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2009 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",50
+2009 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",20
+2009 ,"'Deferred' ","'Wales' ","'RPA' ",10
+2009 ,"'Not deferred' ","'England' ","'Firm choice' ",241980
+2009 ,"'Not deferred' ","'England' ","'Insurance choice' ",22330
+2009 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",14415
+2009 ,"'Not deferred' ","'England' ","'Extra' ",4295
+2009 ,"'Not deferred' ","'England' ","'Adjustment' ",285
+2009 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",27740
+2009 ,"'Not deferred' ","'England' ","'Direct Clearing' ",8220
+2009 ,"'Not deferred' ","'England' ","'RPA' ",15765
+2009 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",10210
+2009 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1410
+2009 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",240
+2009 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",135
+2009 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",25
+2009 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",825
+2009 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",225
+2009 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",60
+2009 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",21250
+2009 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1545
+2009 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",1080
+2009 ,"'Not deferred' ","'Scotland' ","'Extra' ",165
+2009 ,"'Not deferred' ","'Scotland' ","'Adjustment' ",5
+2009 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1765
+2009 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",650
+2009 ,"'Not deferred' ","'Scotland' ","'RPA' ",3100
+2009 ,"'Not deferred' ","'Wales' ","'Firm choice' ",14175
+2009 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",1095
+2009 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",810
+2009 ,"'Not deferred' ","'Wales' ","'Extra' ",200
+2009 ,"'Not deferred' ","'Wales' ","'Adjustment' ",15
+2009 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1265
+2009 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",570
+2009 ,"'Not deferred' ","'Wales' ","'RPA' ",1205
+2010 ,"'Deferred' ","'England' ","'Firm choice' ",18455
+2010 ,"'Deferred' ","'England' ","'Insurance choice' ",3070
+2010 ,"'Deferred' ","'England' ","'Other main scheme choice' ",485
+2010 ,"'Deferred' ","'England' ","'Extra' ",170
+2010 ,"'Deferred' ","'England' ","'Adjustment' ",20
+2010 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",730
+2010 ,"'Deferred' ","'England' ","'Direct Clearing' ",60
+2010 ,"'Deferred' ","'England' ","'RPA' ",115
+2010 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",365
+2010 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",75
+2010 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2010 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2010 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",10
+2010 ,"'Deferred' ","'Scotland' ","'Firm choice' ",1240
+2010 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",160
+2010 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",40
+2010 ,"'Deferred' ","'Scotland' ","'Extra' ",5
+2010 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",35
+2010 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2010 ,"'Deferred' ","'Scotland' ","'RPA' ",10
+2010 ,"'Deferred' ","'Wales' ","'Firm choice' ",655
+2010 ,"'Deferred' ","'Wales' ","'Insurance choice' ",85
+2010 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",20
+2010 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2010 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",35
+2010 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2010 ,"'Deferred' ","'Wales' ","'RPA' ",10
+2010 ,"'Not deferred' ","'England' ","'Firm choice' ",251615
+2010 ,"'Not deferred' ","'England' ","'Insurance choice' ",25190
+2010 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",8265
+2010 ,"'Not deferred' ","'England' ","'Extra' ",5380
+2010 ,"'Not deferred' ","'England' ","'Adjustment' ",260
+2010 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",30335
+2010 ,"'Not deferred' ","'England' ","'Direct Clearing' ",6375
+2010 ,"'Not deferred' ","'England' ","'RPA' ",8475
+2010 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",10285
+2010 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1520
+2010 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",150
+2010 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",185
+2010 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",25
+2010 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",735
+2010 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",95
+2010 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",55
+2010 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",23300
+2010 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1785
+2010 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",730
+2010 ,"'Not deferred' ","'Scotland' ","'Extra' ",285
+2010 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1665
+2010 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",230
+2010 ,"'Not deferred' ","'Scotland' ","'RPA' ",2755
+2010 ,"'Not deferred' ","'Wales' ","'Firm choice' ",13695
+2010 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",1075
+2010 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",365
+2010 ,"'Not deferred' ","'Wales' ","'Extra' ",245
+2010 ,"'Not deferred' ","'Wales' ","'Adjustment' ",15
+2010 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1350
+2010 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",300
+2010 ,"'Not deferred' ","'Wales' ","'RPA' ",810
+2011 ,"'Deferred' ","'England' ","'Firm choice' ",7070
+2011 ,"'Deferred' ","'England' ","'Insurance choice' ",1050
+2011 ,"'Deferred' ","'England' ","'Other main scheme choice' ",300
+2011 ,"'Deferred' ","'England' ","'Extra' ",105
+2011 ,"'Deferred' ","'England' ","'Adjustment' ",5
+2011 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",295
+2011 ,"'Deferred' ","'England' ","'Direct Clearing' ",30
+2011 ,"'Deferred' ","'England' ","'RPA' ",45
+2011 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",190
+2011 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",20
+2011 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2011 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2011 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",15
+2011 ,"'Deferred' ","'Scotland' ","'Firm choice' ",880
+2011 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",90
+2011 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",30
+2011 ,"'Deferred' ","'Scotland' ","'Extra' ",5
+2011 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",30
+2011 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2011 ,"'Deferred' ","'Scotland' ","'RPA' ",5
+2011 ,"'Deferred' ","'Wales' ","'Firm choice' ",430
+2011 ,"'Deferred' ","'Wales' ","'Insurance choice' ",60
+2011 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",10
+2011 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2011 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",20
+2011 ,"'Deferred' ","'Wales' ","'RPA' ",5
+2011 ,"'Not deferred' ","'England' ","'Firm choice' ",262830
+2011 ,"'Not deferred' ","'England' ","'Insurance choice' ",29885
+2011 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",8835
+2011 ,"'Not deferred' ","'England' ","'Extra' ",7680
+2011 ,"'Not deferred' ","'England' ","'Adjustment' ",465
+2011 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",35300
+2011 ,"'Not deferred' ","'England' ","'Direct Clearing' ",6775
+2011 ,"'Not deferred' ","'England' ","'RPA' ",6485
+2011 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",10640
+2011 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1635
+2011 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",150
+2011 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",175
+2011 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",20
+2011 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",815
+2011 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",70
+2011 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",55
+2011 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",23460
+2011 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1715
+2011 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",680
+2011 ,"'Not deferred' ","'Scotland' ","'Extra' ",360
+2011 ,"'Not deferred' ","'Scotland' ","'Adjustment' ",5
+2011 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1195
+2011 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",170
+2011 ,"'Not deferred' ","'Scotland' ","'RPA' ",2180
+2011 ,"'Not deferred' ","'Wales' ","'Firm choice' ",13670
+2011 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",1100
+2011 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",370
+2011 ,"'Not deferred' ","'Wales' ","'Extra' ",315
+2011 ,"'Not deferred' ","'Wales' ","'Adjustment' ",10
+2011 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1485
+2011 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",285
+2011 ,"'Not deferred' ","'Wales' ","'RPA' ",560
+2012 ,"'Deferred' ","'England' ","'Firm choice' ",15345
+2012 ,"'Deferred' ","'England' ","'Insurance choice' ",2325
+2012 ,"'Deferred' ","'England' ","'Other main scheme choice' ",310
+2012 ,"'Deferred' ","'England' ","'Extra' ",180
+2012 ,"'Deferred' ","'England' ","'Adjustment' ",35
+2012 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",795
+2012 ,"'Deferred' ","'England' ","'Direct Clearing' ",120
+2012 ,"'Deferred' ","'England' ","'RPA' ",85
+2012 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",265
+2012 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",50
+2012 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2012 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2012 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",15
+2012 ,"'Deferred' ","'Scotland' ","'Firm choice' ",850
+2012 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",85
+2012 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",25
+2012 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",25
+2012 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2012 ,"'Deferred' ","'Wales' ","'Firm choice' ",465
+2012 ,"'Deferred' ","'Wales' ","'Insurance choice' ",60
+2012 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",10
+2012 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2012 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",30
+2012 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2012 ,"'Deferred' ","'Wales' ","'RPA' ",15
+2012 ,"'Not deferred' ","'England' ","'Firm choice' ",236790
+2012 ,"'Not deferred' ","'England' ","'Insurance choice' ",19125
+2012 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",6760
+2012 ,"'Not deferred' ","'England' ","'Extra' ",6190
+2012 ,"'Not deferred' ","'England' ","'Adjustment' ",1130
+2012 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",34120
+2012 ,"'Not deferred' ","'England' ","'Direct Clearing' ",10225
+2012 ,"'Not deferred' ","'England' ","'RPA' ",9215
+2012 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",10140
+2012 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1375
+2012 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",115
+2012 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",155
+2012 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",25
+2012 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",965
+2012 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",120
+2012 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",50
+2012 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",23620
+2012 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1680
+2012 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",590
+2012 ,"'Not deferred' ","'Scotland' ","'Extra' ",265
+2012 ,"'Not deferred' ","'Scotland' ","'Adjustment' ",15
+2012 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1395
+2012 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",205
+2012 ,"'Not deferred' ","'Scotland' ","'RPA' ",2140
+2012 ,"'Not deferred' ","'Wales' ","'Firm choice' ",14110
+2012 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",865
+2012 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",315
+2012 ,"'Not deferred' ","'Wales' ","'Extra' ",295
+2012 ,"'Not deferred' ","'Wales' ","'Adjustment' ",30
+2012 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1675
+2012 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",540
+2012 ,"'Not deferred' ","'Wales' ","'RPA' ",885
+2013 ,"'Deferred' ","'England' ","'Firm choice' ",16115
+2013 ,"'Deferred' ","'England' ","'Insurance choice' ",2325
+2013 ,"'Deferred' ","'England' ","'Other main scheme choice' ",420
+2013 ,"'Deferred' ","'England' ","'Extra' ",175
+2013 ,"'Deferred' ","'England' ","'Adjustment' ",25
+2013 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",870
+2013 ,"'Deferred' ","'England' ","'Direct Clearing' ",175
+2013 ,"'Deferred' ","'England' ","'RPA' ",145
+2013 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",320
+2013 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",50
+2013 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2013 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2013 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",10
+2013 ,"'Deferred' ","'Scotland' ","'Firm choice' ",780
+2013 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",75
+2013 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",10
+2013 ,"'Deferred' ","'Scotland' ","'Extra' ",5
+2013 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",25
+2013 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2013 ,"'Deferred' ","'Wales' ","'Firm choice' ",580
+2013 ,"'Deferred' ","'Wales' ","'Insurance choice' ",60
+2013 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",15
+2013 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2013 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",35
+2013 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2013 ,"'Deferred' ","'Wales' ","'RPA' ",10
+2013 ,"'Not deferred' ","'England' ","'Firm choice' ",253305
+2013 ,"'Not deferred' ","'England' ","'Insurance choice' ",21450
+2013 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",9060
+2013 ,"'Not deferred' ","'England' ","'Extra' ",6015
+2013 ,"'Not deferred' ","'England' ","'Adjustment' ",1030
+2013 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",33450
+2013 ,"'Not deferred' ","'England' ","'Direct Clearing' ",12540
+2013 ,"'Not deferred' ","'England' ","'RPA' ",10800
+2013 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",11135
+2013 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1525
+2013 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",125
+2013 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",210
+2013 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",30
+2013 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",945
+2013 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",160
+2013 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",30
+2013 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",24475
+2013 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1505
+2013 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",485
+2013 ,"'Not deferred' ","'Scotland' ","'Extra' ",330
+2013 ,"'Not deferred' ","'Scotland' ","'Adjustment' ",10
+2013 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1295
+2013 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",225
+2013 ,"'Not deferred' ","'Scotland' ","'RPA' ",2270
+2013 ,"'Not deferred' ","'Wales' ","'Firm choice' ",14275
+2013 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",910
+2013 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",380
+2013 ,"'Not deferred' ","'Wales' ","'Extra' ",290
+2013 ,"'Not deferred' ","'Wales' ","'Adjustment' ",25
+2013 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1345
+2013 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",620
+2013 ,"'Not deferred' ","'Wales' ","'RPA' ",1115
+2014 ,"'Deferred' ","'England' ","'Firm choice' ",16815
+2014 ,"'Deferred' ","'England' ","'Insurance choice' ",2680
+2014 ,"'Deferred' ","'England' ","'Other main scheme choice' ",450
+2014 ,"'Deferred' ","'England' ","'Extra' ",210
+2014 ,"'Deferred' ","'England' ","'Adjustment' ",20
+2014 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",1090
+2014 ,"'Deferred' ","'England' ","'Direct Clearing' ",165
+2014 ,"'Deferred' ","'England' ","'RPA' ",150
+2014 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",360
+2014 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",60
+2014 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2014 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",20
+2014 ,"'Deferred' ","'Scotland' ","'Firm choice' ",845
+2014 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",80
+2014 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",20
+2014 ,"'Deferred' ","'Scotland' ","'Extra' ",5
+2014 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",25
+2014 ,"'Deferred' ","'Scotland' ","'RPA' ",5
+2014 ,"'Deferred' ","'Wales' ","'Firm choice' ",585
+2014 ,"'Deferred' ","'Wales' ","'Insurance choice' ",70
+2014 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",20
+2014 ,"'Deferred' ","'Wales' ","'Extra' ",10
+2014 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",45
+2014 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2014 ,"'Deferred' ","'Wales' ","'RPA' ",5
+2014 ,"'Not deferred' ","'England' ","'Firm choice' ",257725
+2014 ,"'Not deferred' ","'England' ","'Insurance choice' ",24475
+2014 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",8785
+2014 ,"'Not deferred' ","'England' ","'Extra' ",5770
+2014 ,"'Not deferred' ","'England' ","'Adjustment' ",950
+2014 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",37890
+2014 ,"'Not deferred' ","'England' ","'Direct Clearing' ",11620
+2014 ,"'Not deferred' ","'England' ","'RPA' ",13710
+2014 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",10975
+2014 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1475
+2014 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",105
+2014 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",185
+2014 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",30
+2014 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",1030
+2014 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",165
+2014 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",35
+2014 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",25210
+2014 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1585
+2014 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",470
+2014 ,"'Not deferred' ","'Scotland' ","'Extra' ",345
+2014 ,"'Not deferred' ","'Scotland' ","'Adjustment' ",10
+2014 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1115
+2014 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",190
+2014 ,"'Not deferred' ","'Scotland' ","'RPA' ",405
+2014 ,"'Not deferred' ","'Wales' ","'Firm choice' ",14835
+2014 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",980
+2014 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",430
+2014 ,"'Not deferred' ","'Wales' ","'Extra' ",275
+2014 ,"'Not deferred' ","'Wales' ","'Adjustment' ",30
+2014 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1465
+2014 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",580
+2014 ,"'Not deferred' ","'Wales' ","'RPA' ",830
+2015 ,"'Deferred' ","'England' ","'Firm choice' ",17825
+2015 ,"'Deferred' ","'England' ","'Insurance choice' ",3000
+2015 ,"'Deferred' ","'England' ","'Other main scheme choice' ",410
+2015 ,"'Deferred' ","'England' ","'Extra' ",250
+2015 ,"'Deferred' ","'England' ","'Adjustment' ",20
+2015 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",1035
+2015 ,"'Deferred' ","'England' ","'Direct Clearing' ",175
+2015 ,"'Deferred' ","'England' ","'RPA' ",150
+2015 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",315
+2015 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",65
+2015 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2015 ,"'Deferred' ","'Northern Ireland' ","'Extra' ",5
+2015 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",25
+2015 ,"'Deferred' ","'Northern Ireland' ","'Direct Clearing' ",5
+2015 ,"'Deferred' ","'Scotland' ","'Firm choice' ",945
+2015 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",80
+2015 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",15
+2015 ,"'Deferred' ","'Scotland' ","'Extra' ",5
+2015 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",25
+2015 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",10
+2015 ,"'Deferred' ","'Scotland' ","'RPA' ",5
+2015 ,"'Deferred' ","'Wales' ","'Firm choice' ",630
+2015 ,"'Deferred' ","'Wales' ","'Insurance choice' ",100
+2015 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",15
+2015 ,"'Deferred' ","'Wales' ","'Extra' ",10
+2015 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",30
+2015 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",10
+2015 ,"'Deferred' ","'Wales' ","'RPA' ",10
+2015 ,"'Not deferred' ","'England' ","'Firm choice' ",263105
+2015 ,"'Not deferred' ","'England' ","'Insurance choice' ",26095
+2015 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",8830
+2015 ,"'Not deferred' ","'England' ","'Extra' ",5560
+2015 ,"'Not deferred' ","'England' ","'Adjustment' ",940
+2015 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",39395
+2015 ,"'Not deferred' ","'England' ","'Direct Clearing' ",12825
+2015 ,"'Not deferred' ","'England' ","'RPA' ",14770
+2015 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",10610
+2015 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1615
+2015 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",85
+2015 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",170
+2015 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",35
+2015 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",955
+2015 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",95
+2015 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",60
+2015 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",27345
+2015 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1590
+2015 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",505
+2015 ,"'Not deferred' ","'Scotland' ","'Extra' ",410
+2015 ,"'Not deferred' ","'Scotland' ","'Adjustment' ",5
+2015 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1415
+2015 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",300
+2015 ,"'Not deferred' ","'Scotland' ","'RPA' ",2120
+2015 ,"'Not deferred' ","'Wales' ","'Firm choice' ",14915
+2015 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",1110
+2015 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",435
+2015 ,"'Not deferred' ","'Wales' ","'Extra' ",255
+2015 ,"'Not deferred' ","'Wales' ","'Adjustment' ",25
+2015 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1550
+2015 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",625
+2015 ,"'Not deferred' ","'Wales' ","'RPA' ",780
+2016 ,"'Deferred' ","'England' ","'Firm choice' ",18135
+2016 ,"'Deferred' ","'England' ","'Insurance choice' ",3065
+2016 ,"'Deferred' ","'England' ","'Other main scheme choice' ",410
+2016 ,"'Deferred' ","'England' ","'Extra' ",280
+2016 ,"'Deferred' ","'England' ","'Adjustment' ",15
+2016 ,"'Deferred' ","'England' ","'Main scheme Clearing' ",1030
+2016 ,"'Deferred' ","'England' ","'Direct Clearing' ",150
+2016 ,"'Deferred' ","'England' ","'RPA' ",160
+2016 ,"'Deferred' ","'Northern Ireland' ","'Firm choice' ",395
+2016 ,"'Deferred' ","'Northern Ireland' ","'Insurance choice' ",70
+2016 ,"'Deferred' ","'Northern Ireland' ","'Other main scheme choice' ",5
+2016 ,"'Deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",15
+2016 ,"'Deferred' ","'Scotland' ","'Firm choice' ",920
+2016 ,"'Deferred' ","'Scotland' ","'Insurance choice' ",80
+2016 ,"'Deferred' ","'Scotland' ","'Other main scheme choice' ",25
+2016 ,"'Deferred' ","'Scotland' ","'Extra' ",15
+2016 ,"'Deferred' ","'Scotland' ","'Main scheme Clearing' ",30
+2016 ,"'Deferred' ","'Scotland' ","'Direct Clearing' ",5
+2016 ,"'Deferred' ","'Scotland' ","'RPA' ",5
+2016 ,"'Deferred' ","'Wales' ","'Firm choice' ",615
+2016 ,"'Deferred' ","'Wales' ","'Insurance choice' ",75
+2016 ,"'Deferred' ","'Wales' ","'Other main scheme choice' ",15
+2016 ,"'Deferred' ","'Wales' ","'Extra' ",5
+2016 ,"'Deferred' ","'Wales' ","'Main scheme Clearing' ",35
+2016 ,"'Deferred' ","'Wales' ","'Direct Clearing' ",5
+2016 ,"'Deferred' ","'Wales' ","'RPA' ",15
+2016 ,"'Not deferred' ","'England' ","'Firm choice' ",262570
+2016 ,"'Not deferred' ","'England' ","'Insurance choice' ",26000
+2016 ,"'Not deferred' ","'England' ","'Other main scheme choice' ",9640
+2016 ,"'Not deferred' ","'England' ","'Extra' ",5515
+2016 ,"'Not deferred' ","'England' ","'Adjustment' ",725
+2016 ,"'Not deferred' ","'England' ","'Main scheme Clearing' ",40120
+2016 ,"'Not deferred' ","'England' ","'Direct Clearing' ",12550
+2016 ,"'Not deferred' ","'England' ","'RPA' ",13920
+2016 ,"'Not deferred' ","'Northern Ireland' ","'Firm choice' ",11205
+2016 ,"'Not deferred' ","'Northern Ireland' ","'Insurance choice' ",1665
+2016 ,"'Not deferred' ","'Northern Ireland' ","'Other main scheme choice' ",85
+2016 ,"'Not deferred' ","'Northern Ireland' ","'Extra' ",170
+2016 ,"'Not deferred' ","'Northern Ireland' ","'Adjustment' ",25
+2016 ,"'Not deferred' ","'Northern Ireland' ","'Main scheme Clearing' ",1035
+2016 ,"'Not deferred' ","'Northern Ireland' ","'Direct Clearing' ",115
+2016 ,"'Not deferred' ","'Northern Ireland' ","'RPA' ",20
+2016 ,"'Not deferred' ","'Scotland' ","'Firm choice' ",28190
+2016 ,"'Not deferred' ","'Scotland' ","'Insurance choice' ",1550
+2016 ,"'Not deferred' ","'Scotland' ","'Other main scheme choice' ",595
+2016 ,"'Not deferred' ","'Scotland' ","'Extra' ",425
+2016 ,"'Not deferred' ","'Scotland' ","'Adjustment' ",10
+2016 ,"'Not deferred' ","'Scotland' ","'Main scheme Clearing' ",1340
+2016 ,"'Not deferred' ","'Scotland' ","'Direct Clearing' ",390
+2016 ,"'Not deferred' ","'Scotland' ","'RPA' ",2090
+2016 ,"'Not deferred' ","'Wales' ","'Firm choice' ",15030
+2016 ,"'Not deferred' ","'Wales' ","'Insurance choice' ",1095
+2016 ,"'Not deferred' ","'Wales' ","'Other main scheme choice' ",530
+2016 ,"'Not deferred' ","'Wales' ","'Extra' ",255
+2016 ,"'Not deferred' ","'Wales' ","'Adjustment' ",15
+2016 ,"'Not deferred' ","'Wales' ","'Main scheme Clearing' ",1605
+2016 ,"'Not deferred' ","'Wales' ","'Direct Clearing' ",545
+2016 ,"'Not deferred' ","'Wales' ","'RPA' ",875

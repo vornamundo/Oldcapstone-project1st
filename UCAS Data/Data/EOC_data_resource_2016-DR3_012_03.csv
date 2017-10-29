@@ -1,0 +1,1046 @@
+"Statistic:   Number of Applications"
+"Variables:   Subject Group (Summary Level) , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   Applications through the main scheme and UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_012_03.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Applicant Domicile (High Level),Number of Applications,
+2007 ,"'Group A Medicine and Dentistry' ","'England' ",57375
+2007 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",3005
+2007 ,"'Group A Medicine and Dentistry' ","'Scotland' ",4965
+2007 ,"'Group A Medicine and Dentistry' ","'Wales' ",2915
+2007 ,"'Group B Subjects allied to Medicine' ","'England' ",134420
+2007 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",10595
+2007 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",9605
+2007 ,"'Group B Subjects allied to Medicine' ","'Wales' ",10260
+2007 ,"'Group C Biological Sciences' ","'England' ",143690
+2007 ,"'Group C Biological Sciences' ","'Northern Ireland' ",5845
+2007 ,"'Group C Biological Sciences' ","'Scotland' ",13015
+2007 ,"'Group C Biological Sciences' ","'Wales' ",7055
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",13475
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",840
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1055
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",880
+2007 ,"'Group F Physical Sciences' ","'England' ",64690
+2007 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2770
+2007 ,"'Group F Physical Sciences' ","'Scotland' ",6290
+2007 ,"'Group F Physical Sciences' ","'Wales' ",3950
+2007 ,"'Group G Mathematical Sciences' ","'England' ",24775
+2007 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",955
+2007 ,"'Group G Mathematical Sciences' ","'Scotland' ",1765
+2007 ,"'Group G Mathematical Sciences' ","'Wales' ",1380
+2007 ,"'Group H Engineering' ","'England' ",60440
+2007 ,"'Group H Engineering' ","'Northern Ireland' ",3530
+2007 ,"'Group H Engineering' ","'Scotland' ",8820
+2007 ,"'Group H Engineering' ","'Wales' ",3345
+2007 ,"'Group I Computer Sciences' ","'England' ",55815
+2007 ,"'Group I Computer Sciences' ","'Northern Ireland' ",4325
+2007 ,"'Group I Computer Sciences' ","'Scotland' ",4515
+2007 ,"'Group I Computer Sciences' ","'Wales' ",2820
+2007 ,"'Group J Technologies' ","'England' ",7740
+2007 ,"'Group J Technologies' ","'Northern Ireland' ",375
+2007 ,"'Group J Technologies' ","'Scotland' ",455
+2007 ,"'Group J Technologies' ","'Wales' ",520
+2007 ,"'Group K Architecture, Building and Planning' ","'England' ",30850
+2007 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",5105
+2007 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",3550
+2007 ,"'Group K Architecture, Building and Planning' ","'Wales' ",1295
+2007 ,"'Group L Social Studies' ","'England' ",133285
+2007 ,"'Group L Social Studies' ","'Northern Ireland' ",9225
+2007 ,"'Group L Social Studies' ","'Scotland' ",10695
+2007 ,"'Group L Social Studies' ","'Wales' ",5620
+2007 ,"'Group M Law' ","'England' ",75175
+2007 ,"'Group M Law' ","'Northern Ireland' ",4635
+2007 ,"'Group M Law' ","'Scotland' ",6070
+2007 ,"'Group M Law' ","'Wales' ",3810
+2007 ,"'Group N Business and Admin studies' ","'England' ",176515
+2007 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",9475
+2007 ,"'Group N Business and Admin studies' ","'Scotland' ",16200
+2007 ,"'Group N Business and Admin studies' ","'Wales' ",6930
+2007 ,"'Group P Mass Communication and Documentation' ","'England' ",39360
+2007 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2105
+2007 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",2090
+2007 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1635
+2007 ,"'Group Q Linguistics, Classics and related' ","'England' ",57515
+2007 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",2100
+2007 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2155
+2007 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2835
+2007 ,"'Group R European Languages, Literature and related' ","'England' ",18935
+2007 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",920
+2007 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1410
+2007 ,"'Group R European Languages, Literature and related' ","'Wales' ",1085
+2007 ,"'Group T Non-European Languages, Literature and related' ","'England' ",7235
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",195
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",355
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",210
+2007 ,"'Group V History and Philosophical studies' ","'England' ",65405
+2007 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",2375
+2007 ,"'Group V History and Philosophical studies' ","'Scotland' ",3500
+2007 ,"'Group V History and Philosophical studies' ","'Wales' ",3320
+2007 ,"'Group W Creative Arts and Design' ","'England' ",185410
+2007 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",4595
+2007 ,"'Group W Creative Arts and Design' ","'Scotland' ",11235
+2007 ,"'Group W Creative Arts and Design' ","'Wales' ",8515
+2007 ,"'Group X Education' ","'England' ",54990
+2007 ,"'Group X Education' ","'Northern Ireland' ",2025
+2007 ,"'Group X Education' ","'Scotland' ",8250
+2007 ,"'Group X Education' ","'Wales' ",4460
+2007 ,"'Y Combined arts' ","'England' ",66120
+2007 ,"'Y Combined arts' ","'Northern Ireland' ",2900
+2007 ,"'Y Combined arts' ","'Scotland' ",3915
+2007 ,"'Y Combined arts' ","'Wales' ",3315
+2007 ,"'Y Combined sciences' ","'England' ",30880
+2007 ,"'Y Combined sciences' ","'Northern Ireland' ",1545
+2007 ,"'Y Combined sciences' ","'Scotland' ",3410
+2007 ,"'Y Combined sciences' ","'Wales' ",1590
+2007 ,"'Y Combined social sciences' ","'England' ",26800
+2007 ,"'Y Combined social sciences' ","'Northern Ireland' ",1235
+2007 ,"'Y Combined social sciences' ","'Scotland' ",2305
+2007 ,"'Y Combined social sciences' ","'Wales' ",1305
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",89880
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",3885
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",9230
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",4170
+2007 ,"'Y Social Sciences combined with Arts' ","'England' ",53225
+2007 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",2995
+2007 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",5340
+2007 ,"'Y Social Sciences combined with Arts' ","'Wales' ",2740
+2007 ,"'Z General, other combined and unknown' ","'England' ",13470
+2007 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",265
+2007 ,"'Z General, other combined and unknown' ","'Scotland' ",2735
+2007 ,"'Z General, other combined and unknown' ","'Wales' ",530
+2008 ,"'Group A Medicine and Dentistry' ","'England' ",54675
+2008 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",2965
+2008 ,"'Group A Medicine and Dentistry' ","'Scotland' ",4410
+2008 ,"'Group A Medicine and Dentistry' ","'Wales' ",2930
+2008 ,"'Group B Subjects allied to Medicine' ","'England' ",166975
+2008 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",9130
+2008 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",8880
+2008 ,"'Group B Subjects allied to Medicine' ","'Wales' ",9315
+2008 ,"'Group C Biological Sciences' ","'England' ",129130
+2008 ,"'Group C Biological Sciences' ","'Northern Ireland' ",4730
+2008 ,"'Group C Biological Sciences' ","'Scotland' ",11355
+2008 ,"'Group C Biological Sciences' ","'Wales' ",6695
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",13615
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",790
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1100
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1020
+2008 ,"'Group F Physical Sciences' ","'England' ",57955
+2008 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2195
+2008 ,"'Group F Physical Sciences' ","'Scotland' ",5335
+2008 ,"'Group F Physical Sciences' ","'Wales' ",3220
+2008 ,"'Group G Mathematical Sciences' ","'England' ",23210
+2008 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",780
+2008 ,"'Group G Mathematical Sciences' ","'Scotland' ",1745
+2008 ,"'Group G Mathematical Sciences' ","'Wales' ",1290
+2008 ,"'Group H Engineering' ","'England' ",56075
+2008 ,"'Group H Engineering' ","'Northern Ireland' ",3260
+2008 ,"'Group H Engineering' ","'Scotland' ",9100
+2008 ,"'Group H Engineering' ","'Wales' ",3040
+2008 ,"'Group I Computer Sciences' ","'England' ",51150
+2008 ,"'Group I Computer Sciences' ","'Northern Ireland' ",3605
+2008 ,"'Group I Computer Sciences' ","'Scotland' ",4055
+2008 ,"'Group I Computer Sciences' ","'Wales' ",2755
+2008 ,"'Group J Technologies' ","'England' ",7315
+2008 ,"'Group J Technologies' ","'Northern Ireland' ",340
+2008 ,"'Group J Technologies' ","'Scotland' ",420
+2008 ,"'Group J Technologies' ","'Wales' ",465
+2008 ,"'Group K Architecture, Building and Planning' ","'England' ",30315
+2008 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",4415
+2008 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",3675
+2008 ,"'Group K Architecture, Building and Planning' ","'Wales' ",1275
+2008 ,"'Group L Social Studies' ","'England' ",126435
+2008 ,"'Group L Social Studies' ","'Northern Ireland' ",7220
+2008 ,"'Group L Social Studies' ","'Scotland' ",9915
+2008 ,"'Group L Social Studies' ","'Wales' ",5205
+2008 ,"'Group M Law' ","'England' ",69025
+2008 ,"'Group M Law' ","'Northern Ireland' ",4040
+2008 ,"'Group M Law' ","'Scotland' ",5485
+2008 ,"'Group M Law' ","'Wales' ",3415
+2008 ,"'Group N Business and Admin studies' ","'England' ",164965
+2008 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",8655
+2008 ,"'Group N Business and Admin studies' ","'Scotland' ",14555
+2008 ,"'Group N Business and Admin studies' ","'Wales' ",6340
+2008 ,"'Group P Mass Communication and Documentation' ","'England' ",36300
+2008 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",1715
+2008 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",1975
+2008 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1610
+2008 ,"'Group Q Linguistics, Classics and related' ","'England' ",52210
+2008 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",1685
+2008 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",1915
+2008 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2580
+2008 ,"'Group R European Languages, Literature and related' ","'England' ",17245
+2008 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",700
+2008 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1540
+2008 ,"'Group R European Languages, Literature and related' ","'Wales' ",920
+2008 ,"'Group T Non-European Languages, Literature and related' ","'England' ",6000
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",100
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",300
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",155
+2008 ,"'Group V History and Philosophical studies' ","'England' ",59300
+2008 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",1925
+2008 ,"'Group V History and Philosophical studies' ","'Scotland' ",3525
+2008 ,"'Group V History and Philosophical studies' ","'Wales' ",3105
+2008 ,"'Group W Creative Arts and Design' ","'England' ",171865
+2008 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",4580
+2008 ,"'Group W Creative Arts and Design' ","'Scotland' ",10545
+2008 ,"'Group W Creative Arts and Design' ","'Wales' ",8020
+2008 ,"'Group X Education' ","'England' ",52245
+2008 ,"'Group X Education' ","'Northern Ireland' ",1495
+2008 ,"'Group X Education' ","'Scotland' ",6815
+2008 ,"'Group X Education' ","'Wales' ",3620
+2008 ,"'Y Combined arts' ","'England' ",56525
+2008 ,"'Y Combined arts' ","'Northern Ireland' ",2070
+2008 ,"'Y Combined arts' ","'Scotland' ",3570
+2008 ,"'Y Combined arts' ","'Wales' ",2995
+2008 ,"'Y Combined sciences' ","'England' ",27105
+2008 ,"'Y Combined sciences' ","'Northern Ireland' ",1265
+2008 ,"'Y Combined sciences' ","'Scotland' ",2870
+2008 ,"'Y Combined sciences' ","'Wales' ",1360
+2008 ,"'Y Combined social sciences' ","'England' ",23255
+2008 ,"'Y Combined social sciences' ","'Northern Ireland' ",945
+2008 ,"'Y Combined social sciences' ","'Scotland' ",2140
+2008 ,"'Y Combined social sciences' ","'Wales' ",1140
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",81115
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",2970
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",8575
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",4010
+2008 ,"'Y Social Sciences combined with Arts' ","'England' ",46415
+2008 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",2300
+2008 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",5275
+2008 ,"'Y Social Sciences combined with Arts' ","'Wales' ",2350
+2008 ,"'Z General, other combined and unknown' ","'England' ",13030
+2008 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",175
+2008 ,"'Z General, other combined and unknown' ","'Scotland' ",500
+2008 ,"'Z General, other combined and unknown' ","'Wales' ",440
+2009 ,"'Group A Medicine and Dentistry' ","'England' ",55940
+2009 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",2990
+2009 ,"'Group A Medicine and Dentistry' ","'Scotland' ",4405
+2009 ,"'Group A Medicine and Dentistry' ","'Wales' ",2965
+2009 ,"'Group B Subjects allied to Medicine' ","'England' ",196020
+2009 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",9610
+2009 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",9005
+2009 ,"'Group B Subjects allied to Medicine' ","'Wales' ",10350
+2009 ,"'Group C Biological Sciences' ","'England' ",142865
+2009 ,"'Group C Biological Sciences' ","'Northern Ireland' ",5325
+2009 ,"'Group C Biological Sciences' ","'Scotland' ",12900
+2009 ,"'Group C Biological Sciences' ","'Wales' ",7340
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",15700
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",945
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1155
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1030
+2009 ,"'Group F Physical Sciences' ","'England' ",60855
+2009 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2365
+2009 ,"'Group F Physical Sciences' ","'Scotland' ",6100
+2009 ,"'Group F Physical Sciences' ","'Wales' ",3910
+2009 ,"'Group G Mathematical Sciences' ","'England' ",28075
+2009 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",875
+2009 ,"'Group G Mathematical Sciences' ","'Scotland' ",2105
+2009 ,"'Group G Mathematical Sciences' ","'Wales' ",1620
+2009 ,"'Group H Engineering' ","'England' ",65510
+2009 ,"'Group H Engineering' ","'Northern Ireland' ",4075
+2009 ,"'Group H Engineering' ","'Scotland' ",10515
+2009 ,"'Group H Engineering' ","'Wales' ",3440
+2009 ,"'Group I Computer Sciences' ","'England' ",58040
+2009 ,"'Group I Computer Sciences' ","'Northern Ireland' ",3970
+2009 ,"'Group I Computer Sciences' ","'Scotland' ",4405
+2009 ,"'Group I Computer Sciences' ","'Wales' ",3070
+2009 ,"'Group J Technologies' ","'England' ",8180
+2009 ,"'Group J Technologies' ","'Northern Ireland' ",390
+2009 ,"'Group J Technologies' ","'Scotland' ",415
+2009 ,"'Group J Technologies' ","'Wales' ",685
+2009 ,"'Group K Architecture, Building and Planning' ","'England' ",30945
+2009 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",3435
+2009 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",3490
+2009 ,"'Group K Architecture, Building and Planning' ","'Wales' ",1325
+2009 ,"'Group L Social Studies' ","'England' ",144015
+2009 ,"'Group L Social Studies' ","'Northern Ireland' ",7800
+2009 ,"'Group L Social Studies' ","'Scotland' ",10640
+2009 ,"'Group L Social Studies' ","'Wales' ",6020
+2009 ,"'Group M Law' ","'England' ",74695
+2009 ,"'Group M Law' ","'Northern Ireland' ",4270
+2009 ,"'Group M Law' ","'Scotland' ",6055
+2009 ,"'Group M Law' ","'Wales' ",3860
+2009 ,"'Group N Business and Admin studies' ","'England' ",181145
+2009 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",9390
+2009 ,"'Group N Business and Admin studies' ","'Scotland' ",15625
+2009 ,"'Group N Business and Admin studies' ","'Wales' ",7070
+2009 ,"'Group P Mass Communication and Documentation' ","'England' ",40930
+2009 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2245
+2009 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",2150
+2009 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1640
+2009 ,"'Group Q Linguistics, Classics and related' ","'England' ",58810
+2009 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",1685
+2009 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2145
+2009 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2700
+2009 ,"'Group R European Languages, Literature and related' ","'England' ",18340
+2009 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",690
+2009 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1600
+2009 ,"'Group R European Languages, Literature and related' ","'Wales' ",870
+2009 ,"'Group T Non-European Languages, Literature and related' ","'England' ",6245
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",110
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",305
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",210
+2009 ,"'Group V History and Philosophical studies' ","'England' ",65365
+2009 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",1930
+2009 ,"'Group V History and Philosophical studies' ","'Scotland' ",3495
+2009 ,"'Group V History and Philosophical studies' ","'Wales' ",3355
+2009 ,"'Group W Creative Arts and Design' ","'England' ",189665
+2009 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",5115
+2009 ,"'Group W Creative Arts and Design' ","'Scotland' ",11015
+2009 ,"'Group W Creative Arts and Design' ","'Wales' ",9230
+2009 ,"'Group X Education' ","'England' ",60645
+2009 ,"'Group X Education' ","'Northern Ireland' ",2030
+2009 ,"'Group X Education' ","'Scotland' ",5910
+2009 ,"'Group X Education' ","'Wales' ",3865
+2009 ,"'Y Combined arts' ","'England' ",52830
+2009 ,"'Y Combined arts' ","'Northern Ireland' ",1665
+2009 ,"'Y Combined arts' ","'Scotland' ",3765
+2009 ,"'Y Combined arts' ","'Wales' ",2900
+2009 ,"'Y Combined sciences' ","'England' ",26700
+2009 ,"'Y Combined sciences' ","'Northern Ireland' ",1100
+2009 ,"'Y Combined sciences' ","'Scotland' ",2780
+2009 ,"'Y Combined sciences' ","'Wales' ",1185
+2009 ,"'Y Combined social sciences' ","'England' ",21440
+2009 ,"'Y Combined social sciences' ","'Northern Ireland' ",765
+2009 ,"'Y Combined social sciences' ","'Scotland' ",2115
+2009 ,"'Y Combined social sciences' ","'Wales' ",1085
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",74255
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",2420
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",8950
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",3805
+2009 ,"'Y Social Sciences combined with Arts' ","'England' ",43655
+2009 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1640
+2009 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",4620
+2009 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1990
+2009 ,"'Z General, other combined and unknown' ","'England' ",13650
+2009 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",180
+2009 ,"'Z General, other combined and unknown' ","'Scotland' ",500
+2009 ,"'Z General, other combined and unknown' ","'Wales' ",500
+2010 ,"'Group A Medicine and Dentistry' ","'England' ",62515
+2010 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",3420
+2010 ,"'Group A Medicine and Dentistry' ","'Scotland' ",5025
+2010 ,"'Group A Medicine and Dentistry' ","'Wales' ",3120
+2010 ,"'Group B Subjects allied to Medicine' ","'England' ",252885
+2010 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",11220
+2010 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",22655
+2010 ,"'Group B Subjects allied to Medicine' ","'Wales' ",12555
+2010 ,"'Group C Biological Sciences' ","'England' ",165400
+2010 ,"'Group C Biological Sciences' ","'Northern Ireland' ",6250
+2010 ,"'Group C Biological Sciences' ","'Scotland' ",14345
+2010 ,"'Group C Biological Sciences' ","'Wales' ",8385
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",18890
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",1065
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1185
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1185
+2010 ,"'Group F Physical Sciences' ","'England' ",69175
+2010 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2430
+2010 ,"'Group F Physical Sciences' ","'Scotland' ",6685
+2010 ,"'Group F Physical Sciences' ","'Wales' ",3540
+2010 ,"'Group G Mathematical Sciences' ","'England' ",30645
+2010 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",900
+2010 ,"'Group G Mathematical Sciences' ","'Scotland' ",2060
+2010 ,"'Group G Mathematical Sciences' ","'Wales' ",1685
+2010 ,"'Group H Engineering' ","'England' ",72290
+2010 ,"'Group H Engineering' ","'Northern Ireland' ",4495
+2010 ,"'Group H Engineering' ","'Scotland' ",11365
+2010 ,"'Group H Engineering' ","'Wales' ",3800
+2010 ,"'Group I Computer Sciences' ","'England' ",64955
+2010 ,"'Group I Computer Sciences' ","'Northern Ireland' ",5295
+2010 ,"'Group I Computer Sciences' ","'Scotland' ",5160
+2010 ,"'Group I Computer Sciences' ","'Wales' ",2940
+2010 ,"'Group J Technologies' ","'England' ",8870
+2010 ,"'Group J Technologies' ","'Northern Ireland' ",455
+2010 ,"'Group J Technologies' ","'Scotland' ",525
+2010 ,"'Group J Technologies' ","'Wales' ",700
+2010 ,"'Group K Architecture, Building and Planning' ","'England' ",30050
+2010 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",2820
+2010 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",3240
+2010 ,"'Group K Architecture, Building and Planning' ","'Wales' ",1190
+2010 ,"'Group L Social Studies' ","'England' ",168070
+2010 ,"'Group L Social Studies' ","'Northern Ireland' ",8735
+2010 ,"'Group L Social Studies' ","'Scotland' ",12040
+2010 ,"'Group L Social Studies' ","'Wales' ",6940
+2010 ,"'Group M Law' ","'England' ",76290
+2010 ,"'Group M Law' ","'Northern Ireland' ",3915
+2010 ,"'Group M Law' ","'Scotland' ",6915
+2010 ,"'Group M Law' ","'Wales' ",3730
+2010 ,"'Group N Business and Admin studies' ","'England' ",194405
+2010 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",9775
+2010 ,"'Group N Business and Admin studies' ","'Scotland' ",17505
+2010 ,"'Group N Business and Admin studies' ","'Wales' ",7270
+2010 ,"'Group P Mass Communication and Documentation' ","'England' ",44075
+2010 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2355
+2010 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",2900
+2010 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1800
+2010 ,"'Group Q Linguistics, Classics and related' ","'England' ",61625
+2010 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",2080
+2010 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2605
+2010 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2595
+2010 ,"'Group R European Languages, Literature and related' ","'England' ",19095
+2010 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",810
+2010 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1800
+2010 ,"'Group R European Languages, Literature and related' ","'Wales' ",880
+2010 ,"'Group T Non-European Languages, Literature and related' ","'England' ",6715
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",100
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",295
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",175
+2010 ,"'Group V History and Philosophical studies' ","'England' ",69000
+2010 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",2295
+2010 ,"'Group V History and Philosophical studies' ","'Scotland' ",4155
+2010 ,"'Group V History and Philosophical studies' ","'Wales' ",3350
+2010 ,"'Group W Creative Arts and Design' ","'England' ",228180
+2010 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",6135
+2010 ,"'Group W Creative Arts and Design' ","'Scotland' ",13505
+2010 ,"'Group W Creative Arts and Design' ","'Wales' ",10395
+2010 ,"'Group X Education' ","'England' ",71470
+2010 ,"'Group X Education' ","'Northern Ireland' ",2860
+2010 ,"'Group X Education' ","'Scotland' ",5840
+2010 ,"'Group X Education' ","'Wales' ",4510
+2010 ,"'Y Combined arts' ","'England' ",57130
+2010 ,"'Y Combined arts' ","'Northern Ireland' ",1685
+2010 ,"'Y Combined arts' ","'Scotland' ",3945
+2010 ,"'Y Combined arts' ","'Wales' ",2815
+2010 ,"'Y Combined sciences' ","'England' ",29380
+2010 ,"'Y Combined sciences' ","'Northern Ireland' ",1300
+2010 ,"'Y Combined sciences' ","'Scotland' ",3020
+2010 ,"'Y Combined sciences' ","'Wales' ",1245
+2010 ,"'Y Combined social sciences' ","'England' ",22535
+2010 ,"'Y Combined social sciences' ","'Northern Ireland' ",675
+2010 ,"'Y Combined social sciences' ","'Scotland' ",1895
+2010 ,"'Y Combined social sciences' ","'Wales' ",1065
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",82015
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",2495
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",9285
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",3825
+2010 ,"'Y Social Sciences combined with Arts' ","'England' ",46400
+2010 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1895
+2010 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",4715
+2010 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1920
+2010 ,"'Z General, other combined and unknown' ","'England' ",13615
+2010 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",180
+2010 ,"'Z General, other combined and unknown' ","'Scotland' ",470
+2010 ,"'Z General, other combined and unknown' ","'Wales' ",555
+2011 ,"'Group A Medicine and Dentistry' ","'England' ",64670
+2011 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",3345
+2011 ,"'Group A Medicine and Dentistry' ","'Scotland' ",5430
+2011 ,"'Group A Medicine and Dentistry' ","'Wales' ",3070
+2011 ,"'Group B Subjects allied to Medicine' ","'England' ",285605
+2011 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",13400
+2011 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",24630
+2011 ,"'Group B Subjects allied to Medicine' ","'Wales' ",14660
+2011 ,"'Group C Biological Sciences' ","'England' ",173200
+2011 ,"'Group C Biological Sciences' ","'Northern Ireland' ",6525
+2011 ,"'Group C Biological Sciences' ","'Scotland' ",15310
+2011 ,"'Group C Biological Sciences' ","'Wales' ",8630
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",21105
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",1220
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1425
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1115
+2011 ,"'Group F Physical Sciences' ","'England' ",74695
+2011 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2685
+2011 ,"'Group F Physical Sciences' ","'Scotland' ",6780
+2011 ,"'Group F Physical Sciences' ","'Wales' ",4250
+2011 ,"'Group G Mathematical Sciences' ","'England' ",31685
+2011 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",1035
+2011 ,"'Group G Mathematical Sciences' ","'Scotland' ",2010
+2011 ,"'Group G Mathematical Sciences' ","'Wales' ",1555
+2011 ,"'Group H Engineering' ","'England' ",76580
+2011 ,"'Group H Engineering' ","'Northern Ireland' ",4235
+2011 ,"'Group H Engineering' ","'Scotland' ",12715
+2011 ,"'Group H Engineering' ","'Wales' ",3800
+2011 ,"'Group I Computer Sciences' ","'England' ",68905
+2011 ,"'Group I Computer Sciences' ","'Northern Ireland' ",5650
+2011 ,"'Group I Computer Sciences' ","'Scotland' ",6020
+2011 ,"'Group I Computer Sciences' ","'Wales' ",3075
+2011 ,"'Group J Technologies' ","'England' ",8575
+2011 ,"'Group J Technologies' ","'Northern Ireland' ",375
+2011 ,"'Group J Technologies' ","'Scotland' ",555
+2011 ,"'Group J Technologies' ","'Wales' ",500
+2011 ,"'Group K Architecture, Building and Planning' ","'England' ",29350
+2011 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",2720
+2011 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",3095
+2011 ,"'Group K Architecture, Building and Planning' ","'Wales' ",1135
+2011 ,"'Group L Social Studies' ","'England' ",170735
+2011 ,"'Group L Social Studies' ","'Northern Ireland' ",8910
+2011 ,"'Group L Social Studies' ","'Scotland' ",12740
+2011 ,"'Group L Social Studies' ","'Wales' ",6780
+2011 ,"'Group M Law' ","'England' ",78070
+2011 ,"'Group M Law' ","'Northern Ireland' ",3955
+2011 ,"'Group M Law' ","'Scotland' ",7055
+2011 ,"'Group M Law' ","'Wales' ",4010
+2011 ,"'Group N Business and Admin studies' ","'England' ",202425
+2011 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",10195
+2011 ,"'Group N Business and Admin studies' ","'Scotland' ",19650
+2011 ,"'Group N Business and Admin studies' ","'Wales' ",7630
+2011 ,"'Group P Mass Communication and Documentation' ","'England' ",46635
+2011 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2570
+2011 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",3170
+2011 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1850
+2011 ,"'Group Q Linguistics, Classics and related' ","'England' ",58500
+2011 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",2175
+2011 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2565
+2011 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2545
+2011 ,"'Group R European Languages, Literature and related' ","'England' ",18925
+2011 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",785
+2011 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1730
+2011 ,"'Group R European Languages, Literature and related' ","'Wales' ",890
+2011 ,"'Group T Non-European Languages, Literature and related' ","'England' ",6650
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",100
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",300
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",240
+2011 ,"'Group V History and Philosophical studies' ","'England' ",67620
+2011 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",2535
+2011 ,"'Group V History and Philosophical studies' ","'Scotland' ",3685
+2011 ,"'Group V History and Philosophical studies' ","'Wales' ",3345
+2011 ,"'Group W Creative Arts and Design' ","'England' ",238025
+2011 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",6480
+2011 ,"'Group W Creative Arts and Design' ","'Scotland' ",14755
+2011 ,"'Group W Creative Arts and Design' ","'Wales' ",10830
+2011 ,"'Group X Education' ","'England' ",77275
+2011 ,"'Group X Education' ","'Northern Ireland' ",3210
+2011 ,"'Group X Education' ","'Scotland' ",5660
+2011 ,"'Group X Education' ","'Wales' ",5025
+2011 ,"'Y Combined arts' ","'England' ",55515
+2011 ,"'Y Combined arts' ","'Northern Ireland' ",1850
+2011 ,"'Y Combined arts' ","'Scotland' ",3625
+2011 ,"'Y Combined arts' ","'Wales' ",2580
+2011 ,"'Y Combined sciences' ","'England' ",30670
+2011 ,"'Y Combined sciences' ","'Northern Ireland' ",1365
+2011 ,"'Y Combined sciences' ","'Scotland' ",3185
+2011 ,"'Y Combined sciences' ","'Wales' ",1410
+2011 ,"'Y Combined social sciences' ","'England' ",21455
+2011 ,"'Y Combined social sciences' ","'Northern Ireland' ",755
+2011 ,"'Y Combined social sciences' ","'Scotland' ",1795
+2011 ,"'Y Combined social sciences' ","'Wales' ",1115
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",77920
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",2630
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",9330
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",3495
+2011 ,"'Y Social Sciences combined with Arts' ","'England' ",44745
+2011 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1950
+2011 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",4220
+2011 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1795
+2011 ,"'Z General, other combined and unknown' ","'England' ",13625
+2011 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",240
+2011 ,"'Z General, other combined and unknown' ","'Scotland' ",395
+2011 ,"'Z General, other combined and unknown' ","'Wales' ",615
+2012 ,"'Group A Medicine and Dentistry' ","'England' ",62610
+2012 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",2910
+2012 ,"'Group A Medicine and Dentistry' ","'Scotland' ",5255
+2012 ,"'Group A Medicine and Dentistry' ","'Wales' ",2955
+2012 ,"'Group B Subjects allied to Medicine' ","'England' ",286740
+2012 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",13370
+2012 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",23335
+2012 ,"'Group B Subjects allied to Medicine' ","'Wales' ",15655
+2012 ,"'Group C Biological Sciences' ","'England' ",160445
+2012 ,"'Group C Biological Sciences' ","'Northern Ireland' ",6360
+2012 ,"'Group C Biological Sciences' ","'Scotland' ",16110
+2012 ,"'Group C Biological Sciences' ","'Wales' ",8700
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",19620
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",1300
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1460
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1270
+2012 ,"'Group F Physical Sciences' ","'England' ",72140
+2012 ,"'Group F Physical Sciences' ","'Northern Ireland' ",3005
+2012 ,"'Group F Physical Sciences' ","'Scotland' ",7315
+2012 ,"'Group F Physical Sciences' ","'Wales' ",4335
+2012 ,"'Group G Mathematical Sciences' ","'England' ",30010
+2012 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",890
+2012 ,"'Group G Mathematical Sciences' ","'Scotland' ",2295
+2012 ,"'Group G Mathematical Sciences' ","'Wales' ",1570
+2012 ,"'Group H Engineering' ","'England' ",72005
+2012 ,"'Group H Engineering' ","'Northern Ireland' ",4410
+2012 ,"'Group H Engineering' ","'Scotland' ",13540
+2012 ,"'Group H Engineering' ","'Wales' ",3685
+2012 ,"'Group I Computer Sciences' ","'England' ",62010
+2012 ,"'Group I Computer Sciences' ","'Northern Ireland' ",5580
+2012 ,"'Group I Computer Sciences' ","'Scotland' ",6465
+2012 ,"'Group I Computer Sciences' ","'Wales' ",2925
+2012 ,"'Group J Technologies' ","'England' ",6490
+2012 ,"'Group J Technologies' ","'Northern Ireland' ",410
+2012 ,"'Group J Technologies' ","'Scotland' ",650
+2012 ,"'Group J Technologies' ","'Wales' ",450
+2012 ,"'Group K Architecture, Building and Planning' ","'England' ",23765
+2012 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",2040
+2012 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",2965
+2012 ,"'Group K Architecture, Building and Planning' ","'Wales' ",990
+2012 ,"'Group L Social Studies' ","'England' ",145560
+2012 ,"'Group L Social Studies' ","'Northern Ireland' ",8450
+2012 ,"'Group L Social Studies' ","'Scotland' ",12785
+2012 ,"'Group L Social Studies' ","'Wales' ",6740
+2012 ,"'Group M Law' ","'England' ",72455
+2012 ,"'Group M Law' ","'Northern Ireland' ",3360
+2012 ,"'Group M Law' ","'Scotland' ",6765
+2012 ,"'Group M Law' ","'Wales' ",3895
+2012 ,"'Group N Business and Admin studies' ","'England' ",181935
+2012 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",9955
+2012 ,"'Group N Business and Admin studies' ","'Scotland' ",20210
+2012 ,"'Group N Business and Admin studies' ","'Wales' ",7710
+2012 ,"'Group P Mass Communication and Documentation' ","'England' ",38640
+2012 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2500
+2012 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",3055
+2012 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1585
+2012 ,"'Group Q Linguistics, Classics and related' ","'England' ",52865
+2012 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",1900
+2012 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2745
+2012 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2340
+2012 ,"'Group R European Languages, Literature and related' ","'England' ",16120
+2012 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",740
+2012 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1995
+2012 ,"'Group R European Languages, Literature and related' ","'Wales' ",785
+2012 ,"'Group T Non-European Languages, Literature and related' ","'England' ",5375
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",60
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",145
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",160
+2012 ,"'Group V History and Philosophical studies' ","'England' ",61910
+2012 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",2210
+2012 ,"'Group V History and Philosophical studies' ","'Scotland' ",3885
+2012 ,"'Group V History and Philosophical studies' ","'Wales' ",3195
+2012 ,"'Group W Creative Arts and Design' ","'England' ",195050
+2012 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",5965
+2012 ,"'Group W Creative Arts and Design' ","'Scotland' ",13780
+2012 ,"'Group W Creative Arts and Design' ","'Wales' ",9765
+2012 ,"'Group X Education' ","'England' ",70175
+2012 ,"'Group X Education' ","'Northern Ireland' ",2840
+2012 ,"'Group X Education' ","'Scotland' ",5745
+2012 ,"'Group X Education' ","'Wales' ",4970
+2012 ,"'Y Combined arts' ","'England' ",45675
+2012 ,"'Y Combined arts' ","'Northern Ireland' ",1425
+2012 ,"'Y Combined arts' ","'Scotland' ",3140
+2012 ,"'Y Combined arts' ","'Wales' ",2555
+2012 ,"'Y Combined sciences' ","'England' ",26775
+2012 ,"'Y Combined sciences' ","'Northern Ireland' ",1520
+2012 ,"'Y Combined sciences' ","'Scotland' ",3020
+2012 ,"'Y Combined sciences' ","'Wales' ",1285
+2012 ,"'Y Combined social sciences' ","'England' ",17340
+2012 ,"'Y Combined social sciences' ","'Northern Ireland' ",595
+2012 ,"'Y Combined social sciences' ","'Scotland' ",1765
+2012 ,"'Y Combined social sciences' ","'Wales' ",1120
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",62075
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",2120
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",8500
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",3285
+2012 ,"'Y Social Sciences combined with Arts' ","'England' ",37270
+2012 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1635
+2012 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",3570
+2012 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1700
+2012 ,"'Z General, other combined and unknown' ","'England' ",16365
+2012 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",435
+2012 ,"'Z General, other combined and unknown' ","'Scotland' ",1380
+2012 ,"'Z General, other combined and unknown' ","'Wales' ",920
+2013 ,"'Group A Medicine and Dentistry' ","'England' ",63450
+2013 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",2995
+2013 ,"'Group A Medicine and Dentistry' ","'Scotland' ",5180
+2013 ,"'Group A Medicine and Dentistry' ","'Wales' ",2910
+2013 ,"'Group B Subjects allied to Medicine' ","'England' ",296075
+2013 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",16855
+2013 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",23380
+2013 ,"'Group B Subjects allied to Medicine' ","'Wales' ",15430
+2013 ,"'Group C Biological Sciences' ","'England' ",172065
+2013 ,"'Group C Biological Sciences' ","'Northern Ireland' ",6655
+2013 ,"'Group C Biological Sciences' ","'Scotland' ",17680
+2013 ,"'Group C Biological Sciences' ","'Wales' ",8745
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",21495
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",1445
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1455
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1300
+2013 ,"'Group F Physical Sciences' ","'England' ",76830
+2013 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2905
+2013 ,"'Group F Physical Sciences' ","'Scotland' ",7990
+2013 ,"'Group F Physical Sciences' ","'Wales' ",4150
+2013 ,"'Group G Mathematical Sciences' ","'England' ",31750
+2013 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",990
+2013 ,"'Group G Mathematical Sciences' ","'Scotland' ",2280
+2013 ,"'Group G Mathematical Sciences' ","'Wales' ",1645
+2013 ,"'Group H Engineering' ","'England' ",77140
+2013 ,"'Group H Engineering' ","'Northern Ireland' ",4930
+2013 ,"'Group H Engineering' ","'Scotland' ",13930
+2013 ,"'Group H Engineering' ","'Wales' ",3645
+2013 ,"'Group I Computer Sciences' ","'England' ",67760
+2013 ,"'Group I Computer Sciences' ","'Northern Ireland' ",6735
+2013 ,"'Group I Computer Sciences' ","'Scotland' ",7245
+2013 ,"'Group I Computer Sciences' ","'Wales' ",3235
+2013 ,"'Group J Technologies' ","'England' ",6420
+2013 ,"'Group J Technologies' ","'Northern Ireland' ",435
+2013 ,"'Group J Technologies' ","'Scotland' ",765
+2013 ,"'Group J Technologies' ","'Wales' ",400
+2013 ,"'Group K Architecture, Building and Planning' ","'England' ",22485
+2013 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",1825
+2013 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",2720
+2013 ,"'Group K Architecture, Building and Planning' ","'Wales' ",935
+2013 ,"'Group L Social Studies' ","'England' ",147830
+2013 ,"'Group L Social Studies' ","'Northern Ireland' ",7480
+2013 ,"'Group L Social Studies' ","'Scotland' ",12700
+2013 ,"'Group L Social Studies' ","'Wales' ",6630
+2013 ,"'Group M Law' ","'England' ",76050
+2013 ,"'Group M Law' ","'Northern Ireland' ",3430
+2013 ,"'Group M Law' ","'Scotland' ",6255
+2013 ,"'Group M Law' ","'Wales' ",3770
+2013 ,"'Group N Business and Admin studies' ","'England' ",186465
+2013 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",10235
+2013 ,"'Group N Business and Admin studies' ","'Scotland' ",19415
+2013 ,"'Group N Business and Admin studies' ","'Wales' ",7470
+2013 ,"'Group P Mass Communication and Documentation' ","'England' ",41140
+2013 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2340
+2013 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",3190
+2013 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1700
+2013 ,"'Group Q Linguistics, Classics and related' ","'England' ",52960
+2013 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",1610
+2013 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2435
+2013 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2390
+2013 ,"'Group R European Languages, Literature and related' ","'England' ",15225
+2013 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",745
+2013 ,"'Group R European Languages, Literature and related' ","'Scotland' ",2040
+2013 ,"'Group R European Languages, Literature and related' ","'Wales' ",645
+2013 ,"'Group T Non-European Languages, Literature and related' ","'England' ",5075
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",45
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",185
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",140
+2013 ,"'Group V History and Philosophical studies' ","'England' ",63755
+2013 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",2080
+2013 ,"'Group V History and Philosophical studies' ","'Scotland' ",3880
+2013 ,"'Group V History and Philosophical studies' ","'Wales' ",3025
+2013 ,"'Group W Creative Arts and Design' ","'England' ",197090
+2013 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",6310
+2013 ,"'Group W Creative Arts and Design' ","'Scotland' ",14225
+2013 ,"'Group W Creative Arts and Design' ","'Wales' ",9695
+2013 ,"'Group X Education' ","'England' ",68530
+2013 ,"'Group X Education' ","'Northern Ireland' ",2850
+2013 ,"'Group X Education' ","'Scotland' ",6000
+2013 ,"'Group X Education' ","'Wales' ",4285
+2013 ,"'Y Combined arts' ","'England' ",42795
+2013 ,"'Y Combined arts' ","'Northern Ireland' ",1495
+2013 ,"'Y Combined arts' ","'Scotland' ",3270
+2013 ,"'Y Combined arts' ","'Wales' ",2220
+2013 ,"'Y Combined sciences' ","'England' ",26990
+2013 ,"'Y Combined sciences' ","'Northern Ireland' ",1690
+2013 ,"'Y Combined sciences' ","'Scotland' ",2940
+2013 ,"'Y Combined sciences' ","'Wales' ",1160
+2013 ,"'Y Combined social sciences' ","'England' ",16560
+2013 ,"'Y Combined social sciences' ","'Northern Ireland' ",710
+2013 ,"'Y Combined social sciences' ","'Scotland' ",1805
+2013 ,"'Y Combined social sciences' ","'Wales' ",1020
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",57160
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",2055
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",7805
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",2780
+2013 ,"'Y Social Sciences combined with Arts' ","'England' ",35785
+2013 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1860
+2013 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",3300
+2013 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1540
+2013 ,"'Z General, other combined and unknown' ","'England' ",17585
+2013 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",440
+2013 ,"'Z General, other combined and unknown' ","'Scotland' ",1630
+2013 ,"'Z General, other combined and unknown' ","'Wales' ",920
+2014 ,"'Group A Medicine and Dentistry' ","'England' ",63690
+2014 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",2755
+2014 ,"'Group A Medicine and Dentistry' ","'Scotland' ",5355
+2014 ,"'Group A Medicine and Dentistry' ","'Wales' ",3060
+2014 ,"'Group B Subjects allied to Medicine' ","'England' ",310925
+2014 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",15855
+2014 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",25410
+2014 ,"'Group B Subjects allied to Medicine' ","'Wales' ",15235
+2014 ,"'Group C Biological Sciences' ","'England' ",188465
+2014 ,"'Group C Biological Sciences' ","'Northern Ireland' ",6885
+2014 ,"'Group C Biological Sciences' ","'Scotland' ",17510
+2014 ,"'Group C Biological Sciences' ","'Wales' ",9815
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",22665
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",1420
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",1590
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1435
+2014 ,"'Group F Physical Sciences' ","'England' ",80670
+2014 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2800
+2014 ,"'Group F Physical Sciences' ","'Scotland' ",7360
+2014 ,"'Group F Physical Sciences' ","'Wales' ",4390
+2014 ,"'Group G Mathematical Sciences' ","'England' ",31410
+2014 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",1045
+2014 ,"'Group G Mathematical Sciences' ","'Scotland' ",2140
+2014 ,"'Group G Mathematical Sciences' ","'Wales' ",1555
+2014 ,"'Group H Engineering' ","'England' ",85930
+2014 ,"'Group H Engineering' ","'Northern Ireland' ",4835
+2014 ,"'Group H Engineering' ","'Scotland' ",15190
+2014 ,"'Group H Engineering' ","'Wales' ",4270
+2014 ,"'Group I Computer Sciences' ","'England' ",76645
+2014 ,"'Group I Computer Sciences' ","'Northern Ireland' ",7410
+2014 ,"'Group I Computer Sciences' ","'Scotland' ",7385
+2014 ,"'Group I Computer Sciences' ","'Wales' ",3525
+2014 ,"'Group J Technologies' ","'England' ",7005
+2014 ,"'Group J Technologies' ","'Northern Ireland' ",385
+2014 ,"'Group J Technologies' ","'Scotland' ",815
+2014 ,"'Group J Technologies' ","'Wales' ",360
+2014 ,"'Group K Architecture, Building and Planning' ","'England' ",22145
+2014 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",1720
+2014 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",2705
+2014 ,"'Group K Architecture, Building and Planning' ","'Wales' ",875
+2014 ,"'Group L Social Studies' ","'England' ",157205
+2014 ,"'Group L Social Studies' ","'Northern Ireland' ",7610
+2014 ,"'Group L Social Studies' ","'Scotland' ",13345
+2014 ,"'Group L Social Studies' ","'Wales' ",7750
+2014 ,"'Group M Law' ","'England' ",73675
+2014 ,"'Group M Law' ","'Northern Ireland' ",3405
+2014 ,"'Group M Law' ","'Scotland' ",6270
+2014 ,"'Group M Law' ","'Wales' ",3725
+2014 ,"'Group N Business and Admin studies' ","'England' ",192120
+2014 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",10835
+2014 ,"'Group N Business and Admin studies' ","'Scotland' ",21125
+2014 ,"'Group N Business and Admin studies' ","'Wales' ",7500
+2014 ,"'Group P Mass Communication and Documentation' ","'England' ",43705
+2014 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2460
+2014 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",3680
+2014 ,"'Group P Mass Communication and Documentation' ","'Wales' ",1900
+2014 ,"'Group Q Linguistics, Classics and related' ","'England' ",53150
+2014 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",1845
+2014 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2370
+2014 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2300
+2014 ,"'Group R European Languages, Literature and related' ","'England' ",14425
+2014 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",670
+2014 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1805
+2014 ,"'Group R European Languages, Literature and related' ","'Wales' ",550
+2014 ,"'Group T Non-European Languages, Literature and related' ","'England' ",4510
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",40
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",125
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",165
+2014 ,"'Group V History and Philosophical studies' ","'England' ",65640
+2014 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",2150
+2014 ,"'Group V History and Philosophical studies' ","'Scotland' ",4130
+2014 ,"'Group V History and Philosophical studies' ","'Wales' ",3370
+2014 ,"'Group W Creative Arts and Design' ","'England' ",206530
+2014 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",6240
+2014 ,"'Group W Creative Arts and Design' ","'Scotland' ",14435
+2014 ,"'Group W Creative Arts and Design' ","'Wales' ",9565
+2014 ,"'Group X Education' ","'England' ",67670
+2014 ,"'Group X Education' ","'Northern Ireland' ",2725
+2014 ,"'Group X Education' ","'Scotland' ",6785
+2014 ,"'Group X Education' ","'Wales' ",4185
+2014 ,"'Y Combined arts' ","'England' ",41230
+2014 ,"'Y Combined arts' ","'Northern Ireland' ",1350
+2014 ,"'Y Combined arts' ","'Scotland' ",3615
+2014 ,"'Y Combined arts' ","'Wales' ",2235
+2014 ,"'Y Combined sciences' ","'England' ",26610
+2014 ,"'Y Combined sciences' ","'Northern Ireland' ",1970
+2014 ,"'Y Combined sciences' ","'Scotland' ",2585
+2014 ,"'Y Combined sciences' ","'Wales' ",1255
+2014 ,"'Y Combined social sciences' ","'England' ",17625
+2014 ,"'Y Combined social sciences' ","'Northern Ireland' ",725
+2014 ,"'Y Combined social sciences' ","'Scotland' ",1955
+2014 ,"'Y Combined social sciences' ","'Wales' ",1015
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",51595
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",2020
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",8155
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",2405
+2014 ,"'Y Social Sciences combined with Arts' ","'England' ",33255
+2014 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1740
+2014 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",3540
+2014 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1475
+2014 ,"'Z General, other combined and unknown' ","'England' ",19755
+2014 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",480
+2014 ,"'Z General, other combined and unknown' ","'Scotland' ",1090
+2014 ,"'Z General, other combined and unknown' ","'Wales' ",875
+2015 ,"'Group A Medicine and Dentistry' ","'England' ",56235
+2015 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",2570
+2015 ,"'Group A Medicine and Dentistry' ","'Scotland' ",4915
+2015 ,"'Group A Medicine and Dentistry' ","'Wales' ",2855
+2015 ,"'Group B Subjects allied to Medicine' ","'England' ",304615
+2015 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",15775
+2015 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",24995
+2015 ,"'Group B Subjects allied to Medicine' ","'Wales' ",15615
+2015 ,"'Group C Biological Sciences' ","'England' ",201070
+2015 ,"'Group C Biological Sciences' ","'Northern Ireland' ",7290
+2015 ,"'Group C Biological Sciences' ","'Scotland' ",18590
+2015 ,"'Group C Biological Sciences' ","'Wales' ",10250
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",22355
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",1400
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",2465
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1535
+2015 ,"'Group F Physical Sciences' ","'England' ",82475
+2015 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2950
+2015 ,"'Group F Physical Sciences' ","'Scotland' ",7560
+2015 ,"'Group F Physical Sciences' ","'Wales' ",4410
+2015 ,"'Group G Mathematical Sciences' ","'England' ",32630
+2015 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",1275
+2015 ,"'Group G Mathematical Sciences' ","'Scotland' ",1955
+2015 ,"'Group G Mathematical Sciences' ","'Wales' ",1465
+2015 ,"'Group H Engineering' ","'England' ",93855
+2015 ,"'Group H Engineering' ","'Northern Ireland' ",4955
+2015 ,"'Group H Engineering' ","'Scotland' ",15645
+2015 ,"'Group H Engineering' ","'Wales' ",4360
+2015 ,"'Group I Computer Sciences' ","'England' ",83760
+2015 ,"'Group I Computer Sciences' ","'Northern Ireland' ",7615
+2015 ,"'Group I Computer Sciences' ","'Scotland' ",7800
+2015 ,"'Group I Computer Sciences' ","'Wales' ",4015
+2015 ,"'Group J Technologies' ","'England' ",6230
+2015 ,"'Group J Technologies' ","'Northern Ireland' ",295
+2015 ,"'Group J Technologies' ","'Scotland' ",770
+2015 ,"'Group J Technologies' ","'Wales' ",340
+2015 ,"'Group K Architecture, Building and Planning' ","'England' ",23370
+2015 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",2095
+2015 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",2865
+2015 ,"'Group K Architecture, Building and Planning' ","'Wales' ",980
+2015 ,"'Group L Social Studies' ","'England' ",167120
+2015 ,"'Group L Social Studies' ","'Northern Ireland' ",7735
+2015 ,"'Group L Social Studies' ","'Scotland' ",13610
+2015 ,"'Group L Social Studies' ","'Wales' ",7805
+2015 ,"'Group M Law' ","'England' ",76395
+2015 ,"'Group M Law' ","'Northern Ireland' ",3680
+2015 ,"'Group M Law' ","'Scotland' ",6760
+2015 ,"'Group M Law' ","'Wales' ",3760
+2015 ,"'Group N Business and Admin studies' ","'England' ",199560
+2015 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",11115
+2015 ,"'Group N Business and Admin studies' ","'Scotland' ",21705
+2015 ,"'Group N Business and Admin studies' ","'Wales' ",7780
+2015 ,"'Group P Mass Communication and Documentation' ","'England' ",46065
+2015 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",1880
+2015 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",3650
+2015 ,"'Group P Mass Communication and Documentation' ","'Wales' ",2035
+2015 ,"'Group Q Linguistics, Classics and related' ","'England' ",52570
+2015 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",1770
+2015 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2330
+2015 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2470
+2015 ,"'Group R European Languages, Literature and related' ","'England' ",14300
+2015 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",805
+2015 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1625
+2015 ,"'Group R European Languages, Literature and related' ","'Wales' ",625
+2015 ,"'Group T Non-European Languages, Literature and related' ","'England' ",4955
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",60
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",115
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",240
+2015 ,"'Group V History and Philosophical studies' ","'England' ",66825
+2015 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",2000
+2015 ,"'Group V History and Philosophical studies' ","'Scotland' ",4200
+2015 ,"'Group V History and Philosophical studies' ","'Wales' ",3475
+2015 ,"'Group W Creative Arts and Design' ","'England' ",208665
+2015 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",6860
+2015 ,"'Group W Creative Arts and Design' ","'Scotland' ",13975
+2015 ,"'Group W Creative Arts and Design' ","'Wales' ",9910
+2015 ,"'Group X Education' ","'England' ",63390
+2015 ,"'Group X Education' ","'Northern Ireland' ",3420
+2015 ,"'Group X Education' ","'Scotland' ",19715
+2015 ,"'Group X Education' ","'Wales' ",3640
+2015 ,"'Y Combined arts' ","'England' ",38625
+2015 ,"'Y Combined arts' ","'Northern Ireland' ",1395
+2015 ,"'Y Combined arts' ","'Scotland' ",3200
+2015 ,"'Y Combined arts' ","'Wales' ",2085
+2015 ,"'Y Combined sciences' ","'England' ",23015
+2015 ,"'Y Combined sciences' ","'Northern Ireland' ",2020
+2015 ,"'Y Combined sciences' ","'Scotland' ",2650
+2015 ,"'Y Combined sciences' ","'Wales' ",1175
+2015 ,"'Y Combined social sciences' ","'England' ",17050
+2015 ,"'Y Combined social sciences' ","'Northern Ireland' ",745
+2015 ,"'Y Combined social sciences' ","'Scotland' ",2660
+2015 ,"'Y Combined social sciences' ","'Wales' ",850
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",43745
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",1680
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",7415
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",1980
+2015 ,"'Y Social Sciences combined with Arts' ","'England' ",32470
+2015 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1825
+2015 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",3985
+2015 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1350
+2015 ,"'Z General, other combined and unknown' ","'England' ",20440
+2015 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",510
+2015 ,"'Z General, other combined and unknown' ","'Scotland' ",1150
+2015 ,"'Z General, other combined and unknown' ","'Wales' ",710
+2016 ,"'Group A Medicine and Dentistry' ","'England' ",54455
+2016 ,"'Group A Medicine and Dentistry' ","'Northern Ireland' ",2620
+2016 ,"'Group A Medicine and Dentistry' ","'Scotland' ",4775
+2016 ,"'Group A Medicine and Dentistry' ","'Wales' ",2530
+2016 ,"'Group B Subjects allied to Medicine' ","'England' ",308910
+2016 ,"'Group B Subjects allied to Medicine' ","'Northern Ireland' ",16685
+2016 ,"'Group B Subjects allied to Medicine' ","'Scotland' ",24690
+2016 ,"'Group B Subjects allied to Medicine' ","'Wales' ",16395
+2016 ,"'Group C Biological Sciences' ","'England' ",206910
+2016 ,"'Group C Biological Sciences' ","'Northern Ireland' ",7335
+2016 ,"'Group C Biological Sciences' ","'Scotland' ",17780
+2016 ,"'Group C Biological Sciences' ","'Wales' ",10295
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'England' ",21255
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Northern Ireland' ",1530
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Scotland' ",2465
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Wales' ",1365
+2016 ,"'Group F Physical Sciences' ","'England' ",78415
+2016 ,"'Group F Physical Sciences' ","'Northern Ireland' ",2775
+2016 ,"'Group F Physical Sciences' ","'Scotland' ",6710
+2016 ,"'Group F Physical Sciences' ","'Wales' ",4285
+2016 ,"'Group G Mathematical Sciences' ","'England' ",33610
+2016 ,"'Group G Mathematical Sciences' ","'Northern Ireland' ",1135
+2016 ,"'Group G Mathematical Sciences' ","'Scotland' ",1910
+2016 ,"'Group G Mathematical Sciences' ","'Wales' ",1645
+2016 ,"'Group H Engineering' ","'England' ",95245
+2016 ,"'Group H Engineering' ","'Northern Ireland' ",4935
+2016 ,"'Group H Engineering' ","'Scotland' ",14605
+2016 ,"'Group H Engineering' ","'Wales' ",4620
+2016 ,"'Group I Computer Sciences' ","'England' ",85160
+2016 ,"'Group I Computer Sciences' ","'Northern Ireland' ",7910
+2016 ,"'Group I Computer Sciences' ","'Scotland' ",8095
+2016 ,"'Group I Computer Sciences' ","'Wales' ",4160
+2016 ,"'Group J Technologies' ","'England' ",5285
+2016 ,"'Group J Technologies' ","'Northern Ireland' ",205
+2016 ,"'Group J Technologies' ","'Scotland' ",870
+2016 ,"'Group J Technologies' ","'Wales' ",305
+2016 ,"'Group K Architecture, Building and Planning' ","'England' ",24905
+2016 ,"'Group K Architecture, Building and Planning' ","'Northern Ireland' ",2260
+2016 ,"'Group K Architecture, Building and Planning' ","'Scotland' ",3210
+2016 ,"'Group K Architecture, Building and Planning' ","'Wales' ",950
+2016 ,"'Group L Social Studies' ","'England' ",173365
+2016 ,"'Group L Social Studies' ","'Northern Ireland' ",7725
+2016 ,"'Group L Social Studies' ","'Scotland' ",13015
+2016 ,"'Group L Social Studies' ","'Wales' ",7720
+2016 ,"'Group M Law' ","'England' ",81180
+2016 ,"'Group M Law' ","'Northern Ireland' ",3675
+2016 ,"'Group M Law' ","'Scotland' ",7730
+2016 ,"'Group M Law' ","'Wales' ",4195
+2016 ,"'Group N Business and Admin studies' ","'England' ",203230
+2016 ,"'Group N Business and Admin studies' ","'Northern Ireland' ",12120
+2016 ,"'Group N Business and Admin studies' ","'Scotland' ",22195
+2016 ,"'Group N Business and Admin studies' ","'Wales' ",8445
+2016 ,"'Group P Mass Communication and Documentation' ","'England' ",45935
+2016 ,"'Group P Mass Communication and Documentation' ","'Northern Ireland' ",2065
+2016 ,"'Group P Mass Communication and Documentation' ","'Scotland' ",3885
+2016 ,"'Group P Mass Communication and Documentation' ","'Wales' ",2200
+2016 ,"'Group Q Linguistics, Classics and related' ","'England' ",50500
+2016 ,"'Group Q Linguistics, Classics and related' ","'Northern Ireland' ",1575
+2016 ,"'Group Q Linguistics, Classics and related' ","'Scotland' ",2735
+2016 ,"'Group Q Linguistics, Classics and related' ","'Wales' ",2225
+2016 ,"'Group R European Languages, Literature and related' ","'England' ",13135
+2016 ,"'Group R European Languages, Literature and related' ","'Northern Ireland' ",575
+2016 ,"'Group R European Languages, Literature and related' ","'Scotland' ",1890
+2016 ,"'Group R European Languages, Literature and related' ","'Wales' ",615
+2016 ,"'Group T Non-European Languages, Literature and related' ","'England' ",4510
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Northern Ireland' ",25
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Scotland' ",150
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Wales' ",200
+2016 ,"'Group V History and Philosophical studies' ","'England' ",65380
+2016 ,"'Group V History and Philosophical studies' ","'Northern Ireland' ",1915
+2016 ,"'Group V History and Philosophical studies' ","'Scotland' ",4495
+2016 ,"'Group V History and Philosophical studies' ","'Wales' ",3375
+2016 ,"'Group W Creative Arts and Design' ","'England' ",203465
+2016 ,"'Group W Creative Arts and Design' ","'Northern Ireland' ",6330
+2016 ,"'Group W Creative Arts and Design' ","'Scotland' ",14810
+2016 ,"'Group W Creative Arts and Design' ","'Wales' ",9340
+2016 ,"'Group X Education' ","'England' ",59245
+2016 ,"'Group X Education' ","'Northern Ireland' ",3575
+2016 ,"'Group X Education' ","'Scotland' ",22395
+2016 ,"'Group X Education' ","'Wales' ",3650
+2016 ,"'Y Combined arts' ","'England' ",35950
+2016 ,"'Y Combined arts' ","'Northern Ireland' ",1370
+2016 ,"'Y Combined arts' ","'Scotland' ",3845
+2016 ,"'Y Combined arts' ","'Wales' ",1860
+2016 ,"'Y Combined sciences' ","'England' ",19995
+2016 ,"'Y Combined sciences' ","'Northern Ireland' ",2065
+2016 ,"'Y Combined sciences' ","'Scotland' ",2300
+2016 ,"'Y Combined sciences' ","'Wales' ",1015
+2016 ,"'Y Combined social sciences' ","'England' ",18055
+2016 ,"'Y Combined social sciences' ","'Northern Ireland' ",835
+2016 ,"'Y Combined social sciences' ","'Scotland' ",2905
+2016 ,"'Y Combined social sciences' ","'Wales' ",880
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'England' ",37760
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Northern Ireland' ",1650
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Scotland' ",7130
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Wales' ",1775
+2016 ,"'Y Social Sciences combined with Arts' ","'England' ",30930
+2016 ,"'Y Social Sciences combined with Arts' ","'Northern Ireland' ",1810
+2016 ,"'Y Social Sciences combined with Arts' ","'Scotland' ",4225
+2016 ,"'Y Social Sciences combined with Arts' ","'Wales' ",1305
+2016 ,"'Z General, other combined and unknown' ","'England' ",19860
+2016 ,"'Z General, other combined and unknown' ","'Northern Ireland' ",495
+2016 ,"'Z General, other combined and unknown' ","'Scotland' ",1430
+2016 ,"'Z General, other combined and unknown' ","'Wales' ",660

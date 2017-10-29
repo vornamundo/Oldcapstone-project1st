@@ -1,0 +1,72 @@
+"Statistic:   Number of Applicants"
+"Variables:   SIMD Quintile 2012 , Cycle Year"
+"Coverage:   Scottish domiciled 18 year olds"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR2_046_04.pdf"
+ 
+Cycle Year,SIMD Quintile 2012,Number of Applicants,
+2006 ,"'SIMD Quintile 1' ",1475
+2006 ,"'SIMD Quintile 2' ",2255
+2006 ,"'SIMD Quintile 3' ",3245
+2006 ,"'SIMD Quintile 4' ",4370
+2006 ,"'SIMD Quintile 5' ",6375
+2006 ,"'Not assigned' ",115
+2007 ,"'SIMD Quintile 1' ",1480
+2007 ,"'SIMD Quintile 2' ",2070
+2007 ,"'SIMD Quintile 3' ",3155
+2007 ,"'SIMD Quintile 4' ",4245
+2007 ,"'SIMD Quintile 5' ",6000
+2007 ,"'Not assigned' ",95
+2008 ,"'SIMD Quintile 1' ",1375
+2008 ,"'SIMD Quintile 2' ",2200
+2008 ,"'SIMD Quintile 3' ",3240
+2008 ,"'SIMD Quintile 4' ",4595
+2008 ,"'SIMD Quintile 5' ",6310
+2008 ,"'Not assigned' ",390
+2009 ,"'SIMD Quintile 1' ",1465
+2009 ,"'SIMD Quintile 2' ",2300
+2009 ,"'SIMD Quintile 3' ",3340
+2009 ,"'SIMD Quintile 4' ",4580
+2009 ,"'SIMD Quintile 5' ",6410
+2009 ,"'Not assigned' ",405
+2010 ,"'SIMD Quintile 1' ",1730
+2010 ,"'SIMD Quintile 2' ",2780
+2010 ,"'SIMD Quintile 3' ",3870
+2010 ,"'SIMD Quintile 4' ",5035
+2010 ,"'SIMD Quintile 5' ",6730
+2010 ,"'Not assigned' ",60
+2011 ,"'SIMD Quintile 1' ",1720
+2011 ,"'SIMD Quintile 2' ",2555
+2011 ,"'SIMD Quintile 3' ",3635
+2011 ,"'SIMD Quintile 4' ",4875
+2011 ,"'SIMD Quintile 5' ",6715
+2011 ,"'Not assigned' ",60
+2012 ,"'SIMD Quintile 1' ",1725
+2012 ,"'SIMD Quintile 2' ",2515
+2012 ,"'SIMD Quintile 3' ",3705
+2012 ,"'SIMD Quintile 4' ",4870
+2012 ,"'SIMD Quintile 5' ",6595
+2012 ,"'Not assigned' ",55
+2013 ,"'SIMD Quintile 1' ",1790
+2013 ,"'SIMD Quintile 2' ",2590
+2013 ,"'SIMD Quintile 3' ",3715
+2013 ,"'SIMD Quintile 4' ",4835
+2013 ,"'SIMD Quintile 5' ",6445
+2013 ,"'Not assigned' ",45
+2014 ,"'SIMD Quintile 1' ",2010
+2014 ,"'SIMD Quintile 2' ",2620
+2014 ,"'SIMD Quintile 3' ",3675
+2014 ,"'SIMD Quintile 4' ",4785
+2014 ,"'SIMD Quintile 5' ",6300
+2014 ,"'Not assigned' ",20
+2015 ,"'SIMD Quintile 1' ",1965
+2015 ,"'SIMD Quintile 2' ",2760
+2015 ,"'SIMD Quintile 3' ",3885
+2015 ,"'SIMD Quintile 4' ",4930
+2015 ,"'SIMD Quintile 5' ",6415
+2015 ,"'Not assigned' ",45
+2016 ,"'SIMD Quintile 1' ",2055
+2016 ,"'SIMD Quintile 2' ",2750
+2016 ,"'SIMD Quintile 3' ",3665
+2016 ,"'SIMD Quintile 4' ",4895
+2016 ,"'SIMD Quintile 5' ",6275
+2016 ,"'Not assigned' ",75

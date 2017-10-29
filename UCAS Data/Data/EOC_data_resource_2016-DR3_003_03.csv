@@ -1,0 +1,94 @@
+"Statistic:   Number of Applications"
+"Variables:   Deferred Status , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   Applications through the main scheme and UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_003_03.pdf"
+ 
+Cycle Year,Deferred Status , Applicant Domicile (High Level),Number of Applications,
+2006 ,"'Deferred' ","'England' ",119570
+2006 ,"'Deferred' ","'Northern Ireland' ",1935
+2006 ,"'Deferred' ","'Scotland' ",7150
+2006 ,"'Deferred' ","'Wales' ",3955
+2006 ,"'Not deferred' ","'England' ",1458560
+2006 ,"'Not deferred' ","'Northern Ireland' ",86140
+2006 ,"'Not deferred' ","'Scotland' ",134575
+2006 ,"'Not deferred' ","'Wales' ",81610
+2007 ,"'Deferred' ","'England' ",117365
+2007 ,"'Deferred' ","'Northern Ireland' ",1790
+2007 ,"'Deferred' ","'Scotland' ",6755
+2007 ,"'Deferred' ","'Wales' ",3705
+2007 ,"'Not deferred' ","'England' ",1570100
+2007 ,"'Not deferred' ","'Northern Ireland' ",86030
+2007 ,"'Not deferred' ","'Scotland' ",136170
+2007 ,"'Not deferred' ","'Wales' ",82800
+2008 ,"'Deferred' ","'England' ",103105
+2008 ,"'Deferred' ","'Northern Ireland' ",1900
+2008 ,"'Deferred' ","'Scotland' ",6560
+2008 ,"'Deferred' ","'Wales' ",3470
+2008 ,"'Not deferred' ","'England' ",1490350
+2008 ,"'Not deferred' ","'Northern Ireland' ",72155
+2008 ,"'Not deferred' ","'Scotland' ",123020
+2008 ,"'Not deferred' ","'Wales' ",75810
+2009 ,"'Deferred' ","'England' ",101650
+2009 ,"'Deferred' ","'Northern Ireland' ",1980
+2009 ,"'Deferred' ","'Scotland' ",6155
+2009 ,"'Deferred' ","'Wales' ",3160
+2009 ,"'Not deferred' ","'England' ",1632865
+2009 ,"'Not deferred' ","'Northern Ireland' ",75030
+2009 ,"'Not deferred' ","'Scotland' ",130005
+2009 ,"'Not deferred' ","'Wales' ",82865
+2010 ,"'Deferred' ","'England' ",102300
+2010 ,"'Deferred' ","'Northern Ireland' ",2130
+2010 ,"'Deferred' ","'Scotland' ",7110
+2010 ,"'Deferred' ","'Wales' ",3405
+2010 ,"'Not deferred' ","'England' ",1863370
+2010 ,"'Not deferred' ","'Northern Ireland' ",83520
+2010 ,"'Not deferred' ","'Scotland' ",156015
+2010 ,"'Not deferred' ","'Wales' ",88765
+2011 ,"'Deferred' ","'England' ",50175
+2011 ,"'Deferred' ","'Northern Ireland' ",1305
+2011 ,"'Deferred' ","'Scotland' ",5325
+2011 ,"'Deferred' ","'Wales' ",2305
+2011 ,"'Not deferred' ","'England' ",1992985
+2011 ,"'Not deferred' ","'Northern Ireland' ",89585
+2011 ,"'Not deferred' ","'Scotland' ",166495
+2011 ,"'Not deferred' ","'Wales' ",93640
+2012 ,"'Deferred' ","'England' ",78670
+2012 ,"'Deferred' ","'Northern Ireland' ",1230
+2012 ,"'Deferred' ","'Scotland' ",4650
+2012 ,"'Deferred' ","'Wales' ",2210
+2012 ,"'Not deferred' ","'England' ",1762750
+2012 ,"'Not deferred' ","'Northern Ireland' ",84770
+2012 ,"'Not deferred' ","'Scotland' ",167215
+2012 ,"'Not deferred' ","'Wales' ",92330
+2013 ,"'Deferred' ","'England' ",72660
+2013 ,"'Deferred' ","'Northern Ireland' ",1420
+2013 ,"'Deferred' ","'Scotland' ",4080
+2013 ,"'Deferred' ","'Wales' ",2295
+2013 ,"'Not deferred' ","'England' ",1813800
+2013 ,"'Not deferred' ","'Northern Ireland' ",89730
+2013 ,"'Not deferred' ","'Scotland' ",169630
+2013 ,"'Not deferred' ","'Wales' ",89490
+2014 ,"'Deferred' ","'England' ",74255
+2014 ,"'Deferred' ","'Northern Ireland' ",1490
+2014 ,"'Deferred' ","'Scotland' ",4265
+2014 ,"'Deferred' ","'Wales' ",2235
+2014 ,"'Not deferred' ","'England' ",1883990
+2014 ,"'Not deferred' ","'Northern Ireland' ",89880
+2014 ,"'Not deferred' ","'Scotland' ",176205
+2014 ,"'Not deferred' ","'Wales' ",92550
+2015 ,"'Deferred' ","'England' ",78015
+2015 ,"'Deferred' ","'Northern Ireland' ",1500
+2015 ,"'Deferred' ","'Scotland' ",5095
+2015 ,"'Deferred' ","'Wales' ",2520
+2015 ,"'Not deferred' ","'England' ",1903765
+2015 ,"'Not deferred' ","'Northern Ireland' ",92215
+2015 ,"'Not deferred' ","'Scotland' ",191200
+2015 ,"'Not deferred' ","'Wales' ",93200
+2016 ,"'Deferred' ","'England' ",77465
+2016 ,"'Deferred' ","'Northern Ireland' ",1730
+2016 ,"'Deferred' ","'Scotland' ",4690
+2016 ,"'Deferred' ","'Wales' ",2500
+2016 ,"'Not deferred' ","'England' ",1899185
+2016 ,"'Not deferred' ","'Northern Ireland' ",93470
+2016 ,"'Not deferred' ","'Scotland' ",195545
+2016 ,"'Not deferred' ","'Wales' ",93515

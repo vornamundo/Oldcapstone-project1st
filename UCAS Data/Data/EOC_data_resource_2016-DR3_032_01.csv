@@ -1,0 +1,106 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Deferred Status , Age Band , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_032_01.pdf"
+ 
+Cycle Year,Deferred Status , Age Band,Number of Acceptances,
+2007 ,"'Deferred' ","'17 and under' ",620
+2007 ,"'Deferred' ","'18' ",20110
+2007 ,"'Deferred' ","'19' ",2820
+2007 ,"'Deferred' ","'20' ",955
+2007 ,"'Deferred' ","'21 and over' ",3815
+2007 ,"'Not deferred' ","'17 and under' ",4485
+2007 ,"'Not deferred' ","'18' ",186935
+2007 ,"'Not deferred' ","'19' ",78275
+2007 ,"'Not deferred' ","'20' ",30770
+2007 ,"'Not deferred' ","'21 and over' ",84645
+2008 ,"'Deferred' ","'17 and under' ",580
+2008 ,"'Deferred' ","'18' ",21020
+2008 ,"'Deferred' ","'19' ",3250
+2008 ,"'Deferred' ","'20' ",1100
+2008 ,"'Deferred' ","'21 and over' ",4325
+2008 ,"'Not deferred' ","'17 and under' ",4670
+2008 ,"'Not deferred' ","'18' ",199640
+2008 ,"'Not deferred' ","'19' ",85380
+2008 ,"'Not deferred' ","'20' ",36840
+2008 ,"'Not deferred' ","'21 and over' ",99820
+2009 ,"'Deferred' ","'17 and under' ",600
+2009 ,"'Deferred' ","'18' ",20070
+2009 ,"'Deferred' ","'19' ",3280
+2009 ,"'Deferred' ","'20' ",1290
+2009 ,"'Deferred' ","'21 and over' ",4835
+2009 ,"'Not deferred' ","'17 and under' ",4750
+2009 ,"'Not deferred' ","'18' ",208760
+2009 ,"'Not deferred' ","'19' ",91655
+2009 ,"'Not deferred' ","'20' ",38460
+2009 ,"'Not deferred' ","'21 and over' ",108160
+2010 ,"'Deferred' ","'17 and under' ",490
+2010 ,"'Deferred' ","'18' ",19005
+2010 ,"'Deferred' ","'19' ",3525
+2010 ,"'Deferred' ","'20' ",1300
+2010 ,"'Deferred' ","'21 and over' ",4950
+2010 ,"'Not deferred' ","'17 and under' ",4430
+2010 ,"'Not deferred' ","'18' ",209940
+2010 ,"'Not deferred' ","'19' ",96675
+2010 ,"'Not deferred' ","'20' ",39440
+2010 ,"'Not deferred' ","'21 and over' ",107570
+2011 ,"'Deferred' ","'17 and under' ",350
+2011 ,"'Deferred' ","'18' ",7320
+2011 ,"'Deferred' ","'19' ",1860
+2011 ,"'Deferred' ","'20' ",855
+2011 ,"'Deferred' ","'21 and over' ",2830
+2011 ,"'Not deferred' ","'17 and under' ",4430
+2011 ,"'Not deferred' ","'18' ",227180
+2011 ,"'Not deferred' ","'19' ",103220
+2011 ,"'Not deferred' ","'20' ",39870
+2011 ,"'Not deferred' ","'21 and over' ",104120
+2012 ,"'Deferred' ","'17 and under' ",440
+2012 ,"'Deferred' ","'18' ",16100
+2012 ,"'Deferred' ","'19' ",2795
+2012 ,"'Deferred' ","'20' ",1150
+2012 ,"'Deferred' ","'21 and over' ",3710
+2012 ,"'Not deferred' ","'17 and under' ",4570
+2012 ,"'Not deferred' ","'18' ",213565
+2012 ,"'Not deferred' ","'19' ",89620
+2012 ,"'Not deferred' ","'20' ",36940
+2012 ,"'Not deferred' ","'21 and over' ",96010
+2013 ,"'Deferred' ","'17 and under' ",395
+2013 ,"'Deferred' ","'18' ",16285
+2013 ,"'Deferred' ","'19' ",3565
+2013 ,"'Deferred' ","'20' ",1245
+2013 ,"'Deferred' ","'21 and over' ",4040
+2013 ,"'Not deferred' ","'17 and under' ",4955
+2013 ,"'Not deferred' ","'18' ",222155
+2013 ,"'Not deferred' ","'19' ",101605
+2013 ,"'Not deferred' ","'20' ",39715
+2013 ,"'Not deferred' ","'21 and over' ",101640
+2014 ,"'Deferred' ","'17 and under' ",440
+2014 ,"'Deferred' ","'18' ",17415
+2014 ,"'Deferred' ","'19' ",3655
+2014 ,"'Deferred' ","'20' ",1475
+2014 ,"'Deferred' ","'21 and over' ",4370
+2014 ,"'Not deferred' ","'17 and under' ",5340
+2014 ,"'Not deferred' ","'18' ",227560
+2014 ,"'Not deferred' ","'19' ",103845
+2014 ,"'Not deferred' ","'20' ",41840
+2014 ,"'Not deferred' ","'21 and over' ",106430
+2015 ,"'Deferred' ","'17 and under' ",500
+2015 ,"'Deferred' ","'18' ",18755
+2015 ,"'Deferred' ","'19' ",3800
+2015 ,"'Deferred' ","'20' ",1345
+2015 ,"'Deferred' ","'21 and over' ",4410
+2015 ,"'Not deferred' ","'17 and under' ",5750
+2015 ,"'Not deferred' ","'18' ",239525
+2015 ,"'Not deferred' ","'19' ",107050
+2015 ,"'Not deferred' ","'20' ",41180
+2015 ,"'Not deferred' ","'21 and over' ",109955
+2016 ,"'Deferred' ","'17 and under' ",505
+2016 ,"'Deferred' ","'18' ",19750
+2016 ,"'Deferred' ","'19' ",3785
+2016 ,"'Deferred' ","'20' ",1300
+2016 ,"'Deferred' ","'21 and over' ",3680
+2016 ,"'Not deferred' ","'17 and under' ",5940
+2016 ,"'Not deferred' ","'18' ",243155
+2016 ,"'Not deferred' ","'19' ",108065
+2016 ,"'Not deferred' ","'20' ",40595
+2016 ,"'Not deferred' ","'21 and over' ",108390

@@ -1,0 +1,226 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Age Band, Deadline"
+"Coverage:   Applied before June deadline"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR2_051_05.pdf"
+ 
+Cycle Year,Age Band,Deadline,Number of Acceptances,
+2006,'17 and under','October Deadline',1160
+2006,'18','October Deadline',47625
+2006,'19','October Deadline',7975
+2006,'20','October Deadline',1690
+2006,'21 and over','October Deadline',4935
+2007,'17 and under','October Deadline',935
+2007,'18','October Deadline',30645
+2007,'19','October Deadline',6995
+2007,'20','October Deadline',1335
+2007,'21 and over','October Deadline',4180
+2008,'17 and under','October Deadline',920
+2008,'18','October Deadline',29320
+2008,'19','October Deadline',7265
+2008,'20','October Deadline',1570
+2008,'21 and over','October Deadline',5065
+2009,'17 and under','October Deadline',935
+2009,'18','October Deadline',30170
+2009,'19','October Deadline',7790
+2009,'20','October Deadline',1760
+2009,'21 and over','October Deadline',5530
+2010,'17 and under','October Deadline',905
+2010,'18','October Deadline',30565
+2010,'19','October Deadline',8320
+2010,'20','October Deadline',1930
+2010,'21 and over','October Deadline',6835
+2011,'17 and under','October Deadline',950
+2011,'18','October Deadline',32420
+2011,'19','October Deadline',9150
+2011,'20','October Deadline',2055
+2011,'21 and over','October Deadline',7150
+2012,'17 and under','October Deadline',940
+2012,'18','October Deadline',31060
+2012,'19','October Deadline',7205
+2012,'20','October Deadline',1625
+2012,'21 and over','October Deadline',5530
+2013,'17 and under','October Deadline',875
+2013,'18','October Deadline',30235
+2013,'19','October Deadline',7950
+2013,'20','October Deadline',1525
+2013,'21 and over','October Deadline',4915
+2014,'17 and under','October Deadline',1040
+2014,'18','October Deadline',30410
+2014,'19','October Deadline',7980
+2014,'20','October Deadline',1650
+2014,'21 and over','October Deadline',5400
+2015,'17 and under','October Deadline',1085
+2015,'18','October Deadline',31290
+2015,'19','October Deadline',7735
+2015,'20','October Deadline',1715
+2015,'21 and over','October Deadline',5610
+2016,'17 and under','October Deadline',1160
+2016,'18','October Deadline',32125
+2016,'19','October Deadline',7775
+2016,'20','October Deadline',1665
+2016,'21 and over','October Deadline',5470
+2006,'17 and under','January Deadline',3560
+2006,'18','January Deadline',192110
+2006,'19','January Deadline',45770
+2006,'20','January Deadline',14930
+2006,'21 and over','January Deadline',34720
+2007,'17 and under','January Deadline',3775
+2007,'18','January Deadline',194095
+2007,'19','January Deadline',57125
+2007,'20','January Deadline',16685
+2007,'21 and over','January Deadline',37490
+2008,'17 and under','January Deadline',3625
+2008,'18','January Deadline',206735
+2008,'19','January Deadline',63940
+2008,'20','January Deadline',20805
+2008,'21 and over','January Deadline',45080
+2009,'17 and under','January Deadline',3875
+2009,'18','January Deadline',214915
+2009,'19','January Deadline',69850
+2009,'20','January Deadline',22300
+2009,'21 and over','January Deadline',49880
+2010,'17 and under','January Deadline',3875
+2010,'18','January Deadline',221775
+2010,'19','January Deadline',86640
+2010,'20','January Deadline',28480
+2010,'21 and over','January Deadline',68860
+2011,'17 and under','January Deadline',3840
+2011,'18','January Deadline',227295
+2011,'19','January Deadline',93135
+2011,'20','January Deadline',30080
+2011,'21 and over','January Deadline',68665
+2012,'17 and under','January Deadline',3935
+2012,'18','January Deadline',221195
+2012,'19','January Deadline',79160
+2012,'20','January Deadline',26685
+2012,'21 and over','January Deadline',61210
+2013,'17 and under','January Deadline',4175
+2013,'18','January Deadline',229185
+2013,'19','January Deadline',90305
+2013,'20','January Deadline',28375
+2013,'21 and over','January Deadline',63290
+2014,'17 and under','January Deadline',4755
+2014,'18','January Deadline',236625
+2014,'19','January Deadline',92880
+2014,'20','January Deadline',30460
+2014,'21 and over','January Deadline',67100
+2015,'17 and under','January Deadline',5165
+2015,'18','January Deadline',248765
+2015,'19','January Deadline',94965
+2015,'20','January Deadline',29615
+2015,'21 and over','January Deadline',67540
+2016,'17 and under','January Deadline',5355
+2016,'18','January Deadline',253520
+2016,'19','January Deadline',95605
+2016,'20','January Deadline',28900
+2016,'21 and over','January Deadline',66425
+2006,'17 and under','March Deadline',3855
+2006,'18','March Deadline',198720
+2006,'19','March Deadline',56895
+2006,'20','March Deadline',20220
+2006,'21 and over','March Deadline',47995
+2007,'17 and under','March Deadline',4080
+2007,'18','March Deadline',199895
+2007,'19','March Deadline',68975
+2007,'20','March Deadline',21915
+2007,'21 and over','March Deadline',50140
+2008,'17 and under','March Deadline',3995
+2008,'18','March Deadline',212670
+2008,'19','March Deadline',75060
+2008,'20','March Deadline',26080
+2008,'21 and over','March Deadline',58145
+2009,'17 and under','March Deadline',4225
+2009,'18','March Deadline',221080
+2009,'19','March Deadline',81565
+2009,'20','March Deadline',27955
+2009,'21 and over','March Deadline',65710
+2010,'17 and under','March Deadline',4140
+2010,'18','March Deadline',224140
+2010,'19','March Deadline',91310
+2010,'20','March Deadline',31690
+2010,'21 and over','March Deadline',78680
+2011,'17 and under','March Deadline',4090
+2011,'18','March Deadline',229820
+2011,'19','March Deadline',97490
+2011,'20','March Deadline',33320
+2011,'21 and over','March Deadline',78135
+2012,'17 and under','March Deadline',4230
+2012,'18','March Deadline',223710
+2012,'19','March Deadline',83275
+2012,'20','March Deadline',29755
+2012,'21 and over','March Deadline',70100
+2013,'17 and under','March Deadline',4480
+2013,'18','March Deadline',231425
+2013,'19','March Deadline',94155
+2013,'20','March Deadline',31225
+2013,'21 and over','March Deadline',71600
+2014,'17 and under','March Deadline',5020
+2014,'18','March Deadline',238935
+2014,'19','March Deadline',96910
+2014,'20','March Deadline',33525
+2014,'21 and over','March Deadline',75895
+2015,'17 and under','March Deadline',5490
+2015,'18','March Deadline',251315
+2015,'19','March Deadline',99205
+2015,'20','March Deadline',32555
+2015,'21 and over','March Deadline',76755
+2016,'17 and under','March Deadline',5645
+2016,'18','March Deadline',256020
+2016,'19','March Deadline',99670
+2016,'20','March Deadline',31670
+2016,'21 and over','March Deadline',75360
+2006,'17 and under','June Deadline',4255
+2006,'18','June Deadline',201620
+2006,'19','June Deadline',62245
+2006,'20','June Deadline',24690
+2006,'21 and over','June Deadline',64310
+2007,'17 and under','June Deadline',4525
+2007,'18','June Deadline',203115
+2007,'19','June Deadline',75320
+2007,'20','June Deadline',26835
+2007,'21 and over','June Deadline',67485
+2008,'17 and under','June Deadline',4520
+2008,'18','June Deadline',216230
+2008,'19','June Deadline',82110
+2008,'20','June Deadline',31975
+2008,'21 and over','June Deadline',78855
+2009,'17 and under','June Deadline',4790
+2009,'18','June Deadline',224925
+2009,'19','June Deadline',88975
+2009,'20','June Deadline',34090
+2009,'21 and over','June Deadline',89365
+2010,'17 and under','June Deadline',4510
+2010,'18','June Deadline',226470
+2010,'19','June Deadline',95875
+2010,'20','June Deadline',35795
+2010,'21 and over','June Deadline',93695
+2011,'17 and under','June Deadline',4500
+2011,'18','June Deadline',232455
+2011,'19','June Deadline',101900
+2011,'20','June Deadline',37290
+2011,'21 and over','June Deadline',92325
+2012,'17 and under','June Deadline',4600
+2012,'18','June Deadline',226300
+2012,'19','June Deadline',87695
+2012,'20','June Deadline',33655
+2012,'21 and over','June Deadline',82895
+2013,'17 and under','June Deadline',4875
+2013,'18','June Deadline',234600
+2013,'19','June Deadline',99610
+2013,'20','June Deadline',35880
+2013,'21 and over','June Deadline',86730
+2014,'17 and under','June Deadline',5445
+2014,'18','June Deadline',241885
+2014,'19','June Deadline',102215
+2014,'20','June Deadline',38265
+2014,'21 and over','June Deadline',90970
+2015,'17 and under','June Deadline',5845
+2015,'18','June Deadline',254460
+2015,'19','June Deadline',104665
+2015,'20','June Deadline',37060
+2015,'21 and over','June Deadline',92720
+2016,'17 and under','June Deadline',6080
+2016,'18','June Deadline',259125
+2016,'19','June Deadline',105510
+2016,'20','June Deadline',36410
+2016,'21 and over','June Deadline',91635

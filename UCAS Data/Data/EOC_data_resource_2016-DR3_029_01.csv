@@ -1,0 +1,2403 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Detailed Level) , Disability Indicator , Cycle Year"
+"Coverage:   UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_029_01.pdf"
+ 
+Cycle Year,Subject Group (Detailed Level) , Disability Indicator,Number of Acceptances,
+2010 ,"'A1 - Pre-clinical Medicine' ","'Disability declared' ",310
+2010 ,"'A1 - Pre-clinical Medicine' ","'No disability declared' ",6700
+2010 ,"'A2 - Pre-clinical Dentistry' ","'Disability declared' ",40
+2010 ,"'A2 - Pre-clinical Dentistry' ","'No disability declared' ",1145
+2010 ,"'A9 - Others in Medicine and Dentistry' ","'No disability declared' ",20
+2010 ,"'B1 - Anatomy,Physiology and Pathology' ","'Disability declared' ",210
+2010 ,"'B1 - Anatomy,Physiology and Pathology' ","'No disability declared' ",3180
+2010 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'Disability declared' ",115
+2010 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'No disability declared' ",3450
+2010 ,"'B3 - Complementary Medicine' ","'Disability declared' ",105
+2010 ,"'B3 - Complementary Medicine' ","'No disability declared' ",740
+2010 ,"'B4 - Nutrition' ","'Disability declared' ",65
+2010 ,"'B4 - Nutrition' ","'No disability declared' ",865
+2010 ,"'B5 - Ophthalmics' ","'Disability declared' ",15
+2010 ,"'B5 - Ophthalmics' ","'No disability declared' ",680
+2010 ,"'B6 - Aural and Oral Sciences' ","'Disability declared' ",45
+2010 ,"'B6 - Aural and Oral Sciences' ","'No disability declared' ",750
+2010 ,"'B7 - Nursing' ","'Disability declared' ",1510
+2010 ,"'B7 - Nursing' ","'No disability declared' ",24480
+2010 ,"'B8 - Medical Technology' ","'Disability declared' ",85
+2010 ,"'B8 - Medical Technology' ","'No disability declared' ",1685
+2010 ,"'B9 - Others in Subjects allied to Medicine' ","'Disability declared' ",570
+2010 ,"'B9 - Others in Subjects allied to Medicine' ","'No disability declared' ",7870
+2010 ,"'BB - Combinations within Subjects allied to Medicine' ","'Disability declared' ",5
+2010 ,"'BB - Combinations within Subjects allied to Medicine' ","'No disability declared' ",210
+2010 ,"'C0 - Biological Sciences: any area of study' ","'No disability declared' ",5
+2010 ,"'C1 - Biology' ","'Disability declared' ",305
+2010 ,"'C1 - Biology' ","'No disability declared' ",4190
+2010 ,"'C2 - Botany' ","'Disability declared' ",5
+2010 ,"'C2 - Botany' ","'No disability declared' ",10
+2010 ,"'C3 - Zoology' ","'Disability declared' ",130
+2010 ,"'C3 - Zoology' ","'No disability declared' ",1465
+2010 ,"'C4 - Genetics' ","'Disability declared' ",20
+2010 ,"'C4 - Genetics' ","'No disability declared' ",280
+2010 ,"'C5 - Microbiology' ","'Disability declared' ",15
+2010 ,"'C5 - Microbiology' ","'No disability declared' ",260
+2010 ,"'C6 - Sport and Exercise Science' ","'Disability declared' ",530
+2010 ,"'C6 - Sport and Exercise Science' ","'No disability declared' ",10070
+2010 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'Disability declared' ",130
+2010 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'No disability declared' ",1920
+2010 ,"'C8 - Psychology' ","'Disability declared' ",970
+2010 ,"'C8 - Psychology' ","'No disability declared' ",13640
+2010 ,"'C9 - Others in Biological Sciences' ","'Disability declared' ",60
+2010 ,"'C9 - Others in Biological Sciences' ","'No disability declared' ",1050
+2010 ,"'CC - Combinations within Biological Sciences' ","'Disability declared' ",40
+2010 ,"'CC - Combinations within Biological Sciences' ","'No disability declared' ",500
+2010 ,"'D1 - Pre-clinical Veterinary Medicine' ","'Disability declared' ",45
+2010 ,"'D1 - Pre-clinical Veterinary Medicine' ","'No disability declared' ",735
+2010 ,"'D3 - Animal Science' ","'Disability declared' ",165
+2010 ,"'D3 - Animal Science' ","'No disability declared' ",1780
+2010 ,"'D4 - Agriculture' ","'Disability declared' ",225
+2010 ,"'D4 - Agriculture' ","'No disability declared' ",1555
+2010 ,"'D5 - Forestry & arboriculture' ","'Disability declared' ",15
+2010 ,"'D5 - Forestry & arboriculture' ","'No disability declared' ",135
+2010 ,"'D6 - Food and Beverage studies' ","'Disability declared' ",25
+2010 ,"'D6 - Food and Beverage studies' ","'No disability declared' ",295
+2010 ,"'D7 - Agricultural Sciences' ","'No disability declared' ",80
+2010 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'No disability declared' ",30
+2010 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'Disability declared' ",10
+2010 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'No disability declared' ",125
+2010 ,"'F0 - Physical Sciences: any area of study' ","'Disability declared' ",5
+2010 ,"'F0 - Physical Sciences: any area of study' ","'No disability declared' ",45
+2010 ,"'F1 - Chemistry' ","'Disability declared' ",220
+2010 ,"'F1 - Chemistry' ","'No disability declared' ",3675
+2010 ,"'F2 - Materials Science' ","'No disability declared' ",10
+2010 ,"'F3 - Physics' ","'Disability declared' ",245
+2010 ,"'F3 - Physics' ","'No disability declared' ",2990
+2010 ,"'F4 - Forensic and Archaeological Science' ","'Disability declared' ",175
+2010 ,"'F4 - Forensic and Archaeological Science' ","'No disability declared' ",1825
+2010 ,"'F5 - Astronomy' ","'Disability declared' ",10
+2010 ,"'F5 - Astronomy' ","'No disability declared' ",120
+2010 ,"'F6 - Geology' ","'Disability declared' ",135
+2010 ,"'F6 - Geology' ","'No disability declared' ",1235
+2010 ,"'F7 - Science of aquatic & terrestrial environments' ","'Disability declared' ",125
+2010 ,"'F7 - Science of aquatic & terrestrial environments' ","'No disability declared' ",1190
+2010 ,"'F8 - Physical geographical sciences' ","'Disability declared' ",210
+2010 ,"'F8 - Physical geographical sciences' ","'No disability declared' ",3250
+2010 ,"'F9 - Others in Physical Sciences' ","'Disability declared' ",15
+2010 ,"'F9 - Others in Physical Sciences' ","'No disability declared' ",230
+2010 ,"'FF - Combinations within Physical Sciences' ","'Disability declared' ",45
+2010 ,"'FF - Combinations within Physical Sciences' ","'No disability declared' ",515
+2010 ,"'G1 - Mathematics' ","'Disability declared' ",310
+2010 ,"'G1 - Mathematics' ","'No disability declared' ",5785
+2010 ,"'G2 - Operational Research' ","'Disability declared' ",5
+2010 ,"'G2 - Operational Research' ","'No disability declared' ",55
+2010 ,"'G3 - Statistics' ","'No disability declared' ",80
+2010 ,"'G9 - Others in Mathematical Sciences' ","'No disability declared' ",20
+2010 ,"'GG - Combinations within Mathematical Sciences' ","'Disability declared' ",10
+2010 ,"'GG - Combinations within Mathematical Sciences' ","'No disability declared' ",275
+2010 ,"'H0 - Engineering: any area of study' ","'Disability declared' ",5
+2010 ,"'H0 - Engineering: any area of study' ","'No disability declared' ",45
+2010 ,"'H1 - General Engineering' ","'Disability declared' ",190
+2010 ,"'H1 - General Engineering' ","'No disability declared' ",2490
+2010 ,"'H2 - Civil Engineering' ","'Disability declared' ",150
+2010 ,"'H2 - Civil Engineering' ","'No disability declared' ",3265
+2010 ,"'H3 - Mechanical Engineering' ","'Disability declared' ",335
+2010 ,"'H3 - Mechanical Engineering' ","'No disability declared' ",4610
+2010 ,"'H4 - Aerospace Engineering' ","'Disability declared' ",70
+2010 ,"'H4 - Aerospace Engineering' ","'No disability declared' ",1730
+2010 ,"'H5 - Naval Architecture' ","'Disability declared' ",5
+2010 ,"'H5 - Naval Architecture' ","'No disability declared' ",45
+2010 ,"'H6 - Electronic and Electrical Engineering' ","'Disability declared' ",210
+2010 ,"'H6 - Electronic and Electrical Engineering' ","'No disability declared' ",3020
+2010 ,"'H7 - Production and Manufacturing Engineering' ","'Disability declared' ",65
+2010 ,"'H7 - Production and Manufacturing Engineering' ","'No disability declared' ",600
+2010 ,"'H8 - Chemical,Process and Energy Engineering' ","'Disability declared' ",55
+2010 ,"'H8 - Chemical,Process and Energy Engineering' ","'No disability declared' ",1150
+2010 ,"'H9 - Others in Engineering' ","'No disability declared' ",30
+2010 ,"'HH - Combinations within Engineering' ","'Disability declared' ",45
+2010 ,"'HH - Combinations within Engineering' ","'No disability declared' ",545
+2010 ,"'I1 - Computer Science' ","'Disability declared' ",885
+2010 ,"'I1 - Computer Science' ","'No disability declared' ",10555
+2010 ,"'I2 - Information Systems' ","'Disability declared' ",245
+2010 ,"'I2 - Information Systems' ","'No disability declared' ",3410
+2010 ,"'I3 - Software Engineering' ","'Disability declared' ",150
+2010 ,"'I3 - Software Engineering' ","'No disability declared' ",1360
+2010 ,"'I4 - Artificial Intelligence' ","'No disability declared' ",35
+2010 ,"'I9 - Others in Computer Sciences' ","'No disability declared' ",25
+2010 ,"'II - Combinations in Computer Sciences' ","'Disability declared' ",140
+2010 ,"'II - Combinations in Computer Sciences' ","'No disability declared' ",1200
+2010 ,"'J1 - Minerals Technology' ","'No disability declared' ",30
+2010 ,"'J2 - Metallurgy' ","'No disability declared' ",30
+2010 ,"'J3 - Ceramics and Glass' ","'No disability declared' ",10
+2010 ,"'J4 - Polymers and Textiles' ","'Disability declared' ",10
+2010 ,"'J4 - Polymers and Textiles' ","'No disability declared' ",120
+2010 ,"'J5 - Materials Technology not otherwise spec' ","'Disability declared' ",10
+2010 ,"'J5 - Materials Technology not otherwise spec' ","'No disability declared' ",170
+2010 ,"'J6 - Maritime Technology' ","'Disability declared' ",15
+2010 ,"'J6 - Maritime Technology' ","'No disability declared' ",100
+2010 ,"'J7 - Biotechnology' ","'Disability declared' ",5
+2010 ,"'J7 - Biotechnology' ","'No disability declared' ",60
+2010 ,"'J9 - Others in Technology' ","'Disability declared' ",210
+2010 ,"'J9 - Others in Technology' ","'No disability declared' ",1980
+2010 ,"'JJ - Combinations within Technology' ","'No disability declared' ",5
+2010 ,"'K1 - Architecture' ","'Disability declared' ",205
+2010 ,"'K1 - Architecture' ","'No disability declared' ",2910
+2010 ,"'K2 - Building' ","'Disability declared' ",175
+2010 ,"'K2 - Building' ","'No disability declared' ",3180
+2010 ,"'K3 - Landscape & Garden Design' ","'Disability declared' ",30
+2010 ,"'K3 - Landscape & Garden Design' ","'No disability declared' ",215
+2010 ,"'K4 - Planning (Urban,Rural and Regional)' ","'Disability declared' ",60
+2010 ,"'K4 - Planning (Urban,Rural and Regional)' ","'No disability declared' ",685
+2010 ,"'K9 - Others in Architecture,Build & Plan' ","'No disability declared' ",5
+2010 ,"'KK - Combinations within Architecture,Build & Plan' ","'Disability declared' ",15
+2010 ,"'KK - Combinations within Architecture,Build & Plan' ","'No disability declared' ",130
+2010 ,"'L0 - Social Studies: any area of study' ","'Disability declared' ",25
+2010 ,"'L0 - Social Studies: any area of study' ","'No disability declared' ",360
+2010 ,"'L1 - Economics' ","'Disability declared' ",180
+2010 ,"'L1 - Economics' ","'No disability declared' ",4770
+2010 ,"'L2 - Politics' ","'Disability declared' ",300
+2010 ,"'L2 - Politics' ","'No disability declared' ",3750
+2010 ,"'L3 - Sociology' ","'Disability declared' ",325
+2010 ,"'L3 - Sociology' ","'No disability declared' ",4910
+2010 ,"'L4 - Social Policy' ","'Disability declared' ",90
+2010 ,"'L4 - Social Policy' ","'No disability declared' ",1345
+2010 ,"'L5 - Social Work' ","'Disability declared' ",890
+2010 ,"'L5 - Social Work' ","'No disability declared' ",10050
+2010 ,"'L6 - Anthropology' ","'Disability declared' ",70
+2010 ,"'L6 - Anthropology' ","'No disability declared' ",555
+2010 ,"'L7 - Human and Social Geography' ","'Disability declared' ",170
+2010 ,"'L7 - Human and Social Geography' ","'No disability declared' ",2515
+2010 ,"'L9 - Others in Social Studies' ","'Disability declared' ",45
+2010 ,"'L9 - Others in Social Studies' ","'No disability declared' ",520
+2010 ,"'LL - Combinations within Social Studies' ","'Disability declared' ",185
+2010 ,"'LL - Combinations within Social Studies' ","'No disability declared' ",2210
+2010 ,"'M1 - Law by Area' ","'Disability declared' ",520
+2010 ,"'M1 - Law by Area' ","'No disability declared' ",12805
+2010 ,"'M2 - Law by Topic' ","'Disability declared' ",55
+2010 ,"'M2 - Law by Topic' ","'No disability declared' ",1060
+2010 ,"'M9 - Others in Law' ","'Disability declared' ",140
+2010 ,"'M9 - Others in Law' ","'No disability declared' ",2855
+2010 ,"'MM - Combinations within Law' ","'Disability declared' ",20
+2010 ,"'MM - Combinations within Law' ","'No disability declared' ",440
+2010 ,"'N1 - Business studies' ","'Disability declared' ",445
+2010 ,"'N1 - Business studies' ","'No disability declared' ",8935
+2010 ,"'N2 - Management studies' ","'Disability declared' ",475
+2010 ,"'N2 - Management studies' ","'No disability declared' ",8120
+2010 ,"'N3 - Finance' ","'Disability declared' ",20
+2010 ,"'N3 - Finance' ","'No disability declared' ",715
+2010 ,"'N4 - Accounting' ","'Disability declared' ",170
+2010 ,"'N4 - Accounting' ","'No disability declared' ",4930
+2010 ,"'N5 - Marketing' ","'Disability declared' ",155
+2010 ,"'N5 - Marketing' ","'No disability declared' ",3100
+2010 ,"'N6 - Human Resource Management' ","'Disability declared' ",15
+2010 ,"'N6 - Human Resource Management' ","'No disability declared' ",560
+2010 ,"'N7 - Office Skills' ","'No disability declared' ",35
+2010 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'Disability declared' ",490
+2010 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'No disability declared' ",7540
+2010 ,"'N9 - Others in Business & Admin Studies' ","'Disability declared' ",15
+2010 ,"'N9 - Others in Business & Admin Studies' ","'No disability declared' ",430
+2010 ,"'NN - Combinations within Business & Admin Studies' ","'Disability declared' ",330
+2010 ,"'NN - Combinations within Business & Admin Studies' ","'No disability declared' ",7595
+2010 ,"'P1 - Information Services' ","'Disability declared' ",5
+2010 ,"'P1 - Information Services' ","'No disability declared' ",80
+2010 ,"'P2 - Publicity studies' ","'Disability declared' ",15
+2010 ,"'P2 - Publicity studies' ","'No disability declared' ",355
+2010 ,"'P3 - Media studies' ","'Disability declared' ",385
+2010 ,"'P3 - Media studies' ","'No disability declared' ",4705
+2010 ,"'P4 - Publishing' ","'Disability declared' ",10
+2010 ,"'P4 - Publishing' ","'No disability declared' ",110
+2010 ,"'P5 - Journalism' ","'Disability declared' ",115
+2010 ,"'P5 - Journalism' ","'No disability declared' ",2755
+2010 ,"'P9 - Others in Mass Comms & Documentation' ","'Disability declared' ",25
+2010 ,"'P9 - Others in Mass Comms & Documentation' ","'No disability declared' ",455
+2010 ,"'PP - Combinations within Mass Comms & Documentation' ","'Disability declared' ",50
+2010 ,"'PP - Combinations within Mass Comms & Documentation' ","'No disability declared' ",905
+2010 ,"'Q1 - Linguistics' ","'Disability declared' ",25
+2010 ,"'Q1 - Linguistics' ","'No disability declared' ",445
+2010 ,"'Q2 - Comparative Literary studies' ","'Disability declared' ",10
+2010 ,"'Q2 - Comparative Literary studies' ","'No disability declared' ",180
+2010 ,"'Q3 - English studies' ","'Disability declared' ",470
+2010 ,"'Q3 - English studies' ","'No disability declared' ",9000
+2010 ,"'Q4 - Ancient Language studies' ","'No disability declared' ",10
+2010 ,"'Q5 - Celtic studies' ","'Disability declared' ",15
+2010 ,"'Q5 - Celtic studies' ","'No disability declared' ",140
+2010 ,"'Q6 - Latin studies' ","'No disability declared' ",10
+2010 ,"'Q8 - Classical studies' ","'Disability declared' ",50
+2010 ,"'Q8 - Classical studies' ","'No disability declared' ",770
+2010 ,"'Q9 - Others in Linguistics,Classics & related' ","'Disability declared' ",5
+2010 ,"'Q9 - Others in Linguistics,Classics & related' ","'No disability declared' ",50
+2010 ,"'QQ - Combinations within Linguistics,Classics & related' ","'Disability declared' ",30
+2010 ,"'QQ - Combinations within Linguistics,Classics & related' ","'No disability declared' ",655
+2010 ,"'R0 - European Langs,Lit & related: any area' ","'Disability declared' ",5
+2010 ,"'R0 - European Langs,Lit & related: any area' ","'No disability declared' ",105
+2010 ,"'R1 - French studies' ","'Disability declared' ",25
+2010 ,"'R1 - French studies' ","'No disability declared' ",665
+2010 ,"'R2 - German studies' ","'Disability declared' ",10
+2010 ,"'R2 - German studies' ","'No disability declared' ",250
+2010 ,"'R3 - Italian studies' ","'No disability declared' ",55
+2010 ,"'R4 - Spanish studies' ","'Disability declared' ",15
+2010 ,"'R4 - Spanish studies' ","'No disability declared' ",360
+2010 ,"'R6 - Scandinavian studies' ","'No disability declared' ",10
+2010 ,"'R7 - Russian and East European studies' ","'Disability declared' ",5
+2010 ,"'R7 - Russian and East European studies' ","'No disability declared' ",85
+2010 ,"'R8 - European studies' ","'No disability declared' ",75
+2010 ,"'R9 - Others in European Langs,Lit and related' ","'Disability declared' ",30
+2010 ,"'R9 - Others in European Langs,Lit and related' ","'No disability declared' ",695
+2010 ,"'RR - Combinations within European Langs,Lit and related' ","'Disability declared' ",65
+2010 ,"'RR - Combinations within European Langs,Lit and related' ","'No disability declared' ",1770
+2010 ,"'T1 - Chinese studies' ","'Disability declared' ",10
+2010 ,"'T1 - Chinese studies' ","'No disability declared' ",110
+2010 ,"'T2 - Japanese studies' ","'Disability declared' ",20
+2010 ,"'T2 - Japanese studies' ","'No disability declared' ",175
+2010 ,"'T3 - South Asian studies' ","'No disability declared' ",30
+2010 ,"'T4 - Other Asian studies' ","'No disability declared' ",15
+2010 ,"'T5 - African studies' ","'No disability declared' ",15
+2010 ,"'T6 - Modern Middle Eastern studies' ","'Disability declared' ",10
+2010 ,"'T6 - Modern Middle Eastern studies' ","'No disability declared' ",90
+2010 ,"'T7 - American studies' ","'Disability declared' ",35
+2010 ,"'T7 - American studies' ","'No disability declared' ",485
+2010 ,"'T9 - Others in non-European Langs, Lit & related' ","'Disability declared' ",10
+2010 ,"'T9 - Others in non-European Langs, Lit & related' ","'No disability declared' ",225
+2010 ,"'TT - Combinations within non-European Langs & related' ","'Disability declared' ",5
+2010 ,"'TT - Combinations within non-European Langs & related' ","'No disability declared' ",55
+2010 ,"'V1 - History by Period' ","'Disability declared' ",505
+2010 ,"'V1 - History by Period' ","'No disability declared' ",7715
+2010 ,"'V2 - History by Area' ","'Disability declared' ",15
+2010 ,"'V2 - History by Area' ","'No disability declared' ",120
+2010 ,"'V3 - History by Topic' ","'Disability declared' ",95
+2010 ,"'V3 - History by Topic' ","'No disability declared' ",1050
+2010 ,"'V4 - Archaeology' ","'Disability declared' ",55
+2010 ,"'V4 - Archaeology' ","'No disability declared' ",445
+2010 ,"'V5 - Philosophy' ","'Disability declared' ",155
+2010 ,"'V5 - Philosophy' ","'No disability declared' ",1365
+2010 ,"'V6 - Theology and Religious studies' ","'Disability declared' ",125
+2010 ,"'V6 - Theology and Religious studies' ","'No disability declared' ",1155
+2010 ,"'V9 - Others in Hist & Philosophical studies' ","'Disability declared' ",10
+2010 ,"'V9 - Others in Hist & Philosophical studies' ","'No disability declared' ",135
+2010 ,"'VV - Combinations within Hist & Philosophical studies' ","'Disability declared' ",125
+2010 ,"'VV - Combinations within Hist & Philosophical studies' ","'No disability declared' ",1065
+2010 ,"'W0 - Creative Arts & Design: any area' ","'Disability declared' ",5
+2010 ,"'W0 - Creative Arts & Design: any area' ","'No disability declared' ",105
+2010 ,"'W1 - Fine Art' ","'Disability declared' ",595
+2010 ,"'W1 - Fine Art' ","'No disability declared' ",3860
+2010 ,"'W2 - Design studies' ","'Disability declared' ",1530
+2010 ,"'W2 - Design studies' ","'No disability declared' ",15145
+2010 ,"'W3 - Music' ","'Disability declared' ",415
+2010 ,"'W3 - Music' ","'No disability declared' ",4660
+2010 ,"'W4 - Drama' ","'Disability declared' ",720
+2010 ,"'W4 - Drama' ","'No disability declared' ",6425
+2010 ,"'W5 - Dance' ","'Disability declared' ",75
+2010 ,"'W5 - Dance' ","'No disability declared' ",1270
+2010 ,"'W6 - Cinematics and Photography' ","'Disability declared' ",785
+2010 ,"'W6 - Cinematics and Photography' ","'No disability declared' ",6125
+2010 ,"'W7 - Crafts' ","'Disability declared' ",90
+2010 ,"'W7 - Crafts' ","'No disability declared' ",485
+2010 ,"'W8 - Imaginative Writing' ","'Disability declared' ",70
+2010 ,"'W8 - Imaginative Writing' ","'No disability declared' ",645
+2010 ,"'W9 - Others in Creative Arts and Design' ","'Disability declared' ",85
+2010 ,"'W9 - Others in Creative Arts and Design' ","'No disability declared' ",595
+2010 ,"'WW - Combinations within Creative Arts and Design' ","'Disability declared' ",365
+2010 ,"'WW - Combinations within Creative Arts and Design' ","'No disability declared' ",3005
+2010 ,"'X1 - Training Teachers' ","'Disability declared' ",375
+2010 ,"'X1 - Training Teachers' ","'No disability declared' ",7005
+2010 ,"'X2 - Research and Study Skills in Education' ","'Disability declared' ",5
+2010 ,"'X2 - Research and Study Skills in Education' ","'No disability declared' ",90
+2010 ,"'X3 - Academic studies in Education' ","'Disability declared' ",450
+2010 ,"'X3 - Academic studies in Education' ","'No disability declared' ",7280
+2010 ,"'X9 - Others in Education' ","'Disability declared' ",20
+2010 ,"'X9 - Others in Education' ","'No disability declared' ",170
+2010 ,"'XX - Combinations within Education' ","'Disability declared' ",25
+2010 ,"'XX - Combinations within Education' ","'No disability declared' ",490
+2010 ,"'Y Combs of arts/humanities' ","'Disability declared' ",295
+2010 ,"'Y Combs of arts/humanities' ","'No disability declared' ",3365
+2010 ,"'Y Combs of engin/tech/building studies' ","'Disability declared' ",10
+2010 ,"'Y Combs of engin/tech/building studies' ","'No disability declared' ",155
+2010 ,"'Y Combs of engineering/technology' ","'Disability declared' ",25
+2010 ,"'Y Combs of engineering/technology' ","'No disability declared' ",230
+2010 ,"'Y Combs of languages' ","'Disability declared' ",70
+2010 ,"'Y Combs of languages' ","'No disability declared' ",1410
+2010 ,"'Y Combs of languages with arts/humanities' ","'Disability declared' ",405
+2010 ,"'Y Combs of languages with arts/humanities' ","'No disability declared' ",6770
+2010 ,"'Y Combs of med/bio/agric sciences' ","'Disability declared' ",225
+2010 ,"'Y Combs of med/bio/agric sciences' ","'No disability declared' ",3305
+2010 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'Disability declared' ",110
+2010 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'No disability declared' ",1270
+2010 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'Disability declared' ",260
+2010 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'No disability declared' ",2345
+2010 ,"'Y Combs of phys/math science with social studies/bus/law' ","'Disability declared' ",165
+2010 ,"'Y Combs of phys/math science with social studies/bus/law' ","'No disability declared' ",2880
+2010 ,"'Y Combs of phys/math/comp sciences' ","'Disability declared' ",80
+2010 ,"'Y Combs of phys/math/comp sciences' ","'No disability declared' ",960
+2010 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'Disability declared' ",540
+2010 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'No disability declared' ",7390
+2010 ,"'Y Combs of science/engineering with social studies/bus/law' ","'Disability declared' ",345
+2010 ,"'Y Combs of science/engineering with social studies/bus/law' ","'No disability declared' ",5235
+2010 ,"'Y Combs of sciences with engineering/technology' ","'Disability declared' ",95
+2010 ,"'Y Combs of sciences with engineering/technology' ","'No disability declared' ",1160
+2010 ,"'Y Combs of soc studies/law' ","'Disability declared' ",120
+2010 ,"'Y Combs of soc studies/law' ","'No disability declared' ",2210
+2010 ,"'Y Combs of soc studies/law with business' ","'Disability declared' ",95
+2010 ,"'Y Combs of soc studies/law with business' ","'No disability declared' ",2210
+2010 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'Disability declared' ",635
+2010 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'No disability declared' ",8010
+2010 ,"'Y Combs of social studies/bus/law with languages' ","'Disability declared' ",80
+2010 ,"'Y Combs of social studies/bus/law with languages' ","'No disability declared' ",1925
+2010 ,"'Z Combs of 3 subjects, or other general courses' ","'Disability declared' ",285
+2010 ,"'Z Combs of 3 subjects, or other general courses' ","'No disability declared' ",3535
+2011 ,"'A1 - Pre-clinical Medicine' ","'Disability declared' ",315
+2011 ,"'A1 - Pre-clinical Medicine' ","'No disability declared' ",6595
+2011 ,"'A2 - Pre-clinical Dentistry' ","'Disability declared' ",40
+2011 ,"'A2 - Pre-clinical Dentistry' ","'No disability declared' ",1070
+2011 ,"'A9 - Others in Medicine and Dentistry' ","'Disability declared' ",10
+2011 ,"'A9 - Others in Medicine and Dentistry' ","'No disability declared' ",50
+2011 ,"'B1 - Anatomy,Physiology and Pathology' ","'Disability declared' ",210
+2011 ,"'B1 - Anatomy,Physiology and Pathology' ","'No disability declared' ",3100
+2011 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'Disability declared' ",105
+2011 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'No disability declared' ",3720
+2011 ,"'B3 - Complementary Medicine' ","'Disability declared' ",80
+2011 ,"'B3 - Complementary Medicine' ","'No disability declared' ",735
+2011 ,"'B4 - Nutrition' ","'Disability declared' ",65
+2011 ,"'B4 - Nutrition' ","'No disability declared' ",865
+2011 ,"'B5 - Ophthalmics' ","'Disability declared' ",30
+2011 ,"'B5 - Ophthalmics' ","'No disability declared' ",810
+2011 ,"'B6 - Aural and Oral Sciences' ","'Disability declared' ",50
+2011 ,"'B6 - Aural and Oral Sciences' ","'No disability declared' ",710
+2011 ,"'B7 - Nursing' ","'Disability declared' ",1430
+2011 ,"'B7 - Nursing' ","'No disability declared' ",22005
+2011 ,"'B8 - Medical Technology' ","'Disability declared' ",80
+2011 ,"'B8 - Medical Technology' ","'No disability declared' ",1540
+2011 ,"'B9 - Others in Subjects allied to Medicine' ","'Disability declared' ",590
+2011 ,"'B9 - Others in Subjects allied to Medicine' ","'No disability declared' ",8450
+2011 ,"'BB - Combinations within Subjects allied to Medicine' ","'Disability declared' ",15
+2011 ,"'BB - Combinations within Subjects allied to Medicine' ","'No disability declared' ",230
+2011 ,"'C0 - Biological Sciences: any area of study' ","'No disability declared' ",20
+2011 ,"'C1 - Biology' ","'Disability declared' ",335
+2011 ,"'C1 - Biology' ","'No disability declared' ",4530
+2011 ,"'C2 - Botany' ","'Disability declared' ",5
+2011 ,"'C2 - Botany' ","'No disability declared' ",15
+2011 ,"'C3 - Zoology' ","'Disability declared' ",125
+2011 ,"'C3 - Zoology' ","'No disability declared' ",1330
+2011 ,"'C4 - Genetics' ","'Disability declared' ",25
+2011 ,"'C4 - Genetics' ","'No disability declared' ",245
+2011 ,"'C5 - Microbiology' ","'Disability declared' ",25
+2011 ,"'C5 - Microbiology' ","'No disability declared' ",220
+2011 ,"'C6 - Sport and Exercise Science' ","'Disability declared' ",545
+2011 ,"'C6 - Sport and Exercise Science' ","'No disability declared' ",10200
+2011 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'Disability declared' ",135
+2011 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'No disability declared' ",2305
+2011 ,"'C8 - Psychology' ","'Disability declared' ",1040
+2011 ,"'C8 - Psychology' ","'No disability declared' ",14000
+2011 ,"'C9 - Others in Biological Sciences' ","'Disability declared' ",80
+2011 ,"'C9 - Others in Biological Sciences' ","'No disability declared' ",1075
+2011 ,"'CC - Combinations within Biological Sciences' ","'Disability declared' ",35
+2011 ,"'CC - Combinations within Biological Sciences' ","'No disability declared' ",470
+2011 ,"'D1 - Pre-clinical Veterinary Medicine' ","'Disability declared' ",45
+2011 ,"'D1 - Pre-clinical Veterinary Medicine' ","'No disability declared' ",720
+2011 ,"'D3 - Animal Science' ","'Disability declared' ",230
+2011 ,"'D3 - Animal Science' ","'No disability declared' ",1910
+2011 ,"'D4 - Agriculture' ","'Disability declared' ",220
+2011 ,"'D4 - Agriculture' ","'No disability declared' ",1725
+2011 ,"'D5 - Forestry & arboriculture' ","'Disability declared' ",25
+2011 ,"'D5 - Forestry & arboriculture' ","'No disability declared' ",130
+2011 ,"'D6 - Food and Beverage studies' ","'Disability declared' ",25
+2011 ,"'D6 - Food and Beverage studies' ","'No disability declared' ",325
+2011 ,"'D7 - Agricultural Sciences' ","'Disability declared' ",10
+2011 ,"'D7 - Agricultural Sciences' ","'No disability declared' ",50
+2011 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'No disability declared' ",35
+2011 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'Disability declared' ",15
+2011 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'No disability declared' ",130
+2011 ,"'F0 - Physical Sciences: any area of study' ","'Disability declared' ",10
+2011 ,"'F0 - Physical Sciences: any area of study' ","'No disability declared' ",60
+2011 ,"'F1 - Chemistry' ","'Disability declared' ",270
+2011 ,"'F1 - Chemistry' ","'No disability declared' ",3750
+2011 ,"'F3 - Physics' ","'Disability declared' ",270
+2011 ,"'F3 - Physics' ","'No disability declared' ",3365
+2011 ,"'F4 - Forensic and Archaeological Science' ","'Disability declared' ",145
+2011 ,"'F4 - Forensic and Archaeological Science' ","'No disability declared' ",1970
+2011 ,"'F5 - Astronomy' ","'Disability declared' ",20
+2011 ,"'F5 - Astronomy' ","'No disability declared' ",175
+2011 ,"'F6 - Geology' ","'Disability declared' ",105
+2011 ,"'F6 - Geology' ","'No disability declared' ",1300
+2011 ,"'F7 - Science of aquatic & terrestrial environments' ","'Disability declared' ",110
+2011 ,"'F7 - Science of aquatic & terrestrial environments' ","'No disability declared' ",1185
+2011 ,"'F8 - Physical geographical sciences' ","'Disability declared' ",230
+2011 ,"'F8 - Physical geographical sciences' ","'No disability declared' ",3075
+2011 ,"'F9 - Others in Physical Sciences' ","'Disability declared' ",15
+2011 ,"'F9 - Others in Physical Sciences' ","'No disability declared' ",195
+2011 ,"'FF - Combinations within Physical Sciences' ","'Disability declared' ",30
+2011 ,"'FF - Combinations within Physical Sciences' ","'No disability declared' ",480
+2011 ,"'G1 - Mathematics' ","'Disability declared' ",345
+2011 ,"'G1 - Mathematics' ","'No disability declared' ",6090
+2011 ,"'G2 - Operational Research' ","'Disability declared' ",10
+2011 ,"'G2 - Operational Research' ","'No disability declared' ",70
+2011 ,"'G3 - Statistics' ","'No disability declared' ",95
+2011 ,"'G9 - Others in Mathematical Sciences' ","'No disability declared' ",10
+2011 ,"'GG - Combinations within Mathematical Sciences' ","'Disability declared' ",20
+2011 ,"'GG - Combinations within Mathematical Sciences' ","'No disability declared' ",290
+2011 ,"'H0 - Engineering: any area of study' ","'No disability declared' ",40
+2011 ,"'H1 - General Engineering' ","'Disability declared' ",185
+2011 ,"'H1 - General Engineering' ","'No disability declared' ",2165
+2011 ,"'H2 - Civil Engineering' ","'Disability declared' ",175
+2011 ,"'H2 - Civil Engineering' ","'No disability declared' ",3375
+2011 ,"'H3 - Mechanical Engineering' ","'Disability declared' ",315
+2011 ,"'H3 - Mechanical Engineering' ","'No disability declared' ",4910
+2011 ,"'H4 - Aerospace Engineering' ","'Disability declared' ",70
+2011 ,"'H4 - Aerospace Engineering' ","'No disability declared' ",1860
+2011 ,"'H5 - Naval Architecture' ","'Disability declared' ",10
+2011 ,"'H5 - Naval Architecture' ","'No disability declared' ",45
+2011 ,"'H6 - Electronic and Electrical Engineering' ","'Disability declared' ",250
+2011 ,"'H6 - Electronic and Electrical Engineering' ","'No disability declared' ",3270
+2011 ,"'H7 - Production and Manufacturing Engineering' ","'Disability declared' ",45
+2011 ,"'H7 - Production and Manufacturing Engineering' ","'No disability declared' ",580
+2011 ,"'H8 - Chemical,Process and Energy Engineering' ","'Disability declared' ",65
+2011 ,"'H8 - Chemical,Process and Energy Engineering' ","'No disability declared' ",1410
+2011 ,"'H9 - Others in Engineering' ","'Disability declared' ",5
+2011 ,"'H9 - Others in Engineering' ","'No disability declared' ",25
+2011 ,"'HH - Combinations within Engineering' ","'Disability declared' ",50
+2011 ,"'HH - Combinations within Engineering' ","'No disability declared' ",585
+2011 ,"'I1 - Computer Science' ","'Disability declared' ",965
+2011 ,"'I1 - Computer Science' ","'No disability declared' ",10865
+2011 ,"'I2 - Information Systems' ","'Disability declared' ",200
+2011 ,"'I2 - Information Systems' ","'No disability declared' ",3195
+2011 ,"'I3 - Software Engineering' ","'Disability declared' ",145
+2011 ,"'I3 - Software Engineering' ","'No disability declared' ",1545
+2011 ,"'I4 - Artificial Intelligence' ","'Disability declared' ",10
+2011 ,"'I4 - Artificial Intelligence' ","'No disability declared' ",35
+2011 ,"'I9 - Others in Computer Sciences' ","'No disability declared' ",5
+2011 ,"'II - Combinations in Computer Sciences' ","'Disability declared' ",110
+2011 ,"'II - Combinations in Computer Sciences' ","'No disability declared' ",1215
+2011 ,"'J1 - Minerals Technology' ","'Disability declared' ",5
+2011 ,"'J1 - Minerals Technology' ","'No disability declared' ",30
+2011 ,"'J2 - Metallurgy' ","'No disability declared' ",15
+2011 ,"'J3 - Ceramics and Glass' ","'Disability declared' ",5
+2011 ,"'J3 - Ceramics and Glass' ","'No disability declared' ",20
+2011 ,"'J4 - Polymers and Textiles' ","'Disability declared' ",5
+2011 ,"'J4 - Polymers and Textiles' ","'No disability declared' ",75
+2011 ,"'J5 - Materials Technology not otherwise spec' ","'Disability declared' ",5
+2011 ,"'J5 - Materials Technology not otherwise spec' ","'No disability declared' ",155
+2011 ,"'J6 - Maritime Technology' ","'Disability declared' ",10
+2011 ,"'J6 - Maritime Technology' ","'No disability declared' ",75
+2011 ,"'J7 - Biotechnology' ","'Disability declared' ",5
+2011 ,"'J7 - Biotechnology' ","'No disability declared' ",110
+2011 ,"'J9 - Others in Technology' ","'Disability declared' ",180
+2011 ,"'J9 - Others in Technology' ","'No disability declared' ",1735
+2011 ,"'JJ - Combinations within Technology' ","'No disability declared' ",15
+2011 ,"'K1 - Architecture' ","'Disability declared' ",205
+2011 ,"'K1 - Architecture' ","'No disability declared' ",2950
+2011 ,"'K2 - Building' ","'Disability declared' ",170
+2011 ,"'K2 - Building' ","'No disability declared' ",2990
+2011 ,"'K3 - Landscape & Garden Design' ","'Disability declared' ",25
+2011 ,"'K3 - Landscape & Garden Design' ","'No disability declared' ",165
+2011 ,"'K4 - Planning (Urban,Rural and Regional)' ","'Disability declared' ",50
+2011 ,"'K4 - Planning (Urban,Rural and Regional)' ","'No disability declared' ",610
+2011 ,"'K9 - Others in Architecture,Build & Plan' ","'No disability declared' ",5
+2011 ,"'KK - Combinations within Architecture,Build & Plan' ","'Disability declared' ",10
+2011 ,"'KK - Combinations within Architecture,Build & Plan' ","'No disability declared' ",130
+2011 ,"'L0 - Social Studies: any area of study' ","'Disability declared' ",25
+2011 ,"'L0 - Social Studies: any area of study' ","'No disability declared' ",330
+2011 ,"'L1 - Economics' ","'Disability declared' ",240
+2011 ,"'L1 - Economics' ","'No disability declared' ",5195
+2011 ,"'L2 - Politics' ","'Disability declared' ",345
+2011 ,"'L2 - Politics' ","'No disability declared' ",4065
+2011 ,"'L3 - Sociology' ","'Disability declared' ",395
+2011 ,"'L3 - Sociology' ","'No disability declared' ",4880
+2011 ,"'L4 - Social Policy' ","'Disability declared' ",125
+2011 ,"'L4 - Social Policy' ","'No disability declared' ",1560
+2011 ,"'L5 - Social Work' ","'Disability declared' ",885
+2011 ,"'L5 - Social Work' ","'No disability declared' ",10200
+2011 ,"'L6 - Anthropology' ","'Disability declared' ",55
+2011 ,"'L6 - Anthropology' ","'No disability declared' ",525
+2011 ,"'L7 - Human and Social Geography' ","'Disability declared' ",210
+2011 ,"'L7 - Human and Social Geography' ","'No disability declared' ",2420
+2011 ,"'L9 - Others in Social Studies' ","'Disability declared' ",45
+2011 ,"'L9 - Others in Social Studies' ","'No disability declared' ",610
+2011 ,"'LL - Combinations within Social Studies' ","'Disability declared' ",190
+2011 ,"'LL - Combinations within Social Studies' ","'No disability declared' ",2135
+2011 ,"'M1 - Law by Area' ","'Disability declared' ",600
+2011 ,"'M1 - Law by Area' ","'No disability declared' ",13315
+2011 ,"'M2 - Law by Topic' ","'Disability declared' ",55
+2011 ,"'M2 - Law by Topic' ","'No disability declared' ",1065
+2011 ,"'M9 - Others in Law' ","'Disability declared' ",145
+2011 ,"'M9 - Others in Law' ","'No disability declared' ",2805
+2011 ,"'MM - Combinations within Law' ","'Disability declared' ",25
+2011 ,"'MM - Combinations within Law' ","'No disability declared' ",435
+2011 ,"'N1 - Business studies' ","'Disability declared' ",475
+2011 ,"'N1 - Business studies' ","'No disability declared' ",9715
+2011 ,"'N2 - Management studies' ","'Disability declared' ",540
+2011 ,"'N2 - Management studies' ","'No disability declared' ",8730
+2011 ,"'N3 - Finance' ","'Disability declared' ",30
+2011 ,"'N3 - Finance' ","'No disability declared' ",790
+2011 ,"'N4 - Accounting' ","'Disability declared' ",210
+2011 ,"'N4 - Accounting' ","'No disability declared' ",4990
+2011 ,"'N5 - Marketing' ","'Disability declared' ",175
+2011 ,"'N5 - Marketing' ","'No disability declared' ",3225
+2011 ,"'N6 - Human Resource Management' ","'Disability declared' ",25
+2011 ,"'N6 - Human Resource Management' ","'No disability declared' ",595
+2011 ,"'N7 - Office Skills' ","'No disability declared' ",15
+2011 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'Disability declared' ",525
+2011 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'No disability declared' ",7235
+2011 ,"'N9 - Others in Business & Admin Studies' ","'Disability declared' ",25
+2011 ,"'N9 - Others in Business & Admin Studies' ","'No disability declared' ",395
+2011 ,"'NN - Combinations within Business & Admin Studies' ","'Disability declared' ",380
+2011 ,"'NN - Combinations within Business & Admin Studies' ","'No disability declared' ",8515
+2011 ,"'P1 - Information Services' ","'Disability declared' ",5
+2011 ,"'P1 - Information Services' ","'No disability declared' ",20
+2011 ,"'P2 - Publicity studies' ","'Disability declared' ",15
+2011 ,"'P2 - Publicity studies' ","'No disability declared' ",440
+2011 ,"'P3 - Media studies' ","'Disability declared' ",465
+2011 ,"'P3 - Media studies' ","'No disability declared' ",4960
+2011 ,"'P4 - Publishing' ","'Disability declared' ",5
+2011 ,"'P4 - Publishing' ","'No disability declared' ",85
+2011 ,"'P5 - Journalism' ","'Disability declared' ",135
+2011 ,"'P5 - Journalism' ","'No disability declared' ",2965
+2011 ,"'P9 - Others in Mass Comms & Documentation' ","'Disability declared' ",30
+2011 ,"'P9 - Others in Mass Comms & Documentation' ","'No disability declared' ",415
+2011 ,"'PP - Combinations within Mass Comms & Documentation' ","'Disability declared' ",45
+2011 ,"'PP - Combinations within Mass Comms & Documentation' ","'No disability declared' ",910
+2011 ,"'Q1 - Linguistics' ","'Disability declared' ",25
+2011 ,"'Q1 - Linguistics' ","'No disability declared' ",410
+2011 ,"'Q2 - Comparative Literary studies' ","'Disability declared' ",20
+2011 ,"'Q2 - Comparative Literary studies' ","'No disability declared' ",165
+2011 ,"'Q3 - English studies' ","'Disability declared' ",535
+2011 ,"'Q3 - English studies' ","'No disability declared' ",8925
+2011 ,"'Q4 - Ancient Language studies' ","'No disability declared' ",5
+2011 ,"'Q5 - Celtic studies' ","'Disability declared' ",10
+2011 ,"'Q5 - Celtic studies' ","'No disability declared' ",150
+2011 ,"'Q6 - Latin studies' ","'No disability declared' ",10
+2011 ,"'Q8 - Classical studies' ","'Disability declared' ",60
+2011 ,"'Q8 - Classical studies' ","'No disability declared' ",720
+2011 ,"'Q9 - Others in Linguistics,Classics & related' ","'Disability declared' ",5
+2011 ,"'Q9 - Others in Linguistics,Classics & related' ","'No disability declared' ",65
+2011 ,"'QQ - Combinations within Linguistics,Classics & related' ","'Disability declared' ",35
+2011 ,"'QQ - Combinations within Linguistics,Classics & related' ","'No disability declared' ",695
+2011 ,"'R0 - European Langs,Lit & related: any area' ","'No disability declared' ",45
+2011 ,"'R1 - French studies' ","'Disability declared' ",30
+2011 ,"'R1 - French studies' ","'No disability declared' ",610
+2011 ,"'R2 - German studies' ","'Disability declared' ",15
+2011 ,"'R2 - German studies' ","'No disability declared' ",255
+2011 ,"'R3 - Italian studies' ","'No disability declared' ",50
+2011 ,"'R4 - Spanish studies' ","'Disability declared' ",25
+2011 ,"'R4 - Spanish studies' ","'No disability declared' ",400
+2011 ,"'R6 - Scandinavian studies' ","'Disability declared' ",5
+2011 ,"'R6 - Scandinavian studies' ","'No disability declared' ",10
+2011 ,"'R7 - Russian and East European studies' ","'Disability declared' ",5
+2011 ,"'R7 - Russian and East European studies' ","'No disability declared' ",65
+2011 ,"'R8 - European studies' ","'No disability declared' ",95
+2011 ,"'R9 - Others in European Langs,Lit and related' ","'Disability declared' ",35
+2011 ,"'R9 - Others in European Langs,Lit and related' ","'No disability declared' ",870
+2011 ,"'RR - Combinations within European Langs,Lit and related' ","'Disability declared' ",55
+2011 ,"'RR - Combinations within European Langs,Lit and related' ","'No disability declared' ",1525
+2011 ,"'T1 - Chinese studies' ","'Disability declared' ",10
+2011 ,"'T1 - Chinese studies' ","'No disability declared' ",125
+2011 ,"'T2 - Japanese studies' ","'Disability declared' ",15
+2011 ,"'T2 - Japanese studies' ","'No disability declared' ",145
+2011 ,"'T3 - South Asian studies' ","'Disability declared' ",5
+2011 ,"'T3 - South Asian studies' ","'No disability declared' ",45
+2011 ,"'T4 - Other Asian studies' ","'No disability declared' ",15
+2011 ,"'T5 - African studies' ","'No disability declared' ",20
+2011 ,"'T6 - Modern Middle Eastern studies' ","'Disability declared' ",5
+2011 ,"'T6 - Modern Middle Eastern studies' ","'No disability declared' ",75
+2011 ,"'T7 - American studies' ","'Disability declared' ",30
+2011 ,"'T7 - American studies' ","'No disability declared' ",465
+2011 ,"'T9 - Others in non-European Langs, Lit & related' ","'Disability declared' ",15
+2011 ,"'T9 - Others in non-European Langs, Lit & related' ","'No disability declared' ",230
+2011 ,"'TT - Combinations within non-European Langs & related' ","'Disability declared' ",5
+2011 ,"'TT - Combinations within non-European Langs & related' ","'No disability declared' ",50
+2011 ,"'V1 - History by Period' ","'Disability declared' ",565
+2011 ,"'V1 - History by Period' ","'No disability declared' ",7860
+2011 ,"'V2 - History by Area' ","'Disability declared' ",15
+2011 ,"'V2 - History by Area' ","'No disability declared' ",110
+2011 ,"'V3 - History by Topic' ","'Disability declared' ",100
+2011 ,"'V3 - History by Topic' ","'No disability declared' ",950
+2011 ,"'V4 - Archaeology' ","'Disability declared' ",60
+2011 ,"'V4 - Archaeology' ","'No disability declared' ",410
+2011 ,"'V5 - Philosophy' ","'Disability declared' ",150
+2011 ,"'V5 - Philosophy' ","'No disability declared' ",1410
+2011 ,"'V6 - Theology and Religious studies' ","'Disability declared' ",115
+2011 ,"'V6 - Theology and Religious studies' ","'No disability declared' ",1135
+2011 ,"'V9 - Others in Hist & Philosophical studies' ","'Disability declared' ",15
+2011 ,"'V9 - Others in Hist & Philosophical studies' ","'No disability declared' ",105
+2011 ,"'VV - Combinations within Hist & Philosophical studies' ","'Disability declared' ",110
+2011 ,"'VV - Combinations within Hist & Philosophical studies' ","'No disability declared' ",1095
+2011 ,"'W0 - Creative Arts & Design: any area' ","'Disability declared' ",15
+2011 ,"'W0 - Creative Arts & Design: any area' ","'No disability declared' ",95
+2011 ,"'W1 - Fine Art' ","'Disability declared' ",680
+2011 ,"'W1 - Fine Art' ","'No disability declared' ",3905
+2011 ,"'W2 - Design studies' ","'Disability declared' ",1675
+2011 ,"'W2 - Design studies' ","'No disability declared' ",15940
+2011 ,"'W3 - Music' ","'Disability declared' ",435
+2011 ,"'W3 - Music' ","'No disability declared' ",4855
+2011 ,"'W4 - Drama' ","'Disability declared' ",720
+2011 ,"'W4 - Drama' ","'No disability declared' ",6250
+2011 ,"'W5 - Dance' ","'Disability declared' ",100
+2011 ,"'W5 - Dance' ","'No disability declared' ",1375
+2011 ,"'W6 - Cinematics and Photography' ","'Disability declared' ",855
+2011 ,"'W6 - Cinematics and Photography' ","'No disability declared' ",6275
+2011 ,"'W7 - Crafts' ","'Disability declared' ",105
+2011 ,"'W7 - Crafts' ","'No disability declared' ",455
+2011 ,"'W8 - Imaginative Writing' ","'Disability declared' ",95
+2011 ,"'W8 - Imaginative Writing' ","'No disability declared' ",650
+2011 ,"'W9 - Others in Creative Arts and Design' ","'Disability declared' ",75
+2011 ,"'W9 - Others in Creative Arts and Design' ","'No disability declared' ",630
+2011 ,"'WW - Combinations within Creative Arts and Design' ","'Disability declared' ",365
+2011 ,"'WW - Combinations within Creative Arts and Design' ","'No disability declared' ",3020
+2011 ,"'X1 - Training Teachers' ","'Disability declared' ",340
+2011 ,"'X1 - Training Teachers' ","'No disability declared' ",6840
+2011 ,"'X2 - Research and Study Skills in Education' ","'No disability declared' ",100
+2011 ,"'X3 - Academic studies in Education' ","'Disability declared' ",550
+2011 ,"'X3 - Academic studies in Education' ","'No disability declared' ",8125
+2011 ,"'X9 - Others in Education' ","'Disability declared' ",15
+2011 ,"'X9 - Others in Education' ","'No disability declared' ",165
+2011 ,"'XX - Combinations within Education' ","'Disability declared' ",40
+2011 ,"'XX - Combinations within Education' ","'No disability declared' ",555
+2011 ,"'Y Combs of arts/humanities' ","'Disability declared' ",335
+2011 ,"'Y Combs of arts/humanities' ","'No disability declared' ",3245
+2011 ,"'Y Combs of engin/tech/building studies' ","'Disability declared' ",10
+2011 ,"'Y Combs of engin/tech/building studies' ","'No disability declared' ",155
+2011 ,"'Y Combs of engineering/technology' ","'Disability declared' ",20
+2011 ,"'Y Combs of engineering/technology' ","'No disability declared' ",230
+2011 ,"'Y Combs of languages' ","'Disability declared' ",70
+2011 ,"'Y Combs of languages' ","'No disability declared' ",1360
+2011 ,"'Y Combs of languages with arts/humanities' ","'Disability declared' ",415
+2011 ,"'Y Combs of languages with arts/humanities' ","'No disability declared' ",6425
+2011 ,"'Y Combs of med/bio/agric sciences' ","'Disability declared' ",240
+2011 ,"'Y Combs of med/bio/agric sciences' ","'No disability declared' ",3490
+2011 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'Disability declared' ",115
+2011 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'No disability declared' ",1430
+2011 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'Disability declared' ",235
+2011 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'No disability declared' ",2120
+2011 ,"'Y Combs of phys/math science with social studies/bus/law' ","'Disability declared' ",150
+2011 ,"'Y Combs of phys/math science with social studies/bus/law' ","'No disability declared' ",2475
+2011 ,"'Y Combs of phys/math/comp sciences' ","'Disability declared' ",70
+2011 ,"'Y Combs of phys/math/comp sciences' ","'No disability declared' ",905
+2011 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'Disability declared' ",620
+2011 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'No disability declared' ",7500
+2011 ,"'Y Combs of science/engineering with social studies/bus/law' ","'Disability declared' ",375
+2011 ,"'Y Combs of science/engineering with social studies/bus/law' ","'No disability declared' ",4965
+2011 ,"'Y Combs of sciences with engineering/technology' ","'Disability declared' ",100
+2011 ,"'Y Combs of sciences with engineering/technology' ","'No disability declared' ",1130
+2011 ,"'Y Combs of soc studies/law' ","'Disability declared' ",130
+2011 ,"'Y Combs of soc studies/law' ","'No disability declared' ",2370
+2011 ,"'Y Combs of soc studies/law with business' ","'Disability declared' ",95
+2011 ,"'Y Combs of soc studies/law with business' ","'No disability declared' ",1870
+2011 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'Disability declared' ",640
+2011 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'No disability declared' ",7935
+2011 ,"'Y Combs of social studies/bus/law with languages' ","'Disability declared' ",80
+2011 ,"'Y Combs of social studies/bus/law with languages' ","'No disability declared' ",1865
+2011 ,"'Z Combs of 3 subjects, or other general courses' ","'Disability declared' ",300
+2011 ,"'Z Combs of 3 subjects, or other general courses' ","'No disability declared' ",3515
+2012 ,"'A1 - Pre-clinical Medicine' ","'Disability declared' ",315
+2012 ,"'A1 - Pre-clinical Medicine' ","'No disability declared' ",6670
+2012 ,"'A2 - Pre-clinical Dentistry' ","'Disability declared' ",35
+2012 ,"'A2 - Pre-clinical Dentistry' ","'No disability declared' ",1085
+2012 ,"'A9 - Others in Medicine and Dentistry' ","'Disability declared' ",5
+2012 ,"'A9 - Others in Medicine and Dentistry' ","'No disability declared' ",45
+2012 ,"'B1 - Anatomy,Physiology and Pathology' ","'Disability declared' ",245
+2012 ,"'B1 - Anatomy,Physiology and Pathology' ","'No disability declared' ",2990
+2012 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'Disability declared' ",120
+2012 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'No disability declared' ",3580
+2012 ,"'B3 - Complementary Medicine' ","'Disability declared' ",65
+2012 ,"'B3 - Complementary Medicine' ","'No disability declared' ",545
+2012 ,"'B4 - Nutrition' ","'Disability declared' ",60
+2012 ,"'B4 - Nutrition' ","'No disability declared' ",815
+2012 ,"'B5 - Ophthalmics' ","'Disability declared' ",30
+2012 ,"'B5 - Ophthalmics' ","'No disability declared' ",845
+2012 ,"'B6 - Aural and Oral Sciences' ","'Disability declared' ",45
+2012 ,"'B6 - Aural and Oral Sciences' ","'No disability declared' ",635
+2012 ,"'B7 - Nursing' ","'Disability declared' ",1545
+2012 ,"'B7 - Nursing' ","'No disability declared' ",21770
+2012 ,"'B8 - Medical Technology' ","'Disability declared' ",95
+2012 ,"'B8 - Medical Technology' ","'No disability declared' ",1570
+2012 ,"'B9 - Others in Subjects allied to Medicine' ","'Disability declared' ",615
+2012 ,"'B9 - Others in Subjects allied to Medicine' ","'No disability declared' ",7830
+2012 ,"'BB - Combinations within Subjects allied to Medicine' ","'Disability declared' ",15
+2012 ,"'BB - Combinations within Subjects allied to Medicine' ","'No disability declared' ",220
+2012 ,"'C1 - Biology' ","'Disability declared' ",400
+2012 ,"'C1 - Biology' ","'No disability declared' ",4515
+2012 ,"'C2 - Botany' ","'Disability declared' ",10
+2012 ,"'C2 - Botany' ","'No disability declared' ",25
+2012 ,"'C3 - Zoology' ","'Disability declared' ",120
+2012 ,"'C3 - Zoology' ","'No disability declared' ",1365
+2012 ,"'C4 - Genetics' ","'Disability declared' ",30
+2012 ,"'C4 - Genetics' ","'No disability declared' ",315
+2012 ,"'C5 - Microbiology' ","'Disability declared' ",25
+2012 ,"'C5 - Microbiology' ","'No disability declared' ",270
+2012 ,"'C6 - Sport and Exercise Science' ","'Disability declared' ",605
+2012 ,"'C6 - Sport and Exercise Science' ","'No disability declared' ",9940
+2012 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'Disability declared' ",185
+2012 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'No disability declared' ",2605
+2012 ,"'C8 - Psychology' ","'Disability declared' ",1070
+2012 ,"'C8 - Psychology' ","'No disability declared' ",13430
+2012 ,"'C9 - Others in Biological Sciences' ","'Disability declared' ",50
+2012 ,"'C9 - Others in Biological Sciences' ","'No disability declared' ",740
+2012 ,"'CC - Combinations within Biological Sciences' ","'Disability declared' ",40
+2012 ,"'CC - Combinations within Biological Sciences' ","'No disability declared' ",435
+2012 ,"'D1 - Pre-clinical Veterinary Medicine' ","'Disability declared' ",40
+2012 ,"'D1 - Pre-clinical Veterinary Medicine' ","'No disability declared' ",805
+2012 ,"'D3 - Animal Science' ","'Disability declared' ",215
+2012 ,"'D3 - Animal Science' ","'No disability declared' ",1745
+2012 ,"'D4 - Agriculture' ","'Disability declared' ",210
+2012 ,"'D4 - Agriculture' ","'No disability declared' ",1550
+2012 ,"'D5 - Forestry & arboriculture' ","'Disability declared' ",20
+2012 ,"'D5 - Forestry & arboriculture' ","'No disability declared' ",105
+2012 ,"'D6 - Food and Beverage studies' ","'Disability declared' ",45
+2012 ,"'D6 - Food and Beverage studies' ","'No disability declared' ",355
+2012 ,"'D7 - Agricultural Sciences' ","'Disability declared' ",10
+2012 ,"'D7 - Agricultural Sciences' ","'No disability declared' ",45
+2012 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'No disability declared' ",20
+2012 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'Disability declared' ",10
+2012 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'No disability declared' ",120
+2012 ,"'F1 - Chemistry' ","'Disability declared' ",230
+2012 ,"'F1 - Chemistry' ","'No disability declared' ",3795
+2012 ,"'F3 - Physics' ","'Disability declared' ",315
+2012 ,"'F3 - Physics' ","'No disability declared' ",3550
+2012 ,"'F4 - Forensic and Archaeological Science' ","'Disability declared' ",155
+2012 ,"'F4 - Forensic and Archaeological Science' ","'No disability declared' ",1755
+2012 ,"'F5 - Astronomy' ","'Disability declared' ",20
+2012 ,"'F5 - Astronomy' ","'No disability declared' ",175
+2012 ,"'F6 - Geology' ","'Disability declared' ",140
+2012 ,"'F6 - Geology' ","'No disability declared' ",1345
+2012 ,"'F7 - Science of aquatic & terrestrial environments' ","'Disability declared' ",125
+2012 ,"'F7 - Science of aquatic & terrestrial environments' ","'No disability declared' ",1130
+2012 ,"'F8 - Physical geographical sciences' ","'Disability declared' ",240
+2012 ,"'F8 - Physical geographical sciences' ","'No disability declared' ",2960
+2012 ,"'F9 - Others in Physical Sciences' ","'Disability declared' ",15
+2012 ,"'F9 - Others in Physical Sciences' ","'No disability declared' ",185
+2012 ,"'FF - Combinations within Physical Sciences' ","'Disability declared' ",45
+2012 ,"'FF - Combinations within Physical Sciences' ","'No disability declared' ",430
+2012 ,"'G1 - Mathematics' ","'Disability declared' ",360
+2012 ,"'G1 - Mathematics' ","'No disability declared' ",5760
+2012 ,"'G2 - Operational Research' ","'Disability declared' ",5
+2012 ,"'G2 - Operational Research' ","'No disability declared' ",50
+2012 ,"'G3 - Statistics' ","'No disability declared' ",85
+2012 ,"'G9 - Others in Mathematical Sciences' ","'No disability declared' ",15
+2012 ,"'GG - Combinations within Mathematical Sciences' ","'Disability declared' ",20
+2012 ,"'GG - Combinations within Mathematical Sciences' ","'No disability declared' ",330
+2012 ,"'H1 - General Engineering' ","'Disability declared' ",200
+2012 ,"'H1 - General Engineering' ","'No disability declared' ",2530
+2012 ,"'H2 - Civil Engineering' ","'Disability declared' ",165
+2012 ,"'H2 - Civil Engineering' ","'No disability declared' ",2935
+2012 ,"'H3 - Mechanical Engineering' ","'Disability declared' ",335
+2012 ,"'H3 - Mechanical Engineering' ","'No disability declared' ",4920
+2012 ,"'H4 - Aerospace Engineering' ","'Disability declared' ",80
+2012 ,"'H4 - Aerospace Engineering' ","'No disability declared' ",1830
+2012 ,"'H5 - Naval Architecture' ","'Disability declared' ",15
+2012 ,"'H5 - Naval Architecture' ","'No disability declared' ",60
+2012 ,"'H6 - Electronic and Electrical Engineering' ","'Disability declared' ",245
+2012 ,"'H6 - Electronic and Electrical Engineering' ","'No disability declared' ",2965
+2012 ,"'H7 - Production and Manufacturing Engineering' ","'Disability declared' ",50
+2012 ,"'H7 - Production and Manufacturing Engineering' ","'No disability declared' ",515
+2012 ,"'H8 - Chemical,Process and Energy Engineering' ","'Disability declared' ",80
+2012 ,"'H8 - Chemical,Process and Energy Engineering' ","'No disability declared' ",1520
+2012 ,"'H9 - Others in Engineering' ","'No disability declared' ",10
+2012 ,"'HH - Combinations within Engineering' ","'Disability declared' ",50
+2012 ,"'HH - Combinations within Engineering' ","'No disability declared' ",540
+2012 ,"'I1 - Computer Science' ","'Disability declared' ",960
+2012 ,"'I1 - Computer Science' ","'No disability declared' ",10230
+2012 ,"'I2 - Information Systems' ","'Disability declared' ",190
+2012 ,"'I2 - Information Systems' ","'No disability declared' ",2515
+2012 ,"'I3 - Software Engineering' ","'Disability declared' ",165
+2012 ,"'I3 - Software Engineering' ","'No disability declared' ",1515
+2012 ,"'I4 - Artificial Intelligence' ","'Disability declared' ",5
+2012 ,"'I4 - Artificial Intelligence' ","'No disability declared' ",35
+2012 ,"'I5 - Health Informatics' ","'No disability declared' ",5
+2012 ,"'I6 - Games' ","'Disability declared' ",70
+2012 ,"'I6 - Games' ","'No disability declared' ",390
+2012 ,"'I7 - Computer generated visual & audio effects' ","'No disability declared' ",20
+2012 ,"'I9 - Others in Computer Sciences' ","'Disability declared' ",10
+2012 ,"'I9 - Others in Computer Sciences' ","'No disability declared' ",120
+2012 ,"'II - Combinations in Computer Sciences' ","'Disability declared' ",120
+2012 ,"'II - Combinations in Computer Sciences' ","'No disability declared' ",1070
+2012 ,"'J1 - Minerals Technology' ","'Disability declared' ",5
+2012 ,"'J1 - Minerals Technology' ","'No disability declared' ",25
+2012 ,"'J2 - Metallurgy' ","'No disability declared' ",5
+2012 ,"'J3 - Ceramics and Glass' ","'No disability declared' ",10
+2012 ,"'J4 - Polymers and Textiles' ","'No disability declared' ",25
+2012 ,"'J5 - Materials Technology not otherwise spec' ","'Disability declared' ",10
+2012 ,"'J5 - Materials Technology not otherwise spec' ","'No disability declared' ",140
+2012 ,"'J6 - Maritime Technology' ","'Disability declared' ",10
+2012 ,"'J6 - Maritime Technology' ","'No disability declared' ",70
+2012 ,"'J7 - Biotechnology' ","'Disability declared' ",10
+2012 ,"'J7 - Biotechnology' ","'No disability declared' ",105
+2012 ,"'J9 - Others in Technology' ","'Disability declared' ",150
+2012 ,"'J9 - Others in Technology' ","'No disability declared' ",1395
+2012 ,"'JJ - Combinations within Technology' ","'No disability declared' ",5
+2012 ,"'K1 - Architecture' ","'Disability declared' ",215
+2012 ,"'K1 - Architecture' ","'No disability declared' ",2715
+2012 ,"'K2 - Building' ","'Disability declared' ",160
+2012 ,"'K2 - Building' ","'No disability declared' ",2235
+2012 ,"'K3 - Landscape & Garden Design' ","'Disability declared' ",15
+2012 ,"'K3 - Landscape & Garden Design' ","'No disability declared' ",135
+2012 ,"'K4 - Planning (Urban,Rural and Regional)' ","'Disability declared' ",40
+2012 ,"'K4 - Planning (Urban,Rural and Regional)' ","'No disability declared' ",450
+2012 ,"'K9 - Others in Architecture,Build & Plan' ","'No disability declared' ",10
+2012 ,"'KK - Combinations within Architecture,Build & Plan' ","'Disability declared' ",15
+2012 ,"'KK - Combinations within Architecture,Build & Plan' ","'No disability declared' ",115
+2012 ,"'L0 - Social Studies: any area of study' ","'No disability declared' ",15
+2012 ,"'L1 - Economics' ","'Disability declared' ",250
+2012 ,"'L1 - Economics' ","'No disability declared' ",4800
+2012 ,"'L2 - Politics' ","'Disability declared' ",330
+2012 ,"'L2 - Politics' ","'No disability declared' ",3710
+2012 ,"'L3 - Sociology' ","'Disability declared' ",310
+2012 ,"'L3 - Sociology' ","'No disability declared' ",4385
+2012 ,"'L4 - Social Policy' ","'Disability declared' ",90
+2012 ,"'L4 - Social Policy' ","'No disability declared' ",1390
+2012 ,"'L5 - Social Work' ","'Disability declared' ",955
+2012 ,"'L5 - Social Work' ","'No disability declared' ",10140
+2012 ,"'L6 - Anthropology' ","'Disability declared' ",95
+2012 ,"'L6 - Anthropology' ","'No disability declared' ",840
+2012 ,"'L7 - Human and Social Geography' ","'Disability declared' ",205
+2012 ,"'L7 - Human and Social Geography' ","'No disability declared' ",2350
+2012 ,"'L8 - Development studies' ","'Disability declared' ",5
+2012 ,"'L8 - Development studies' ","'No disability declared' ",50
+2012 ,"'L9 - Others in Social Studies' ","'Disability declared' ",60
+2012 ,"'L9 - Others in Social Studies' ","'No disability declared' ",525
+2012 ,"'LL - Combinations within Social Studies' ","'Disability declared' ",165
+2012 ,"'LL - Combinations within Social Studies' ","'No disability declared' ",1995
+2012 ,"'M1 - Law by Area' ","'Disability declared' ",660
+2012 ,"'M1 - Law by Area' ","'No disability declared' ",13165
+2012 ,"'M2 - Law by Topic' ","'Disability declared' ",50
+2012 ,"'M2 - Law by Topic' ","'No disability declared' ",860
+2012 ,"'M9 - Others in Law' ","'Disability declared' ",130
+2012 ,"'M9 - Others in Law' ","'No disability declared' ",2370
+2012 ,"'MM - Combinations within Law' ","'Disability declared' ",20
+2012 ,"'MM - Combinations within Law' ","'No disability declared' ",380
+2012 ,"'N1 - Business studies' ","'Disability declared' ",470
+2012 ,"'N1 - Business studies' ","'No disability declared' ",8710
+2012 ,"'N2 - Management studies' ","'Disability declared' ",510
+2012 ,"'N2 - Management studies' ","'No disability declared' ",8350
+2012 ,"'N3 - Finance' ","'Disability declared' ",30
+2012 ,"'N3 - Finance' ","'No disability declared' ",880
+2012 ,"'N4 - Accounting' ","'Disability declared' ",165
+2012 ,"'N4 - Accounting' ","'No disability declared' ",4825
+2012 ,"'N5 - Marketing' ","'Disability declared' ",170
+2012 ,"'N5 - Marketing' ","'No disability declared' ",3030
+2012 ,"'N6 - Human Resource Management' ","'Disability declared' ",35
+2012 ,"'N6 - Human Resource Management' ","'No disability declared' ",540
+2012 ,"'N7 - Office Skills' ","'Disability declared' ",5
+2012 ,"'N7 - Office Skills' ","'No disability declared' ",45
+2012 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'Disability declared' ",470
+2012 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'No disability declared' ",6640
+2012 ,"'N9 - Others in Business & Admin Studies' ","'Disability declared' ",20
+2012 ,"'N9 - Others in Business & Admin Studies' ","'No disability declared' ",365
+2012 ,"'NN - Combinations within Business & Admin Studies' ","'Disability declared' ",400
+2012 ,"'NN - Combinations within Business & Admin Studies' ","'No disability declared' ",8700
+2012 ,"'P1 - Information Services' ","'Disability declared' ",5
+2012 ,"'P1 - Information Services' ","'No disability declared' ",35
+2012 ,"'P2 - Publicity studies' ","'Disability declared' ",20
+2012 ,"'P2 - Publicity studies' ","'No disability declared' ",375
+2012 ,"'P3 - Media studies' ","'Disability declared' ",475
+2012 ,"'P3 - Media studies' ","'No disability declared' ",4515
+2012 ,"'P4 - Publishing' ","'No disability declared' ",35
+2012 ,"'P5 - Journalism' ","'Disability declared' ",135
+2012 ,"'P5 - Journalism' ","'No disability declared' ",2595
+2012 ,"'P9 - Others in Mass Comms & Documentation' ","'Disability declared' ",35
+2012 ,"'P9 - Others in Mass Comms & Documentation' ","'No disability declared' ",420
+2012 ,"'PP - Combinations within Mass Comms & Documentation' ","'Disability declared' ",40
+2012 ,"'PP - Combinations within Mass Comms & Documentation' ","'No disability declared' ",710
+2012 ,"'Q1 - Linguistics' ","'Disability declared' ",25
+2012 ,"'Q1 - Linguistics' ","'No disability declared' ",430
+2012 ,"'Q2 - Comparative Literary studies' ","'Disability declared' ",10
+2012 ,"'Q2 - Comparative Literary studies' ","'No disability declared' ",105
+2012 ,"'Q3 - English studies' ","'Disability declared' ",540
+2012 ,"'Q3 - English studies' ","'No disability declared' ",8450
+2012 ,"'Q4 - Ancient Language studies' ","'No disability declared' ",5
+2012 ,"'Q5 - Celtic studies' ","'Disability declared' ",5
+2012 ,"'Q5 - Celtic studies' ","'No disability declared' ",140
+2012 ,"'Q6 - Latin studies' ","'No disability declared' ",10
+2012 ,"'Q7 - Classical Greek studies' ","'No disability declared' ",5
+2012 ,"'Q8 - Classical studies' ","'Disability declared' ",60
+2012 ,"'Q8 - Classical studies' ","'No disability declared' ",700
+2012 ,"'Q9 - Others in Linguistics,Classics & related' ","'No disability declared' ",70
+2012 ,"'QQ - Combinations within Linguistics,Classics & related' ","'Disability declared' ",55
+2012 ,"'QQ - Combinations within Linguistics,Classics & related' ","'No disability declared' ",665
+2012 ,"'R1 - French studies' ","'Disability declared' ",25
+2012 ,"'R1 - French studies' ","'No disability declared' ",520
+2012 ,"'R2 - German studies' ","'Disability declared' ",15
+2012 ,"'R2 - German studies' ","'No disability declared' ",165
+2012 ,"'R3 - Italian studies' ","'Disability declared' ",5
+2012 ,"'R3 - Italian studies' ","'No disability declared' ",35
+2012 ,"'R4 - Spanish studies' ","'Disability declared' ",15
+2012 ,"'R4 - Spanish studies' ","'No disability declared' ",350
+2012 ,"'R5 - Portuguese studies' ","'No disability declared' ",5
+2012 ,"'R6 - Scandinavian studies' ","'No disability declared' ",10
+2012 ,"'R7 - Russian and East European studies' ","'Disability declared' ",5
+2012 ,"'R7 - Russian and East European studies' ","'No disability declared' ",45
+2012 ,"'R8 - European studies' ","'Disability declared' ",5
+2012 ,"'R8 - European studies' ","'No disability declared' ",70
+2012 ,"'R9 - Others in European Langs,Lit and related' ","'Disability declared' ",35
+2012 ,"'R9 - Others in European Langs,Lit and related' ","'No disability declared' ",810
+2012 ,"'RR - Combinations within European Langs,Lit and related' ","'Disability declared' ",60
+2012 ,"'RR - Combinations within European Langs,Lit and related' ","'No disability declared' ",1470
+2012 ,"'T1 - Chinese studies' ","'Disability declared' ",5
+2012 ,"'T1 - Chinese studies' ","'No disability declared' ",110
+2012 ,"'T2 - Japanese studies' ","'Disability declared' ",15
+2012 ,"'T2 - Japanese studies' ","'No disability declared' ",115
+2012 ,"'T3 - South Asian studies' ","'No disability declared' ",35
+2012 ,"'T4 - Other Asian studies' ","'No disability declared' ",20
+2012 ,"'T5 - African studies' ","'No disability declared' ",5
+2012 ,"'T6 - Modern Middle Eastern studies' ","'Disability declared' ",10
+2012 ,"'T6 - Modern Middle Eastern studies' ","'No disability declared' ",90
+2012 ,"'T7 - American studies' ","'Disability declared' ",35
+2012 ,"'T7 - American studies' ","'No disability declared' ",415
+2012 ,"'T9 - Others in non-European Langs, Lit & related' ","'Disability declared' ",5
+2012 ,"'T9 - Others in non-European Langs, Lit & related' ","'No disability declared' ",160
+2012 ,"'TT - Combinations within non-European Langs & related' ","'Disability declared' ",5
+2012 ,"'TT - Combinations within non-European Langs & related' ","'No disability declared' ",70
+2012 ,"'V1 - History by Period' ","'Disability declared' ",590
+2012 ,"'V1 - History by Period' ","'No disability declared' ",7720
+2012 ,"'V2 - History by Area' ","'Disability declared' ",10
+2012 ,"'V2 - History by Area' ","'No disability declared' ",80
+2012 ,"'V3 - History by Topic' ","'Disability declared' ",130
+2012 ,"'V3 - History by Topic' ","'No disability declared' ",825
+2012 ,"'V4 - Archaeology' ","'Disability declared' ",60
+2012 ,"'V4 - Archaeology' ","'No disability declared' ",400
+2012 ,"'V5 - Philosophy' ","'Disability declared' ",145
+2012 ,"'V5 - Philosophy' ","'No disability declared' ",1165
+2012 ,"'V6 - Theology and Religious studies' ","'Disability declared' ",130
+2012 ,"'V6 - Theology and Religious studies' ","'No disability declared' ",955
+2012 ,"'V7 - Heritage studies' ","'No disability declared' ",5
+2012 ,"'V9 - Others in Hist & Philosophical studies' ","'Disability declared' ",5
+2012 ,"'V9 - Others in Hist & Philosophical studies' ","'No disability declared' ",65
+2012 ,"'VV - Combinations within Hist & Philosophical studies' ","'Disability declared' ",140
+2012 ,"'VV - Combinations within Hist & Philosophical studies' ","'No disability declared' ",935
+2012 ,"'W1 - Fine Art' ","'Disability declared' ",625
+2012 ,"'W1 - Fine Art' ","'No disability declared' ",3295
+2012 ,"'W2 - Design studies' ","'Disability declared' ",1665
+2012 ,"'W2 - Design studies' ","'No disability declared' ",14005
+2012 ,"'W3 - Music' ","'Disability declared' ",495
+2012 ,"'W3 - Music' ","'No disability declared' ",4675
+2012 ,"'W4 - Drama' ","'Disability declared' ",780
+2012 ,"'W4 - Drama' ","'No disability declared' ",5965
+2012 ,"'W5 - Dance' ","'Disability declared' ",105
+2012 ,"'W5 - Dance' ","'No disability declared' ",1180
+2012 ,"'W6 - Cinematics and Photography' ","'Disability declared' ",875
+2012 ,"'W6 - Cinematics and Photography' ","'No disability declared' ",5945
+2012 ,"'W7 - Crafts' ","'Disability declared' ",75
+2012 ,"'W7 - Crafts' ","'No disability declared' ",320
+2012 ,"'W8 - Imaginative Writing' ","'Disability declared' ",90
+2012 ,"'W8 - Imaginative Writing' ","'No disability declared' ",550
+2012 ,"'W9 - Others in Creative Arts and Design' ","'Disability declared' ",100
+2012 ,"'W9 - Others in Creative Arts and Design' ","'No disability declared' ",560
+2012 ,"'WW - Combinations within Creative Arts and Design' ","'Disability declared' ",345
+2012 ,"'WW - Combinations within Creative Arts and Design' ","'No disability declared' ",2370
+2012 ,"'X1 - Training Teachers' ","'Disability declared' ",425
+2012 ,"'X1 - Training Teachers' ","'No disability declared' ",7005
+2012 ,"'X2 - Research and Study Skills in Education' ","'Disability declared' ",5
+2012 ,"'X2 - Research and Study Skills in Education' ","'No disability declared' ",60
+2012 ,"'X3 - Academic studies in Education' ","'Disability declared' ",600
+2012 ,"'X3 - Academic studies in Education' ","'No disability declared' ",7785
+2012 ,"'X9 - Others in Education' ","'Disability declared' ",20
+2012 ,"'X9 - Others in Education' ","'No disability declared' ",145
+2012 ,"'XX - Combinations within Education' ","'Disability declared' ",50
+2012 ,"'XX - Combinations within Education' ","'No disability declared' ",530
+2012 ,"'Y Combs of arts/humanities' ","'Disability declared' ",280
+2012 ,"'Y Combs of arts/humanities' ","'No disability declared' ",2650
+2012 ,"'Y Combs of engin/tech/building studies' ","'Disability declared' ",10
+2012 ,"'Y Combs of engin/tech/building studies' ","'No disability declared' ",185
+2012 ,"'Y Combs of engineering/technology' ","'Disability declared' ",25
+2012 ,"'Y Combs of engineering/technology' ","'No disability declared' ",205
+2012 ,"'Y Combs of languages' ","'Disability declared' ",60
+2012 ,"'Y Combs of languages' ","'No disability declared' ",1235
+2012 ,"'Y Combs of languages with arts/humanities' ","'Disability declared' ",400
+2012 ,"'Y Combs of languages with arts/humanities' ","'No disability declared' ",5670
+2012 ,"'Y Combs of med/bio/agric sciences' ","'Disability declared' ",245
+2012 ,"'Y Combs of med/bio/agric sciences' ","'No disability declared' ",3380
+2012 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'Disability declared' ",85
+2012 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'No disability declared' ",1170
+2012 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'Disability declared' ",210
+2012 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'No disability declared' ",1620
+2012 ,"'Y Combs of phys/math science with social studies/bus/law' ","'Disability declared' ",145
+2012 ,"'Y Combs of phys/math science with social studies/bus/law' ","'No disability declared' ",2270
+2012 ,"'Y Combs of phys/math/comp sciences' ","'Disability declared' ",75
+2012 ,"'Y Combs of phys/math/comp sciences' ","'No disability declared' ",775
+2012 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'Disability declared' ",525
+2012 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'No disability declared' ",6315
+2012 ,"'Y Combs of science/engineering with social studies/bus/law' ","'Disability declared' ",390
+2012 ,"'Y Combs of science/engineering with social studies/bus/law' ","'No disability declared' ",4360
+2012 ,"'Y Combs of sciences with engineering/technology' ","'Disability declared' ",80
+2012 ,"'Y Combs of sciences with engineering/technology' ","'No disability declared' ",1035
+2012 ,"'Y Combs of soc studies/law' ","'Disability declared' ",120
+2012 ,"'Y Combs of soc studies/law' ","'No disability declared' ",1925
+2012 ,"'Y Combs of soc studies/law with business' ","'Disability declared' ",90
+2012 ,"'Y Combs of soc studies/law with business' ","'No disability declared' ",1815
+2012 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'Disability declared' ",600
+2012 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'No disability declared' ",6805
+2012 ,"'Y Combs of social studies/bus/law with languages' ","'Disability declared' ",70
+2012 ,"'Y Combs of social studies/bus/law with languages' ","'No disability declared' ",1585
+2012 ,"'Z Combs of 3 subjects, or other general courses' ","'Disability declared' ",380
+2012 ,"'Z Combs of 3 subjects, or other general courses' ","'No disability declared' ",4285
+2013 ,"'A1 - Pre-clinical Medicine' ","'Disability declared' ",335
+2013 ,"'A1 - Pre-clinical Medicine' ","'No disability declared' ",6360
+2013 ,"'A2 - Pre-clinical Dentistry' ","'Disability declared' ",50
+2013 ,"'A2 - Pre-clinical Dentistry' ","'No disability declared' ",1060
+2013 ,"'A9 - Others in Medicine and Dentistry' ","'No disability declared' ",35
+2013 ,"'B1 - Anatomy,Physiology and Pathology' ","'Disability declared' ",230
+2013 ,"'B1 - Anatomy,Physiology and Pathology' ","'No disability declared' ",3325
+2013 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'Disability declared' ",140
+2013 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'No disability declared' ",3835
+2013 ,"'B3 - Complementary Medicine' ","'Disability declared' ",90
+2013 ,"'B3 - Complementary Medicine' ","'No disability declared' ",605
+2013 ,"'B4 - Nutrition' ","'Disability declared' ",85
+2013 ,"'B4 - Nutrition' ","'No disability declared' ",920
+2013 ,"'B5 - Ophthalmics' ","'Disability declared' ",30
+2013 ,"'B5 - Ophthalmics' ","'No disability declared' ",900
+2013 ,"'B6 - Aural and Oral Sciences' ","'Disability declared' ",45
+2013 ,"'B6 - Aural and Oral Sciences' ","'No disability declared' ",590
+2013 ,"'B7 - Nursing' ","'Disability declared' ",1680
+2013 ,"'B7 - Nursing' ","'No disability declared' ",22440
+2013 ,"'B8 - Medical Technology' ","'Disability declared' ",90
+2013 ,"'B8 - Medical Technology' ","'No disability declared' ",1660
+2013 ,"'B9 - Others in Subjects allied to Medicine' ","'Disability declared' ",660
+2013 ,"'B9 - Others in Subjects allied to Medicine' ","'No disability declared' ",8670
+2013 ,"'BB - Combinations within Subjects allied to Medicine' ","'Disability declared' ",15
+2013 ,"'BB - Combinations within Subjects allied to Medicine' ","'No disability declared' ",250
+2013 ,"'C1 - Biology' ","'Disability declared' ",480
+2013 ,"'C1 - Biology' ","'No disability declared' ",4955
+2013 ,"'C2 - Botany' ","'No disability declared' ",25
+2013 ,"'C3 - Zoology' ","'Disability declared' ",165
+2013 ,"'C3 - Zoology' ","'No disability declared' ",1485
+2013 ,"'C4 - Genetics' ","'Disability declared' ",20
+2013 ,"'C4 - Genetics' ","'No disability declared' ",320
+2013 ,"'C5 - Microbiology' ","'Disability declared' ",30
+2013 ,"'C5 - Microbiology' ","'No disability declared' ",290
+2013 ,"'C6 - Sport and Exercise Science' ","'Disability declared' ",745
+2013 ,"'C6 - Sport and Exercise Science' ","'No disability declared' ",11255
+2013 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'Disability declared' ",190
+2013 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'No disability declared' ",2755
+2013 ,"'C8 - Psychology' ","'Disability declared' ",1380
+2013 ,"'C8 - Psychology' ","'No disability declared' ",14860
+2013 ,"'C9 - Others in Biological Sciences' ","'Disability declared' ",70
+2013 ,"'C9 - Others in Biological Sciences' ","'No disability declared' ",1160
+2013 ,"'CC - Combinations within Biological Sciences' ","'Disability declared' ",40
+2013 ,"'CC - Combinations within Biological Sciences' ","'No disability declared' ",430
+2013 ,"'D1 - Pre-clinical Veterinary Medicine' ","'Disability declared' ",40
+2013 ,"'D1 - Pre-clinical Veterinary Medicine' ","'No disability declared' ",785
+2013 ,"'D3 - Animal Science' ","'Disability declared' ",275
+2013 ,"'D3 - Animal Science' ","'No disability declared' ",2130
+2013 ,"'D4 - Agriculture' ","'Disability declared' ",205
+2013 ,"'D4 - Agriculture' ","'No disability declared' ",1680
+2013 ,"'D5 - Forestry & arboriculture' ","'Disability declared' ",25
+2013 ,"'D5 - Forestry & arboriculture' ","'No disability declared' ",110
+2013 ,"'D6 - Food and Beverage studies' ","'Disability declared' ",55
+2013 ,"'D6 - Food and Beverage studies' ","'No disability declared' ",415
+2013 ,"'D7 - Agricultural Sciences' ","'Disability declared' ",15
+2013 ,"'D7 - Agricultural Sciences' ","'No disability declared' ",70
+2013 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'No disability declared' ",30
+2013 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'Disability declared' ",15
+2013 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'No disability declared' ",90
+2013 ,"'F1 - Chemistry' ","'Disability declared' ",275
+2013 ,"'F1 - Chemistry' ","'No disability declared' ",4070
+2013 ,"'F2 - Materials Science' ","'No disability declared' ",5
+2013 ,"'F3 - Physics' ","'Disability declared' ",355
+2013 ,"'F3 - Physics' ","'No disability declared' ",3895
+2013 ,"'F4 - Forensic and Archaeological Science' ","'Disability declared' ",190
+2013 ,"'F4 - Forensic and Archaeological Science' ","'No disability declared' ",1800
+2013 ,"'F5 - Astronomy' ","'Disability declared' ",15
+2013 ,"'F5 - Astronomy' ","'No disability declared' ",135
+2013 ,"'F6 - Geology' ","'Disability declared' ",155
+2013 ,"'F6 - Geology' ","'No disability declared' ",1455
+2013 ,"'F7 - Science of aquatic & terrestrial environments' ","'Disability declared' ",130
+2013 ,"'F7 - Science of aquatic & terrestrial environments' ","'No disability declared' ",1115
+2013 ,"'F8 - Physical geographical sciences' ","'Disability declared' ",285
+2013 ,"'F8 - Physical geographical sciences' ","'No disability declared' ",3085
+2013 ,"'F9 - Others in Physical Sciences' ","'Disability declared' ",5
+2013 ,"'F9 - Others in Physical Sciences' ","'No disability declared' ",105
+2013 ,"'FF - Combinations within Physical Sciences' ","'Disability declared' ",40
+2013 ,"'FF - Combinations within Physical Sciences' ","'No disability declared' ",465
+2013 ,"'G1 - Mathematics' ","'Disability declared' ",405
+2013 ,"'G1 - Mathematics' ","'No disability declared' ",6175
+2013 ,"'G2 - Operational Research' ","'Disability declared' ",10
+2013 ,"'G2 - Operational Research' ","'No disability declared' ",60
+2013 ,"'G3 - Statistics' ","'Disability declared' ",5
+2013 ,"'G3 - Statistics' ","'No disability declared' ",85
+2013 ,"'G9 - Others in Mathematical Sciences' ","'No disability declared' ",15
+2013 ,"'GG - Combinations within Mathematical Sciences' ","'Disability declared' ",15
+2013 ,"'GG - Combinations within Mathematical Sciences' ","'No disability declared' ",315
+2013 ,"'H1 - General Engineering' ","'Disability declared' ",225
+2013 ,"'H1 - General Engineering' ","'No disability declared' ",2885
+2013 ,"'H2 - Civil Engineering' ","'Disability declared' ",160
+2013 ,"'H2 - Civil Engineering' ","'No disability declared' ",2830
+2013 ,"'H3 - Mechanical Engineering' ","'Disability declared' ",390
+2013 ,"'H3 - Mechanical Engineering' ","'No disability declared' ",5410
+2013 ,"'H4 - Aerospace Engineering' ","'Disability declared' ",110
+2013 ,"'H4 - Aerospace Engineering' ","'No disability declared' ",1990
+2013 ,"'H5 - Naval Architecture' ","'Disability declared' ",10
+2013 ,"'H5 - Naval Architecture' ","'No disability declared' ",60
+2013 ,"'H6 - Electronic and Electrical Engineering' ","'Disability declared' ",335
+2013 ,"'H6 - Electronic and Electrical Engineering' ","'No disability declared' ",3090
+2013 ,"'H7 - Production and Manufacturing Engineering' ","'Disability declared' ",65
+2013 ,"'H7 - Production and Manufacturing Engineering' ","'No disability declared' ",510
+2013 ,"'H8 - Chemical,Process and Energy Engineering' ","'Disability declared' ",100
+2013 ,"'H8 - Chemical,Process and Energy Engineering' ","'No disability declared' ",1910
+2013 ,"'H9 - Others in Engineering' ","'No disability declared' ",15
+2013 ,"'HH - Combinations within Engineering' ","'Disability declared' ",40
+2013 ,"'HH - Combinations within Engineering' ","'No disability declared' ",530
+2013 ,"'I1 - Computer Science' ","'Disability declared' ",1225
+2013 ,"'I1 - Computer Science' ","'No disability declared' ",11595
+2013 ,"'I2 - Information Systems' ","'Disability declared' ",215
+2013 ,"'I2 - Information Systems' ","'No disability declared' ",2290
+2013 ,"'I3 - Software Engineering' ","'Disability declared' ",175
+2013 ,"'I3 - Software Engineering' ","'No disability declared' ",1725
+2013 ,"'I4 - Artificial Intelligence' ","'Disability declared' ",5
+2013 ,"'I4 - Artificial Intelligence' ","'No disability declared' ",40
+2013 ,"'I5 - Health Informatics' ","'No disability declared' ",5
+2013 ,"'I6 - Games' ","'Disability declared' ",110
+2013 ,"'I6 - Games' ","'No disability declared' ",710
+2013 ,"'I7 - Computer generated visual & audio effects' ","'Disability declared' ",10
+2013 ,"'I7 - Computer generated visual & audio effects' ","'No disability declared' ",65
+2013 ,"'I9 - Others in Computer Sciences' ","'Disability declared' ",10
+2013 ,"'I9 - Others in Computer Sciences' ","'No disability declared' ",105
+2013 ,"'II - Combinations in Computer Sciences' ","'Disability declared' ",140
+2013 ,"'II - Combinations in Computer Sciences' ","'No disability declared' ",1170
+2013 ,"'J1 - Minerals Technology' ","'No disability declared' ",35
+2013 ,"'J2 - Metallurgy' ","'No disability declared' ",10
+2013 ,"'J3 - Ceramics and Glass' ","'No disability declared' ",5
+2013 ,"'J4 - Polymers and Textiles' ","'Disability declared' ",10
+2013 ,"'J4 - Polymers and Textiles' ","'No disability declared' ",55
+2013 ,"'J5 - Materials Technology not otherwise spec' ","'Disability declared' ",20
+2013 ,"'J5 - Materials Technology not otherwise spec' ","'No disability declared' ",175
+2013 ,"'J6 - Maritime Technology' ","'Disability declared' ",20
+2013 ,"'J6 - Maritime Technology' ","'No disability declared' ",80
+2013 ,"'J7 - Biotechnology' ","'Disability declared' ",10
+2013 ,"'J7 - Biotechnology' ","'No disability declared' ",95
+2013 ,"'J9 - Others in Technology' ","'Disability declared' ",170
+2013 ,"'J9 - Others in Technology' ","'No disability declared' ",1440
+2013 ,"'JJ - Combinations within Technology' ","'No disability declared' ",5
+2013 ,"'K1 - Architecture' ","'Disability declared' ",240
+2013 ,"'K1 - Architecture' ","'No disability declared' ",2785
+2013 ,"'K2 - Building' ","'Disability declared' ",175
+2013 ,"'K2 - Building' ","'No disability declared' ",2155
+2013 ,"'K3 - Landscape & Garden Design' ","'Disability declared' ",20
+2013 ,"'K3 - Landscape & Garden Design' ","'No disability declared' ",155
+2013 ,"'K4 - Planning (Urban,Rural and Regional)' ","'Disability declared' ",35
+2013 ,"'K4 - Planning (Urban,Rural and Regional)' ","'No disability declared' ",410
+2013 ,"'K9 - Others in Architecture,Build & Plan' ","'No disability declared' ",5
+2013 ,"'KK - Combinations within Architecture,Build & Plan' ","'Disability declared' ",10
+2013 ,"'KK - Combinations within Architecture,Build & Plan' ","'No disability declared' ",150
+2013 ,"'L1 - Economics' ","'Disability declared' ",240
+2013 ,"'L1 - Economics' ","'No disability declared' ",5285
+2013 ,"'L2 - Politics' ","'Disability declared' ",380
+2013 ,"'L2 - Politics' ","'No disability declared' ",3980
+2013 ,"'L3 - Sociology' ","'Disability declared' ",415
+2013 ,"'L3 - Sociology' ","'No disability declared' ",4585
+2013 ,"'L4 - Social Policy' ","'Disability declared' ",155
+2013 ,"'L4 - Social Policy' ","'No disability declared' ",1385
+2013 ,"'L5 - Social Work' ","'Disability declared' ",1150
+2013 ,"'L5 - Social Work' ","'No disability declared' ",11235
+2013 ,"'L6 - Anthropology' ","'Disability declared' ",95
+2013 ,"'L6 - Anthropology' ","'No disability declared' ",865
+2013 ,"'L7 - Human and Social Geography' ","'Disability declared' ",230
+2013 ,"'L7 - Human and Social Geography' ","'No disability declared' ",2555
+2013 ,"'L8 - Development studies' ","'Disability declared' ",5
+2013 ,"'L8 - Development studies' ","'No disability declared' ",40
+2013 ,"'L9 - Others in Social Studies' ","'Disability declared' ",45
+2013 ,"'L9 - Others in Social Studies' ","'No disability declared' ",470
+2013 ,"'LL - Combinations within Social Studies' ","'Disability declared' ",210
+2013 ,"'LL - Combinations within Social Studies' ","'No disability declared' ",2185
+2013 ,"'M1 - Law by Area' ","'Disability declared' ",725
+2013 ,"'M1 - Law by Area' ","'No disability declared' ",13755
+2013 ,"'M2 - Law by Topic' ","'Disability declared' ",75
+2013 ,"'M2 - Law by Topic' ","'No disability declared' ",1180
+2013 ,"'M9 - Others in Law' ","'Disability declared' ",170
+2013 ,"'M9 - Others in Law' ","'No disability declared' ",2455
+2013 ,"'MM - Combinations within Law' ","'Disability declared' ",25
+2013 ,"'MM - Combinations within Law' ","'No disability declared' ",410
+2013 ,"'N1 - Business studies' ","'Disability declared' ",560
+2013 ,"'N1 - Business studies' ","'No disability declared' ",9230
+2013 ,"'N2 - Management studies' ","'Disability declared' ",605
+2013 ,"'N2 - Management studies' ","'No disability declared' ",8085
+2013 ,"'N3 - Finance' ","'Disability declared' ",45
+2013 ,"'N3 - Finance' ","'No disability declared' ",985
+2013 ,"'N4 - Accounting' ","'Disability declared' ",225
+2013 ,"'N4 - Accounting' ","'No disability declared' ",4850
+2013 ,"'N5 - Marketing' ","'Disability declared' ",220
+2013 ,"'N5 - Marketing' ","'No disability declared' ",3400
+2013 ,"'N6 - Human Resource Management' ","'Disability declared' ",25
+2013 ,"'N6 - Human Resource Management' ","'No disability declared' ",535
+2013 ,"'N7 - Office Skills' ","'Disability declared' ",5
+2013 ,"'N7 - Office Skills' ","'No disability declared' ",50
+2013 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'Disability declared' ",555
+2013 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'No disability declared' ",6980
+2013 ,"'N9 - Others in Business & Admin Studies' ","'Disability declared' ",25
+2013 ,"'N9 - Others in Business & Admin Studies' ","'No disability declared' ",410
+2013 ,"'NN - Combinations within Business & Admin Studies' ","'Disability declared' ",550
+2013 ,"'NN - Combinations within Business & Admin Studies' ","'No disability declared' ",10300
+2013 ,"'P1 - Information Services' ","'No disability declared' ",25
+2013 ,"'P2 - Publicity studies' ","'Disability declared' ",35
+2013 ,"'P2 - Publicity studies' ","'No disability declared' ",350
+2013 ,"'P3 - Media studies' ","'Disability declared' ",570
+2013 ,"'P3 - Media studies' ","'No disability declared' ",5300
+2013 ,"'P4 - Publishing' ","'No disability declared' ",40
+2013 ,"'P5 - Journalism' ","'Disability declared' ",165
+2013 ,"'P5 - Journalism' ","'No disability declared' ",2600
+2013 ,"'P9 - Others in Mass Comms & Documentation' ","'Disability declared' ",35
+2013 ,"'P9 - Others in Mass Comms & Documentation' ","'No disability declared' ",445
+2013 ,"'PP - Combinations within Mass Comms & Documentation' ","'Disability declared' ",45
+2013 ,"'PP - Combinations within Mass Comms & Documentation' ","'No disability declared' ",725
+2013 ,"'Q1 - Linguistics' ","'Disability declared' ",35
+2013 ,"'Q1 - Linguistics' ","'No disability declared' ",535
+2013 ,"'Q2 - Comparative Literary studies' ","'Disability declared' ",10
+2013 ,"'Q2 - Comparative Literary studies' ","'No disability declared' ",150
+2013 ,"'Q3 - English studies' ","'Disability declared' ",570
+2013 ,"'Q3 - English studies' ","'No disability declared' ",8540
+2013 ,"'Q4 - Ancient Language studies' ","'No disability declared' ",10
+2013 ,"'Q5 - Celtic studies' ","'Disability declared' ",10
+2013 ,"'Q5 - Celtic studies' ","'No disability declared' ",120
+2013 ,"'Q6 - Latin studies' ","'No disability declared' ",5
+2013 ,"'Q8 - Classical studies' ","'Disability declared' ",65
+2013 ,"'Q8 - Classical studies' ","'No disability declared' ",715
+2013 ,"'Q9 - Others in Linguistics,Classics & related' ","'Disability declared' ",5
+2013 ,"'Q9 - Others in Linguistics,Classics & related' ","'No disability declared' ",70
+2013 ,"'QQ - Combinations within Linguistics,Classics & related' ","'Disability declared' ",50
+2013 ,"'QQ - Combinations within Linguistics,Classics & related' ","'No disability declared' ",680
+2013 ,"'R1 - French studies' ","'Disability declared' ",20
+2013 ,"'R1 - French studies' ","'No disability declared' ",470
+2013 ,"'R2 - German studies' ","'Disability declared' ",15
+2013 ,"'R2 - German studies' ","'No disability declared' ",185
+2013 ,"'R3 - Italian studies' ","'No disability declared' ",20
+2013 ,"'R4 - Spanish studies' ","'Disability declared' ",20
+2013 ,"'R4 - Spanish studies' ","'No disability declared' ",345
+2013 ,"'R6 - Scandinavian studies' ","'No disability declared' ",5
+2013 ,"'R7 - Russian and East European studies' ","'No disability declared' ",45
+2013 ,"'R8 - European studies' ","'Disability declared' ",5
+2013 ,"'R8 - European studies' ","'No disability declared' ",85
+2013 ,"'R9 - Others in European Langs,Lit and related' ","'Disability declared' ",40
+2013 ,"'R9 - Others in European Langs,Lit and related' ","'No disability declared' ",845
+2013 ,"'RR - Combinations within European Langs,Lit and related' ","'Disability declared' ",70
+2013 ,"'RR - Combinations within European Langs,Lit and related' ","'No disability declared' ",1445
+2013 ,"'T1 - Chinese studies' ","'Disability declared' ",15
+2013 ,"'T1 - Chinese studies' ","'No disability declared' ",105
+2013 ,"'T2 - Japanese studies' ","'Disability declared' ",10
+2013 ,"'T2 - Japanese studies' ","'No disability declared' ",135
+2013 ,"'T3 - South Asian studies' ","'Disability declared' ",5
+2013 ,"'T3 - South Asian studies' ","'No disability declared' ",25
+2013 ,"'T4 - Other Asian studies' ","'Disability declared' ",5
+2013 ,"'T4 - Other Asian studies' ","'No disability declared' ",30
+2013 ,"'T5 - African studies' ","'No disability declared' ",10
+2013 ,"'T6 - Modern Middle Eastern studies' ","'Disability declared' ",5
+2013 ,"'T6 - Modern Middle Eastern studies' ","'No disability declared' ",100
+2013 ,"'T7 - American studies' ","'Disability declared' ",40
+2013 ,"'T7 - American studies' ","'No disability declared' ",410
+2013 ,"'T9 - Others in non-European Langs, Lit & related' ","'Disability declared' ",5
+2013 ,"'T9 - Others in non-European Langs, Lit & related' ","'No disability declared' ",155
+2013 ,"'TT - Combinations within non-European Langs & related' ","'No disability declared' ",60
+2013 ,"'V1 - History by Period' ","'Disability declared' ",720
+2013 ,"'V1 - History by Period' ","'No disability declared' ",8325
+2013 ,"'V2 - History by Area' ","'Disability declared' ",15
+2013 ,"'V2 - History by Area' ","'No disability declared' ",85
+2013 ,"'V3 - History by Topic' ","'Disability declared' ",125
+2013 ,"'V3 - History by Topic' ","'No disability declared' ",685
+2013 ,"'V4 - Archaeology' ","'Disability declared' ",65
+2013 ,"'V4 - Archaeology' ","'No disability declared' ",365
+2013 ,"'V5 - Philosophy' ","'Disability declared' ",150
+2013 ,"'V5 - Philosophy' ","'No disability declared' ",1255
+2013 ,"'V6 - Theology and Religious studies' ","'Disability declared' ",125
+2013 ,"'V6 - Theology and Religious studies' ","'No disability declared' ",900
+2013 ,"'V7 - Heritage studies' ","'No disability declared' ",5
+2013 ,"'V9 - Others in Hist & Philosophical studies' ","'Disability declared' ",20
+2013 ,"'V9 - Others in Hist & Philosophical studies' ","'No disability declared' ",70
+2013 ,"'VV - Combinations within Hist & Philosophical studies' ","'Disability declared' ",135
+2013 ,"'VV - Combinations within Hist & Philosophical studies' ","'No disability declared' ",1005
+2013 ,"'W1 - Fine Art' ","'Disability declared' ",675
+2013 ,"'W1 - Fine Art' ","'No disability declared' ",3510
+2013 ,"'W2 - Design studies' ","'Disability declared' ",1890
+2013 ,"'W2 - Design studies' ","'No disability declared' ",14270
+2013 ,"'W3 - Music' ","'Disability declared' ",790
+2013 ,"'W3 - Music' ","'No disability declared' ",6695
+2013 ,"'W4 - Drama' ","'Disability declared' ",990
+2013 ,"'W4 - Drama' ","'No disability declared' ",6330
+2013 ,"'W5 - Dance' ","'Disability declared' ",120
+2013 ,"'W5 - Dance' ","'No disability declared' ",1205
+2013 ,"'W6 - Cinematics and Photography' ","'Disability declared' ",1005
+2013 ,"'W6 - Cinematics and Photography' ","'No disability declared' ",5640
+2013 ,"'W7 - Crafts' ","'Disability declared' ",65
+2013 ,"'W7 - Crafts' ","'No disability declared' ",280
+2013 ,"'W8 - Imaginative Writing' ","'Disability declared' ",120
+2013 ,"'W8 - Imaginative Writing' ","'No disability declared' ",610
+2013 ,"'W9 - Others in Creative Arts and Design' ","'Disability declared' ",90
+2013 ,"'W9 - Others in Creative Arts and Design' ","'No disability declared' ",570
+2013 ,"'WW - Combinations within Creative Arts and Design' ","'Disability declared' ",305
+2013 ,"'WW - Combinations within Creative Arts and Design' ","'No disability declared' ",2100
+2013 ,"'X1 - Training Teachers' ","'Disability declared' ",430
+2013 ,"'X1 - Training Teachers' ","'No disability declared' ",6430
+2013 ,"'X2 - Research and Study Skills in Education' ","'Disability declared' ",10
+2013 ,"'X2 - Research and Study Skills in Education' ","'No disability declared' ",95
+2013 ,"'X3 - Academic studies in Education' ","'Disability declared' ",700
+2013 ,"'X3 - Academic studies in Education' ","'No disability declared' ",9110
+2013 ,"'X9 - Others in Education' ","'Disability declared' ",20
+2013 ,"'X9 - Others in Education' ","'No disability declared' ",200
+2013 ,"'XX - Combinations within Education' ","'Disability declared' ",50
+2013 ,"'XX - Combinations within Education' ","'No disability declared' ",560
+2013 ,"'Y Combs of arts/humanities' ","'Disability declared' ",270
+2013 ,"'Y Combs of arts/humanities' ","'No disability declared' ",2300
+2013 ,"'Y Combs of engin/tech/building studies' ","'Disability declared' ",10
+2013 ,"'Y Combs of engin/tech/building studies' ","'No disability declared' ",165
+2013 ,"'Y Combs of engineering/technology' ","'Disability declared' ",25
+2013 ,"'Y Combs of engineering/technology' ","'No disability declared' ",215
+2013 ,"'Y Combs of languages' ","'Disability declared' ",55
+2013 ,"'Y Combs of languages' ","'No disability declared' ",1230
+2013 ,"'Y Combs of languages with arts/humanities' ","'Disability declared' ",480
+2013 ,"'Y Combs of languages with arts/humanities' ","'No disability declared' ",5705
+2013 ,"'Y Combs of med/bio/agric sciences' ","'Disability declared' ",285
+2013 ,"'Y Combs of med/bio/agric sciences' ","'No disability declared' ",3565
+2013 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'Disability declared' ",120
+2013 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'No disability declared' ",1060
+2013 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'Disability declared' ",210
+2013 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'No disability declared' ",1555
+2013 ,"'Y Combs of phys/math science with social studies/bus/law' ","'Disability declared' ",180
+2013 ,"'Y Combs of phys/math science with social studies/bus/law' ","'No disability declared' ",2410
+2013 ,"'Y Combs of phys/math/comp sciences' ","'Disability declared' ",80
+2013 ,"'Y Combs of phys/math/comp sciences' ","'No disability declared' ",780
+2013 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'Disability declared' ",535
+2013 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'No disability declared' ",5805
+2013 ,"'Y Combs of science/engineering with social studies/bus/law' ","'Disability declared' ",370
+2013 ,"'Y Combs of science/engineering with social studies/bus/law' ","'No disability declared' ",4605
+2013 ,"'Y Combs of sciences with engineering/technology' ","'Disability declared' ",85
+2013 ,"'Y Combs of sciences with engineering/technology' ","'No disability declared' ",1015
+2013 ,"'Y Combs of soc studies/law' ","'Disability declared' ",130
+2013 ,"'Y Combs of soc studies/law' ","'No disability declared' ",1850
+2013 ,"'Y Combs of soc studies/law with business' ","'Disability declared' ",90
+2013 ,"'Y Combs of soc studies/law with business' ","'No disability declared' ",2020
+2013 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'Disability declared' ",700
+2013 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'No disability declared' ",6980
+2013 ,"'Y Combs of social studies/bus/law with languages' ","'Disability declared' ",100
+2013 ,"'Y Combs of social studies/bus/law with languages' ","'No disability declared' ",1560
+2013 ,"'Z Combs of 3 subjects, or other general courses' ","'Disability declared' ",440
+2013 ,"'Z Combs of 3 subjects, or other general courses' ","'No disability declared' ",4920
+2013 ,"'Z Other courses not elsewhere classified' ","'Disability declared' ",35
+2013 ,"'Z Other courses not elsewhere classified' ","'No disability declared' ",280
+2014 ,"'A1 - Pre-clinical Medicine' ","'Disability declared' ",360
+2014 ,"'A1 - Pre-clinical Medicine' ","'No disability declared' ",6460
+2014 ,"'A2 - Pre-clinical Dentistry' ","'Disability declared' ",55
+2014 ,"'A2 - Pre-clinical Dentistry' ","'No disability declared' ",955
+2014 ,"'A9 - Others in Medicine and Dentistry' ","'Disability declared' ",5
+2014 ,"'A9 - Others in Medicine and Dentistry' ","'No disability declared' ",40
+2014 ,"'B1 - Anatomy,Physiology and Pathology' ","'Disability declared' ",290
+2014 ,"'B1 - Anatomy,Physiology and Pathology' ","'No disability declared' ",3410
+2014 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'Disability declared' ",160
+2014 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'No disability declared' ",3695
+2014 ,"'B3 - Complementary Medicine' ","'Disability declared' ",80
+2014 ,"'B3 - Complementary Medicine' ","'No disability declared' ",645
+2014 ,"'B4 - Nutrition' ","'Disability declared' ",85
+2014 ,"'B4 - Nutrition' ","'No disability declared' ",1005
+2014 ,"'B5 - Ophthalmics' ","'Disability declared' ",40
+2014 ,"'B5 - Ophthalmics' ","'No disability declared' ",890
+2014 ,"'B6 - Aural and Oral Sciences' ","'Disability declared' ",40
+2014 ,"'B6 - Aural and Oral Sciences' ","'No disability declared' ",635
+2014 ,"'B7 - Nursing' ","'Disability declared' ",1935
+2014 ,"'B7 - Nursing' ","'No disability declared' ",24530
+2014 ,"'B8 - Medical Technology' ","'Disability declared' ",120
+2014 ,"'B8 - Medical Technology' ","'No disability declared' ",1615
+2014 ,"'B9 - Others in Subjects allied to Medicine' ","'Disability declared' ",805
+2014 ,"'B9 - Others in Subjects allied to Medicine' ","'No disability declared' ",8920
+2014 ,"'BB - Combinations within Subjects allied to Medicine' ","'Disability declared' ",15
+2014 ,"'BB - Combinations within Subjects allied to Medicine' ","'No disability declared' ",270
+2014 ,"'C1 - Biology' ","'Disability declared' ",515
+2014 ,"'C1 - Biology' ","'No disability declared' ",5290
+2014 ,"'C2 - Botany' ","'Disability declared' ",5
+2014 ,"'C2 - Botany' ","'No disability declared' ",20
+2014 ,"'C3 - Zoology' ","'Disability declared' ",175
+2014 ,"'C3 - Zoology' ","'No disability declared' ",1675
+2014 ,"'C4 - Genetics' ","'Disability declared' ",25
+2014 ,"'C4 - Genetics' ","'No disability declared' ",340
+2014 ,"'C5 - Microbiology' ","'Disability declared' ",30
+2014 ,"'C5 - Microbiology' ","'No disability declared' ",330
+2014 ,"'C6 - Sport and Exercise Science' ","'Disability declared' ",945
+2014 ,"'C6 - Sport and Exercise Science' ","'No disability declared' ",12670
+2014 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'Disability declared' ",230
+2014 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'No disability declared' ",2690
+2014 ,"'C8 - Psychology' ","'Disability declared' ",1645
+2014 ,"'C8 - Psychology' ","'No disability declared' ",16070
+2014 ,"'C9 - Others in Biological Sciences' ","'Disability declared' ",105
+2014 ,"'C9 - Others in Biological Sciences' ","'No disability declared' ",1310
+2014 ,"'CC - Combinations within Biological Sciences' ","'Disability declared' ",50
+2014 ,"'CC - Combinations within Biological Sciences' ","'No disability declared' ",495
+2014 ,"'D1 - Pre-clinical Veterinary Medicine' ","'Disability declared' ",45
+2014 ,"'D1 - Pre-clinical Veterinary Medicine' ","'No disability declared' ",860
+2014 ,"'D2 - Clinical Veterinary Medicine & Dentistry' ","'No disability declared' ",5
+2014 ,"'D3 - Animal Science' ","'Disability declared' ",345
+2014 ,"'D3 - Animal Science' ","'No disability declared' ",2090
+2014 ,"'D4 - Agriculture' ","'Disability declared' ",290
+2014 ,"'D4 - Agriculture' ","'No disability declared' ",1750
+2014 ,"'D5 - Forestry & arboriculture' ","'Disability declared' ",15
+2014 ,"'D5 - Forestry & arboriculture' ","'No disability declared' ",85
+2014 ,"'D6 - Food and Beverage studies' ","'Disability declared' ",65
+2014 ,"'D6 - Food and Beverage studies' ","'No disability declared' ",435
+2014 ,"'D7 - Agricultural Sciences' ","'Disability declared' ",15
+2014 ,"'D7 - Agricultural Sciences' ","'No disability declared' ",65
+2014 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'Disability declared' ",5
+2014 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'No disability declared' ",25
+2014 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'Disability declared' ",15
+2014 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'No disability declared' ",125
+2014 ,"'F1 - Chemistry' ","'Disability declared' ",335
+2014 ,"'F1 - Chemistry' ","'No disability declared' ",4365
+2014 ,"'F2 - Materials Science' ","'No disability declared' ",5
+2014 ,"'F3 - Physics' ","'Disability declared' ",425
+2014 ,"'F3 - Physics' ","'No disability declared' ",3900
+2014 ,"'F4 - Forensic and Archaeological Science' ","'Disability declared' ",205
+2014 ,"'F4 - Forensic and Archaeological Science' ","'No disability declared' ",1775
+2014 ,"'F5 - Astronomy' ","'Disability declared' ",15
+2014 ,"'F5 - Astronomy' ","'No disability declared' ",140
+2014 ,"'F6 - Geology' ","'Disability declared' ",180
+2014 ,"'F6 - Geology' ","'No disability declared' ",1600
+2014 ,"'F7 - Science of aquatic & terrestrial environments' ","'Disability declared' ",130
+2014 ,"'F7 - Science of aquatic & terrestrial environments' ","'No disability declared' ",1160
+2014 ,"'F8 - Physical geographical sciences' ","'Disability declared' ",255
+2014 ,"'F8 - Physical geographical sciences' ","'No disability declared' ",3010
+2014 ,"'F9 - Others in Physical Sciences' ","'Disability declared' ",5
+2014 ,"'F9 - Others in Physical Sciences' ","'No disability declared' ",45
+2014 ,"'FF - Combinations within Physical Sciences' ","'Disability declared' ",40
+2014 ,"'FF - Combinations within Physical Sciences' ","'No disability declared' ",485
+2014 ,"'G1 - Mathematics' ","'Disability declared' ",430
+2014 ,"'G1 - Mathematics' ","'No disability declared' ",6180
+2014 ,"'G2 - Operational Research' ","'Disability declared' ",5
+2014 ,"'G2 - Operational Research' ","'No disability declared' ",40
+2014 ,"'G3 - Statistics' ","'Disability declared' ",10
+2014 ,"'G3 - Statistics' ","'No disability declared' ",70
+2014 ,"'G9 - Others in Mathematical Sciences' ","'No disability declared' ",15
+2014 ,"'GG - Combinations within Mathematical Sciences' ","'Disability declared' ",25
+2014 ,"'GG - Combinations within Mathematical Sciences' ","'No disability declared' ",290
+2014 ,"'H1 - General Engineering' ","'Disability declared' ",315
+2014 ,"'H1 - General Engineering' ","'No disability declared' ",3465
+2014 ,"'H2 - Civil Engineering' ","'Disability declared' ",165
+2014 ,"'H2 - Civil Engineering' ","'No disability declared' ",2640
+2014 ,"'H3 - Mechanical Engineering' ","'Disability declared' ",425
+2014 ,"'H3 - Mechanical Engineering' ","'No disability declared' ",5645
+2014 ,"'H4 - Aerospace Engineering' ","'Disability declared' ",145
+2014 ,"'H4 - Aerospace Engineering' ","'No disability declared' ",2280
+2014 ,"'H5 - Naval Architecture' ","'Disability declared' ",5
+2014 ,"'H5 - Naval Architecture' ","'No disability declared' ",40
+2014 ,"'H6 - Electronic and Electrical Engineering' ","'Disability declared' ",300
+2014 ,"'H6 - Electronic and Electrical Engineering' ","'No disability declared' ",3050
+2014 ,"'H7 - Production and Manufacturing Engineering' ","'Disability declared' ",50
+2014 ,"'H7 - Production and Manufacturing Engineering' ","'No disability declared' ",465
+2014 ,"'H8 - Chemical,Process and Energy Engineering' ","'Disability declared' ",125
+2014 ,"'H8 - Chemical,Process and Energy Engineering' ","'No disability declared' ",2560
+2014 ,"'H9 - Others in Engineering' ","'No disability declared' ",50
+2014 ,"'HH - Combinations within Engineering' ","'Disability declared' ",65
+2014 ,"'HH - Combinations within Engineering' ","'No disability declared' ",535
+2014 ,"'I1 - Computer Science' ","'Disability declared' ",1310
+2014 ,"'I1 - Computer Science' ","'No disability declared' ",12515
+2014 ,"'I2 - Information Systems' ","'Disability declared' ",180
+2014 ,"'I2 - Information Systems' ","'No disability declared' ",2040
+2014 ,"'I3 - Software Engineering' ","'Disability declared' ",205
+2014 ,"'I3 - Software Engineering' ","'No disability declared' ",1700
+2014 ,"'I4 - Artificial Intelligence' ","'Disability declared' ",5
+2014 ,"'I4 - Artificial Intelligence' ","'No disability declared' ",55
+2014 ,"'I6 - Games' ","'Disability declared' ",275
+2014 ,"'I6 - Games' ","'No disability declared' ",1455
+2014 ,"'I7 - Computer generated visual & audio effects' ","'Disability declared' ",15
+2014 ,"'I7 - Computer generated visual & audio effects' ","'No disability declared' ",90
+2014 ,"'I9 - Others in Computer Sciences' ","'Disability declared' ",25
+2014 ,"'I9 - Others in Computer Sciences' ","'No disability declared' ",105
+2014 ,"'II - Combinations in Computer Sciences' ","'Disability declared' ",120
+2014 ,"'II - Combinations in Computer Sciences' ","'No disability declared' ",920
+2014 ,"'J1 - Minerals Technology' ","'No disability declared' ",35
+2014 ,"'J2 - Metallurgy' ","'No disability declared' ",10
+2014 ,"'J4 - Polymers and Textiles' ","'Disability declared' ",10
+2014 ,"'J4 - Polymers and Textiles' ","'No disability declared' ",35
+2014 ,"'J5 - Materials Technology not otherwise spec' ","'Disability declared' ",25
+2014 ,"'J5 - Materials Technology not otherwise spec' ","'No disability declared' ",185
+2014 ,"'J6 - Maritime Technology' ","'Disability declared' ",15
+2014 ,"'J6 - Maritime Technology' ","'No disability declared' ",85
+2014 ,"'J7 - Biotechnology' ","'Disability declared' ",10
+2014 ,"'J7 - Biotechnology' ","'No disability declared' ",80
+2014 ,"'J9 - Others in Technology' ","'Disability declared' ",210
+2014 ,"'J9 - Others in Technology' ","'No disability declared' ",1410
+2014 ,"'JJ - Combinations within Technology' ","'No disability declared' ",10
+2014 ,"'K1 - Architecture' ","'Disability declared' ",250
+2014 ,"'K1 - Architecture' ","'No disability declared' ",2770
+2014 ,"'K2 - Building' ","'Disability declared' ",195
+2014 ,"'K2 - Building' ","'No disability declared' ",2155
+2014 ,"'K3 - Landscape & Garden Design' ","'Disability declared' ",20
+2014 ,"'K3 - Landscape & Garden Design' ","'No disability declared' ",125
+2014 ,"'K4 - Planning (Urban,Rural and Regional)' ","'Disability declared' ",35
+2014 ,"'K4 - Planning (Urban,Rural and Regional)' ","'No disability declared' ",390
+2014 ,"'K9 - Others in Architecture,Build & Plan' ","'No disability declared' ",5
+2014 ,"'KK - Combinations within Architecture,Build & Plan' ","'Disability declared' ",15
+2014 ,"'KK - Combinations within Architecture,Build & Plan' ","'No disability declared' ",150
+2014 ,"'L1 - Economics' ","'Disability declared' ",245
+2014 ,"'L1 - Economics' ","'No disability declared' ",5520
+2014 ,"'L2 - Politics' ","'Disability declared' ",420
+2014 ,"'L2 - Politics' ","'No disability declared' ",4215
+2014 ,"'L3 - Sociology' ","'Disability declared' ",450
+2014 ,"'L3 - Sociology' ","'No disability declared' ",4860
+2014 ,"'L4 - Social Policy' ","'Disability declared' ",130
+2014 ,"'L4 - Social Policy' ","'No disability declared' ",1215
+2014 ,"'L5 - Social Work' ","'Disability declared' ",1225
+2014 ,"'L5 - Social Work' ","'No disability declared' ",11895
+2014 ,"'L6 - Anthropology' ","'Disability declared' ",125
+2014 ,"'L6 - Anthropology' ","'No disability declared' ",1235
+2014 ,"'L7 - Human and Social Geography' ","'Disability declared' ",220
+2014 ,"'L7 - Human and Social Geography' ","'No disability declared' ",2795
+2014 ,"'L8 - Development studies' ","'Disability declared' ",5
+2014 ,"'L8 - Development studies' ","'No disability declared' ",30
+2014 ,"'L9 - Others in Social Studies' ","'Disability declared' ",50
+2014 ,"'L9 - Others in Social Studies' ","'No disability declared' ",540
+2014 ,"'LL - Combinations within Social Studies' ","'Disability declared' ",240
+2014 ,"'LL - Combinations within Social Studies' ","'No disability declared' ",2270
+2014 ,"'M1 - Law by Area' ","'Disability declared' ",875
+2014 ,"'M1 - Law by Area' ","'No disability declared' ",13775
+2014 ,"'M2 - Law by Topic' ","'Disability declared' ",85
+2014 ,"'M2 - Law by Topic' ","'No disability declared' ",1105
+2014 ,"'M9 - Others in Law' ","'Disability declared' ",165
+2014 ,"'M9 - Others in Law' ","'No disability declared' ",2260
+2014 ,"'MM - Combinations within Law' ","'Disability declared' ",20
+2014 ,"'MM - Combinations within Law' ","'No disability declared' ",420
+2014 ,"'N1 - Business studies' ","'Disability declared' ",630
+2014 ,"'N1 - Business studies' ","'No disability declared' ",10340
+2014 ,"'N2 - Management studies' ","'Disability declared' ",540
+2014 ,"'N2 - Management studies' ","'No disability declared' ",8235
+2014 ,"'N3 - Finance' ","'Disability declared' ",80
+2014 ,"'N3 - Finance' ","'No disability declared' ",1205
+2014 ,"'N4 - Accounting' ","'Disability declared' ",245
+2014 ,"'N4 - Accounting' ","'No disability declared' ",4770
+2014 ,"'N5 - Marketing' ","'Disability declared' ",270
+2014 ,"'N5 - Marketing' ","'No disability declared' ",3540
+2014 ,"'N6 - Human Resource Management' ","'Disability declared' ",35
+2014 ,"'N6 - Human Resource Management' ","'No disability declared' ",580
+2014 ,"'N7 - Office Skills' ","'Disability declared' ",10
+2014 ,"'N7 - Office Skills' ","'No disability declared' ",70
+2014 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'Disability declared' ",645
+2014 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'No disability declared' ",7350
+2014 ,"'N9 - Others in Business & Admin Studies' ","'Disability declared' ",25
+2014 ,"'N9 - Others in Business & Admin Studies' ","'No disability declared' ",375
+2014 ,"'NN - Combinations within Business & Admin Studies' ","'Disability declared' ",605
+2014 ,"'NN - Combinations within Business & Admin Studies' ","'No disability declared' ",10575
+2014 ,"'P1 - Information Services' ","'Disability declared' ",5
+2014 ,"'P1 - Information Services' ","'No disability declared' ",45
+2014 ,"'P2 - Publicity studies' ","'Disability declared' ",15
+2014 ,"'P2 - Publicity studies' ","'No disability declared' ",355
+2014 ,"'P3 - Media studies' ","'Disability declared' ",800
+2014 ,"'P3 - Media studies' ","'No disability declared' ",5665
+2014 ,"'P4 - Publishing' ","'Disability declared' ",5
+2014 ,"'P4 - Publishing' ","'No disability declared' ",20
+2014 ,"'P5 - Journalism' ","'Disability declared' ",195
+2014 ,"'P5 - Journalism' ","'No disability declared' ",2685
+2014 ,"'P9 - Others in Mass Comms & Documentation' ","'Disability declared' ",35
+2014 ,"'P9 - Others in Mass Comms & Documentation' ","'No disability declared' ",410
+2014 ,"'PP - Combinations within Mass Comms & Documentation' ","'Disability declared' ",65
+2014 ,"'PP - Combinations within Mass Comms & Documentation' ","'No disability declared' ",735
+2014 ,"'Q1 - Linguistics' ","'Disability declared' ",35
+2014 ,"'Q1 - Linguistics' ","'No disability declared' ",485
+2014 ,"'Q2 - Comparative Literary studies' ","'Disability declared' ",15
+2014 ,"'Q2 - Comparative Literary studies' ","'No disability declared' ",175
+2014 ,"'Q3 - English studies' ","'Disability declared' ",715
+2014 ,"'Q3 - English studies' ","'No disability declared' ",8290
+2014 ,"'Q4 - Ancient Language studies' ","'Disability declared' ",5
+2014 ,"'Q4 - Ancient Language studies' ","'No disability declared' ",10
+2014 ,"'Q5 - Celtic studies' ","'Disability declared' ",10
+2014 ,"'Q5 - Celtic studies' ","'No disability declared' ",130
+2014 ,"'Q6 - Latin studies' ","'No disability declared' ",5
+2014 ,"'Q8 - Classical studies' ","'Disability declared' ",80
+2014 ,"'Q8 - Classical studies' ","'No disability declared' ",860
+2014 ,"'Q9 - Others in Linguistics,Classics & related' ","'Disability declared' ",10
+2014 ,"'Q9 - Others in Linguistics,Classics & related' ","'No disability declared' ",95
+2014 ,"'QQ - Combinations within Linguistics,Classics & related' ","'Disability declared' ",60
+2014 ,"'QQ - Combinations within Linguistics,Classics & related' ","'No disability declared' ",615
+2014 ,"'R1 - French studies' ","'Disability declared' ",25
+2014 ,"'R1 - French studies' ","'No disability declared' ",460
+2014 ,"'R2 - German studies' ","'Disability declared' ",15
+2014 ,"'R2 - German studies' ","'No disability declared' ",185
+2014 ,"'R3 - Italian studies' ","'No disability declared' ",30
+2014 ,"'R4 - Spanish studies' ","'Disability declared' ",15
+2014 ,"'R4 - Spanish studies' ","'No disability declared' ",280
+2014 ,"'R6 - Scandinavian studies' ","'No disability declared' ",5
+2014 ,"'R7 - Russian and East European studies' ","'No disability declared' ",40
+2014 ,"'R8 - European studies' ","'Disability declared' ",5
+2014 ,"'R8 - European studies' ","'No disability declared' ",80
+2014 ,"'R9 - Others in European Langs,Lit and related' ","'Disability declared' ",50
+2014 ,"'R9 - Others in European Langs,Lit and related' ","'No disability declared' ",840
+2014 ,"'RR - Combinations within European Langs,Lit and related' ","'Disability declared' ",70
+2014 ,"'RR - Combinations within European Langs,Lit and related' ","'No disability declared' ",1295
+2014 ,"'T1 - Chinese studies' ","'Disability declared' ",10
+2014 ,"'T1 - Chinese studies' ","'No disability declared' ",95
+2014 ,"'T2 - Japanese studies' ","'Disability declared' ",20
+2014 ,"'T2 - Japanese studies' ","'No disability declared' ",120
+2014 ,"'T3 - South Asian studies' ","'Disability declared' ",10
+2014 ,"'T3 - South Asian studies' ","'No disability declared' ",55
+2014 ,"'T4 - Other Asian studies' ","'No disability declared' ",20
+2014 ,"'T5 - African studies' ","'No disability declared' ",10
+2014 ,"'T6 - Modern Middle Eastern studies' ","'Disability declared' ",10
+2014 ,"'T6 - Modern Middle Eastern studies' ","'No disability declared' ",90
+2014 ,"'T7 - American studies' ","'Disability declared' ",40
+2014 ,"'T7 - American studies' ","'No disability declared' ",370
+2014 ,"'T9 - Others in non-European Langs, Lit & related' ","'Disability declared' ",15
+2014 ,"'T9 - Others in non-European Langs, Lit & related' ","'No disability declared' ",55
+2014 ,"'TT - Combinations within non-European Langs & related' ","'Disability declared' ",5
+2014 ,"'TT - Combinations within non-European Langs & related' ","'No disability declared' ",65
+2014 ,"'V1 - History by Period' ","'Disability declared' ",780
+2014 ,"'V1 - History by Period' ","'No disability declared' ",8555
+2014 ,"'V2 - History by Area' ","'Disability declared' ",5
+2014 ,"'V2 - History by Area' ","'No disability declared' ",80
+2014 ,"'V3 - History by Topic' ","'Disability declared' ",105
+2014 ,"'V3 - History by Topic' ","'No disability declared' ",770
+2014 ,"'V4 - Archaeology' ","'Disability declared' ",75
+2014 ,"'V4 - Archaeology' ","'No disability declared' ",320
+2014 ,"'V5 - Philosophy' ","'Disability declared' ",180
+2014 ,"'V5 - Philosophy' ","'No disability declared' ",1295
+2014 ,"'V6 - Theology and Religious studies' ","'Disability declared' ",110
+2014 ,"'V6 - Theology and Religious studies' ","'No disability declared' ",955
+2014 ,"'V7 - Heritage studies' ","'No disability declared' ",5
+2014 ,"'V9 - Others in Hist & Philosophical studies' ","'Disability declared' ",10
+2014 ,"'V9 - Others in Hist & Philosophical studies' ","'No disability declared' ",60
+2014 ,"'VV - Combinations within Hist & Philosophical studies' ","'Disability declared' ",130
+2014 ,"'VV - Combinations within Hist & Philosophical studies' ","'No disability declared' ",1020
+2014 ,"'W1 - Fine Art' ","'Disability declared' ",770
+2014 ,"'W1 - Fine Art' ","'No disability declared' ",3525
+2014 ,"'W2 - Design studies' ","'Disability declared' ",2160
+2014 ,"'W2 - Design studies' ","'No disability declared' ",14760
+2014 ,"'W3 - Music' ","'Disability declared' ",940
+2014 ,"'W3 - Music' ","'No disability declared' ",6840
+2014 ,"'W4 - Drama' ","'Disability declared' ",1075
+2014 ,"'W4 - Drama' ","'No disability declared' ",6590
+2014 ,"'W5 - Dance' ","'Disability declared' ",130
+2014 ,"'W5 - Dance' ","'No disability declared' ",1275
+2014 ,"'W6 - Cinematics and Photography' ","'Disability declared' ",985
+2014 ,"'W6 - Cinematics and Photography' ","'No disability declared' ",5525
+2014 ,"'W7 - Crafts' ","'Disability declared' ",80
+2014 ,"'W7 - Crafts' ","'No disability declared' ",260
+2014 ,"'W8 - Imaginative Writing' ","'Disability declared' ",155
+2014 ,"'W8 - Imaginative Writing' ","'No disability declared' ",625
+2014 ,"'W9 - Others in Creative Arts and Design' ","'Disability declared' ",75
+2014 ,"'W9 - Others in Creative Arts and Design' ","'No disability declared' ",470
+2014 ,"'WW - Combinations within Creative Arts and Design' ","'Disability declared' ",280
+2014 ,"'WW - Combinations within Creative Arts and Design' ","'No disability declared' ",1865
+2014 ,"'X1 - Training Teachers' ","'Disability declared' ",485
+2014 ,"'X1 - Training Teachers' ","'No disability declared' ",6645
+2014 ,"'X2 - Research and Study Skills in Education' ","'Disability declared' ",5
+2014 ,"'X2 - Research and Study Skills in Education' ","'No disability declared' ",90
+2014 ,"'X3 - Academic studies in Education' ","'Disability declared' ",775
+2014 ,"'X3 - Academic studies in Education' ","'No disability declared' ",9285
+2014 ,"'X9 - Others in Education' ","'Disability declared' ",30
+2014 ,"'X9 - Others in Education' ","'No disability declared' ",275
+2014 ,"'XX - Combinations within Education' ","'Disability declared' ",55
+2014 ,"'XX - Combinations within Education' ","'No disability declared' ",530
+2014 ,"'Y Combs of arts/humanities' ","'Disability declared' ",305
+2014 ,"'Y Combs of arts/humanities' ","'No disability declared' ",2190
+2014 ,"'Y Combs of engin/tech/building studies' ","'Disability declared' ",15
+2014 ,"'Y Combs of engin/tech/building studies' ","'No disability declared' ",190
+2014 ,"'Y Combs of engineering/technology' ","'Disability declared' ",20
+2014 ,"'Y Combs of engineering/technology' ","'No disability declared' ",190
+2014 ,"'Y Combs of languages' ","'Disability declared' ",90
+2014 ,"'Y Combs of languages' ","'No disability declared' ",1185
+2014 ,"'Y Combs of languages with arts/humanities' ","'Disability declared' ",490
+2014 ,"'Y Combs of languages with arts/humanities' ","'No disability declared' ",5315
+2014 ,"'Y Combs of med/bio/agric sciences' ","'Disability declared' ",315
+2014 ,"'Y Combs of med/bio/agric sciences' ","'No disability declared' ",3305
+2014 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'Disability declared' ",110
+2014 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'No disability declared' ",1005
+2014 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'Disability declared' ",175
+2014 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'No disability declared' ",1255
+2014 ,"'Y Combs of phys/math science with social studies/bus/law' ","'Disability declared' ",185
+2014 ,"'Y Combs of phys/math science with social studies/bus/law' ","'No disability declared' ",2435
+2014 ,"'Y Combs of phys/math/comp sciences' ","'Disability declared' ",95
+2014 ,"'Y Combs of phys/math/comp sciences' ","'No disability declared' ",790
+2014 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'Disability declared' ",470
+2014 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'No disability declared' ",4580
+2014 ,"'Y Combs of science/engineering with social studies/bus/law' ","'Disability declared' ",390
+2014 ,"'Y Combs of science/engineering with social studies/bus/law' ","'No disability declared' ",4035
+2014 ,"'Y Combs of sciences with engineering/technology' ","'Disability declared' ",100
+2014 ,"'Y Combs of sciences with engineering/technology' ","'No disability declared' ",1000
+2014 ,"'Y Combs of soc studies/law' ","'Disability declared' ",145
+2014 ,"'Y Combs of soc studies/law' ","'No disability declared' ",1845
+2014 ,"'Y Combs of soc studies/law with business' ","'Disability declared' ",115
+2014 ,"'Y Combs of soc studies/law with business' ","'No disability declared' ",1990
+2014 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'Disability declared' ",650
+2014 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'No disability declared' ",6190
+2014 ,"'Y Combs of social studies/bus/law with languages' ","'Disability declared' ",105
+2014 ,"'Y Combs of social studies/bus/law with languages' ","'No disability declared' ",1545
+2014 ,"'Z Combs of 3 subjects, or other general courses' ","'Disability declared' ",430
+2014 ,"'Z Combs of 3 subjects, or other general courses' ","'No disability declared' ",5015
+2014 ,"'Z Other courses not elsewhere classified' ","'No disability declared' ",5
+2015 ,"'A1 - Pre-clinical Medicine' ","'Disability declared' ",405
+2015 ,"'A1 - Pre-clinical Medicine' ","'No disability declared' ",6325
+2015 ,"'A2 - Pre-clinical Dentistry' ","'Disability declared' ",40
+2015 ,"'A2 - Pre-clinical Dentistry' ","'No disability declared' ",965
+2015 ,"'A9 - Others in Medicine and Dentistry' ","'Disability declared' ",5
+2015 ,"'A9 - Others in Medicine and Dentistry' ","'No disability declared' ",85
+2015 ,"'B1 - Anatomy,Physiology and Pathology' ","'Disability declared' ",350
+2015 ,"'B1 - Anatomy,Physiology and Pathology' ","'No disability declared' ",3490
+2015 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'Disability declared' ",165
+2015 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'No disability declared' ",3390
+2015 ,"'B3 - Complementary Medicine' ","'Disability declared' ",120
+2015 ,"'B3 - Complementary Medicine' ","'No disability declared' ",845
+2015 ,"'B4 - Nutrition' ","'Disability declared' ",115
+2015 ,"'B4 - Nutrition' ","'No disability declared' ",970
+2015 ,"'B5 - Ophthalmics' ","'Disability declared' ",30
+2015 ,"'B5 - Ophthalmics' ","'No disability declared' ",955
+2015 ,"'B6 - Aural and Oral Sciences' ","'Disability declared' ",70
+2015 ,"'B6 - Aural and Oral Sciences' ","'No disability declared' ",635
+2015 ,"'B7 - Nursing' ","'Disability declared' ",2210
+2015 ,"'B7 - Nursing' ","'No disability declared' ",24755
+2015 ,"'B8 - Medical Technology' ","'Disability declared' ",140
+2015 ,"'B8 - Medical Technology' ","'No disability declared' ",1665
+2015 ,"'B9 - Others in Subjects allied to Medicine' ","'Disability declared' ",885
+2015 ,"'B9 - Others in Subjects allied to Medicine' ","'No disability declared' ",8870
+2015 ,"'BB - Combinations within Subjects allied to Medicine' ","'Disability declared' ",25
+2015 ,"'BB - Combinations within Subjects allied to Medicine' ","'No disability declared' ",390
+2015 ,"'C1 - Biology' ","'Disability declared' ",605
+2015 ,"'C1 - Biology' ","'No disability declared' ",5635
+2015 ,"'C2 - Botany' ","'Disability declared' ",10
+2015 ,"'C2 - Botany' ","'No disability declared' ",25
+2015 ,"'C3 - Zoology' ","'Disability declared' ",210
+2015 ,"'C3 - Zoology' ","'No disability declared' ",1515
+2015 ,"'C4 - Genetics' ","'Disability declared' ",25
+2015 ,"'C4 - Genetics' ","'No disability declared' ",285
+2015 ,"'C5 - Microbiology' ","'Disability declared' ",50
+2015 ,"'C5 - Microbiology' ","'No disability declared' ",350
+2015 ,"'C6 - Sport and Exercise Science' ","'Disability declared' ",1055
+2015 ,"'C6 - Sport and Exercise Science' ","'No disability declared' ",13625
+2015 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'Disability declared' ",250
+2015 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'No disability declared' ",3215
+2015 ,"'C8 - Psychology' ","'Disability declared' ",1865
+2015 ,"'C8 - Psychology' ","'No disability declared' ",16625
+2015 ,"'C9 - Others in Biological Sciences' ","'Disability declared' ",125
+2015 ,"'C9 - Others in Biological Sciences' ","'No disability declared' ",1575
+2015 ,"'CC - Combinations within Biological Sciences' ","'Disability declared' ",60
+2015 ,"'CC - Combinations within Biological Sciences' ","'No disability declared' ",475
+2015 ,"'D1 - Pre-clinical Veterinary Medicine' ","'Disability declared' ",65
+2015 ,"'D1 - Pre-clinical Veterinary Medicine' ","'No disability declared' ",930
+2015 ,"'D2 - Clinical Veterinary Medicine & Dentistry' ","'No disability declared' ",5
+2015 ,"'D3 - Animal Science' ","'Disability declared' ",410
+2015 ,"'D3 - Animal Science' ","'No disability declared' ",2360
+2015 ,"'D4 - Agriculture' ","'Disability declared' ",350
+2015 ,"'D4 - Agriculture' ","'No disability declared' ",1920
+2015 ,"'D5 - Forestry & arboriculture' ","'Disability declared' ",20
+2015 ,"'D5 - Forestry & arboriculture' ","'No disability declared' ",80
+2015 ,"'D6 - Food and Beverage studies' ","'Disability declared' ",90
+2015 ,"'D6 - Food and Beverage studies' ","'No disability declared' ",590
+2015 ,"'D7 - Agricultural Sciences' ","'Disability declared' ",15
+2015 ,"'D7 - Agricultural Sciences' ","'No disability declared' ",45
+2015 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'No disability declared' ",20
+2015 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'Disability declared' ",10
+2015 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'No disability declared' ",90
+2015 ,"'F1 - Chemistry' ","'Disability declared' ",375
+2015 ,"'F1 - Chemistry' ","'No disability declared' ",4475
+2015 ,"'F2 - Materials Science' ","'Disability declared' ",5
+2015 ,"'F2 - Materials Science' ","'No disability declared' ",25
+2015 ,"'F3 - Physics' ","'Disability declared' ",440
+2015 ,"'F3 - Physics' ","'No disability declared' ",3885
+2015 ,"'F4 - Forensic and Archaeological Science' ","'Disability declared' ",235
+2015 ,"'F4 - Forensic and Archaeological Science' ","'No disability declared' ",1865
+2015 ,"'F5 - Astronomy' ","'Disability declared' ",30
+2015 ,"'F5 - Astronomy' ","'No disability declared' ",140
+2015 ,"'F6 - Geology' ","'Disability declared' ",165
+2015 ,"'F6 - Geology' ","'No disability declared' ",1535
+2015 ,"'F7 - Science of aquatic & terrestrial environments' ","'Disability declared' ",155
+2015 ,"'F7 - Science of aquatic & terrestrial environments' ","'No disability declared' ",1145
+2015 ,"'F8 - Physical geographical sciences' ","'Disability declared' ",275
+2015 ,"'F8 - Physical geographical sciences' ","'No disability declared' ",3350
+2015 ,"'F9 - Others in Physical Sciences' ","'Disability declared' ",10
+2015 ,"'F9 - Others in Physical Sciences' ","'No disability declared' ",75
+2015 ,"'FF - Combinations within Physical Sciences' ","'Disability declared' ",50
+2015 ,"'FF - Combinations within Physical Sciences' ","'No disability declared' ",595
+2015 ,"'G1 - Mathematics' ","'Disability declared' ",520
+2015 ,"'G1 - Mathematics' ","'No disability declared' ",6300
+2015 ,"'G2 - Operational Research' ","'Disability declared' ",5
+2015 ,"'G2 - Operational Research' ","'No disability declared' ",35
+2015 ,"'G3 - Statistics' ","'Disability declared' ",5
+2015 ,"'G3 - Statistics' ","'No disability declared' ",65
+2015 ,"'G9 - Others in Mathematical Sciences' ","'No disability declared' ",10
+2015 ,"'GG - Combinations within Mathematical Sciences' ","'Disability declared' ",25
+2015 ,"'GG - Combinations within Mathematical Sciences' ","'No disability declared' ",295
+2015 ,"'H1 - General Engineering' ","'Disability declared' ",325
+2015 ,"'H1 - General Engineering' ","'No disability declared' ",3765
+2015 ,"'H2 - Civil Engineering' ","'Disability declared' ",210
+2015 ,"'H2 - Civil Engineering' ","'No disability declared' ",2905
+2015 ,"'H3 - Mechanical Engineering' ","'Disability declared' ",510
+2015 ,"'H3 - Mechanical Engineering' ","'No disability declared' ",6180
+2015 ,"'H4 - Aerospace Engineering' ","'Disability declared' ",155
+2015 ,"'H4 - Aerospace Engineering' ","'No disability declared' ",2345
+2015 ,"'H5 - Naval Architecture' ","'Disability declared' ",10
+2015 ,"'H5 - Naval Architecture' ","'No disability declared' ",40
+2015 ,"'H6 - Electronic and Electrical Engineering' ","'Disability declared' ",335
+2015 ,"'H6 - Electronic and Electrical Engineering' ","'No disability declared' ",3195
+2015 ,"'H7 - Production and Manufacturing Engineering' ","'Disability declared' ",60
+2015 ,"'H7 - Production and Manufacturing Engineering' ","'No disability declared' ",500
+2015 ,"'H8 - Chemical,Process and Energy Engineering' ","'Disability declared' ",140
+2015 ,"'H8 - Chemical,Process and Energy Engineering' ","'No disability declared' ",2705
+2015 ,"'H9 - Others in Engineering' ","'Disability declared' ",5
+2015 ,"'H9 - Others in Engineering' ","'No disability declared' ",55
+2015 ,"'HH - Combinations within Engineering' ","'Disability declared' ",40
+2015 ,"'HH - Combinations within Engineering' ","'No disability declared' ",530
+2015 ,"'I1 - Computer Science' ","'Disability declared' ",1625
+2015 ,"'I1 - Computer Science' ","'No disability declared' ",13785
+2015 ,"'I2 - Information Systems' ","'Disability declared' ",210
+2015 ,"'I2 - Information Systems' ","'No disability declared' ",1990
+2015 ,"'I3 - Software Engineering' ","'Disability declared' ",230
+2015 ,"'I3 - Software Engineering' ","'No disability declared' ",1605
+2015 ,"'I4 - Artificial Intelligence' ","'Disability declared' ",5
+2015 ,"'I4 - Artificial Intelligence' ","'No disability declared' ",55
+2015 ,"'I5 - Health Informatics' ","'No disability declared' ",5
+2015 ,"'I6 - Games' ","'Disability declared' ",385
+2015 ,"'I6 - Games' ","'No disability declared' ",1765
+2015 ,"'I7 - Computer generated visual & audio effects' ","'Disability declared' ",15
+2015 ,"'I7 - Computer generated visual & audio effects' ","'No disability declared' ",95
+2015 ,"'I9 - Others in Computer Sciences' ","'Disability declared' ",25
+2015 ,"'I9 - Others in Computer Sciences' ","'No disability declared' ",140
+2015 ,"'II - Combinations in Computer Sciences' ","'Disability declared' ",115
+2015 ,"'II - Combinations in Computer Sciences' ","'No disability declared' ",850
+2015 ,"'J1 - Minerals Technology' ","'Disability declared' ",5
+2015 ,"'J1 - Minerals Technology' ","'No disability declared' ",15
+2015 ,"'J2 - Metallurgy' ","'No disability declared' ",5
+2015 ,"'J4 - Polymers and Textiles' ","'Disability declared' ",15
+2015 ,"'J4 - Polymers and Textiles' ","'No disability declared' ",60
+2015 ,"'J5 - Materials Technology not otherwise spec' ","'Disability declared' ",20
+2015 ,"'J5 - Materials Technology not otherwise spec' ","'No disability declared' ",185
+2015 ,"'J6 - Maritime Technology' ","'Disability declared' ",10
+2015 ,"'J6 - Maritime Technology' ","'No disability declared' ",65
+2015 ,"'J7 - Biotechnology' ","'Disability declared' ",10
+2015 ,"'J7 - Biotechnology' ","'No disability declared' ",115
+2015 ,"'J9 - Others in Technology' ","'Disability declared' ",165
+2015 ,"'J9 - Others in Technology' ","'No disability declared' ",1235
+2015 ,"'JJ - Combinations within Technology' ","'No disability declared' ",5
+2015 ,"'K1 - Architecture' ","'Disability declared' ",295
+2015 ,"'K1 - Architecture' ","'No disability declared' ",2900
+2015 ,"'K2 - Building' ","'Disability declared' ",225
+2015 ,"'K2 - Building' ","'No disability declared' ",2340
+2015 ,"'K3 - Landscape & Garden Design' ","'Disability declared' ",25
+2015 ,"'K3 - Landscape & Garden Design' ","'No disability declared' ",170
+2015 ,"'K4 - Planning (Urban,Rural and Regional)' ","'Disability declared' ",40
+2015 ,"'K4 - Planning (Urban,Rural and Regional)' ","'No disability declared' ",410
+2015 ,"'K9 - Others in Architecture,Build & Plan' ","'No disability declared' ",15
+2015 ,"'KK - Combinations within Architecture,Build & Plan' ","'Disability declared' ",10
+2015 ,"'KK - Combinations within Architecture,Build & Plan' ","'No disability declared' ",115
+2015 ,"'L1 - Economics' ","'Disability declared' ",320
+2015 ,"'L1 - Economics' ","'No disability declared' ",5865
+2015 ,"'L2 - Politics' ","'Disability declared' ",595
+2015 ,"'L2 - Politics' ","'No disability declared' ",4825
+2015 ,"'L3 - Sociology' ","'Disability declared' ",695
+2015 ,"'L3 - Sociology' ","'No disability declared' ",5885
+2015 ,"'L4 - Social Policy' ","'Disability declared' ",155
+2015 ,"'L4 - Social Policy' ","'No disability declared' ",1300
+2015 ,"'L5 - Social Work' ","'Disability declared' ",1420
+2015 ,"'L5 - Social Work' ","'No disability declared' ",12160
+2015 ,"'L6 - Anthropology' ","'Disability declared' ",145
+2015 ,"'L6 - Anthropology' ","'No disability declared' ",1275
+2015 ,"'L7 - Human and Social Geography' ","'Disability declared' ",265
+2015 ,"'L7 - Human and Social Geography' ","'No disability declared' ",2845
+2015 ,"'L8 - Development studies' ","'Disability declared' ",5
+2015 ,"'L8 - Development studies' ","'No disability declared' ",45
+2015 ,"'L9 - Others in Social Studies' ","'Disability declared' ",55
+2015 ,"'L9 - Others in Social Studies' ","'No disability declared' ",490
+2015 ,"'LL - Combinations within Social Studies' ","'Disability declared' ",260
+2015 ,"'LL - Combinations within Social Studies' ","'No disability declared' ",2310
+2015 ,"'M1 - Law by Area' ","'Disability declared' ",950
+2015 ,"'M1 - Law by Area' ","'No disability declared' ",14170
+2015 ,"'M2 - Law by Topic' ","'Disability declared' ",85
+2015 ,"'M2 - Law by Topic' ","'No disability declared' ",1265
+2015 ,"'M9 - Others in Law' ","'Disability declared' ",150
+2015 ,"'M9 - Others in Law' ","'No disability declared' ",2015
+2015 ,"'MM - Combinations within Law' ","'Disability declared' ",30
+2015 ,"'MM - Combinations within Law' ","'No disability declared' ",410
+2015 ,"'N1 - Business studies' ","'Disability declared' ",785
+2015 ,"'N1 - Business studies' ","'No disability declared' ",11590
+2015 ,"'N2 - Management studies' ","'Disability declared' ",695
+2015 ,"'N2 - Management studies' ","'No disability declared' ",8770
+2015 ,"'N3 - Finance' ","'Disability declared' ",70
+2015 ,"'N3 - Finance' ","'No disability declared' ",1255
+2015 ,"'N4 - Accounting' ","'Disability declared' ",280
+2015 ,"'N4 - Accounting' ","'No disability declared' ",5385
+2015 ,"'N5 - Marketing' ","'Disability declared' ",285
+2015 ,"'N5 - Marketing' ","'No disability declared' ",3885
+2015 ,"'N6 - Human Resource Management' ","'Disability declared' ",55
+2015 ,"'N6 - Human Resource Management' ","'No disability declared' ",585
+2015 ,"'N7 - Office Skills' ","'Disability declared' ",5
+2015 ,"'N7 - Office Skills' ","'No disability declared' ",35
+2015 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'Disability declared' ",665
+2015 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'No disability declared' ",6940
+2015 ,"'N9 - Others in Business & Admin Studies' ","'Disability declared' ",15
+2015 ,"'N9 - Others in Business & Admin Studies' ","'No disability declared' ",360
+2015 ,"'NN - Combinations within Business & Admin Studies' ","'Disability declared' ",620
+2015 ,"'NN - Combinations within Business & Admin Studies' ","'No disability declared' ",10125
+2015 ,"'P1 - Information Services' ","'Disability declared' ",5
+2015 ,"'P1 - Information Services' ","'No disability declared' ",35
+2015 ,"'P2 - Publicity studies' ","'Disability declared' ",25
+2015 ,"'P2 - Publicity studies' ","'No disability declared' ",325
+2015 ,"'P3 - Media studies' ","'Disability declared' ",865
+2015 ,"'P3 - Media studies' ","'No disability declared' ",5735
+2015 ,"'P4 - Publishing' ","'Disability declared' ",5
+2015 ,"'P4 - Publishing' ","'No disability declared' ",20
+2015 ,"'P5 - Journalism' ","'Disability declared' ",230
+2015 ,"'P5 - Journalism' ","'No disability declared' ",2785
+2015 ,"'P9 - Others in Mass Comms & Documentation' ","'Disability declared' ",30
+2015 ,"'P9 - Others in Mass Comms & Documentation' ","'No disability declared' ",460
+2015 ,"'PP - Combinations within Mass Comms & Documentation' ","'Disability declared' ",65
+2015 ,"'PP - Combinations within Mass Comms & Documentation' ","'No disability declared' ",640
+2015 ,"'Q1 - Linguistics' ","'Disability declared' ",50
+2015 ,"'Q1 - Linguistics' ","'No disability declared' ",420
+2015 ,"'Q2 - Comparative Literary studies' ","'Disability declared' ",10
+2015 ,"'Q2 - Comparative Literary studies' ","'No disability declared' ",145
+2015 ,"'Q3 - English studies' ","'Disability declared' ",785
+2015 ,"'Q3 - English studies' ","'No disability declared' ",8190
+2015 ,"'Q4 - Ancient Language studies' ","'No disability declared' ",10
+2015 ,"'Q5 - Celtic studies' ","'Disability declared' ",15
+2015 ,"'Q5 - Celtic studies' ","'No disability declared' ",150
+2015 ,"'Q6 - Latin studies' ","'No disability declared' ",15
+2015 ,"'Q8 - Classical studies' ","'Disability declared' ",115
+2015 ,"'Q8 - Classical studies' ","'No disability declared' ",835
+2015 ,"'Q9 - Others in Linguistics,Classics & related' ","'Disability declared' ",5
+2015 ,"'Q9 - Others in Linguistics,Classics & related' ","'No disability declared' ",90
+2015 ,"'QQ - Combinations within Linguistics,Classics & related' ","'Disability declared' ",55
+2015 ,"'QQ - Combinations within Linguistics,Classics & related' ","'No disability declared' ",615
+2015 ,"'R1 - French studies' ","'Disability declared' ",25
+2015 ,"'R1 - French studies' ","'No disability declared' ",375
+2015 ,"'R2 - German studies' ","'Disability declared' ",10
+2015 ,"'R2 - German studies' ","'No disability declared' ",150
+2015 ,"'R3 - Italian studies' ","'No disability declared' ",20
+2015 ,"'R4 - Spanish studies' ","'Disability declared' ",20
+2015 ,"'R4 - Spanish studies' ","'No disability declared' ",290
+2015 ,"'R6 - Scandinavian studies' ","'No disability declared' ",5
+2015 ,"'R7 - Russian and East European studies' ","'Disability declared' ",5
+2015 ,"'R7 - Russian and East European studies' ","'No disability declared' ",35
+2015 ,"'R8 - European studies' ","'Disability declared' ",10
+2015 ,"'R8 - European studies' ","'No disability declared' ",75
+2015 ,"'R9 - Others in European Langs,Lit and related' ","'Disability declared' ",60
+2015 ,"'R9 - Others in European Langs,Lit and related' ","'No disability declared' ",1055
+2015 ,"'RR - Combinations within European Langs,Lit and related' ","'Disability declared' ",75
+2015 ,"'RR - Combinations within European Langs,Lit and related' ","'No disability declared' ",1230
+2015 ,"'T1 - Chinese studies' ","'Disability declared' ",15
+2015 ,"'T1 - Chinese studies' ","'No disability declared' ",125
+2015 ,"'T2 - Japanese studies' ","'Disability declared' ",30
+2015 ,"'T2 - Japanese studies' ","'No disability declared' ",175
+2015 ,"'T3 - South Asian studies' ","'Disability declared' ",5
+2015 ,"'T3 - South Asian studies' ","'No disability declared' ",15
+2015 ,"'T4 - Other Asian studies' ","'Disability declared' ",10
+2015 ,"'T4 - Other Asian studies' ","'No disability declared' ",75
+2015 ,"'T5 - African studies' ","'No disability declared' ",5
+2015 ,"'T6 - Modern Middle Eastern studies' ","'Disability declared' ",5
+2015 ,"'T6 - Modern Middle Eastern studies' ","'No disability declared' ",70
+2015 ,"'T7 - American studies' ","'Disability declared' ",55
+2015 ,"'T7 - American studies' ","'No disability declared' ",415
+2015 ,"'T9 - Others in non-European Langs, Lit & related' ","'Disability declared' ",5
+2015 ,"'T9 - Others in non-European Langs, Lit & related' ","'No disability declared' ",85
+2015 ,"'TT - Combinations within non-European Langs & related' ","'Disability declared' ",5
+2015 ,"'TT - Combinations within non-European Langs & related' ","'No disability declared' ",45
+2015 ,"'V1 - History by Period' ","'Disability declared' ",860
+2015 ,"'V1 - History by Period' ","'No disability declared' ",8565
+2015 ,"'V2 - History by Area' ","'Disability declared' ",15
+2015 ,"'V2 - History by Area' ","'No disability declared' ",120
+2015 ,"'V3 - History by Topic' ","'Disability declared' ",125
+2015 ,"'V3 - History by Topic' ","'No disability declared' ",740
+2015 ,"'V4 - Archaeology' ","'Disability declared' ",80
+2015 ,"'V4 - Archaeology' ","'No disability declared' ",335
+2015 ,"'V5 - Philosophy' ","'Disability declared' ",200
+2015 ,"'V5 - Philosophy' ","'No disability declared' ",1390
+2015 ,"'V6 - Theology and Religious studies' ","'Disability declared' ",115
+2015 ,"'V6 - Theology and Religious studies' ","'No disability declared' ",880
+2015 ,"'V7 - Heritage studies' ","'Disability declared' ",5
+2015 ,"'V7 - Heritage studies' ","'No disability declared' ",10
+2015 ,"'V9 - Others in Hist & Philosophical studies' ","'Disability declared' ",10
+2015 ,"'V9 - Others in Hist & Philosophical studies' ","'No disability declared' ",60
+2015 ,"'VV - Combinations within Hist & Philosophical studies' ","'Disability declared' ",140
+2015 ,"'VV - Combinations within Hist & Philosophical studies' ","'No disability declared' ",970
+2015 ,"'W1 - Fine Art' ","'Disability declared' ",820
+2015 ,"'W1 - Fine Art' ","'No disability declared' ",3510
+2015 ,"'W2 - Design studies' ","'Disability declared' ",2345
+2015 ,"'W2 - Design studies' ","'No disability declared' ",14730
+2015 ,"'W3 - Music' ","'Disability declared' ",1115
+2015 ,"'W3 - Music' ","'No disability declared' ",7295
+2015 ,"'W4 - Drama' ","'Disability declared' ",1175
+2015 ,"'W4 - Drama' ","'No disability declared' ",6595
+2015 ,"'W5 - Dance' ","'Disability declared' ",140
+2015 ,"'W5 - Dance' ","'No disability declared' ",1190
+2015 ,"'W6 - Cinematics and Photography' ","'Disability declared' ",1235
+2015 ,"'W6 - Cinematics and Photography' ","'No disability declared' ",5980
+2015 ,"'W7 - Crafts' ","'Disability declared' ",85
+2015 ,"'W7 - Crafts' ","'No disability declared' ",260
+2015 ,"'W8 - Imaginative Writing' ","'Disability declared' ",170
+2015 ,"'W8 - Imaginative Writing' ","'No disability declared' ",595
+2015 ,"'W9 - Others in Creative Arts and Design' ","'Disability declared' ",100
+2015 ,"'W9 - Others in Creative Arts and Design' ","'No disability declared' ",490
+2015 ,"'WW - Combinations within Creative Arts and Design' ","'Disability declared' ",320
+2015 ,"'WW - Combinations within Creative Arts and Design' ","'No disability declared' ",1715
+2015 ,"'X1 - Training Teachers' ","'Disability declared' ",625
+2015 ,"'X1 - Training Teachers' ","'No disability declared' ",8245
+2015 ,"'X2 - Research and Study Skills in Education' ","'Disability declared' ",5
+2015 ,"'X2 - Research and Study Skills in Education' ","'No disability declared' ",75
+2015 ,"'X3 - Academic studies in Education' ","'Disability declared' ",945
+2015 ,"'X3 - Academic studies in Education' ","'No disability declared' ",9175
+2015 ,"'X9 - Others in Education' ","'Disability declared' ",20
+2015 ,"'X9 - Others in Education' ","'No disability declared' ",260
+2015 ,"'XX - Combinations within Education' ","'Disability declared' ",65
+2015 ,"'XX - Combinations within Education' ","'No disability declared' ",575
+2015 ,"'Y Combs of arts/humanities' ","'Disability declared' ",255
+2015 ,"'Y Combs of arts/humanities' ","'No disability declared' ",1750
+2015 ,"'Y Combs of engin/tech/building studies' ","'Disability declared' ",10
+2015 ,"'Y Combs of engin/tech/building studies' ","'No disability declared' ",135
+2015 ,"'Y Combs of engineering/technology' ","'Disability declared' ",20
+2015 ,"'Y Combs of engineering/technology' ","'No disability declared' ",155
+2015 ,"'Y Combs of languages' ","'Disability declared' ",85
+2015 ,"'Y Combs of languages' ","'No disability declared' ",1145
+2015 ,"'Y Combs of languages with arts/humanities' ","'Disability declared' ",550
+2015 ,"'Y Combs of languages with arts/humanities' ","'No disability declared' ",5250
+2015 ,"'Y Combs of med/bio/agric sciences' ","'Disability declared' ",325
+2015 ,"'Y Combs of med/bio/agric sciences' ","'No disability declared' ",3080
+2015 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'Disability declared' ",90
+2015 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'No disability declared' ",765
+2015 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'Disability declared' ",135
+2015 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'No disability declared' ",910
+2015 ,"'Y Combs of phys/math science with social studies/bus/law' ","'Disability declared' ",190
+2015 ,"'Y Combs of phys/math science with social studies/bus/law' ","'No disability declared' ",1995
+2015 ,"'Y Combs of phys/math/comp sciences' ","'Disability declared' ",90
+2015 ,"'Y Combs of phys/math/comp sciences' ","'No disability declared' ",760
+2015 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'Disability declared' ",345
+2015 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'No disability declared' ",3485
+2015 ,"'Y Combs of science/engineering with social studies/bus/law' ","'Disability declared' ",455
+2015 ,"'Y Combs of science/engineering with social studies/bus/law' ","'No disability declared' ",4205
+2015 ,"'Y Combs of sciences with engineering/technology' ","'Disability declared' ",100
+2015 ,"'Y Combs of sciences with engineering/technology' ","'No disability declared' ",780
+2015 ,"'Y Combs of soc studies/law' ","'Disability declared' ",140
+2015 ,"'Y Combs of soc studies/law' ","'No disability declared' ",1620
+2015 ,"'Y Combs of soc studies/law with business' ","'Disability declared' ",135
+2015 ,"'Y Combs of soc studies/law with business' ","'No disability declared' ",2580
+2015 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'Disability declared' ",725
+2015 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'No disability declared' ",6065
+2015 ,"'Y Combs of social studies/bus/law with languages' ","'Disability declared' ",110
+2015 ,"'Y Combs of social studies/bus/law with languages' ","'No disability declared' ",1760
+2015 ,"'Z Combs of 3 subjects, or other general courses' ","'Disability declared' ",480
+2015 ,"'Z Combs of 3 subjects, or other general courses' ","'No disability declared' ",4880
+2016 ,"'A1 - Pre-clinical Medicine' ","'Disability declared' ",430
+2016 ,"'A1 - Pre-clinical Medicine' ","'No disability declared' ",6385
+2016 ,"'A2 - Pre-clinical Dentistry' ","'Disability declared' ",60
+2016 ,"'A2 - Pre-clinical Dentistry' ","'No disability declared' ",955
+2016 ,"'A9 - Others in Medicine and Dentistry' ","'Disability declared' ",15
+2016 ,"'A9 - Others in Medicine and Dentistry' ","'No disability declared' ",140
+2016 ,"'B1 - Anatomy,Physiology and Pathology' ","'Disability declared' ",395
+2016 ,"'B1 - Anatomy,Physiology and Pathology' ","'No disability declared' ",3485
+2016 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'Disability declared' ",185
+2016 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ","'No disability declared' ",3450
+2016 ,"'B3 - Complementary Medicine' ","'Disability declared' ",100
+2016 ,"'B3 - Complementary Medicine' ","'No disability declared' ",830
+2016 ,"'B4 - Nutrition' ","'Disability declared' ",125
+2016 ,"'B4 - Nutrition' ","'No disability declared' ",1090
+2016 ,"'B5 - Ophthalmics' ","'Disability declared' ",40
+2016 ,"'B5 - Ophthalmics' ","'No disability declared' ",1030
+2016 ,"'B6 - Aural and Oral Sciences' ","'Disability declared' ",70
+2016 ,"'B6 - Aural and Oral Sciences' ","'No disability declared' ",595
+2016 ,"'B7 - Nursing' ","'Disability declared' ",2485
+2016 ,"'B7 - Nursing' ","'No disability declared' ",25830
+2016 ,"'B8 - Medical Technology' ","'Disability declared' ",160
+2016 ,"'B8 - Medical Technology' ","'No disability declared' ",1800
+2016 ,"'B9 - Others in Subjects allied to Medicine' ","'Disability declared' ",995
+2016 ,"'B9 - Others in Subjects allied to Medicine' ","'No disability declared' ",8970
+2016 ,"'BB - Combinations within Subjects allied to Medicine' ","'Disability declared' ",15
+2016 ,"'BB - Combinations within Subjects allied to Medicine' ","'No disability declared' ",265
+2016 ,"'C1 - Biology' ","'Disability declared' ",755
+2016 ,"'C1 - Biology' ","'No disability declared' ",5820
+2016 ,"'C2 - Botany' ","'Disability declared' ",5
+2016 ,"'C2 - Botany' ","'No disability declared' ",45
+2016 ,"'C3 - Zoology' ","'Disability declared' ",200
+2016 ,"'C3 - Zoology' ","'No disability declared' ",1475
+2016 ,"'C4 - Genetics' ","'Disability declared' ",25
+2016 ,"'C4 - Genetics' ","'No disability declared' ",320
+2016 ,"'C5 - Microbiology' ","'Disability declared' ",45
+2016 ,"'C5 - Microbiology' ","'No disability declared' ",375
+2016 ,"'C6 - Sport and Exercise Science' ","'Disability declared' ",1240
+2016 ,"'C6 - Sport and Exercise Science' ","'No disability declared' ",13675
+2016 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'Disability declared' ",310
+2016 ,"'C7 - Molecular Biology,Biophysics & Biochem' ","'No disability declared' ",3345
+2016 ,"'C8 - Psychology' ","'Disability declared' ",2130
+2016 ,"'C8 - Psychology' ","'No disability declared' ",17195
+2016 ,"'C9 - Others in Biological Sciences' ","'Disability declared' ",160
+2016 ,"'C9 - Others in Biological Sciences' ","'No disability declared' ",1575
+2016 ,"'CC - Combinations within Biological Sciences' ","'Disability declared' ",60
+2016 ,"'CC - Combinations within Biological Sciences' ","'No disability declared' ",455
+2016 ,"'D1 - Pre-clinical Veterinary Medicine' ","'Disability declared' ",80
+2016 ,"'D1 - Pre-clinical Veterinary Medicine' ","'No disability declared' ",920
+2016 ,"'D2 - Clinical Veterinary Medicine & Dentistry' ","'No disability declared' ",5
+2016 ,"'D3 - Animal Science' ","'Disability declared' ",430
+2016 ,"'D3 - Animal Science' ","'No disability declared' ",2220
+2016 ,"'D4 - Agriculture' ","'Disability declared' ",315
+2016 ,"'D4 - Agriculture' ","'No disability declared' ",1735
+2016 ,"'D5 - Forestry & arboriculture' ","'Disability declared' ",15
+2016 ,"'D5 - Forestry & arboriculture' ","'No disability declared' ",85
+2016 ,"'D6 - Food and Beverage studies' ","'Disability declared' ",80
+2016 ,"'D6 - Food and Beverage studies' ","'No disability declared' ",510
+2016 ,"'D7 - Agricultural Sciences' ","'Disability declared' ",5
+2016 ,"'D7 - Agricultural Sciences' ","'No disability declared' ",45
+2016 ,"'D9 - Others in Vet Sci,Ag & related subjects' ","'No disability declared' ",25
+2016 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'Disability declared' ",10
+2016 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ","'No disability declared' ",90
+2016 ,"'F1 - Chemistry' ","'Disability declared' ",395
+2016 ,"'F1 - Chemistry' ","'No disability declared' ",4225
+2016 ,"'F2 - Materials Science' ","'No disability declared' ",30
+2016 ,"'F3 - Physics' ","'Disability declared' ",430
+2016 ,"'F3 - Physics' ","'No disability declared' ",3565
+2016 ,"'F4 - Forensic and Archaeological Science' ","'Disability declared' ",280
+2016 ,"'F4 - Forensic and Archaeological Science' ","'No disability declared' ",1795
+2016 ,"'F5 - Astronomy' ","'Disability declared' ",30
+2016 ,"'F5 - Astronomy' ","'No disability declared' ",160
+2016 ,"'F6 - Geology' ","'Disability declared' ",185
+2016 ,"'F6 - Geology' ","'No disability declared' ",1290
+2016 ,"'F7 - Science of aquatic & terrestrial environments' ","'Disability declared' ",160
+2016 ,"'F7 - Science of aquatic & terrestrial environments' ","'No disability declared' ",1105
+2016 ,"'F8 - Physical geographical sciences' ","'Disability declared' ",345
+2016 ,"'F8 - Physical geographical sciences' ","'No disability declared' ",3245
+2016 ,"'F9 - Others in Physical Sciences' ","'Disability declared' ",10
+2016 ,"'F9 - Others in Physical Sciences' ","'No disability declared' ",110
+2016 ,"'FF - Combinations within Physical Sciences' ","'Disability declared' ",60
+2016 ,"'FF - Combinations within Physical Sciences' ","'No disability declared' ",625
+2016 ,"'G1 - Mathematics' ","'Disability declared' ",560
+2016 ,"'G1 - Mathematics' ","'No disability declared' ",6455
+2016 ,"'G2 - Operational Research' ","'Disability declared' ",5
+2016 ,"'G2 - Operational Research' ","'No disability declared' ",35
+2016 ,"'G3 - Statistics' ","'Disability declared' ",10
+2016 ,"'G3 - Statistics' ","'No disability declared' ",95
+2016 ,"'G9 - Others in Mathematical Sciences' ","'No disability declared' ",15
+2016 ,"'GG - Combinations within Mathematical Sciences' ","'Disability declared' ",30
+2016 ,"'GG - Combinations within Mathematical Sciences' ","'No disability declared' ",285
+2016 ,"'H1 - General Engineering' ","'Disability declared' ",315
+2016 ,"'H1 - General Engineering' ","'No disability declared' ",3695
+2016 ,"'H2 - Civil Engineering' ","'Disability declared' ",205
+2016 ,"'H2 - Civil Engineering' ","'No disability declared' ",3110
+2016 ,"'H3 - Mechanical Engineering' ","'Disability declared' ",540
+2016 ,"'H3 - Mechanical Engineering' ","'No disability declared' ",6210
+2016 ,"'H4 - Aerospace Engineering' ","'Disability declared' ",180
+2016 ,"'H4 - Aerospace Engineering' ","'No disability declared' ",2510
+2016 ,"'H5 - Naval Architecture' ","'Disability declared' ",10
+2016 ,"'H5 - Naval Architecture' ","'No disability declared' ",30
+2016 ,"'H6 - Electronic and Electrical Engineering' ","'Disability declared' ",330
+2016 ,"'H6 - Electronic and Electrical Engineering' ","'No disability declared' ",3180
+2016 ,"'H7 - Production and Manufacturing Engineering' ","'Disability declared' ",50
+2016 ,"'H7 - Production and Manufacturing Engineering' ","'No disability declared' ",430
+2016 ,"'H8 - Chemical,Process and Energy Engineering' ","'Disability declared' ",120
+2016 ,"'H8 - Chemical,Process and Energy Engineering' ","'No disability declared' ",2395
+2016 ,"'H9 - Others in Engineering' ","'Disability declared' ",5
+2016 ,"'H9 - Others in Engineering' ","'No disability declared' ",45
+2016 ,"'HH - Combinations within Engineering' ","'Disability declared' ",65
+2016 ,"'HH - Combinations within Engineering' ","'No disability declared' ",585
+2016 ,"'I1 - Computer Science' ","'Disability declared' ",1800
+2016 ,"'I1 - Computer Science' ","'No disability declared' ",13900
+2016 ,"'I2 - Information Systems' ","'Disability declared' ",155
+2016 ,"'I2 - Information Systems' ","'No disability declared' ",1805
+2016 ,"'I3 - Software Engineering' ","'Disability declared' ",250
+2016 ,"'I3 - Software Engineering' ","'No disability declared' ",1730
+2016 ,"'I4 - Artificial Intelligence' ","'Disability declared' ",5
+2016 ,"'I4 - Artificial Intelligence' ","'No disability declared' ",60
+2016 ,"'I5 - Health Informatics' ","'No disability declared' ",5
+2016 ,"'I6 - Games' ","'Disability declared' ",490
+2016 ,"'I6 - Games' ","'No disability declared' ",2055
+2016 ,"'I7 - Computer generated visual & audio effects' ","'Disability declared' ",25
+2016 ,"'I7 - Computer generated visual & audio effects' ","'No disability declared' ",130
+2016 ,"'I9 - Others in Computer Sciences' ","'Disability declared' ",20
+2016 ,"'I9 - Others in Computer Sciences' ","'No disability declared' ",165
+2016 ,"'II - Combinations in Computer Sciences' ","'Disability declared' ",95
+2016 ,"'II - Combinations in Computer Sciences' ","'No disability declared' ",785
+2016 ,"'J1 - Minerals Technology' ","'No disability declared' ",15
+2016 ,"'J3 - Ceramics and Glass' ","'No disability declared' ",10
+2016 ,"'J4 - Polymers and Textiles' ","'Disability declared' ",10
+2016 ,"'J4 - Polymers and Textiles' ","'No disability declared' ",55
+2016 ,"'J5 - Materials Technology not otherwise spec' ","'Disability declared' ",15
+2016 ,"'J5 - Materials Technology not otherwise spec' ","'No disability declared' ",150
+2016 ,"'J6 - Maritime Technology' ","'Disability declared' ",10
+2016 ,"'J6 - Maritime Technology' ","'No disability declared' ",80
+2016 ,"'J7 - Biotechnology' ","'Disability declared' ",15
+2016 ,"'J7 - Biotechnology' ","'No disability declared' ",125
+2016 ,"'J9 - Others in Technology' ","'Disability declared' ",175
+2016 ,"'J9 - Others in Technology' ","'No disability declared' ",1035
+2016 ,"'JJ - Combinations within Technology' ","'No disability declared' ",15
+2016 ,"'K1 - Architecture' ","'Disability declared' ",315
+2016 ,"'K1 - Architecture' ","'No disability declared' ",3150
+2016 ,"'K2 - Building' ","'Disability declared' ",220
+2016 ,"'K2 - Building' ","'No disability declared' ",2465
+2016 ,"'K3 - Landscape & Garden Design' ","'Disability declared' ",35
+2016 ,"'K3 - Landscape & Garden Design' ","'No disability declared' ",155
+2016 ,"'K4 - Planning (Urban,Rural and Regional)' ","'Disability declared' ",50
+2016 ,"'K4 - Planning (Urban,Rural and Regional)' ","'No disability declared' ",430
+2016 ,"'K9 - Others in Architecture,Build & Plan' ","'No disability declared' ",5
+2016 ,"'KK - Combinations within Architecture,Build & Plan' ","'Disability declared' ",10
+2016 ,"'KK - Combinations within Architecture,Build & Plan' ","'No disability declared' ",145
+2016 ,"'L1 - Economics' ","'Disability declared' ",340
+2016 ,"'L1 - Economics' ","'No disability declared' ",6315
+2016 ,"'L2 - Politics' ","'Disability declared' ",640
+2016 ,"'L2 - Politics' ","'No disability declared' ",5215
+2016 ,"'L3 - Sociology' ","'Disability declared' ",725
+2016 ,"'L3 - Sociology' ","'No disability declared' ",6375
+2016 ,"'L4 - Social Policy' ","'Disability declared' ",155
+2016 ,"'L4 - Social Policy' ","'No disability declared' ",1320
+2016 ,"'L5 - Social Work' ","'Disability declared' ",1445
+2016 ,"'L5 - Social Work' ","'No disability declared' ",11560
+2016 ,"'L6 - Anthropology' ","'Disability declared' ",185
+2016 ,"'L6 - Anthropology' ","'No disability declared' ",1445
+2016 ,"'L7 - Human and Social Geography' ","'Disability declared' ",300
+2016 ,"'L7 - Human and Social Geography' ","'No disability declared' ",2885
+2016 ,"'L8 - Development studies' ","'Disability declared' ",10
+2016 ,"'L8 - Development studies' ","'No disability declared' ",80
+2016 ,"'L9 - Others in Social Studies' ","'Disability declared' ",70
+2016 ,"'L9 - Others in Social Studies' ","'No disability declared' ",615
+2016 ,"'LL - Combinations within Social Studies' ","'Disability declared' ",270
+2016 ,"'LL - Combinations within Social Studies' ","'No disability declared' ",2245
+2016 ,"'M1 - Law by Area' ","'Disability declared' ",1095
+2016 ,"'M1 - Law by Area' ","'No disability declared' ",14665
+2016 ,"'M2 - Law by Topic' ","'Disability declared' ",100
+2016 ,"'M2 - Law by Topic' ","'No disability declared' ",1430
+2016 ,"'M9 - Others in Law' ","'Disability declared' ",160
+2016 ,"'M9 - Others in Law' ","'No disability declared' ",1985
+2016 ,"'MM - Combinations within Law' ","'Disability declared' ",35
+2016 ,"'MM - Combinations within Law' ","'No disability declared' ",365
+2016 ,"'N1 - Business studies' ","'Disability declared' ",820
+2016 ,"'N1 - Business studies' ","'No disability declared' ",11210
+2016 ,"'N2 - Management studies' ","'Disability declared' ",795
+2016 ,"'N2 - Management studies' ","'No disability declared' ",9925
+2016 ,"'N3 - Finance' ","'Disability declared' ",65
+2016 ,"'N3 - Finance' ","'No disability declared' ",1445
+2016 ,"'N4 - Accounting' ","'Disability declared' ",310
+2016 ,"'N4 - Accounting' ","'No disability declared' ",5560
+2016 ,"'N5 - Marketing' ","'Disability declared' ",335
+2016 ,"'N5 - Marketing' ","'No disability declared' ",4155
+2016 ,"'N6 - Human Resource Management' ","'Disability declared' ",40
+2016 ,"'N6 - Human Resource Management' ","'No disability declared' ",610
+2016 ,"'N7 - Office Skills' ","'No disability declared' ",15
+2016 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'Disability declared' ",780
+2016 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ","'No disability declared' ",6605
+2016 ,"'N9 - Others in Business & Admin Studies' ","'Disability declared' ",15
+2016 ,"'N9 - Others in Business & Admin Studies' ","'No disability declared' ",290
+2016 ,"'NN - Combinations within Business & Admin Studies' ","'Disability declared' ",610
+2016 ,"'NN - Combinations within Business & Admin Studies' ","'No disability declared' ",10180
+2016 ,"'P1 - Information Services' ","'No disability declared' ",30
+2016 ,"'P2 - Publicity studies' ","'Disability declared' ",20
+2016 ,"'P2 - Publicity studies' ","'No disability declared' ",260
+2016 ,"'P3 - Media studies' ","'Disability declared' ",1050
+2016 ,"'P3 - Media studies' ","'No disability declared' ",6260
+2016 ,"'P4 - Publishing' ","'Disability declared' ",10
+2016 ,"'P4 - Publishing' ","'No disability declared' ",50
+2016 ,"'P5 - Journalism' ","'Disability declared' ",235
+2016 ,"'P5 - Journalism' ","'No disability declared' ",2660
+2016 ,"'P9 - Others in Mass Comms & Documentation' ","'Disability declared' ",45
+2016 ,"'P9 - Others in Mass Comms & Documentation' ","'No disability declared' ",475
+2016 ,"'PP - Combinations within Mass Comms & Documentation' ","'Disability declared' ",70
+2016 ,"'PP - Combinations within Mass Comms & Documentation' ","'No disability declared' ",590
+2016 ,"'Q1 - Linguistics' ","'Disability declared' ",45
+2016 ,"'Q1 - Linguistics' ","'No disability declared' ",425
+2016 ,"'Q2 - Comparative Literary studies' ","'Disability declared' ",20
+2016 ,"'Q2 - Comparative Literary studies' ","'No disability declared' ",150
+2016 ,"'Q3 - English studies' ","'Disability declared' ",870
+2016 ,"'Q3 - English studies' ","'No disability declared' ",7730
+2016 ,"'Q4 - Ancient Language studies' ","'Disability declared' ",5
+2016 ,"'Q4 - Ancient Language studies' ","'No disability declared' ",5
+2016 ,"'Q5 - Celtic studies' ","'Disability declared' ",5
+2016 ,"'Q5 - Celtic studies' ","'No disability declared' ",80
+2016 ,"'Q6 - Latin studies' ","'No disability declared' ",10
+2016 ,"'Q8 - Classical studies' ","'Disability declared' ",120
+2016 ,"'Q8 - Classical studies' ","'No disability declared' ",875
+2016 ,"'Q9 - Others in Linguistics,Classics & related' ","'Disability declared' ",10
+2016 ,"'Q9 - Others in Linguistics,Classics & related' ","'No disability declared' ",120
+2016 ,"'QQ - Combinations within Linguistics,Classics & related' ","'Disability declared' ",65
+2016 ,"'QQ - Combinations within Linguistics,Classics & related' ","'No disability declared' ",635
+2016 ,"'R1 - French studies' ","'Disability declared' ",30
+2016 ,"'R1 - French studies' ","'No disability declared' ",325
+2016 ,"'R2 - German studies' ","'Disability declared' ",10
+2016 ,"'R2 - German studies' ","'No disability declared' ",140
+2016 ,"'R3 - Italian studies' ","'Disability declared' ",5
+2016 ,"'R3 - Italian studies' ","'No disability declared' ",15
+2016 ,"'R4 - Spanish studies' ","'Disability declared' ",25
+2016 ,"'R4 - Spanish studies' ","'No disability declared' ",300
+2016 ,"'R6 - Scandinavian studies' ","'No disability declared' ",10
+2016 ,"'R7 - Russian and East European studies' ","'No disability declared' ",35
+2016 ,"'R8 - European studies' ","'Disability declared' ",5
+2016 ,"'R8 - European studies' ","'No disability declared' ",70
+2016 ,"'R9 - Others in European Langs,Lit and related' ","'Disability declared' ",70
+2016 ,"'R9 - Others in European Langs,Lit and related' ","'No disability declared' ",915
+2016 ,"'RR - Combinations within European Langs,Lit and related' ","'Disability declared' ",70
+2016 ,"'RR - Combinations within European Langs,Lit and related' ","'No disability declared' ",1115
+2016 ,"'T1 - Chinese studies' ","'Disability declared' ",10
+2016 ,"'T1 - Chinese studies' ","'No disability declared' ",115
+2016 ,"'T2 - Japanese studies' ","'Disability declared' ",35
+2016 ,"'T2 - Japanese studies' ","'No disability declared' ",150
+2016 ,"'T3 - South Asian studies' ","'No disability declared' ",15
+2016 ,"'T4 - Other Asian studies' ","'Disability declared' ",15
+2016 ,"'T4 - Other Asian studies' ","'No disability declared' ",95
+2016 ,"'T5 - African studies' ","'No disability declared' ",5
+2016 ,"'T6 - Modern Middle Eastern studies' ","'Disability declared' ",5
+2016 ,"'T6 - Modern Middle Eastern studies' ","'No disability declared' ",75
+2016 ,"'T7 - American studies' ","'Disability declared' ",50
+2016 ,"'T7 - American studies' ","'No disability declared' ",330
+2016 ,"'T9 - Others in non-European Langs, Lit & related' ","'Disability declared' ",5
+2016 ,"'T9 - Others in non-European Langs, Lit & related' ","'No disability declared' ",70
+2016 ,"'TT - Combinations within non-European Langs & related' ","'Disability declared' ",5
+2016 ,"'TT - Combinations within non-European Langs & related' ","'No disability declared' ",40
+2016 ,"'V1 - History by Period' ","'Disability declared' ",965
+2016 ,"'V1 - History by Period' ","'No disability declared' ",8435
+2016 ,"'V2 - History by Area' ","'Disability declared' ",15
+2016 ,"'V2 - History by Area' ","'No disability declared' ",120
+2016 ,"'V3 - History by Topic' ","'Disability declared' ",130
+2016 ,"'V3 - History by Topic' ","'No disability declared' ",670
+2016 ,"'V4 - Archaeology' ","'Disability declared' ",80
+2016 ,"'V4 - Archaeology' ","'No disability declared' ",295
+2016 ,"'V5 - Philosophy' ","'Disability declared' ",240
+2016 ,"'V5 - Philosophy' ","'No disability declared' ",1400
+2016 ,"'V6 - Theology and Religious studies' ","'Disability declared' ",150
+2016 ,"'V6 - Theology and Religious studies' ","'No disability declared' ",955
+2016 ,"'V7 - Heritage studies' ","'Disability declared' ",5
+2016 ,"'V7 - Heritage studies' ","'No disability declared' ",10
+2016 ,"'V9 - Others in Hist & Philosophical studies' ","'Disability declared' ",15
+2016 ,"'V9 - Others in Hist & Philosophical studies' ","'No disability declared' ",80
+2016 ,"'VV - Combinations within Hist & Philosophical studies' ","'Disability declared' ",175
+2016 ,"'VV - Combinations within Hist & Philosophical studies' ","'No disability declared' ",925
+2016 ,"'W1 - Fine Art' ","'Disability declared' ",895
+2016 ,"'W1 - Fine Art' ","'No disability declared' ",3270
+2016 ,"'W2 - Design studies' ","'Disability declared' ",2510
+2016 ,"'W2 - Design studies' ","'No disability declared' ",14340
+2016 ,"'W3 - Music' ","'Disability declared' ",1225
+2016 ,"'W3 - Music' ","'No disability declared' ",7510
+2016 ,"'W4 - Drama' ","'Disability declared' ",1290
+2016 ,"'W4 - Drama' ","'No disability declared' ",6055
+2016 ,"'W5 - Dance' ","'Disability declared' ",130
+2016 ,"'W5 - Dance' ","'No disability declared' ",1130
+2016 ,"'W6 - Cinematics and Photography' ","'Disability declared' ",1295
+2016 ,"'W6 - Cinematics and Photography' ","'No disability declared' ",5585
+2016 ,"'W7 - Crafts' ","'Disability declared' ",60
+2016 ,"'W7 - Crafts' ","'No disability declared' ",230
+2016 ,"'W8 - Imaginative Writing' ","'Disability declared' ",160
+2016 ,"'W8 - Imaginative Writing' ","'No disability declared' ",605
+2016 ,"'W9 - Others in Creative Arts and Design' ","'Disability declared' ",115
+2016 ,"'W9 - Others in Creative Arts and Design' ","'No disability declared' ",525
+2016 ,"'WW - Combinations within Creative Arts and Design' ","'Disability declared' ",280
+2016 ,"'WW - Combinations within Creative Arts and Design' ","'No disability declared' ",1440
+2016 ,"'X1 - Training Teachers' ","'Disability declared' ",705
+2016 ,"'X1 - Training Teachers' ","'No disability declared' ",8335
+2016 ,"'X2 - Research and Study Skills in Education' ","'Disability declared' ",5
+2016 ,"'X2 - Research and Study Skills in Education' ","'No disability declared' ",20
+2016 ,"'X3 - Academic studies in Education' ","'Disability declared' ",965
+2016 ,"'X3 - Academic studies in Education' ","'No disability declared' ",8965
+2016 ,"'X9 - Others in Education' ","'Disability declared' ",25
+2016 ,"'X9 - Others in Education' ","'No disability declared' ",205
+2016 ,"'XX - Combinations within Education' ","'Disability declared' ",55
+2016 ,"'XX - Combinations within Education' ","'No disability declared' ",445
+2016 ,"'Y Combs of arts/humanities' ","'Disability declared' ",300
+2016 ,"'Y Combs of arts/humanities' ","'No disability declared' ",1640
+2016 ,"'Y Combs of engin/tech/building studies' ","'Disability declared' ",10
+2016 ,"'Y Combs of engin/tech/building studies' ","'No disability declared' ",145
+2016 ,"'Y Combs of engineering/technology' ","'Disability declared' ",20
+2016 ,"'Y Combs of engineering/technology' ","'No disability declared' ",170
+2016 ,"'Y Combs of languages' ","'Disability declared' ",110
+2016 ,"'Y Combs of languages' ","'No disability declared' ",1015
+2016 ,"'Y Combs of languages with arts/humanities' ","'Disability declared' ",650
+2016 ,"'Y Combs of languages with arts/humanities' ","'No disability declared' ",4765
+2016 ,"'Y Combs of med/bio/agric sciences' ","'Disability declared' ",335
+2016 ,"'Y Combs of med/bio/agric sciences' ","'No disability declared' ",2700
+2016 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'Disability declared' ",75
+2016 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ","'No disability declared' ",560
+2016 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'Disability declared' ",105
+2016 ,"'Y Combs of phys/math science with arts/humanities/languages' ","'No disability declared' ",750
+2016 ,"'Y Combs of phys/math science with social studies/bus/law' ","'Disability declared' ",180
+2016 ,"'Y Combs of phys/math science with social studies/bus/law' ","'No disability declared' ",1870
+2016 ,"'Y Combs of phys/math/comp sciences' ","'Disability declared' ",80
+2016 ,"'Y Combs of phys/math/comp sciences' ","'No disability declared' ",685
+2016 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'Disability declared' ",370
+2016 ,"'Y Combs of science/engineering with arts/humanities/languages' ","'No disability declared' ",2940
+2016 ,"'Y Combs of science/engineering with social studies/bus/law' ","'Disability declared' ",430
+2016 ,"'Y Combs of science/engineering with social studies/bus/law' ","'No disability declared' ",3905
+2016 ,"'Y Combs of sciences with engineering/technology' ","'Disability declared' ",90
+2016 ,"'Y Combs of sciences with engineering/technology' ","'No disability declared' ",810
+2016 ,"'Y Combs of soc studies/law' ","'Disability declared' ",140
+2016 ,"'Y Combs of soc studies/law' ","'No disability declared' ",1460
+2016 ,"'Y Combs of soc studies/law with business' ","'Disability declared' ",130
+2016 ,"'Y Combs of soc studies/law with business' ","'No disability declared' ",2630
+2016 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'Disability declared' ",705
+2016 ,"'Y Combs of social studies/bus/law with arts/humanities' ","'No disability declared' ",5670
+2016 ,"'Y Combs of social studies/bus/law with languages' ","'Disability declared' ",115
+2016 ,"'Y Combs of social studies/bus/law with languages' ","'No disability declared' ",1695
+2016 ,"'Z Combs of 3 subjects, or other general courses' ","'Disability declared' ",465
+2016 ,"'Z Combs of 3 subjects, or other general courses' ","'No disability declared' ",4420

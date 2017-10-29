@@ -1,0 +1,138 @@
+"Statistic:   Number of Applicants"
+"Variables:   Applicant Domicile (UK/EU/Not EU), Deadline"
+"Coverage:   Applied before June deadline"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR2_049_06.pdf"
+ 
+Cycle Year,Domicile Name,Deadline,Number of Applicants,
+2006,'UK','October Deadline',68750
+2006,'EU (excluding UK)','October Deadline',4825
+2006,'Not EU','October Deadline',8215
+2007,'UK','October Deadline',47925
+2007,'EU (excluding UK)','October Deadline',4700
+2007,'Not EU','October Deadline',7360
+2008,'UK','October Deadline',47800
+2008,'EU (excluding UK)','October Deadline',4920
+2008,'Not EU','October Deadline',7810
+2009,'UK','October Deadline',50365
+2009,'EU (excluding UK)','October Deadline',5540
+2009,'Not EU','October Deadline',8530
+2010,'UK','October Deadline',55550
+2010,'EU (excluding UK)','October Deadline',6805
+2010,'Not EU','October Deadline',9530
+2011,'UK','October Deadline',59180
+2011,'EU (excluding UK)','October Deadline',7190
+2011,'Not EU','October Deadline',10240
+2012,'UK','October Deadline',52090
+2012,'EU (excluding UK)','October Deadline',6520
+2012,'Not EU','October Deadline',11115
+2013,'UK','October Deadline',51090
+2013,'EU (excluding UK)','October Deadline',6630
+2013,'Not EU','October Deadline',11525
+2014,'UK','October Deadline',51740
+2014,'EU (excluding UK)','October Deadline',6940
+2014,'Not EU','October Deadline',12680
+2015,'UK','October Deadline',50505
+2015,'EU (excluding UK)','October Deadline',7100
+2015,'Not EU','October Deadline',12930
+2016,'UK','October Deadline',49970
+2016,'EU (excluding UK)','October Deadline',7760
+2016,'Not EU','October Deadline',13110
+2006,'UK','January Deadline',329275
+2006,'EU (excluding UK)','January Deadline',19060
+2006,'Not EU','January Deadline',23340
+2007,'UK','January Deadline',348415
+2007,'EU (excluding UK)','January Deadline',22070
+2007,'Not EU','January Deadline',24740
+2008,'UK','January Deadline',379565
+2008,'EU (excluding UK)','January Deadline',23495
+2008,'Not EU','January Deadline',27385
+2009,'UK','January Deadline',407680
+2009,'EU (excluding UK)','January Deadline',26725
+2009,'Not EU','January Deadline',29730
+2010,'UK','January Deadline',497995
+2010,'EU (excluding UK)','January Deadline',36535
+2010,'Not EU','January Deadline',35985
+2011,'UK','January Deadline',504980
+2011,'EU (excluding UK)','January Deadline',40790
+2011,'Not EU','January Deadline',37755
+2012,'UK','January Deadline',461180
+2012,'EU (excluding UK)','January Deadline',36205
+2012,'Not EU','January Deadline',42635
+2013,'UK','January Deadline',474310
+2013,'EU (excluding UK)','January Deadline',37990
+2013,'Not EU','January Deadline',46510
+2014,'UK','January Deadline',489935
+2014,'EU (excluding UK)','January Deadline',39780
+2014,'Not EU','January Deadline',50290
+2015,'UK','January Deadline',497550
+2015,'EU (excluding UK)','January Deadline',42720
+2015,'Not EU','January Deadline',52015
+2016,'UK','January Deadline',495935
+2016,'EU (excluding UK)','January Deadline',45220
+2016,'Not EU','January Deadline',52560
+2006,'UK','March Deadline',371125
+2006,'EU (excluding UK)','March Deadline',22740
+2006,'Not EU','March Deadline',30495
+2007,'UK','March Deadline',388485
+2007,'EU (excluding UK)','March Deadline',26000
+2007,'Not EU','March Deadline',31995
+2008,'UK','March Deadline',420510
+2008,'EU (excluding UK)','March Deadline',26645
+2008,'Not EU','March Deadline',34500
+2009,'UK','March Deadline',455720
+2009,'EU (excluding UK)','March Deadline',30865
+2009,'Not EU','March Deadline',37395
+2010,'UK','March Deadline',526715
+2010,'EU (excluding UK)','March Deadline',40650
+2010,'Not EU','March Deadline',42865
+2011,'UK','March Deadline',533680
+2011,'EU (excluding UK)','March Deadline',43795
+2011,'Not EU','March Deadline',45105
+2012,'UK','March Deadline',487015
+2012,'EU (excluding UK)','March Deadline',38545
+2012,'Not EU','March Deadline',50055
+2013,'UK','March Deadline',496545
+2013,'EU (excluding UK)','March Deadline',40025
+2013,'Not EU','March Deadline',53175
+2014,'UK','March Deadline',512660
+2014,'EU (excluding UK)','March Deadline',42090
+2014,'Not EU','March Deadline',57995
+2015,'UK','March Deadline',520880
+2015,'EU (excluding UK)','March Deadline',45270
+2015,'Not EU','March Deadline',60005
+2016,'UK','March Deadline',519035
+2016,'EU (excluding UK)','March Deadline',47865
+2016,'Not EU','March Deadline',59460
+2006,'UK','June Deadline',399785
+2006,'EU (excluding UK)','June Deadline',27815
+2006,'Not EU','June Deadline',41050
+2007,'UK','June Deadline',419425
+2007,'EU (excluding UK)','June Deadline',31355
+2007,'Not EU','June Deadline',42480
+2008,'UK','June Deadline',460125
+2008,'EU (excluding UK)','June Deadline',31970
+2008,'Not EU','June Deadline',46445
+2009,'UK','June Deadline',504520
+2009,'EU (excluding UK)','June Deadline',36895
+2009,'Not EU','June Deadline',49110
+2010,'UK','June Deadline',559565
+2010,'EU (excluding UK)','June Deadline',44975
+2010,'Not EU','June Deadline',54020
+2011,'UK','June Deadline',564120
+2011,'EU (excluding UK)','June Deadline',47560
+2011,'Not EU','June Deadline',56470
+2012,'UK','June Deadline',513970
+2012,'EU (excluding UK)','June Deadline',41475
+2012,'Not EU','June Deadline',61255
+2013,'UK','June Deadline',527670
+2013,'EU (excluding UK)','June Deadline',43295
+2013,'Not EU','June Deadline',64940
+2014,'UK','June Deadline',544580
+2014,'EU (excluding UK)','June Deadline',45385
+2014,'Not EU','June Deadline',69060
+2015,'UK','June Deadline',553590
+2015,'EU (excluding UK)','June Deadline',48925
+2015,'Not EU','June Deadline',70525
+2016,'UK','June Deadline',553740
+2016,'EU (excluding UK)','June Deadline',51845
+2016,'Not EU','June Deadline',69300

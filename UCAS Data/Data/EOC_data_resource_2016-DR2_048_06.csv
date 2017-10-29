@@ -1,0 +1,49 @@
+"Statistic:   Number of Applicants"
+"Coverage:   Applied before June deadline"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR2_048_06.pdf"
+ 
+Cycle Year,Deadline,Number of Applicants,
+2006,'October Deadline',81785
+2007,'October Deadline',59985
+2008,'October Deadline',60530
+2009,'October Deadline',64440
+2010,'October Deadline',71885
+2011,'October Deadline',76610
+2012,'October Deadline',69725
+2013,'October Deadline',69240
+2014,'October Deadline',71355
+2015,'October Deadline',70535
+2016,'October Deadline',70840
+2006,'January Deadline',371675
+2007,'January Deadline',395225
+2008,'January Deadline',430445
+2009,'January Deadline',464135
+2010,'January Deadline',570510
+2011,'January Deadline',583525
+2012,'January Deadline',540020
+2013,'January Deadline',558815
+2014,'January Deadline',580005
+2015,'January Deadline',592285
+2016,'January Deadline',593720
+2006,'March Deadline',424360
+2007,'March Deadline',446480
+2008,'March Deadline',481655
+2009,'March Deadline',523985
+2010,'March Deadline',610230
+2011,'March Deadline',622580
+2012,'March Deadline',575615
+2013,'March Deadline',589745
+2014,'March Deadline',612750
+2015,'March Deadline',626150
+2016,'March Deadline',626360
+2006,'June Deadline',468650
+2007,'June Deadline',493265
+2008,'June Deadline',538540
+2009,'June Deadline',590530
+2010,'June Deadline',658560
+2011,'June Deadline',668150
+2012,'June Deadline',616705
+2013,'June Deadline',635905
+2014,'June Deadline',659025
+2015,'June Deadline',673040
+2016,'June Deadline',674885

@@ -1,0 +1,226 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Provider Country 2016 , Age Band , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_007_01.pdf"
+ 
+Cycle Year,Provider Country 2016 , Age Band,Number of Acceptances,
+2006 ,"'England' ","'17 and under' ",3460
+2006 ,"'England' ","'18' ",169070
+2006 ,"'England' ","'19' ",58775
+2006 ,"'England' ","'20' ",24585
+2006 ,"'England' ","'21 and over' ",69365
+2006 ,"'Northern Ireland' ","'17 and under' ",85
+2006 ,"'Northern Ireland' ","'18' ",5925
+2006 ,"'Northern Ireland' ","'19' ",970
+2006 ,"'Northern Ireland' ","'20' ",415
+2006 ,"'Northern Ireland' ","'21 and over' ",1175
+2006 ,"'Scotland' ","'17 and under' ",1035
+2006 ,"'Scotland' ","'18' ",17975
+2006 ,"'Scotland' ","'19' ",4390
+2006 ,"'Scotland' ","'20' ",2850
+2006 ,"'Scotland' ","'21 and over' ",9065
+2006 ,"'Wales' ","'17 and under' ",110
+2006 ,"'Wales' ","'18' ",12455
+2006 ,"'Wales' ","'19' ",3310
+2006 ,"'Wales' ","'20' ",1355
+2006 ,"'Wales' ","'21 and over' ",4515
+2007 ,"'England' ","'17 and under' ",3695
+2007 ,"'England' ","'18' ",171200
+2007 ,"'England' ","'19' ",70730
+2007 ,"'England' ","'20' ",26640
+2007 ,"'England' ","'21 and over' ",72910
+2007 ,"'Northern Ireland' ","'17 and under' ",130
+2007 ,"'Northern Ireland' ","'18' ",6155
+2007 ,"'Northern Ireland' ","'19' ",1215
+2007 ,"'Northern Ireland' ","'20' ",455
+2007 ,"'Northern Ireland' ","'21 and over' ",1330
+2007 ,"'Scotland' ","'17 and under' ",1125
+2007 ,"'Scotland' ","'18' ",17470
+2007 ,"'Scotland' ","'19' ",5070
+2007 ,"'Scotland' ","'20' ",3150
+2007 ,"'Scotland' ","'21 and over' ",9660
+2007 ,"'Wales' ","'17 and under' ",155
+2007 ,"'Wales' ","'18' ",12220
+2007 ,"'Wales' ","'19' ",4080
+2007 ,"'Wales' ","'20' ",1475
+2007 ,"'Wales' ","'21 and over' ",4555
+2008 ,"'England' ","'17 and under' ",3775
+2008 ,"'England' ","'18' ",182570
+2008 ,"'England' ","'19' ",77490
+2008 ,"'England' ","'20' ",32110
+2008 ,"'England' ","'21 and over' ",86605
+2008 ,"'Northern Ireland' ","'17 and under' ",80
+2008 ,"'Northern Ireland' ","'18' ",6375
+2008 ,"'Northern Ireland' ","'19' ",1310
+2008 ,"'Northern Ireland' ","'20' ",565
+2008 ,"'Northern Ireland' ","'21 and over' ",1490
+2008 ,"'Scotland' ","'17 and under' ",1245
+2008 ,"'Scotland' ","'18' ",19075
+2008 ,"'Scotland' ","'19' ",5635
+2008 ,"'Scotland' ","'20' ",3520
+2008 ,"'Scotland' ","'21 and over' ",11140
+2008 ,"'Wales' ","'17 and under' ",150
+2008 ,"'Wales' ","'18' ",12635
+2008 ,"'Wales' ","'19' ",4195
+2008 ,"'Wales' ","'20' ",1745
+2008 ,"'Wales' ","'21 and over' ",4915
+2009 ,"'England' ","'17 and under' ",3925
+2009 ,"'England' ","'18' ",188250
+2009 ,"'England' ","'19' ",82600
+2009 ,"'England' ","'20' ",33315
+2009 ,"'England' ","'21 and over' ",94135
+2009 ,"'Northern Ireland' ","'17 and under' ",95
+2009 ,"'Northern Ireland' ","'18' ",6745
+2009 ,"'Northern Ireland' ","'19' ",1195
+2009 ,"'Northern Ireland' ","'20' ",615
+2009 ,"'Northern Ireland' ","'21 and over' ",1505
+2009 ,"'Scotland' ","'17 and under' ",1185
+2009 ,"'Scotland' ","'18' ",20065
+2009 ,"'Scotland' ","'19' ",6375
+2009 ,"'Scotland' ","'20' ",3850
+2009 ,"'Scotland' ","'21 and over' ",11585
+2009 ,"'Wales' ","'17 and under' ",145
+2009 ,"'Wales' ","'18' ",13775
+2009 ,"'Wales' ","'19' ",4765
+2009 ,"'Wales' ","'20' ",1970
+2009 ,"'Wales' ","'21 and over' ",5770
+2010 ,"'England' ","'17 and under' ",3765
+2010 ,"'England' ","'18' ",190450
+2010 ,"'England' ","'19' ",87595
+2010 ,"'England' ","'20' ",34760
+2010 ,"'England' ","'21 and over' ",93530
+2010 ,"'Northern Ireland' ","'17 and under' ",75
+2010 ,"'Northern Ireland' ","'18' ",6170
+2010 ,"'Northern Ireland' ","'19' ",1205
+2010 ,"'Northern Ireland' ","'20' ",565
+2010 ,"'Northern Ireland' ","'21 and over' ",1735
+2010 ,"'Scotland' ","'17 and under' ",950
+2010 ,"'Scotland' ","'18' ",19335
+2010 ,"'Scotland' ","'19' ",6415
+2010 ,"'Scotland' ","'20' ",3600
+2010 ,"'Scotland' ","'21 and over' ",12015
+2010 ,"'Wales' ","'17 and under' ",135
+2010 ,"'Wales' ","'18' ",12990
+2010 ,"'Wales' ","'19' ",4990
+2010 ,"'Wales' ","'20' ",1815
+2010 ,"'Wales' ","'21 and over' ",5235
+2011 ,"'England' ","'17 and under' ",3700
+2011 ,"'England' ","'18' ",196585
+2011 ,"'England' ","'19' ",92110
+2011 ,"'England' ","'20' ",34445
+2011 ,"'England' ","'21 and over' ",88230
+2011 ,"'Northern Ireland' ","'17 and under' ",80
+2011 ,"'Northern Ireland' ","'18' ",5785
+2011 ,"'Northern Ireland' ","'19' ",1370
+2011 ,"'Northern Ireland' ","'20' ",645
+2011 ,"'Northern Ireland' ","'21 and over' ",1670
+2011 ,"'Scotland' ","'17 and under' ",870
+2011 ,"'Scotland' ","'18' ",18305
+2011 ,"'Scotland' ","'19' ",6565
+2011 ,"'Scotland' ","'20' ",3630
+2011 ,"'Scotland' ","'21 and over' ",11795
+2011 ,"'Wales' ","'17 and under' ",130
+2011 ,"'Wales' ","'18' ",13825
+2011 ,"'Wales' ","'19' ",5035
+2011 ,"'Wales' ","'20' ",2005
+2011 ,"'Wales' ","'21 and over' ",5255
+2012 ,"'England' ","'17 and under' ",3815
+2012 ,"'England' ","'18' ",191355
+2012 ,"'England' ","'19' ",79655
+2012 ,"'England' ","'20' ",31815
+2012 ,"'England' ","'21 and over' ",82155
+2012 ,"'Northern Ireland' ","'17 and under' ",65
+2012 ,"'Northern Ireland' ","'18' ",6170
+2012 ,"'Northern Ireland' ","'19' ",1365
+2012 ,"'Northern Ireland' ","'20' ",700
+2012 ,"'Northern Ireland' ","'21 and over' ",1745
+2012 ,"'Scotland' ","'17 and under' ",970
+2012 ,"'Scotland' ","'18' ",19640
+2012 ,"'Scotland' ","'19' ",6915
+2012 ,"'Scotland' ","'20' ",3675
+2012 ,"'Scotland' ","'21 and over' ",10745
+2012 ,"'Wales' ","'17 and under' ",165
+2012 ,"'Wales' ","'18' ",12500
+2012 ,"'Wales' ","'19' ",4485
+2012 ,"'Wales' ","'20' ",1900
+2012 ,"'Wales' ","'21 and over' ",5080
+2013 ,"'England' ","'17 and under' ",4170
+2013 ,"'England' ","'18' ",199615
+2013 ,"'England' ","'19' ",91420
+2013 ,"'England' ","'20' ",34225
+2013 ,"'England' ","'21 and over' ",87140
+2013 ,"'Northern Ireland' ","'17 and under' ",65
+2013 ,"'Northern Ireland' ","'18' ",6370
+2013 ,"'Northern Ireland' ","'19' ",1655
+2013 ,"'Northern Ireland' ","'20' ",800
+2013 ,"'Northern Ireland' ","'21 and over' ",2075
+2013 ,"'Scotland' ","'17 and under' ",940
+2013 ,"'Scotland' ","'18' ",19740
+2013 ,"'Scotland' ","'19' ",6900
+2013 ,"'Scotland' ","'20' ",3945
+2013 ,"'Scotland' ","'21 and over' ",11030
+2013 ,"'Wales' ","'17 and under' ",175
+2013 ,"'Wales' ","'18' ",12715
+2013 ,"'Wales' ","'19' ",5195
+2013 ,"'Wales' ","'20' ",1990
+2013 ,"'Wales' ","'21 and over' ",5435
+2014 ,"'England' ","'17 and under' ",4675
+2014 ,"'England' ","'18' ",206150
+2014 ,"'England' ","'19' ",93740
+2014 ,"'England' ","'20' ",36405
+2014 ,"'England' ","'21 and over' ",92205
+2014 ,"'Northern Ireland' ","'17 and under' ",65
+2014 ,"'Northern Ireland' ","'18' ",6190
+2014 ,"'Northern Ireland' ","'19' ",1645
+2014 ,"'Northern Ireland' ","'20' ",885
+2014 ,"'Northern Ireland' ","'21 and over' ",2475
+2014 ,"'Scotland' ","'17 and under' ",860
+2014 ,"'Scotland' ","'18' ",19755
+2014 ,"'Scotland' ","'19' ",6880
+2014 ,"'Scotland' ","'20' ",4000
+2014 ,"'Scotland' ","'21 and over' ",10510
+2014 ,"'Wales' ","'17 and under' ",180
+2014 ,"'Wales' ","'18' ",12880
+2014 ,"'Wales' ","'19' ",5235
+2014 ,"'Wales' ","'20' ",2025
+2014 ,"'Wales' ","'21 and over' ",5615
+2015 ,"'England' ","'17 and under' ",5030
+2015 ,"'England' ","'18' ",219800
+2015 ,"'England' ","'19' ",96830
+2015 ,"'England' ","'20' ",35725
+2015 ,"'England' ","'21 and over' ",92630
+2015 ,"'Northern Ireland' ","'17 and under' ",45
+2015 ,"'Northern Ireland' ","'18' ",5555
+2015 ,"'Northern Ireland' ","'19' ",1530
+2015 ,"'Northern Ireland' ","'20' ",735
+2015 ,"'Northern Ireland' ","'21 and over' ",2305
+2015 ,"'Scotland' ","'17 and under' ",985
+2015 ,"'Scotland' ","'18' ",20130
+2015 ,"'Scotland' ","'19' ",7155
+2015 ,"'Scotland' ","'20' ",4175
+2015 ,"'Scotland' ","'21 and over' ",13940
+2015 ,"'Wales' ","'17 and under' ",190
+2015 ,"'Wales' ","'18' ",12790
+2015 ,"'Wales' ","'19' ",5335
+2015 ,"'Wales' ","'20' ",1890
+2015 ,"'Wales' ","'21 and over' ",5490
+2016 ,"'England' ","'17 and under' ",5110
+2016 ,"'England' ","'18' ",223100
+2016 ,"'England' ","'19' ",97385
+2016 ,"'England' ","'20' ",34845
+2016 ,"'England' ","'21 and over' ",90105
+2016 ,"'Northern Ireland' ","'17 and under' ",55
+2016 ,"'Northern Ireland' ","'18' ",5700
+2016 ,"'Northern Ireland' ","'19' ",1770
+2016 ,"'Northern Ireland' ","'20' ",865
+2016 ,"'Northern Ireland' ","'21 and over' ",2060
+2016 ,"'Scotland' ","'17 and under' ",1085
+2016 ,"'Scotland' ","'18' ",20685
+2016 ,"'Scotland' ","'19' ",7440
+2016 ,"'Scotland' ","'20' ",4270
+2016 ,"'Scotland' ","'21 and over' ",14410
+2016 ,"'Wales' ","'17 and under' ",190
+2016 ,"'Wales' ","'18' ",13430
+2016 ,"'Wales' ","'19' ",5255
+2016 ,"'Wales' ","'20' ",1915
+2016 ,"'Wales' ","'21 and over' ",5495

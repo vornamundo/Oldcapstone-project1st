@@ -1,0 +1,370 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Summary Level) , Disability Indicator , Cycle Year"
+"Coverage:   UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_023_01.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Disability Indicator,Number of Acceptances,
+2010 ,"'Group A Medicine and Dentistry' ","'Disability declared' ",355
+2010 ,"'Group A Medicine and Dentistry' ","'No disability declared' ",7865
+2010 ,"'Group B Subjects allied to Medicine' ","'Disability declared' ",2735
+2010 ,"'Group B Subjects allied to Medicine' ","'No disability declared' ",43920
+2010 ,"'Group C Biological Sciences' ","'Disability declared' ",2200
+2010 ,"'Group C Biological Sciences' ","'No disability declared' ",33405
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Disability declared' ",485
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'No disability declared' ",4740
+2010 ,"'Group F Physical Sciences' ","'Disability declared' ",1185
+2010 ,"'Group F Physical Sciences' ","'No disability declared' ",15095
+2010 ,"'Group G Mathematical Sciences' ","'Disability declared' ",325
+2010 ,"'Group G Mathematical Sciences' ","'No disability declared' ",6215
+2010 ,"'Group H Engineering' ","'Disability declared' ",1130
+2010 ,"'Group H Engineering' ","'No disability declared' ",17520
+2010 ,"'Group I Computer Sciences' ","'Disability declared' ",1425
+2010 ,"'Group I Computer Sciences' ","'No disability declared' ",16580
+2010 ,"'Group J Technologies' ","'Disability declared' ",255
+2010 ,"'Group J Technologies' ","'No disability declared' ",2500
+2010 ,"'Group K Architecture, Building and Planning' ","'Disability declared' ",485
+2010 ,"'Group K Architecture, Building and Planning' ","'No disability declared' ",7125
+2010 ,"'Group L Social Studies' ","'Disability declared' ",2275
+2010 ,"'Group L Social Studies' ","'No disability declared' ",30995
+2010 ,"'Group M Law' ","'Disability declared' ",730
+2010 ,"'Group M Law' ","'No disability declared' ",17165
+2010 ,"'Group N Business and Admin studies' ","'Disability declared' ",2120
+2010 ,"'Group N Business and Admin studies' ","'No disability declared' ",41965
+2010 ,"'Group P Mass Communication and Documentation' ","'Disability declared' ",605
+2010 ,"'Group P Mass Communication and Documentation' ","'No disability declared' ",9360
+2010 ,"'Group Q Linguistics, Classics and related' ","'Disability declared' ",605
+2010 ,"'Group Q Linguistics, Classics and related' ","'No disability declared' ",11260
+2010 ,"'Group R European Languages, Literature and related' ","'Disability declared' ",160
+2010 ,"'Group R European Languages, Literature and related' ","'No disability declared' ",4065
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Disability declared' ",90
+2010 ,"'Group T Non-European Languages, Literature and related' ","'No disability declared' ",1205
+2010 ,"'Group V History and Philosophical studies' ","'Disability declared' ",1090
+2010 ,"'Group V History and Philosophical studies' ","'No disability declared' ",13045
+2010 ,"'Group W Creative Arts and Design' ","'Disability declared' ",4735
+2010 ,"'Group W Creative Arts and Design' ","'No disability declared' ",42320
+2010 ,"'Group X Education' ","'Disability declared' ",875
+2010 ,"'Group X Education' ","'No disability declared' ",15040
+2010 ,"'Y Combined arts' ","'Disability declared' ",775
+2010 ,"'Y Combined arts' ","'No disability declared' ",11545
+2010 ,"'Y Combined sciences' ","'Disability declared' ",545
+2010 ,"'Y Combined sciences' ","'No disability declared' ",7085
+2010 ,"'Y Combined social sciences' ","'Disability declared' ",215
+2010 ,"'Y Combined social sciences' ","'No disability declared' ",4415
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Disability declared' ",1310
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'No disability declared' ",17850
+2010 ,"'Y Social Sciences combined with Arts' ","'Disability declared' ",715
+2010 ,"'Y Social Sciences combined with Arts' ","'No disability declared' ",9935
+2010 ,"'Z General, other combined and unknown' ","'Disability declared' ",285
+2010 ,"'Z General, other combined and unknown' ","'No disability declared' ",3535
+2011 ,"'Group A Medicine and Dentistry' ","'Disability declared' ",365
+2011 ,"'Group A Medicine and Dentistry' ","'No disability declared' ",7715
+2011 ,"'Group B Subjects allied to Medicine' ","'Disability declared' ",2655
+2011 ,"'Group B Subjects allied to Medicine' ","'No disability declared' ",42165
+2011 ,"'Group C Biological Sciences' ","'Disability declared' ",2350
+2011 ,"'Group C Biological Sciences' ","'No disability declared' ",34410
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Disability declared' ",575
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'No disability declared' ",5020
+2011 ,"'Group F Physical Sciences' ","'Disability declared' ",1205
+2011 ,"'Group F Physical Sciences' ","'No disability declared' ",15550
+2011 ,"'Group G Mathematical Sciences' ","'Disability declared' ",375
+2011 ,"'Group G Mathematical Sciences' ","'No disability declared' ",6555
+2011 ,"'Group H Engineering' ","'Disability declared' ",1165
+2011 ,"'Group H Engineering' ","'No disability declared' ",18265
+2011 ,"'Group I Computer Sciences' ","'Disability declared' ",1435
+2011 ,"'Group I Computer Sciences' ","'No disability declared' ",16860
+2011 ,"'Group J Technologies' ","'Disability declared' ",225
+2011 ,"'Group J Technologies' ","'No disability declared' ",2225
+2011 ,"'Group K Architecture, Building and Planning' ","'Disability declared' ",460
+2011 ,"'Group K Architecture, Building and Planning' ","'No disability declared' ",6845
+2011 ,"'Group L Social Studies' ","'Disability declared' ",2510
+2011 ,"'Group L Social Studies' ","'No disability declared' ",31920
+2011 ,"'Group M Law' ","'Disability declared' ",825
+2011 ,"'Group M Law' ","'No disability declared' ",17620
+2011 ,"'Group N Business and Admin studies' ","'Disability declared' ",2380
+2011 ,"'Group N Business and Admin studies' ","'No disability declared' ",44205
+2011 ,"'Group P Mass Communication and Documentation' ","'Disability declared' ",705
+2011 ,"'Group P Mass Communication and Documentation' ","'No disability declared' ",9795
+2011 ,"'Group Q Linguistics, Classics and related' ","'Disability declared' ",685
+2011 ,"'Group Q Linguistics, Classics and related' ","'No disability declared' ",11150
+2011 ,"'Group R European Languages, Literature and related' ","'Disability declared' ",170
+2011 ,"'Group R European Languages, Literature and related' ","'No disability declared' ",3920
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Disability declared' ",90
+2011 ,"'Group T Non-European Languages, Literature and related' ","'No disability declared' ",1175
+2011 ,"'Group V History and Philosophical studies' ","'Disability declared' ",1135
+2011 ,"'Group V History and Philosophical studies' ","'No disability declared' ",13070
+2011 ,"'Group W Creative Arts and Design' ","'Disability declared' ",5120
+2011 ,"'Group W Creative Arts and Design' ","'No disability declared' ",43455
+2011 ,"'Group X Education' ","'Disability declared' ",950
+2011 ,"'Group X Education' ","'No disability declared' ",15785
+2011 ,"'Y Combined arts' ","'Disability declared' ",820
+2011 ,"'Y Combined arts' ","'No disability declared' ",11035
+2011 ,"'Y Combined sciences' ","'Disability declared' ",555
+2011 ,"'Y Combined sciences' ","'No disability declared' ",7340
+2011 ,"'Y Combined social sciences' ","'Disability declared' ",225
+2011 ,"'Y Combined social sciences' ","'No disability declared' ",4240
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Disability declared' ",1375
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'No disability declared' ",17055
+2011 ,"'Y Social Sciences combined with Arts' ","'Disability declared' ",720
+2011 ,"'Y Social Sciences combined with Arts' ","'No disability declared' ",9800
+2011 ,"'Z General, other combined and unknown' ","'Disability declared' ",300
+2011 ,"'Z General, other combined and unknown' ","'No disability declared' ",3515
+2012 ,"'Group A Medicine and Dentistry' ","'Disability declared' ",355
+2012 ,"'Group A Medicine and Dentistry' ","'No disability declared' ",7800
+2012 ,"'Group B Subjects allied to Medicine' ","'Disability declared' ",2840
+2012 ,"'Group B Subjects allied to Medicine' ","'No disability declared' ",40805
+2012 ,"'Group C Biological Sciences' ","'Disability declared' ",2535
+2012 ,"'Group C Biological Sciences' ","'No disability declared' ",33640
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Disability declared' ",555
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'No disability declared' ",4745
+2012 ,"'Group F Physical Sciences' ","'Disability declared' ",1300
+2012 ,"'Group F Physical Sciences' ","'No disability declared' ",15330
+2012 ,"'Group G Mathematical Sciences' ","'Disability declared' ",385
+2012 ,"'Group G Mathematical Sciences' ","'No disability declared' ",6235
+2012 ,"'Group H Engineering' ","'Disability declared' ",1220
+2012 ,"'Group H Engineering' ","'No disability declared' ",17825
+2012 ,"'Group I Computer Sciences' ","'Disability declared' ",1515
+2012 ,"'Group I Computer Sciences' ","'No disability declared' ",15895
+2012 ,"'Group J Technologies' ","'Disability declared' ",190
+2012 ,"'Group J Technologies' ","'No disability declared' ",1785
+2012 ,"'Group K Architecture, Building and Planning' ","'Disability declared' ",450
+2012 ,"'Group K Architecture, Building and Planning' ","'No disability declared' ",5665
+2012 ,"'Group L Social Studies' ","'Disability declared' ",2465
+2012 ,"'Group L Social Studies' ","'No disability declared' ",30195
+2012 ,"'Group M Law' ","'Disability declared' ",860
+2012 ,"'Group M Law' ","'No disability declared' ",16775
+2012 ,"'Group N Business and Admin studies' ","'Disability declared' ",2275
+2012 ,"'Group N Business and Admin studies' ","'No disability declared' ",42080
+2012 ,"'Group P Mass Communication and Documentation' ","'Disability declared' ",715
+2012 ,"'Group P Mass Communication and Documentation' ","'No disability declared' ",8685
+2012 ,"'Group Q Linguistics, Classics and related' ","'Disability declared' ",700
+2012 ,"'Group Q Linguistics, Classics and related' ","'No disability declared' ",10575
+2012 ,"'Group R European Languages, Literature and related' ","'Disability declared' ",170
+2012 ,"'Group R European Languages, Literature and related' ","'No disability declared' ",3485
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Disability declared' ",75
+2012 ,"'Group T Non-European Languages, Literature and related' ","'No disability declared' ",1020
+2012 ,"'Group V History and Philosophical studies' ","'Disability declared' ",1210
+2012 ,"'Group V History and Philosophical studies' ","'No disability declared' ",12150
+2012 ,"'Group W Creative Arts and Design' ","'Disability declared' ",5155
+2012 ,"'Group W Creative Arts and Design' ","'No disability declared' ",38860
+2012 ,"'Group X Education' ","'Disability declared' ",1100
+2012 ,"'Group X Education' ","'No disability declared' ",15530
+2012 ,"'Y Combined arts' ","'Disability declared' ",740
+2012 ,"'Y Combined arts' ","'No disability declared' ",9555
+2012 ,"'Y Combined sciences' ","'Disability declared' ",515
+2012 ,"'Y Combined sciences' ","'No disability declared' ",6750
+2012 ,"'Y Combined social sciences' ","'Disability declared' ",215
+2012 ,"'Y Combined social sciences' ","'No disability declared' ",3740
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Disability declared' ",1270
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'No disability declared' ",14570
+2012 ,"'Y Social Sciences combined with Arts' ","'Disability declared' ",670
+2012 ,"'Y Social Sciences combined with Arts' ","'No disability declared' ",8390
+2012 ,"'Z General, other combined and unknown' ","'Disability declared' ",380
+2012 ,"'Z General, other combined and unknown' ","'No disability declared' ",4285
+2013 ,"'Group A Medicine and Dentistry' ","'Disability declared' ",385
+2013 ,"'Group A Medicine and Dentistry' ","'No disability declared' ",7450
+2013 ,"'Group B Subjects allied to Medicine' ","'Disability declared' ",3065
+2013 ,"'Group B Subjects allied to Medicine' ","'No disability declared' ",43200
+2013 ,"'Group C Biological Sciences' ","'Disability declared' ",3125
+2013 ,"'Group C Biological Sciences' ","'No disability declared' ",37525
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Disability declared' ",635
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'No disability declared' ",5310
+2013 ,"'Group F Physical Sciences' ","'Disability declared' ",1450
+2013 ,"'Group F Physical Sciences' ","'No disability declared' ",16130
+2013 ,"'Group G Mathematical Sciences' ","'Disability declared' ",435
+2013 ,"'Group G Mathematical Sciences' ","'No disability declared' ",6645
+2013 ,"'Group H Engineering' ","'Disability declared' ",1435
+2013 ,"'Group H Engineering' ","'No disability declared' ",19225
+2013 ,"'Group I Computer Sciences' ","'Disability declared' ",1885
+2013 ,"'Group I Computer Sciences' ","'No disability declared' ",17705
+2013 ,"'Group J Technologies' ","'Disability declared' ",235
+2013 ,"'Group J Technologies' ","'No disability declared' ",1900
+2013 ,"'Group K Architecture, Building and Planning' ","'Disability declared' ",485
+2013 ,"'Group K Architecture, Building and Planning' ","'No disability declared' ",5655
+2013 ,"'Group L Social Studies' ","'Disability declared' ",2930
+2013 ,"'Group L Social Studies' ","'No disability declared' ",32590
+2013 ,"'Group M Law' ","'Disability declared' ",995
+2013 ,"'Group M Law' ","'No disability declared' ",17795
+2013 ,"'Group N Business and Admin studies' ","'Disability declared' ",2815
+2013 ,"'Group N Business and Admin studies' ","'No disability declared' ",44830
+2013 ,"'Group P Mass Communication and Documentation' ","'Disability declared' ",850
+2013 ,"'Group P Mass Communication and Documentation' ","'No disability declared' ",9490
+2013 ,"'Group Q Linguistics, Classics and related' ","'Disability declared' ",745
+2013 ,"'Group Q Linguistics, Classics and related' ","'No disability declared' ",10820
+2013 ,"'Group R European Languages, Literature and related' ","'Disability declared' ",170
+2013 ,"'Group R European Languages, Literature and related' ","'No disability declared' ",3450
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Disability declared' ",90
+2013 ,"'Group T Non-European Languages, Literature and related' ","'No disability declared' ",1030
+2013 ,"'Group V History and Philosophical studies' ","'Disability declared' ",1355
+2013 ,"'Group V History and Philosophical studies' ","'No disability declared' ",12700
+2013 ,"'Group W Creative Arts and Design' ","'Disability declared' ",6045
+2013 ,"'Group W Creative Arts and Design' ","'No disability declared' ",41205
+2013 ,"'Group X Education' ","'Disability declared' ",1210
+2013 ,"'Group X Education' ","'No disability declared' ",16395
+2013 ,"'Y Combined arts' ","'Disability declared' ",810
+2013 ,"'Y Combined arts' ","'No disability declared' ",9235
+2013 ,"'Y Combined sciences' ","'Disability declared' ",605
+2013 ,"'Y Combined sciences' ","'No disability declared' ",6795
+2013 ,"'Y Combined social sciences' ","'Disability declared' ",225
+2013 ,"'Y Combined social sciences' ","'No disability declared' ",3875
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Disability declared' ",1290
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'No disability declared' ",14375
+2013 ,"'Y Social Sciences combined with Arts' ","'Disability declared' ",800
+2013 ,"'Y Social Sciences combined with Arts' ","'No disability declared' ",8540
+2013 ,"'Z General, other combined and unknown' ","'Disability declared' ",475
+2013 ,"'Z General, other combined and unknown' ","'No disability declared' ",5200
+2014 ,"'Group A Medicine and Dentistry' ","'Disability declared' ",420
+2014 ,"'Group A Medicine and Dentistry' ","'No disability declared' ",7455
+2014 ,"'Group B Subjects allied to Medicine' ","'Disability declared' ",3575
+2014 ,"'Group B Subjects allied to Medicine' ","'No disability declared' ",45610
+2014 ,"'Group C Biological Sciences' ","'Disability declared' ",3725
+2014 ,"'Group C Biological Sciences' ","'No disability declared' ",40890
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Disability declared' ",795
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'No disability declared' ",5435
+2014 ,"'Group F Physical Sciences' ","'Disability declared' ",1590
+2014 ,"'Group F Physical Sciences' ","'No disability declared' ",16480
+2014 ,"'Group G Mathematical Sciences' ","'Disability declared' ",470
+2014 ,"'Group G Mathematical Sciences' ","'No disability declared' ",6595
+2014 ,"'Group H Engineering' ","'Disability declared' ",1595
+2014 ,"'Group H Engineering' ","'No disability declared' ",20730
+2014 ,"'Group I Computer Sciences' ","'Disability declared' ",2135
+2014 ,"'Group I Computer Sciences' ","'No disability declared' ",18885
+2014 ,"'Group J Technologies' ","'Disability declared' ",275
+2014 ,"'Group J Technologies' ","'No disability declared' ",1860
+2014 ,"'Group K Architecture, Building and Planning' ","'Disability declared' ",515
+2014 ,"'Group K Architecture, Building and Planning' ","'No disability declared' ",5595
+2014 ,"'Group L Social Studies' ","'Disability declared' ",3110
+2014 ,"'Group L Social Studies' ","'No disability declared' ",34575
+2014 ,"'Group M Law' ","'Disability declared' ",1145
+2014 ,"'Group M Law' ","'No disability declared' ",17560
+2014 ,"'Group N Business and Admin studies' ","'Disability declared' ",3080
+2014 ,"'Group N Business and Admin studies' ","'No disability declared' ",47045
+2014 ,"'Group P Mass Communication and Documentation' ","'Disability declared' ",1120
+2014 ,"'Group P Mass Communication and Documentation' ","'No disability declared' ",9915
+2014 ,"'Group Q Linguistics, Classics and related' ","'Disability declared' ",925
+2014 ,"'Group Q Linguistics, Classics and related' ","'No disability declared' ",10660
+2014 ,"'Group R European Languages, Literature and related' ","'Disability declared' ",185
+2014 ,"'Group R European Languages, Literature and related' ","'No disability declared' ",3220
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Disability declared' ",105
+2014 ,"'Group T Non-European Languages, Literature and related' ","'No disability declared' ",885
+2014 ,"'Group V History and Philosophical studies' ","'Disability declared' ",1390
+2014 ,"'Group V History and Philosophical studies' ","'No disability declared' ",13060
+2014 ,"'Group W Creative Arts and Design' ","'Disability declared' ",6650
+2014 ,"'Group W Creative Arts and Design' ","'No disability declared' ",41740
+2014 ,"'Group X Education' ","'Disability declared' ",1350
+2014 ,"'Group X Education' ","'No disability declared' ",16830
+2014 ,"'Y Combined arts' ","'Disability declared' ",880
+2014 ,"'Y Combined arts' ","'No disability declared' ",8690
+2014 ,"'Y Combined sciences' ","'Disability declared' ",655
+2014 ,"'Y Combined sciences' ","'No disability declared' ",6485
+2014 ,"'Y Combined social sciences' ","'Disability declared' ",260
+2014 ,"'Y Combined social sciences' ","'No disability declared' ",3835
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Disability declared' ",1220
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'No disability declared' ",12305
+2014 ,"'Y Social Sciences combined with Arts' ","'Disability declared' ",755
+2014 ,"'Y Social Sciences combined with Arts' ","'No disability declared' ",7735
+2014 ,"'Z General, other combined and unknown' ","'Disability declared' ",435
+2014 ,"'Z General, other combined and unknown' ","'No disability declared' ",5020
+2015 ,"'Group A Medicine and Dentistry' ","'Disability declared' ",450
+2015 ,"'Group A Medicine and Dentistry' ","'No disability declared' ",7375
+2015 ,"'Group B Subjects allied to Medicine' ","'Disability declared' ",4110
+2015 ,"'Group B Subjects allied to Medicine' ","'No disability declared' ",45970
+2015 ,"'Group C Biological Sciences' ","'Disability declared' ",4255
+2015 ,"'Group C Biological Sciences' ","'No disability declared' ",43320
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Disability declared' ",955
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'No disability declared' ",6040
+2015 ,"'Group F Physical Sciences' ","'Disability declared' ",1745
+2015 ,"'Group F Physical Sciences' ","'No disability declared' ",17090
+2015 ,"'Group G Mathematical Sciences' ","'Disability declared' ",555
+2015 ,"'Group G Mathematical Sciences' ","'No disability declared' ",6705
+2015 ,"'Group H Engineering' ","'Disability declared' ",1785
+2015 ,"'Group H Engineering' ","'No disability declared' ",22215
+2015 ,"'Group I Computer Sciences' ","'Disability declared' ",2615
+2015 ,"'Group I Computer Sciences' ","'No disability declared' ",20295
+2015 ,"'Group J Technologies' ","'Disability declared' ",225
+2015 ,"'Group J Technologies' ","'No disability declared' ",1685
+2015 ,"'Group K Architecture, Building and Planning' ","'Disability declared' ",600
+2015 ,"'Group K Architecture, Building and Planning' ","'No disability declared' ",5950
+2015 ,"'Group L Social Studies' ","'Disability declared' ",3915
+2015 ,"'Group L Social Studies' ","'No disability declared' ",36995
+2015 ,"'Group M Law' ","'Disability declared' ",1215
+2015 ,"'Group M Law' ","'No disability declared' ",17855
+2015 ,"'Group N Business and Admin studies' ","'Disability declared' ",3480
+2015 ,"'Group N Business and Admin studies' ","'No disability declared' ",48930
+2015 ,"'Group P Mass Communication and Documentation' ","'Disability declared' ",1225
+2015 ,"'Group P Mass Communication and Documentation' ","'No disability declared' ",10010
+2015 ,"'Group Q Linguistics, Classics and related' ","'Disability declared' ",1045
+2015 ,"'Group Q Linguistics, Classics and related' ","'No disability declared' ",10470
+2015 ,"'Group R European Languages, Literature and related' ","'Disability declared' ",205
+2015 ,"'Group R European Languages, Literature and related' ","'No disability declared' ",3235
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Disability declared' ",130
+2015 ,"'Group T Non-European Languages, Literature and related' ","'No disability declared' ",1010
+2015 ,"'Group V History and Philosophical studies' ","'Disability declared' ",1550
+2015 ,"'Group V History and Philosophical studies' ","'No disability declared' ",13075
+2015 ,"'Group W Creative Arts and Design' ","'Disability declared' ",7510
+2015 ,"'Group W Creative Arts and Design' ","'No disability declared' ",42365
+2015 ,"'Group X Education' ","'Disability declared' ",1660
+2015 ,"'Group X Education' ","'No disability declared' ",18330
+2015 ,"'Y Combined arts' ","'Disability declared' ",890
+2015 ,"'Y Combined arts' ","'No disability declared' ",8140
+2015 ,"'Y Combined sciences' ","'Disability declared' ",630
+2015 ,"'Y Combined sciences' ","'No disability declared' ",5680
+2015 ,"'Y Combined social sciences' ","'Disability declared' ",275
+2015 ,"'Y Combined social sciences' ","'No disability declared' ",4200
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Disability declared' ",1125
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'No disability declared' ",10595
+2015 ,"'Y Social Sciences combined with Arts' ","'Disability declared' ",835
+2015 ,"'Y Social Sciences combined with Arts' ","'No disability declared' ",7825
+2015 ,"'Z General, other combined and unknown' ","'Disability declared' ",480
+2015 ,"'Z General, other combined and unknown' ","'No disability declared' ",4880
+2016 ,"'Group A Medicine and Dentistry' ","'Disability declared' ",505
+2016 ,"'Group A Medicine and Dentistry' ","'No disability declared' ",7480
+2016 ,"'Group B Subjects allied to Medicine' ","'Disability declared' ",4575
+2016 ,"'Group B Subjects allied to Medicine' ","'No disability declared' ",47350
+2016 ,"'Group C Biological Sciences' ","'Disability declared' ",4930
+2016 ,"'Group C Biological Sciences' ","'No disability declared' ",44275
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Disability declared' ",935
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'No disability declared' ",5630
+2016 ,"'Group F Physical Sciences' ","'Disability declared' ",1895
+2016 ,"'Group F Physical Sciences' ","'No disability declared' ",16145
+2016 ,"'Group G Mathematical Sciences' ","'Disability declared' ",600
+2016 ,"'Group G Mathematical Sciences' ","'No disability declared' ",6885
+2016 ,"'Group H Engineering' ","'Disability declared' ",1820
+2016 ,"'Group H Engineering' ","'No disability declared' ",22195
+2016 ,"'Group I Computer Sciences' ","'Disability declared' ",2850
+2016 ,"'Group I Computer Sciences' ","'No disability declared' ",20630
+2016 ,"'Group J Technologies' ","'Disability declared' ",230
+2016 ,"'Group J Technologies' ","'No disability declared' ",1485
+2016 ,"'Group K Architecture, Building and Planning' ","'Disability declared' ",630
+2016 ,"'Group K Architecture, Building and Planning' ","'No disability declared' ",6345
+2016 ,"'Group L Social Studies' ","'Disability declared' ",4145
+2016 ,"'Group L Social Studies' ","'No disability declared' ",38060
+2016 ,"'Group M Law' ","'Disability declared' ",1395
+2016 ,"'Group M Law' ","'No disability declared' ",18445
+2016 ,"'Group N Business and Admin studies' ","'Disability declared' ",3775
+2016 ,"'Group N Business and Admin studies' ","'No disability declared' ",49990
+2016 ,"'Group P Mass Communication and Documentation' ","'Disability declared' ",1430
+2016 ,"'Group P Mass Communication and Documentation' ","'No disability declared' ",10330
+2016 ,"'Group Q Linguistics, Classics and related' ","'Disability declared' ",1140
+2016 ,"'Group Q Linguistics, Classics and related' ","'No disability declared' ",10035
+2016 ,"'Group R European Languages, Literature and related' ","'Disability declared' ",215
+2016 ,"'Group R European Languages, Literature and related' ","'No disability declared' ",2925
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Disability declared' ",130
+2016 ,"'Group T Non-European Languages, Literature and related' ","'No disability declared' ",890
+2016 ,"'Group V History and Philosophical studies' ","'Disability declared' ",1780
+2016 ,"'Group V History and Philosophical studies' ","'No disability declared' ",12890
+2016 ,"'Group W Creative Arts and Design' ","'Disability declared' ",7955
+2016 ,"'Group W Creative Arts and Design' ","'No disability declared' ",40695
+2016 ,"'Group X Education' ","'Disability declared' ",1755
+2016 ,"'Group X Education' ","'No disability declared' ",17975
+2016 ,"'Y Combined arts' ","'Disability declared' ",1065
+2016 ,"'Y Combined arts' ","'No disability declared' ",7415
+2016 ,"'Y Combined sciences' ","'Disability declared' ",605
+2016 ,"'Y Combined sciences' ","'No disability declared' ",5070
+2016 ,"'Y Combined social sciences' ","'Disability declared' ",270
+2016 ,"'Y Combined social sciences' ","'No disability declared' ",4090
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Disability declared' ",1085
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'No disability declared' ",9465
+2016 ,"'Y Social Sciences combined with Arts' ","'Disability declared' ",820
+2016 ,"'Y Social Sciences combined with Arts' ","'No disability declared' ",7365
+2016 ,"'Z General, other combined and unknown' ","'Disability declared' ",465
+2016 ,"'Z General, other combined and unknown' ","'No disability declared' ",4420

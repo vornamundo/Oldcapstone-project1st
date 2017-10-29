@@ -1,0 +1,526 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Summary Level) , Sex , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_014_01.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Sex,Number of Acceptances,
+2007 ,"'Group A Medicine and Dentistry' ","'Men' ",3930
+2007 ,"'Group A Medicine and Dentistry' ","'Women' ",5130
+2007 ,"'Group B Subjects allied to Medicine' ","'Men' ",6375
+2007 ,"'Group B Subjects allied to Medicine' ","'Women' ",20840
+2007 ,"'Group C Biological Sciences' ","'Men' ",12695
+2007 ,"'Group C Biological Sciences' ","'Women' ",19495
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1340
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",2985
+2007 ,"'Group F Physical Sciences' ","'Men' ",9205
+2007 ,"'Group F Physical Sciences' ","'Women' ",6270
+2007 ,"'Group G Mathematical Sciences' ","'Men' ",3485
+2007 ,"'Group G Mathematical Sciences' ","'Women' ",2345
+2007 ,"'Group H Engineering' ","'Men' ",18530
+2007 ,"'Group H Engineering' ","'Women' ",2570
+2007 ,"'Group I Computer Sciences' ","'Men' ",14700
+2007 ,"'Group I Computer Sciences' ","'Women' ",2580
+2007 ,"'Group J Technologies' ","'Men' ",2050
+2007 ,"'Group J Technologies' ","'Women' ",545
+2007 ,"'Group K Architecture, Building and Planning' ","'Men' ",6595
+2007 ,"'Group K Architecture, Building and Planning' ","'Women' ",2705
+2007 ,"'Group L Social Studies' ","'Men' ",11445
+2007 ,"'Group L Social Studies' ","'Women' ",18965
+2007 ,"'Group M Law' ","'Men' ",7260
+2007 ,"'Group M Law' ","'Women' ",11815
+2007 ,"'Group N Business and Admin studies' ","'Men' ",25800
+2007 ,"'Group N Business and Admin studies' ","'Women' ",23935
+2007 ,"'Group P Mass Communication and Documentation' ","'Men' ",4285
+2007 ,"'Group P Mass Communication and Documentation' ","'Women' ",5195
+2007 ,"'Group Q Linguistics, Classics and related' ","'Men' ",2995
+2007 ,"'Group Q Linguistics, Classics and related' ","'Women' ",7860
+2007 ,"'Group R European Languages, Literature and related' ","'Men' ",1160
+2007 ,"'Group R European Languages, Literature and related' ","'Women' ",2875
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",655
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",1045
+2007 ,"'Group V History and Philosophical studies' ","'Men' ",6400
+2007 ,"'Group V History and Philosophical studies' ","'Women' ",6615
+2007 ,"'Group W Creative Arts and Design' ","'Men' ",18020
+2007 ,"'Group W Creative Arts and Design' ","'Women' ",27870
+2007 ,"'Group X Education' ","'Men' ",1570
+2007 ,"'Group X Education' ","'Women' ",11465
+2007 ,"'Y Combined arts' ","'Men' ",4610
+2007 ,"'Y Combined arts' ","'Women' ",10085
+2007 ,"'Y Combined sciences' ","'Men' ",4595
+2007 ,"'Y Combined sciences' ","'Women' ",3835
+2007 ,"'Y Combined social sciences' ","'Men' ",3020
+2007 ,"'Y Combined social sciences' ","'Women' ",3425
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",11550
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",11545
+2007 ,"'Y Social Sciences combined with Arts' ","'Men' ",4920
+2007 ,"'Y Social Sciences combined with Arts' ","'Women' ",8295
+2007 ,"'Z General, other combined and unknown' ","'Men' ",2500
+2007 ,"'Z General, other combined and unknown' ","'Women' ",3450
+2008 ,"'Group A Medicine and Dentistry' ","'Men' ",4030
+2008 ,"'Group A Medicine and Dentistry' ","'Women' ",5230
+2008 ,"'Group B Subjects allied to Medicine' ","'Men' ",8205
+2008 ,"'Group B Subjects allied to Medicine' ","'Women' ",34865
+2008 ,"'Group C Biological Sciences' ","'Men' ",13860
+2008 ,"'Group C Biological Sciences' ","'Women' ",20420
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1470
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",3335
+2008 ,"'Group F Physical Sciences' ","'Men' ",9645
+2008 ,"'Group F Physical Sciences' ","'Women' ",6555
+2008 ,"'Group G Mathematical Sciences' ","'Men' ",3830
+2008 ,"'Group G Mathematical Sciences' ","'Women' ",2565
+2008 ,"'Group H Engineering' ","'Men' ",20095
+2008 ,"'Group H Engineering' ","'Women' ",2850
+2008 ,"'Group I Computer Sciences' ","'Men' ",15670
+2008 ,"'Group I Computer Sciences' ","'Women' ",2840
+2008 ,"'Group J Technologies' ","'Men' ",2240
+2008 ,"'Group J Technologies' ","'Women' ",480
+2008 ,"'Group K Architecture, Building and Planning' ","'Men' ",7280
+2008 ,"'Group K Architecture, Building and Planning' ","'Women' ",2960
+2008 ,"'Group L Social Studies' ","'Men' ",12880
+2008 ,"'Group L Social Studies' ","'Women' ",20685
+2008 ,"'Group M Law' ","'Men' ",7495
+2008 ,"'Group M Law' ","'Women' ",12990
+2008 ,"'Group N Business and Admin studies' ","'Men' ",28080
+2008 ,"'Group N Business and Admin studies' ","'Women' ",26885
+2008 ,"'Group P Mass Communication and Documentation' ","'Men' ",4660
+2008 ,"'Group P Mass Communication and Documentation' ","'Women' ",5545
+2008 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3270
+2008 ,"'Group Q Linguistics, Classics and related' ","'Women' ",8365
+2008 ,"'Group R European Languages, Literature and related' ","'Men' ",1250
+2008 ,"'Group R European Languages, Literature and related' ","'Women' ",3220
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",540
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",950
+2008 ,"'Group V History and Philosophical studies' ","'Men' ",6935
+2008 ,"'Group V History and Philosophical studies' ","'Women' ",7225
+2008 ,"'Group W Creative Arts and Design' ","'Men' ",18880
+2008 ,"'Group W Creative Arts and Design' ","'Women' ",29780
+2008 ,"'Group X Education' ","'Men' ",1755
+2008 ,"'Group X Education' ","'Women' ",12910
+2008 ,"'Y Combined arts' ","'Men' ",4715
+2008 ,"'Y Combined arts' ","'Women' ",10085
+2008 ,"'Y Combined sciences' ","'Men' ",4750
+2008 ,"'Y Combined sciences' ","'Women' ",3955
+2008 ,"'Y Combined social sciences' ","'Men' ",3135
+2008 ,"'Y Combined social sciences' ","'Women' ",3750
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",12275
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",11890
+2008 ,"'Y Social Sciences combined with Arts' ","'Men' ",5245
+2008 ,"'Y Social Sciences combined with Arts' ","'Women' ",8470
+2008 ,"'Z General, other combined and unknown' ","'Men' ",2510
+2008 ,"'Z General, other combined and unknown' ","'Women' ",3120
+2009 ,"'Group A Medicine and Dentistry' ","'Men' ",4110
+2009 ,"'Group A Medicine and Dentistry' ","'Women' ",5125
+2009 ,"'Group B Subjects allied to Medicine' ","'Men' ",9600
+2009 ,"'Group B Subjects allied to Medicine' ","'Women' ",38525
+2009 ,"'Group C Biological Sciences' ","'Men' ",15230
+2009 ,"'Group C Biological Sciences' ","'Women' ",21725
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1765
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",3700
+2009 ,"'Group F Physical Sciences' ","'Men' ",10360
+2009 ,"'Group F Physical Sciences' ","'Women' ",6930
+2009 ,"'Group G Mathematical Sciences' ","'Men' ",4565
+2009 ,"'Group G Mathematical Sciences' ","'Women' ",3140
+2009 ,"'Group H Engineering' ","'Men' ",22305
+2009 ,"'Group H Engineering' ","'Women' ",3130
+2009 ,"'Group I Computer Sciences' ","'Men' ",17215
+2009 ,"'Group I Computer Sciences' ","'Women' ",3065
+2009 ,"'Group J Technologies' ","'Men' ",2460
+2009 ,"'Group J Technologies' ","'Women' ",620
+2009 ,"'Group K Architecture, Building and Planning' ","'Men' ",7230
+2009 ,"'Group K Architecture, Building and Planning' ","'Women' ",3060
+2009 ,"'Group L Social Studies' ","'Men' ",14555
+2009 ,"'Group L Social Studies' ","'Women' ",22195
+2009 ,"'Group M Law' ","'Men' ",8305
+2009 ,"'Group M Law' ","'Women' ",13725
+2009 ,"'Group N Business and Admin studies' ","'Men' ",29855
+2009 ,"'Group N Business and Admin studies' ","'Women' ",28560
+2009 ,"'Group P Mass Communication and Documentation' ","'Men' ",5080
+2009 ,"'Group P Mass Communication and Documentation' ","'Women' ",5945
+2009 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3770
+2009 ,"'Group Q Linguistics, Classics and related' ","'Women' ",9100
+2009 ,"'Group R European Languages, Literature and related' ","'Men' ",1300
+2009 ,"'Group R European Languages, Literature and related' ","'Women' ",3320
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",565
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",930
+2009 ,"'Group V History and Philosophical studies' ","'Men' ",7240
+2009 ,"'Group V History and Philosophical studies' ","'Women' ",7575
+2009 ,"'Group W Creative Arts and Design' ","'Men' ",20115
+2009 ,"'Group W Creative Arts and Design' ","'Women' ",32105
+2009 ,"'Group X Education' ","'Men' ",2215
+2009 ,"'Group X Education' ","'Women' ",13825
+2009 ,"'Y Combined arts' ","'Men' ",4445
+2009 ,"'Y Combined arts' ","'Women' ",9160
+2009 ,"'Y Combined sciences' ","'Men' ",4700
+2009 ,"'Y Combined sciences' ","'Women' ",3665
+2009 ,"'Y Combined social sciences' ","'Men' ",2700
+2009 ,"'Y Combined social sciences' ","'Women' ",3040
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",11190
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",10355
+2009 ,"'Y Social Sciences combined with Arts' ","'Men' ",4755
+2009 ,"'Y Social Sciences combined with Arts' ","'Women' ",7960
+2009 ,"'Z General, other combined and unknown' ","'Men' ",2550
+2009 ,"'Z General, other combined and unknown' ","'Women' ",3195
+2010 ,"'Group A Medicine and Dentistry' ","'Men' ",4075
+2010 ,"'Group A Medicine and Dentistry' ","'Women' ",5170
+2010 ,"'Group B Subjects allied to Medicine' ","'Men' ",9910
+2010 ,"'Group B Subjects allied to Medicine' ","'Women' ",39980
+2010 ,"'Group C Biological Sciences' ","'Men' ",16445
+2010 ,"'Group C Biological Sciences' ","'Women' ",22380
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1920
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",3860
+2010 ,"'Group F Physical Sciences' ","'Men' ",10800
+2010 ,"'Group F Physical Sciences' ","'Women' ",7200
+2010 ,"'Group G Mathematical Sciences' ","'Men' ",4795
+2010 ,"'Group G Mathematical Sciences' ","'Women' ",3140
+2010 ,"'Group H Engineering' ","'Men' ",22805
+2010 ,"'Group H Engineering' ","'Women' ",3255
+2010 ,"'Group I Computer Sciences' ","'Men' ",17400
+2010 ,"'Group I Computer Sciences' ","'Women' ",3100
+2010 ,"'Group J Technologies' ","'Men' ",2650
+2010 ,"'Group J Technologies' ","'Women' ",590
+2010 ,"'Group K Architecture, Building and Planning' ","'Men' ",6595
+2010 ,"'Group K Architecture, Building and Planning' ","'Women' ",2815
+2010 ,"'Group L Social Studies' ","'Men' ",15060
+2010 ,"'Group L Social Studies' ","'Women' ",23580
+2010 ,"'Group M Law' ","'Men' ",8110
+2010 ,"'Group M Law' ","'Women' ",13740
+2010 ,"'Group N Business and Admin studies' ","'Men' ",30225
+2010 ,"'Group N Business and Admin studies' ","'Women' ",29025
+2010 ,"'Group P Mass Communication and Documentation' ","'Men' ",5225
+2010 ,"'Group P Mass Communication and Documentation' ","'Women' ",5990
+2010 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3440
+2010 ,"'Group Q Linguistics, Classics and related' ","'Women' ",9220
+2010 ,"'Group R European Languages, Literature and related' ","'Men' ",1380
+2010 ,"'Group R European Languages, Literature and related' ","'Women' ",3295
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",585
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",900
+2010 ,"'Group V History and Philosophical studies' ","'Men' ",7385
+2010 ,"'Group V History and Philosophical studies' ","'Women' ",7590
+2010 ,"'Group W Creative Arts and Design' ","'Men' ",19345
+2010 ,"'Group W Creative Arts and Design' ","'Women' ",32215
+2010 ,"'Group X Education' ","'Men' ",2420
+2010 ,"'Group X Education' ","'Women' ",13915
+2010 ,"'Y Combined arts' ","'Men' ",4345
+2010 ,"'Y Combined arts' ","'Women' ",8925
+2010 ,"'Y Combined sciences' ","'Men' ",4745
+2010 ,"'Y Combined sciences' ","'Women' ",3825
+2010 ,"'Y Combined social sciences' ","'Men' ",2705
+2010 ,"'Y Combined social sciences' ","'Women' ",3100
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",11240
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",10010
+2010 ,"'Y Social Sciences combined with Arts' ","'Men' ",4480
+2010 ,"'Y Social Sciences combined with Arts' ","'Women' ",7865
+2010 ,"'Z General, other combined and unknown' ","'Men' ",2000
+2010 ,"'Z General, other combined and unknown' ","'Women' ",2555
+2011 ,"'Group A Medicine and Dentistry' ","'Men' ",4105
+2011 ,"'Group A Medicine and Dentistry' ","'Women' ",4960
+2011 ,"'Group B Subjects allied to Medicine' ","'Men' ",10000
+2011 ,"'Group B Subjects allied to Medicine' ","'Women' ",37960
+2011 ,"'Group C Biological Sciences' ","'Men' ",16725
+2011 ,"'Group C Biological Sciences' ","'Women' ",23415
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",2065
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",4050
+2011 ,"'Group F Physical Sciences' ","'Men' ",11130
+2011 ,"'Group F Physical Sciences' ","'Women' ",7310
+2011 ,"'Group G Mathematical Sciences' ","'Men' ",4970
+2011 ,"'Group G Mathematical Sciences' ","'Women' ",3390
+2011 ,"'Group H Engineering' ","'Men' ",22745
+2011 ,"'Group H Engineering' ","'Women' ",3250
+2011 ,"'Group I Computer Sciences' ","'Men' ",17450
+2011 ,"'Group I Computer Sciences' ","'Women' ",2970
+2011 ,"'Group J Technologies' ","'Men' ",2300
+2011 ,"'Group J Technologies' ","'Women' ",520
+2011 ,"'Group K Architecture, Building and Planning' ","'Men' ",6130
+2011 ,"'Group K Architecture, Building and Planning' ","'Women' ",2825
+2011 ,"'Group L Social Studies' ","'Men' ",15730
+2011 ,"'Group L Social Studies' ","'Women' ",24195
+2011 ,"'Group M Law' ","'Men' ",8525
+2011 ,"'Group M Law' ","'Women' ",14195
+2011 ,"'Group N Business and Admin studies' ","'Men' ",31165
+2011 ,"'Group N Business and Admin studies' ","'Women' ",29935
+2011 ,"'Group P Mass Communication and Documentation' ","'Men' ",5390
+2011 ,"'Group P Mass Communication and Documentation' ","'Women' ",6405
+2011 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3475
+2011 ,"'Group Q Linguistics, Classics and related' ","'Women' ",9160
+2011 ,"'Group R European Languages, Literature and related' ","'Men' ",1280
+2011 ,"'Group R European Languages, Literature and related' ","'Women' ",3290
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",540
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",895
+2011 ,"'Group V History and Philosophical studies' ","'Men' ",7315
+2011 ,"'Group V History and Philosophical studies' ","'Women' ",7745
+2011 ,"'Group W Creative Arts and Design' ","'Men' ",19605
+2011 ,"'Group W Creative Arts and Design' ","'Women' ",33460
+2011 ,"'Group X Education' ","'Men' ",2475
+2011 ,"'Group X Education' ","'Women' ",14490
+2011 ,"'Y Combined arts' ","'Men' ",4170
+2011 ,"'Y Combined arts' ","'Women' ",8675
+2011 ,"'Y Combined sciences' ","'Men' ",4750
+2011 ,"'Y Combined sciences' ","'Women' ",4105
+2011 ,"'Y Combined social sciences' ","'Men' ",2450
+2011 ,"'Y Combined social sciences' ","'Women' ",3135
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",11025
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",9400
+2011 ,"'Y Social Sciences combined with Arts' ","'Men' ",4190
+2011 ,"'Y Social Sciences combined with Arts' ","'Women' ",8005
+2011 ,"'Z General, other combined and unknown' ","'Men' ",2170
+2011 ,"'Z General, other combined and unknown' ","'Women' ",2420
+2012 ,"'Group A Medicine and Dentistry' ","'Men' ",4140
+2012 ,"'Group A Medicine and Dentistry' ","'Women' ",4935
+2012 ,"'Group B Subjects allied to Medicine' ","'Men' ",9475
+2012 ,"'Group B Subjects allied to Medicine' ","'Women' ",37140
+2012 ,"'Group C Biological Sciences' ","'Men' ",16535
+2012 ,"'Group C Biological Sciences' ","'Women' ",23090
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1780
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",4000
+2012 ,"'Group F Physical Sciences' ","'Men' ",11220
+2012 ,"'Group F Physical Sciences' ","'Women' ",7050
+2012 ,"'Group G Mathematical Sciences' ","'Men' ",4990
+2012 ,"'Group G Mathematical Sciences' ","'Women' ",3105
+2012 ,"'Group H Engineering' ","'Men' ",21910
+2012 ,"'Group H Engineering' ","'Women' ",3385
+2012 ,"'Group I Computer Sciences' ","'Men' ",16640
+2012 ,"'Group I Computer Sciences' ","'Women' ",2715
+2012 ,"'Group J Technologies' ","'Men' ",1960
+2012 ,"'Group J Technologies' ","'Women' ",385
+2012 ,"'Group K Architecture, Building and Planning' ","'Men' ",5015
+2012 ,"'Group K Architecture, Building and Planning' ","'Women' ",2540
+2012 ,"'Group L Social Studies' ","'Men' ",14405
+2012 ,"'Group L Social Studies' ","'Women' ",23425
+2012 ,"'Group M Law' ","'Men' ",8050
+2012 ,"'Group M Law' ","'Women' ",14030
+2012 ,"'Group N Business and Admin studies' ","'Men' ",29230
+2012 ,"'Group N Business and Admin studies' ","'Women' ",28360
+2012 ,"'Group P Mass Communication and Documentation' ","'Men' ",4825
+2012 ,"'Group P Mass Communication and Documentation' ","'Women' ",5770
+2012 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3240
+2012 ,"'Group Q Linguistics, Classics and related' ","'Women' ",8795
+2012 ,"'Group R European Languages, Literature and related' ","'Men' ",1175
+2012 ,"'Group R European Languages, Literature and related' ","'Women' ",2890
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",460
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",775
+2012 ,"'Group V History and Philosophical studies' ","'Men' ",6830
+2012 ,"'Group V History and Philosophical studies' ","'Women' ",7330
+2012 ,"'Group W Creative Arts and Design' ","'Men' ",17805
+2012 ,"'Group W Creative Arts and Design' ","'Women' ",29930
+2012 ,"'Group X Education' ","'Men' ",2525
+2012 ,"'Group X Education' ","'Women' ",14370
+2012 ,"'Y Combined arts' ","'Men' ",3450
+2012 ,"'Y Combined arts' ","'Women' ",7710
+2012 ,"'Y Combined sciences' ","'Men' ",4365
+2012 ,"'Y Combined sciences' ","'Women' ",3810
+2012 ,"'Y Combined social sciences' ","'Men' ",2360
+2012 ,"'Y Combined social sciences' ","'Women' ",2740
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",9300
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",8230
+2012 ,"'Y Social Sciences combined with Arts' ","'Men' ",3755
+2012 ,"'Y Social Sciences combined with Arts' ","'Women' ",6870
+2012 ,"'Z General, other combined and unknown' ","'Men' ",2845
+2012 ,"'Z General, other combined and unknown' ","'Women' ",3245
+2013 ,"'Group A Medicine and Dentistry' ","'Men' ",3855
+2013 ,"'Group A Medicine and Dentistry' ","'Women' ",4910
+2013 ,"'Group B Subjects allied to Medicine' ","'Men' ",9965
+2013 ,"'Group B Subjects allied to Medicine' ","'Women' ",39510
+2013 ,"'Group C Biological Sciences' ","'Men' ",18515
+2013 ,"'Group C Biological Sciences' ","'Women' ",25900
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1945
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",4500
+2013 ,"'Group F Physical Sciences' ","'Men' ",11720
+2013 ,"'Group F Physical Sciences' ","'Women' ",7605
+2013 ,"'Group G Mathematical Sciences' ","'Men' ",5345
+2013 ,"'Group G Mathematical Sciences' ","'Women' ",3130
+2013 ,"'Group H Engineering' ","'Men' ",23515
+2013 ,"'Group H Engineering' ","'Women' ",3640
+2013 ,"'Group I Computer Sciences' ","'Men' ",18785
+2013 ,"'Group I Computer Sciences' ","'Women' ",2925
+2013 ,"'Group J Technologies' ","'Men' ",2055
+2013 ,"'Group J Technologies' ","'Women' ",505
+2013 ,"'Group K Architecture, Building and Planning' ","'Men' ",5085
+2013 ,"'Group K Architecture, Building and Planning' ","'Women' ",2645
+2013 ,"'Group L Social Studies' ","'Men' ",15215
+2013 ,"'Group L Social Studies' ","'Women' ",25715
+2013 ,"'Group M Law' ","'Men' ",8610
+2013 ,"'Group M Law' ","'Women' ",15135
+2013 ,"'Group N Business and Admin studies' ","'Men' ",30815
+2013 ,"'Group N Business and Admin studies' ","'Women' ",30175
+2013 ,"'Group P Mass Communication and Documentation' ","'Men' ",5495
+2013 ,"'Group P Mass Communication and Documentation' ","'Women' ",6350
+2013 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3160
+2013 ,"'Group Q Linguistics, Classics and related' ","'Women' ",9300
+2013 ,"'Group R European Languages, Literature and related' ","'Men' ",1195
+2013 ,"'Group R European Languages, Literature and related' ","'Women' ",2815
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",490
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",765
+2013 ,"'Group V History and Philosophical studies' ","'Men' ",7205
+2013 ,"'Group V History and Philosophical studies' ","'Women' ",7725
+2013 ,"'Group W Creative Arts and Design' ","'Men' ",19935
+2013 ,"'Group W Creative Arts and Design' ","'Women' ",31710
+2013 ,"'Group X Education' ","'Men' ",2580
+2013 ,"'Group X Education' ","'Women' ",15280
+2013 ,"'Y Combined arts' ","'Men' ",3385
+2013 ,"'Y Combined arts' ","'Women' ",7540
+2013 ,"'Y Combined sciences' ","'Men' ",4505
+2013 ,"'Y Combined sciences' ","'Women' ",3875
+2013 ,"'Y Combined social sciences' ","'Men' ",2415
+2013 ,"'Y Combined social sciences' ","'Women' ",2765
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",9110
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",8295
+2013 ,"'Y Social Sciences combined with Arts' ","'Men' ",3855
+2013 ,"'Y Social Sciences combined with Arts' ","'Women' ",7185
+2013 ,"'Z General, other combined and unknown' ","'Men' ",3330
+2013 ,"'Z General, other combined and unknown' ","'Women' ",3625
+2014 ,"'Group A Medicine and Dentistry' ","'Men' ",3845
+2014 ,"'Group A Medicine and Dentistry' ","'Women' ",5070
+2014 ,"'Group B Subjects allied to Medicine' ","'Men' ",10095
+2014 ,"'Group B Subjects allied to Medicine' ","'Women' ",42310
+2014 ,"'Group C Biological Sciences' ","'Men' ",20340
+2014 ,"'Group C Biological Sciences' ","'Women' ",28470
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1900
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",4840
+2014 ,"'Group F Physical Sciences' ","'Men' ",11870
+2014 ,"'Group F Physical Sciences' ","'Women' ",8050
+2014 ,"'Group G Mathematical Sciences' ","'Men' ",5315
+2014 ,"'Group G Mathematical Sciences' ","'Women' ",3160
+2014 ,"'Group H Engineering' ","'Men' ",24710
+2014 ,"'Group H Engineering' ","'Women' ",4405
+2014 ,"'Group I Computer Sciences' ","'Men' ",20460
+2014 ,"'Group I Computer Sciences' ","'Women' ",3125
+2014 ,"'Group J Technologies' ","'Men' ",2090
+2014 ,"'Group J Technologies' ","'Women' ",495
+2014 ,"'Group K Architecture, Building and Planning' ","'Men' ",4980
+2014 ,"'Group K Architecture, Building and Planning' ","'Women' ",2705
+2014 ,"'Group L Social Studies' ","'Men' ",15655
+2014 ,"'Group L Social Studies' ","'Women' ",27675
+2014 ,"'Group M Law' ","'Men' ",8320
+2014 ,"'Group M Law' ","'Women' ",15375
+2014 ,"'Group N Business and Admin studies' ","'Men' ",32550
+2014 ,"'Group N Business and Admin studies' ","'Women' ",31115
+2014 ,"'Group P Mass Communication and Documentation' ","'Men' ",5935
+2014 ,"'Group P Mass Communication and Documentation' ","'Women' ",6780
+2014 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3230
+2014 ,"'Group Q Linguistics, Classics and related' ","'Women' ",9290
+2014 ,"'Group R European Languages, Literature and related' ","'Men' ",1125
+2014 ,"'Group R European Languages, Literature and related' ","'Women' ",2655
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",450
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",665
+2014 ,"'Group V History and Philosophical studies' ","'Men' ",7335
+2014 ,"'Group V History and Philosophical studies' ","'Women' ",7955
+2014 ,"'Group W Creative Arts and Design' ","'Men' ",20100
+2014 ,"'Group W Creative Arts and Design' ","'Women' ",33230
+2014 ,"'Group X Education' ","'Men' ",2680
+2014 ,"'Group X Education' ","'Women' ",15760
+2014 ,"'Y Combined arts' ","'Men' ",3090
+2014 ,"'Y Combined arts' ","'Women' ",7490
+2014 ,"'Y Combined sciences' ","'Men' ",4475
+2014 ,"'Y Combined sciences' ","'Women' ",3820
+2014 ,"'Y Combined social sciences' ","'Men' ",2385
+2014 ,"'Y Combined social sciences' ","'Women' ",2825
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",7675
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",7520
+2014 ,"'Y Social Sciences combined with Arts' ","'Men' ",3490
+2014 ,"'Y Social Sciences combined with Arts' ","'Women' ",6650
+2014 ,"'Z General, other combined and unknown' ","'Men' ",3200
+2014 ,"'Z General, other combined and unknown' ","'Women' ",3660
+2015 ,"'Group A Medicine and Dentistry' ","'Men' ",3840
+2015 ,"'Group A Medicine and Dentistry' ","'Women' ",5125
+2015 ,"'Group B Subjects allied to Medicine' ","'Men' ",10315
+2015 ,"'Group B Subjects allied to Medicine' ","'Women' ",43225
+2015 ,"'Group C Biological Sciences' ","'Men' ",21220
+2015 ,"'Group C Biological Sciences' ","'Women' ",31030
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",2035
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",5510
+2015 ,"'Group F Physical Sciences' ","'Men' ",12225
+2015 ,"'Group F Physical Sciences' ","'Women' ",8720
+2015 ,"'Group G Mathematical Sciences' ","'Men' ",5595
+2015 ,"'Group G Mathematical Sciences' ","'Women' ",3135
+2015 ,"'Group H Engineering' ","'Men' ",25810
+2015 ,"'Group H Engineering' ","'Women' ",5045
+2015 ,"'Group I Computer Sciences' ","'Men' ",22380
+2015 ,"'Group I Computer Sciences' ","'Women' ",3560
+2015 ,"'Group J Technologies' ","'Men' ",1855
+2015 ,"'Group J Technologies' ","'Women' ",525
+2015 ,"'Group K Architecture, Building and Planning' ","'Men' ",5210
+2015 ,"'Group K Architecture, Building and Planning' ","'Women' ",3130
+2015 ,"'Group L Social Studies' ","'Men' ",16565
+2015 ,"'Group L Social Studies' ","'Women' ",30015
+2015 ,"'Group M Law' ","'Men' ",8305
+2015 ,"'Group M Law' ","'Women' ",15995
+2015 ,"'Group N Business and Admin studies' ","'Men' ",34035
+2015 ,"'Group N Business and Admin studies' ","'Women' ",32475
+2015 ,"'Group P Mass Communication and Documentation' ","'Men' ",5925
+2015 ,"'Group P Mass Communication and Documentation' ","'Women' ",7110
+2015 ,"'Group Q Linguistics, Classics and related' ","'Men' ",3010
+2015 ,"'Group Q Linguistics, Classics and related' ","'Women' ",9565
+2015 ,"'Group R European Languages, Literature and related' ","'Men' ",1080
+2015 ,"'Group R European Languages, Literature and related' ","'Women' ",2740
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",505
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",760
+2015 ,"'Group V History and Philosophical studies' ","'Men' ",7215
+2015 ,"'Group V History and Philosophical studies' ","'Women' ",8280
+2015 ,"'Group W Creative Arts and Design' ","'Men' ",20625
+2015 ,"'Group W Creative Arts and Design' ","'Women' ",34800
+2015 ,"'Group X Education' ","'Men' ",3035
+2015 ,"'Group X Education' ","'Women' ",17390
+2015 ,"'Y Combined arts' ","'Men' ",2810
+2015 ,"'Y Combined arts' ","'Women' ",7145
+2015 ,"'Y Combined sciences' ","'Men' ",3785
+2015 ,"'Y Combined sciences' ","'Women' ",3615
+2015 ,"'Y Combined social sciences' ","'Men' ",2715
+2015 ,"'Y Combined social sciences' ","'Women' ",2935
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",6085
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",7095
+2015 ,"'Y Social Sciences combined with Arts' ","'Men' ",3335
+2015 ,"'Y Social Sciences combined with Arts' ","'Women' ",6900
+2015 ,"'Z General, other combined and unknown' ","'Men' ",3205
+2015 ,"'Z General, other combined and unknown' ","'Women' ",3720
+2016 ,"'Group A Medicine and Dentistry' ","'Men' ",3800
+2016 ,"'Group A Medicine and Dentistry' ","'Women' ",5325
+2016 ,"'Group B Subjects allied to Medicine' ","'Men' ",10445
+2016 ,"'Group B Subjects allied to Medicine' ","'Women' ",45005
+2016 ,"'Group C Biological Sciences' ","'Men' ",21475
+2016 ,"'Group C Biological Sciences' ","'Women' ",32725
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Men' ",1850
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Women' ",5300
+2016 ,"'Group F Physical Sciences' ","'Men' ",11480
+2016 ,"'Group F Physical Sciences' ","'Women' ",8735
+2016 ,"'Group G Mathematical Sciences' ","'Men' ",5775
+2016 ,"'Group G Mathematical Sciences' ","'Women' ",3295
+2016 ,"'Group H Engineering' ","'Men' ",25610
+2016 ,"'Group H Engineering' ","'Women' ",5165
+2016 ,"'Group I Computer Sciences' ","'Men' ",23070
+2016 ,"'Group I Computer Sciences' ","'Women' ",3775
+2016 ,"'Group J Technologies' ","'Men' ",1635
+2016 ,"'Group J Technologies' ","'Women' ",525
+2016 ,"'Group K Architecture, Building and Planning' ","'Men' ",5395
+2016 ,"'Group K Architecture, Building and Planning' ","'Women' ",3180
+2016 ,"'Group L Social Studies' ","'Men' ",17075
+2016 ,"'Group L Social Studies' ","'Women' ",30860
+2016 ,"'Group M Law' ","'Men' ",8460
+2016 ,"'Group M Law' ","'Women' ",16590
+2016 ,"'Group N Business and Admin studies' ","'Men' ",35330
+2016 ,"'Group N Business and Admin studies' ","'Women' ",32325
+2016 ,"'Group P Mass Communication and Documentation' ","'Men' ",6500
+2016 ,"'Group P Mass Communication and Documentation' ","'Women' ",7135
+2016 ,"'Group Q Linguistics, Classics and related' ","'Men' ",2880
+2016 ,"'Group Q Linguistics, Classics and related' ","'Women' ",9365
+2016 ,"'Group R European Languages, Literature and related' ","'Men' ",1060
+2016 ,"'Group R European Languages, Literature and related' ","'Women' ",2445
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Men' ",415
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Women' ",730
+2016 ,"'Group V History and Philosophical studies' ","'Men' ",7040
+2016 ,"'Group V History and Philosophical studies' ","'Women' ",8655
+2016 ,"'Group W Creative Arts and Design' ","'Men' ",20360
+2016 ,"'Group W Creative Arts and Design' ","'Women' ",34125
+2016 ,"'Group X Education' ","'Men' ",2930
+2016 ,"'Group X Education' ","'Women' ",17240
+2016 ,"'Y Combined arts' ","'Men' ",2610
+2016 ,"'Y Combined arts' ","'Women' ",6750
+2016 ,"'Y Combined sciences' ","'Men' ",3445
+2016 ,"'Y Combined sciences' ","'Women' ",3375
+2016 ,"'Y Combined social sciences' ","'Men' ",2745
+2016 ,"'Y Combined social sciences' ","'Women' ",2800
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Men' ",5255
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Women' ",6770
+2016 ,"'Y Social Sciences combined with Arts' ","'Men' ",3345
+2016 ,"'Y Social Sciences combined with Arts' ","'Women' ",6400
+2016 ,"'Z General, other combined and unknown' ","'Men' ",3135
+2016 ,"'Z General, other combined and unknown' ","'Women' ",3460

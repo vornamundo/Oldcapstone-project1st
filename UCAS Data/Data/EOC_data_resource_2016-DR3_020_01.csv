@@ -1,0 +1,2594 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Summary Level) , Age Band , Sex , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_020_01.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Age Band , Sex,Number of Acceptances,
+2007 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",40
+2007 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",75
+2007 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2275
+2007 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",3125
+2007 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",615
+2007 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",710
+2007 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",135
+2007 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",125
+2007 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",870
+2007 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1095
+2007 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",65
+2007 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",195
+2007 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",2415
+2007 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",8820
+2007 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1190
+2007 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",3070
+2007 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",450
+2007 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",1180
+2007 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",2255
+2007 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",7570
+2007 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",110
+2007 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",260
+2007 ,"'Group C Biological Sciences' ","'18' ","'Men' ",7145
+2007 ,"'Group C Biological Sciences' ","'18' ","'Women' ",12090
+2007 ,"'Group C Biological Sciences' ","'19' ","'Men' ",2520
+2007 ,"'Group C Biological Sciences' ","'19' ","'Women' ",3200
+2007 ,"'Group C Biological Sciences' ","'20' ","'Men' ",915
+2007 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1050
+2007 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",2005
+2007 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",2890
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",15
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",45
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",545
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",1500
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",200
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",460
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",120
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",200
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",455
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",775
+2007 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",125
+2007 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",110
+2007 ,"'Group F Physical Sciences' ","'18' ","'Men' ",6420
+2007 ,"'Group F Physical Sciences' ","'18' ","'Women' ",4145
+2007 ,"'Group F Physical Sciences' ","'19' ","'Men' ",1345
+2007 ,"'Group F Physical Sciences' ","'19' ","'Women' ",855
+2007 ,"'Group F Physical Sciences' ","'20' ","'Men' ",390
+2007 ,"'Group F Physical Sciences' ","'20' ","'Women' ",300
+2007 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",925
+2007 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",855
+2007 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",60
+2007 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",75
+2007 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",2455
+2007 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",1670
+2007 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",525
+2007 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",350
+2007 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",165
+2007 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",110
+2007 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",280
+2007 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",140
+2007 ,"'Group H Engineering' ","'17 and under' ","'Men' ",490
+2007 ,"'Group H Engineering' ","'17 and under' ","'Women' ",100
+2007 ,"'Group H Engineering' ","'18' ","'Men' ",8660
+2007 ,"'Group H Engineering' ","'18' ","'Women' ",1280
+2007 ,"'Group H Engineering' ","'19' ","'Men' ",3235
+2007 ,"'Group H Engineering' ","'19' ","'Women' ",460
+2007 ,"'Group H Engineering' ","'20' ","'Men' ",1770
+2007 ,"'Group H Engineering' ","'20' ","'Women' ",230
+2007 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4375
+2007 ,"'Group H Engineering' ","'21 and over' ","'Women' ",500
+2007 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",145
+2007 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",35
+2007 ,"'Group I Computer Sciences' ","'18' ","'Men' ",6070
+2007 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1035
+2007 ,"'Group I Computer Sciences' ","'19' ","'Men' ",2895
+2007 ,"'Group I Computer Sciences' ","'19' ","'Women' ",505
+2007 ,"'Group I Computer Sciences' ","'20' ","'Men' ",1665
+2007 ,"'Group I Computer Sciences' ","'20' ","'Women' ",245
+2007 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",3930
+2007 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",760
+2007 ,"'Group J Technologies' ","'17 and under' ","'Men' ",20
+2007 ,"'Group J Technologies' ","'17 and under' ","'Women' ",5
+2007 ,"'Group J Technologies' ","'18' ","'Men' ",765
+2007 ,"'Group J Technologies' ","'18' ","'Women' ",210
+2007 ,"'Group J Technologies' ","'19' ","'Men' ",400
+2007 ,"'Group J Technologies' ","'19' ","'Women' ",140
+2007 ,"'Group J Technologies' ","'20' ","'Men' ",215
+2007 ,"'Group J Technologies' ","'20' ","'Women' ",65
+2007 ,"'Group J Technologies' ","'21 and over' ","'Men' ",650
+2007 ,"'Group J Technologies' ","'21 and over' ","'Women' ",125
+2007 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",65
+2007 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",85
+2007 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",3185
+2007 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1390
+2007 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1290
+2007 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",510
+2007 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",555
+2007 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",170
+2007 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1495
+2007 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",550
+2007 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",150
+2007 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",190
+2007 ,"'Group L Social Studies' ","'18' ","'Men' ",5835
+2007 ,"'Group L Social Studies' ","'18' ","'Women' ",7585
+2007 ,"'Group L Social Studies' ","'19' ","'Men' ",2190
+2007 ,"'Group L Social Studies' ","'19' ","'Women' ",2995
+2007 ,"'Group L Social Studies' ","'20' ","'Men' ",785
+2007 ,"'Group L Social Studies' ","'20' ","'Women' ",1195
+2007 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2480
+2007 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",7000
+2007 ,"'Group M Law' ","'17 and under' ","'Men' ",95
+2007 ,"'Group M Law' ","'17 and under' ","'Women' ",265
+2007 ,"'Group M Law' ","'18' ","'Men' ",3855
+2007 ,"'Group M Law' ","'18' ","'Women' ",6930
+2007 ,"'Group M Law' ","'19' ","'Men' ",1185
+2007 ,"'Group M Law' ","'19' ","'Women' ",1925
+2007 ,"'Group M Law' ","'20' ","'Men' ",490
+2007 ,"'Group M Law' ","'20' ","'Women' ",665
+2007 ,"'Group M Law' ","'21 and over' ","'Men' ",1640
+2007 ,"'Group M Law' ","'21 and over' ","'Women' ",2030
+2007 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",350
+2007 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",390
+2007 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",11380
+2007 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",11140
+2007 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",5740
+2007 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",4815
+2007 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",2570
+2007 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",2340
+2007 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",5755
+2007 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",5245
+2007 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",25
+2007 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",50
+2007 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2050
+2007 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",2900
+2007 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",965
+2007 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1095
+2007 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",415
+2007 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",450
+2007 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",830
+2007 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",705
+2007 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",30
+2007 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",100
+2007 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",1785
+2007 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",5165
+2007 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",575
+2007 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1380
+2007 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",170
+2007 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",370
+2007 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",440
+2007 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",845
+2007 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",15
+2007 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",60
+2007 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",825
+2007 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2110
+2007 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",165
+2007 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",365
+2007 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",35
+2007 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",95
+2007 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",125
+2007 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",240
+2007 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Men' ",5
+2007 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",20
+2007 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",400
+2007 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",720
+2007 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",110
+2007 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",150
+2007 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",25
+2007 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",60
+2007 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",115
+2007 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",95
+2007 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",50
+2007 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",60
+2007 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4170
+2007 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",4530
+2007 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1140
+2007 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1055
+2007 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",275
+2007 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",290
+2007 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",765
+2007 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",680
+2007 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",55
+2007 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",125
+2007 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",5900
+2007 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",9870
+2007 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5230
+2007 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",9175
+2007 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2265
+2007 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",2850
+2007 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4575
+2007 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",5845
+2007 ,"'Group X Education' ","'17 and under' ","'Women' ",35
+2007 ,"'Group X Education' ","'18' ","'Men' ",695
+2007 ,"'Group X Education' ","'18' ","'Women' ",5430
+2007 ,"'Group X Education' ","'19' ","'Men' ",250
+2007 ,"'Group X Education' ","'19' ","'Women' ",1780
+2007 ,"'Group X Education' ","'20' ","'Men' ",125
+2007 ,"'Group X Education' ","'20' ","'Women' ",805
+2007 ,"'Group X Education' ","'21 and over' ","'Men' ",500
+2007 ,"'Group X Education' ","'21 and over' ","'Women' ",3410
+2007 ,"'Y Combined arts' ","'17 and under' ","'Men' ",30
+2007 ,"'Y Combined arts' ","'17 and under' ","'Women' ",85
+2007 ,"'Y Combined arts' ","'18' ","'Men' ",2355
+2007 ,"'Y Combined arts' ","'18' ","'Women' ",6085
+2007 ,"'Y Combined arts' ","'19' ","'Men' ",990
+2007 ,"'Y Combined arts' ","'19' ","'Women' ",1840
+2007 ,"'Y Combined arts' ","'20' ","'Men' ",345
+2007 ,"'Y Combined arts' ","'20' ","'Women' ",620
+2007 ,"'Y Combined arts' ","'21 and over' ","'Men' ",890
+2007 ,"'Y Combined arts' ","'21 and over' ","'Women' ",1455
+2007 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",70
+2007 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",60
+2007 ,"'Y Combined sciences' ","'18' ","'Men' ",2440
+2007 ,"'Y Combined sciences' ","'18' ","'Women' ",2105
+2007 ,"'Y Combined sciences' ","'19' ","'Men' ",820
+2007 ,"'Y Combined sciences' ","'19' ","'Women' ",650
+2007 ,"'Y Combined sciences' ","'20' ","'Men' ",365
+2007 ,"'Y Combined sciences' ","'20' ","'Women' ",310
+2007 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",905
+2007 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",710
+2007 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",45
+2007 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",55
+2007 ,"'Y Combined social sciences' ","'18' ","'Men' ",1590
+2007 ,"'Y Combined social sciences' ","'18' ","'Women' ",1870
+2007 ,"'Y Combined social sciences' ","'19' ","'Men' ",720
+2007 ,"'Y Combined social sciences' ","'19' ","'Women' ",765
+2007 ,"'Y Combined social sciences' ","'20' ","'Men' ",245
+2007 ,"'Y Combined social sciences' ","'20' ","'Women' ",260
+2007 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",415
+2007 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",475
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",105
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",110
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",5645
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",6325
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",2440
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",2200
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",1085
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",780
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",2275
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",2130
+2007 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",60
+2007 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",125
+2007 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",2755
+2007 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",4595
+2007 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",1045
+2007 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1735
+2007 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",345
+2007 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",585
+2007 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",715
+2007 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1255
+2007 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",60
+2007 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",110
+2007 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1125
+2007 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",1685
+2007 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",480
+2007 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",640
+2007 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",225
+2007 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",210
+2007 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",605
+2007 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",805
+2008 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",70
+2008 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",95
+2008 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2310
+2008 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",3035
+2008 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",630
+2008 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",790
+2008 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",130
+2008 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",140
+2008 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",885
+2008 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1170
+2008 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",75
+2008 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",410
+2008 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",2675
+2008 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",11565
+2008 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1255
+2008 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",4775
+2008 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",605
+2008 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",2335
+2008 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",3595
+2008 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",15775
+2008 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",80
+2008 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",230
+2008 ,"'Group C Biological Sciences' ","'18' ","'Men' ",7720
+2008 ,"'Group C Biological Sciences' ","'18' ","'Women' ",12535
+2008 ,"'Group C Biological Sciences' ","'19' ","'Men' ",2690
+2008 ,"'Group C Biological Sciences' ","'19' ","'Women' ",3410
+2008 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1095
+2008 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1155
+2008 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",2280
+2008 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",3095
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",35
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",50
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",585
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",1675
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",260
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",570
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",125
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",220
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",460
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",820
+2008 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",105
+2008 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",90
+2008 ,"'Group F Physical Sciences' ","'18' ","'Men' ",6625
+2008 ,"'Group F Physical Sciences' ","'18' ","'Women' ",4385
+2008 ,"'Group F Physical Sciences' ","'19' ","'Men' ",1510
+2008 ,"'Group F Physical Sciences' ","'19' ","'Women' ",930
+2008 ,"'Group F Physical Sciences' ","'20' ","'Men' ",435
+2008 ,"'Group F Physical Sciences' ","'20' ","'Women' ",325
+2008 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",970
+2008 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",825
+2008 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",50
+2008 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",75
+2008 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",2670
+2008 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",1815
+2008 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",615
+2008 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",400
+2008 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",220
+2008 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",125
+2008 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",275
+2008 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",155
+2008 ,"'Group H Engineering' ","'17 and under' ","'Men' ",515
+2008 ,"'Group H Engineering' ","'17 and under' ","'Women' ",120
+2008 ,"'Group H Engineering' ","'18' ","'Men' ",9335
+2008 ,"'Group H Engineering' ","'18' ","'Women' ",1430
+2008 ,"'Group H Engineering' ","'19' ","'Men' ",3605
+2008 ,"'Group H Engineering' ","'19' ","'Women' ",510
+2008 ,"'Group H Engineering' ","'20' ","'Men' ",1975
+2008 ,"'Group H Engineering' ","'20' ","'Women' ",280
+2008 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4660
+2008 ,"'Group H Engineering' ","'21 and over' ","'Women' ",510
+2008 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",140
+2008 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",40
+2008 ,"'Group I Computer Sciences' ","'18' ","'Men' ",6345
+2008 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1190
+2008 ,"'Group I Computer Sciences' ","'19' ","'Men' ",3145
+2008 ,"'Group I Computer Sciences' ","'19' ","'Women' ",495
+2008 ,"'Group I Computer Sciences' ","'20' ","'Men' ",1815
+2008 ,"'Group I Computer Sciences' ","'20' ","'Women' ",290
+2008 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4235
+2008 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",820
+2008 ,"'Group J Technologies' ","'17 and under' ","'Men' ",15
+2008 ,"'Group J Technologies' ","'17 and under' ","'Women' ",10
+2008 ,"'Group J Technologies' ","'18' ","'Men' ",775
+2008 ,"'Group J Technologies' ","'18' ","'Women' ",170
+2008 ,"'Group J Technologies' ","'19' ","'Men' ",465
+2008 ,"'Group J Technologies' ","'19' ","'Women' ",145
+2008 ,"'Group J Technologies' ","'20' ","'Men' ",290
+2008 ,"'Group J Technologies' ","'20' ","'Women' ",50
+2008 ,"'Group J Technologies' ","'21 and over' ","'Men' ",695
+2008 ,"'Group J Technologies' ","'21 and over' ","'Women' ",105
+2008 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",65
+2008 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",75
+2008 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",3330
+2008 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1500
+2008 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1500
+2008 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",595
+2008 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",620
+2008 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",200
+2008 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1770
+2008 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",590
+2008 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",160
+2008 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",220
+2008 ,"'Group L Social Studies' ","'18' ","'Men' ",6515
+2008 ,"'Group L Social Studies' ","'18' ","'Women' ",8145
+2008 ,"'Group L Social Studies' ","'19' ","'Men' ",2470
+2008 ,"'Group L Social Studies' ","'19' ","'Women' ",3235
+2008 ,"'Group L Social Studies' ","'20' ","'Men' ",1040
+2008 ,"'Group L Social Studies' ","'20' ","'Women' ",1450
+2008 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2695
+2008 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",7630
+2008 ,"'Group M Law' ","'17 and under' ","'Men' ",90
+2008 ,"'Group M Law' ","'17 and under' ","'Women' ",255
+2008 ,"'Group M Law' ","'18' ","'Men' ",3835
+2008 ,"'Group M Law' ","'18' ","'Women' ",7490
+2008 ,"'Group M Law' ","'19' ","'Men' ",1335
+2008 ,"'Group M Law' ","'19' ","'Women' ",2215
+2008 ,"'Group M Law' ","'20' ","'Men' ",555
+2008 ,"'Group M Law' ","'20' ","'Women' ",820
+2008 ,"'Group M Law' ","'21 and over' ","'Men' ",1685
+2008 ,"'Group M Law' ","'21 and over' ","'Women' ",2210
+2008 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",320
+2008 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",450
+2008 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",11930
+2008 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",12000
+2008 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",6170
+2008 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",5515
+2008 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3280
+2008 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",2950
+2008 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",6375
+2008 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",5970
+2008 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",20
+2008 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",50
+2008 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2185
+2008 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",3010
+2008 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1030
+2008 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1235
+2008 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",485
+2008 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",495
+2008 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",940
+2008 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",750
+2008 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",25
+2008 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",55
+2008 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",1890
+2008 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",5470
+2008 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",710
+2008 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1535
+2008 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",195
+2008 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",430
+2008 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",445
+2008 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",875
+2008 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",15
+2008 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",55
+2008 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",875
+2008 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2375
+2008 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",175
+2008 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",450
+2008 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",50
+2008 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",105
+2008 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",130
+2008 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",235
+2008 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Men' ",5
+2008 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",15
+2008 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",310
+2008 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",645
+2008 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",90
+2008 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",155
+2008 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",30
+2008 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",45
+2008 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",100
+2008 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",90
+2008 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",40
+2008 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",45
+2008 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4355
+2008 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",4880
+2008 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1235
+2008 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1230
+2008 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",375
+2008 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",295
+2008 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",935
+2008 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",780
+2008 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",70
+2008 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",145
+2008 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",6200
+2008 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",10760
+2008 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5240
+2008 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",9355
+2008 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2460
+2008 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3355
+2008 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4910
+2008 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",6160
+2008 ,"'Group X Education' ","'17 and under' ","'Men' ",10
+2008 ,"'Group X Education' ","'17 and under' ","'Women' ",45
+2008 ,"'Group X Education' ","'18' ","'Men' ",750
+2008 ,"'Group X Education' ","'18' ","'Women' ",6115
+2008 ,"'Group X Education' ","'19' ","'Men' ",280
+2008 ,"'Group X Education' ","'19' ","'Women' ",1985
+2008 ,"'Group X Education' ","'20' ","'Men' ",170
+2008 ,"'Group X Education' ","'20' ","'Women' ",985
+2008 ,"'Group X Education' ","'21 and over' ","'Men' ",550
+2008 ,"'Group X Education' ","'21 and over' ","'Women' ",3775
+2008 ,"'Y Combined arts' ","'17 and under' ","'Men' ",20
+2008 ,"'Y Combined arts' ","'17 and under' ","'Women' ",80
+2008 ,"'Y Combined arts' ","'18' ","'Men' ",2345
+2008 ,"'Y Combined arts' ","'18' ","'Women' ",6175
+2008 ,"'Y Combined arts' ","'19' ","'Men' ",1040
+2008 ,"'Y Combined arts' ","'19' ","'Women' ",1785
+2008 ,"'Y Combined arts' ","'20' ","'Men' ",420
+2008 ,"'Y Combined arts' ","'20' ","'Women' ",655
+2008 ,"'Y Combined arts' ","'21 and over' ","'Men' ",890
+2008 ,"'Y Combined arts' ","'21 and over' ","'Women' ",1390
+2008 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",70
+2008 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",45
+2008 ,"'Y Combined sciences' ","'18' ","'Men' ",2450
+2008 ,"'Y Combined sciences' ","'18' ","'Women' ",2275
+2008 ,"'Y Combined sciences' ","'19' ","'Men' ",860
+2008 ,"'Y Combined sciences' ","'19' ","'Women' ",650
+2008 ,"'Y Combined sciences' ","'20' ","'Men' ",390
+2008 ,"'Y Combined sciences' ","'20' ","'Women' ",250
+2008 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",975
+2008 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",735
+2008 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",45
+2008 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",60
+2008 ,"'Y Combined social sciences' ","'18' ","'Men' ",1610
+2008 ,"'Y Combined social sciences' ","'18' ","'Women' ",1985
+2008 ,"'Y Combined social sciences' ","'19' ","'Men' ",790
+2008 ,"'Y Combined social sciences' ","'19' ","'Women' ",855
+2008 ,"'Y Combined social sciences' ","'20' ","'Men' ",275
+2008 ,"'Y Combined social sciences' ","'20' ","'Women' ",305
+2008 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",415
+2008 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",545
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",105
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",95
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",5905
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",6335
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",2600
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",2245
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",1200
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",960
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",2460
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",2260
+2008 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",60
+2008 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",125
+2008 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",2900
+2008 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",4620
+2008 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",1085
+2008 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1725
+2008 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",415
+2008 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",625
+2008 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",780
+2008 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1375
+2008 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",55
+2008 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",50
+2008 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1135
+2008 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",1495
+2008 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",465
+2008 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",575
+2008 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",220
+2008 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",230
+2008 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",630
+2008 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",770
+2009 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",55
+2009 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",90
+2009 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2250
+2009 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",3000
+2009 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",665
+2009 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",790
+2009 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",135
+2009 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",150
+2009 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",1000
+2009 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1100
+2009 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",95
+2009 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",355
+2009 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",2885
+2009 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",11865
+2009 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1480
+2009 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",5120
+2009 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",660
+2009 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",2565
+2009 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",4480
+2009 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",18615
+2009 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",105
+2009 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",245
+2009 ,"'Group C Biological Sciences' ","'18' ","'Men' ",8350
+2009 ,"'Group C Biological Sciences' ","'18' ","'Women' ",13370
+2009 ,"'Group C Biological Sciences' ","'19' ","'Men' ",3155
+2009 ,"'Group C Biological Sciences' ","'19' ","'Women' ",3590
+2009 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1205
+2009 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1295
+2009 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",2420
+2009 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",3225
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",35
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",55
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",705
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",1780
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",265
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",645
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",155
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",265
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",605
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",950
+2009 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",100
+2009 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",105
+2009 ,"'Group F Physical Sciences' ","'18' ","'Men' ",7025
+2009 ,"'Group F Physical Sciences' ","'18' ","'Women' ",4550
+2009 ,"'Group F Physical Sciences' ","'19' ","'Men' ",1575
+2009 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1090
+2009 ,"'Group F Physical Sciences' ","'20' ","'Men' ",495
+2009 ,"'Group F Physical Sciences' ","'20' ","'Women' ",385
+2009 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",1165
+2009 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",800
+2009 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",75
+2009 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",70
+2009 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3085
+2009 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2145
+2009 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",755
+2009 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",540
+2009 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",275
+2009 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",190
+2009 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",375
+2009 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",190
+2009 ,"'Group H Engineering' ","'17 and under' ","'Men' ",555
+2009 ,"'Group H Engineering' ","'17 and under' ","'Women' ",135
+2009 ,"'Group H Engineering' ","'18' ","'Men' ",10420
+2009 ,"'Group H Engineering' ","'18' ","'Women' ",1565
+2009 ,"'Group H Engineering' ","'19' ","'Men' ",4070
+2009 ,"'Group H Engineering' ","'19' ","'Women' ",595
+2009 ,"'Group H Engineering' ","'20' ","'Men' ",2165
+2009 ,"'Group H Engineering' ","'20' ","'Women' ",280
+2009 ,"'Group H Engineering' ","'21 and over' ","'Men' ",5100
+2009 ,"'Group H Engineering' ","'21 and over' ","'Women' ",550
+2009 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",160
+2009 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",55
+2009 ,"'Group I Computer Sciences' ","'18' ","'Men' ",6855
+2009 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1360
+2009 ,"'Group I Computer Sciences' ","'19' ","'Men' ",3590
+2009 ,"'Group I Computer Sciences' ","'19' ","'Women' ",590
+2009 ,"'Group I Computer Sciences' ","'20' ","'Men' ",1980
+2009 ,"'Group I Computer Sciences' ","'20' ","'Women' ",275
+2009 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4635
+2009 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",785
+2009 ,"'Group J Technologies' ","'17 and under' ","'Men' ",20
+2009 ,"'Group J Technologies' ","'17 and under' ","'Women' ",10
+2009 ,"'Group J Technologies' ","'18' ","'Men' ",925
+2009 ,"'Group J Technologies' ","'18' ","'Women' ",225
+2009 ,"'Group J Technologies' ","'19' ","'Men' ",520
+2009 ,"'Group J Technologies' ","'19' ","'Women' ",190
+2009 ,"'Group J Technologies' ","'20' ","'Men' ",300
+2009 ,"'Group J Technologies' ","'20' ","'Women' ",75
+2009 ,"'Group J Technologies' ","'21 and over' ","'Men' ",695
+2009 ,"'Group J Technologies' ","'21 and over' ","'Women' ",120
+2009 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",40
+2009 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",90
+2009 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",3085
+2009 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1525
+2009 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1455
+2009 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",580
+2009 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",690
+2009 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",225
+2009 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1960
+2009 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",640
+2009 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",175
+2009 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",245
+2009 ,"'Group L Social Studies' ","'18' ","'Men' ",7405
+2009 ,"'Group L Social Studies' ","'18' ","'Women' ",8925
+2009 ,"'Group L Social Studies' ","'19' ","'Men' ",3000
+2009 ,"'Group L Social Studies' ","'19' ","'Women' ",3660
+2009 ,"'Group L Social Studies' ","'20' ","'Men' ",1020
+2009 ,"'Group L Social Studies' ","'20' ","'Women' ",1500
+2009 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2950
+2009 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",7865
+2009 ,"'Group M Law' ","'17 and under' ","'Men' ",105
+2009 ,"'Group M Law' ","'17 and under' ","'Women' ",260
+2009 ,"'Group M Law' ","'18' ","'Men' ",4080
+2009 ,"'Group M Law' ","'18' ","'Women' ",7845
+2009 ,"'Group M Law' ","'19' ","'Men' ",1455
+2009 ,"'Group M Law' ","'19' ","'Women' ",2310
+2009 ,"'Group M Law' ","'20' ","'Men' ",645
+2009 ,"'Group M Law' ","'20' ","'Women' ",875
+2009 ,"'Group M Law' ","'21 and over' ","'Men' ",2010
+2009 ,"'Group M Law' ","'21 and over' ","'Women' ",2430
+2009 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",335
+2009 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",410
+2009 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",12600
+2009 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",12825
+2009 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",6780
+2009 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",5885
+2009 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3445
+2009 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3130
+2009 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",6690
+2009 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",6310
+2009 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",15
+2009 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",50
+2009 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2370
+2009 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",3380
+2009 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1165
+2009 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1270
+2009 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",535
+2009 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",505
+2009 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",995
+2009 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",740
+2009 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",20
+2009 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",65
+2009 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",2190
+2009 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",5920
+2009 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",770
+2009 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1695
+2009 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",245
+2009 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",445
+2009 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",545
+2009 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",975
+2009 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",20
+2009 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",55
+2009 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",905
+2009 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2430
+2009 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",220
+2009 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",525
+2009 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",50
+2009 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",125
+2009 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",100
+2009 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",185
+2009 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",15
+2009 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",310
+2009 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",585
+2009 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",115
+2009 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",170
+2009 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",40
+2009 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",55
+2009 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",100
+2009 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",105
+2009 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",40
+2009 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",50
+2009 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4485
+2009 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",5170
+2009 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1370
+2009 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1255
+2009 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",370
+2009 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",340
+2009 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",980
+2009 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",755
+2009 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",100
+2009 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",145
+2009 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",6605
+2009 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",11905
+2009 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5595
+2009 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",10000
+2009 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2525
+2009 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3480
+2009 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",5300
+2009 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",6575
+2009 ,"'Group X Education' ","'17 and under' ","'Men' ",5
+2009 ,"'Group X Education' ","'17 and under' ","'Women' ",65
+2009 ,"'Group X Education' ","'18' ","'Men' ",950
+2009 ,"'Group X Education' ","'18' ","'Women' ",6380
+2009 ,"'Group X Education' ","'19' ","'Men' ",400
+2009 ,"'Group X Education' ","'19' ","'Women' ",2160
+2009 ,"'Group X Education' ","'20' ","'Men' ",180
+2009 ,"'Group X Education' ","'20' ","'Women' ",930
+2009 ,"'Group X Education' ","'21 and over' ","'Men' ",680
+2009 ,"'Group X Education' ","'21 and over' ","'Women' ",4290
+2009 ,"'Y Combined arts' ","'17 and under' ","'Men' ",20
+2009 ,"'Y Combined arts' ","'17 and under' ","'Women' ",70
+2009 ,"'Y Combined arts' ","'18' ","'Men' ",2180
+2009 ,"'Y Combined arts' ","'18' ","'Women' ",5410
+2009 ,"'Y Combined arts' ","'19' ","'Men' ",975
+2009 ,"'Y Combined arts' ","'19' ","'Women' ",1790
+2009 ,"'Y Combined arts' ","'20' ","'Men' ",370
+2009 ,"'Y Combined arts' ","'20' ","'Women' ",585
+2009 ,"'Y Combined arts' ","'21 and over' ","'Men' ",900
+2009 ,"'Y Combined arts' ","'21 and over' ","'Women' ",1300
+2009 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",55
+2009 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",60
+2009 ,"'Y Combined sciences' ","'18' ","'Men' ",2300
+2009 ,"'Y Combined sciences' ","'18' ","'Women' ",1970
+2009 ,"'Y Combined sciences' ","'19' ","'Men' ",950
+2009 ,"'Y Combined sciences' ","'19' ","'Women' ",615
+2009 ,"'Y Combined sciences' ","'20' ","'Men' ",430
+2009 ,"'Y Combined sciences' ","'20' ","'Women' ",280
+2009 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",970
+2009 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",740
+2009 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",40
+2009 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",50
+2009 ,"'Y Combined social sciences' ","'18' ","'Men' ",1395
+2009 ,"'Y Combined social sciences' ","'18' ","'Women' ",1655
+2009 ,"'Y Combined social sciences' ","'19' ","'Men' ",665
+2009 ,"'Y Combined social sciences' ","'19' ","'Women' ",665
+2009 ,"'Y Combined social sciences' ","'20' ","'Men' ",225
+2009 ,"'Y Combined social sciences' ","'20' ","'Women' ",245
+2009 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",370
+2009 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",430
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",70
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",95
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",5135
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",5340
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",2465
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",1985
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",1090
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",855
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",2430
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",2090
+2009 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",40
+2009 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",95
+2009 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",2495
+2009 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",4055
+2009 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",1035
+2009 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1620
+2009 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",390
+2009 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",635
+2009 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",795
+2009 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1555
+2009 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",50
+2009 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",70
+2009 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1165
+2009 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",1485
+2009 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",480
+2009 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",635
+2009 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",205
+2009 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",225
+2009 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",650
+2009 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",775
+2010 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",45
+2010 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",85
+2010 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2235
+2010 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",2990
+2010 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",665
+2010 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",775
+2010 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",145
+2010 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",145
+2010 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",990
+2010 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1175
+2010 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",65
+2010 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",300
+2010 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",3165
+2010 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",12140
+2010 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1520
+2010 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",5255
+2010 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",635
+2010 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",2660
+2010 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",4525
+2010 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",19625
+2010 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",85
+2010 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",235
+2010 ,"'Group C Biological Sciences' ","'18' ","'Men' ",8980
+2010 ,"'Group C Biological Sciences' ","'18' ","'Women' ",13715
+2010 ,"'Group C Biological Sciences' ","'19' ","'Men' ",3520
+2010 ,"'Group C Biological Sciences' ","'19' ","'Women' ",3970
+2010 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1275
+2010 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1370
+2010 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",2585
+2010 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",3090
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",35
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",65
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",815
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",1795
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",290
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",735
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",145
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",300
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",635
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",965
+2010 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",105
+2010 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",100
+2010 ,"'Group F Physical Sciences' ","'18' ","'Men' ",7325
+2010 ,"'Group F Physical Sciences' ","'18' ","'Women' ",4785
+2010 ,"'Group F Physical Sciences' ","'19' ","'Men' ",1715
+2010 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1140
+2010 ,"'Group F Physical Sciences' ","'20' ","'Men' ",535
+2010 ,"'Group F Physical Sciences' ","'20' ","'Women' ",365
+2010 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",1120
+2010 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",815
+2010 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",60
+2010 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",70
+2010 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3205
+2010 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2080
+2010 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",875
+2010 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",630
+2010 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",290
+2010 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",185
+2010 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",370
+2010 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",175
+2010 ,"'Group H Engineering' ","'17 and under' ","'Men' ",480
+2010 ,"'Group H Engineering' ","'17 and under' ","'Women' ",130
+2010 ,"'Group H Engineering' ","'18' ","'Men' ",10700
+2010 ,"'Group H Engineering' ","'18' ","'Women' ",1650
+2010 ,"'Group H Engineering' ","'19' ","'Men' ",4445
+2010 ,"'Group H Engineering' ","'19' ","'Women' ",625
+2010 ,"'Group H Engineering' ","'20' ","'Men' ",2285
+2010 ,"'Group H Engineering' ","'20' ","'Women' ",315
+2010 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4900
+2010 ,"'Group H Engineering' ","'21 and over' ","'Women' ",535
+2010 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",120
+2010 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",40
+2010 ,"'Group I Computer Sciences' ","'18' ","'Men' ",6865
+2010 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1350
+2010 ,"'Group I Computer Sciences' ","'19' ","'Men' ",3910
+2010 ,"'Group I Computer Sciences' ","'19' ","'Women' ",660
+2010 ,"'Group I Computer Sciences' ","'20' ","'Men' ",2095
+2010 ,"'Group I Computer Sciences' ","'20' ","'Women' ",300
+2010 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4410
+2010 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",750
+2010 ,"'Group J Technologies' ","'17 and under' ","'Men' ",30
+2010 ,"'Group J Technologies' ","'17 and under' ","'Women' ",5
+2010 ,"'Group J Technologies' ","'18' ","'Men' ",1000
+2010 ,"'Group J Technologies' ","'18' ","'Women' ",240
+2010 ,"'Group J Technologies' ","'19' ","'Men' ",510
+2010 ,"'Group J Technologies' ","'19' ","'Women' ",140
+2010 ,"'Group J Technologies' ","'20' ","'Men' ",325
+2010 ,"'Group J Technologies' ","'20' ","'Women' ",65
+2010 ,"'Group J Technologies' ","'21 and over' ","'Men' ",785
+2010 ,"'Group J Technologies' ","'21 and over' ","'Women' ",140
+2010 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",45
+2010 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",70
+2010 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",2695
+2010 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1285
+2010 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1420
+2010 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",615
+2010 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",625
+2010 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",250
+2010 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1805
+2010 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",595
+2010 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",185
+2010 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",245
+2010 ,"'Group L Social Studies' ","'18' ","'Men' ",7550
+2010 ,"'Group L Social Studies' ","'18' ","'Women' ",9380
+2010 ,"'Group L Social Studies' ","'19' ","'Men' ",3245
+2010 ,"'Group L Social Studies' ","'19' ","'Women' ",4115
+2010 ,"'Group L Social Studies' ","'20' ","'Men' ",1060
+2010 ,"'Group L Social Studies' ","'20' ","'Women' ",1550
+2010 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",3020
+2010 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",8290
+2010 ,"'Group M Law' ","'17 and under' ","'Men' ",100
+2010 ,"'Group M Law' ","'17 and under' ","'Women' ",255
+2010 ,"'Group M Law' ","'18' ","'Men' ",3925
+2010 ,"'Group M Law' ","'18' ","'Women' ",7660
+2010 ,"'Group M Law' ","'19' ","'Men' ",1490
+2010 ,"'Group M Law' ","'19' ","'Women' ",2505
+2010 ,"'Group M Law' ","'20' ","'Men' ",680
+2010 ,"'Group M Law' ","'20' ","'Women' ",900
+2010 ,"'Group M Law' ","'21 and over' ","'Men' ",1915
+2010 ,"'Group M Law' ","'21 and over' ","'Women' ",2420
+2010 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",325
+2010 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",430
+2010 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",12385
+2010 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",12245
+2010 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",7295
+2010 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",6310
+2010 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3500
+2010 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3555
+2010 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",6720
+2010 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",6480
+2010 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",15
+2010 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",45
+2010 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2405
+2010 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",3275
+2010 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1240
+2010 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1435
+2010 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",520
+2010 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",505
+2010 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",1040
+2010 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",730
+2010 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",10
+2010 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",70
+2010 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",2025
+2010 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",6060
+2010 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",735
+2010 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1710
+2010 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",200
+2010 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",470
+2010 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",465
+2010 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",910
+2010 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",20
+2010 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",50
+2010 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",955
+2010 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2560
+2010 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",265
+2010 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",425
+2010 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",45
+2010 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",90
+2010 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",100
+2010 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",175
+2010 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",15
+2010 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",315
+2010 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",550
+2010 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",135
+2010 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",175
+2010 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",30
+2010 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",70
+2010 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",110
+2010 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",90
+2010 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",35
+2010 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",55
+2010 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4520
+2010 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",5085
+2010 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1485
+2010 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1385
+2010 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",345
+2010 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",320
+2010 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",1000
+2010 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",740
+2010 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",55
+2010 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",130
+2010 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",6455
+2010 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",11765
+2010 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5425
+2010 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",10395
+2010 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2510
+2010 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3445
+2010 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4895
+2010 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",6480
+2010 ,"'Group X Education' ","'17 and under' ","'Women' ",30
+2010 ,"'Group X Education' ","'18' ","'Men' ",985
+2010 ,"'Group X Education' ","'18' ","'Women' ",6385
+2010 ,"'Group X Education' ","'19' ","'Men' ",445
+2010 ,"'Group X Education' ","'19' ","'Women' ",2230
+2010 ,"'Group X Education' ","'20' ","'Men' ",205
+2010 ,"'Group X Education' ","'20' ","'Women' ",1025
+2010 ,"'Group X Education' ","'21 and over' ","'Men' ",785
+2010 ,"'Group X Education' ","'21 and over' ","'Women' ",4245
+2010 ,"'Y Combined arts' ","'17 and under' ","'Men' ",15
+2010 ,"'Y Combined arts' ","'17 and under' ","'Women' ",70
+2010 ,"'Y Combined arts' ","'18' ","'Men' ",2190
+2010 ,"'Y Combined arts' ","'18' ","'Women' ",5375
+2010 ,"'Y Combined arts' ","'19' ","'Men' ",975
+2010 ,"'Y Combined arts' ","'19' ","'Women' ",1860
+2010 ,"'Y Combined arts' ","'20' ","'Men' ",360
+2010 ,"'Y Combined arts' ","'20' ","'Women' ",525
+2010 ,"'Y Combined arts' ","'21 and over' ","'Men' ",805
+2010 ,"'Y Combined arts' ","'21 and over' ","'Women' ",1090
+2010 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",55
+2010 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",70
+2010 ,"'Y Combined sciences' ","'18' ","'Men' ",2275
+2010 ,"'Y Combined sciences' ","'18' ","'Women' ",2005
+2010 ,"'Y Combined sciences' ","'19' ","'Men' ",1000
+2010 ,"'Y Combined sciences' ","'19' ","'Women' ",735
+2010 ,"'Y Combined sciences' ","'20' ","'Men' ",440
+2010 ,"'Y Combined sciences' ","'20' ","'Women' ",280
+2010 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",980
+2010 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",735
+2010 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",40
+2010 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",40
+2010 ,"'Y Combined social sciences' ","'18' ","'Men' ",1330
+2010 ,"'Y Combined social sciences' ","'18' ","'Women' ",1590
+2010 ,"'Y Combined social sciences' ","'19' ","'Men' ",715
+2010 ,"'Y Combined social sciences' ","'19' ","'Women' ",740
+2010 ,"'Y Combined social sciences' ","'20' ","'Men' ",240
+2010 ,"'Y Combined social sciences' ","'20' ","'Women' ",275
+2010 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",375
+2010 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",455
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",40
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",90
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",5130
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",5090
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",2570
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",2085
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",1130
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",805
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",2370
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",1945
+2010 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",35
+2010 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",100
+2010 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",2315
+2010 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",3905
+2010 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",1035
+2010 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1740
+2010 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",360
+2010 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",645
+2010 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",735
+2010 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1475
+2010 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",40
+2010 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",70
+2010 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",960
+2010 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",1280
+2010 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",420
+2010 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",470
+2010 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",170
+2010 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",190
+2010 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",410
+2010 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",550
+2011 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",50
+2011 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",60
+2011 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2230
+2011 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",2740
+2011 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",670
+2011 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",795
+2011 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",145
+2011 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",130
+2011 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",1010
+2011 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1240
+2011 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",75
+2011 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",230
+2011 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",3320
+2011 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",11805
+2011 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1735
+2011 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",5555
+2011 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",650
+2011 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",2435
+2011 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",4220
+2011 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",17935
+2011 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",90
+2011 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",240
+2011 ,"'Group C Biological Sciences' ","'18' ","'Men' ",8960
+2011 ,"'Group C Biological Sciences' ","'18' ","'Women' ",14050
+2011 ,"'Group C Biological Sciences' ","'19' ","'Men' ",3880
+2011 ,"'Group C Biological Sciences' ","'19' ","'Women' ",4575
+2011 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1325
+2011 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1350
+2011 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",2475
+2011 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",3200
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",20
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",40
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",855
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",1935
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",390
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",825
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",190
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",310
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",610
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",940
+2011 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",95
+2011 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",115
+2011 ,"'Group F Physical Sciences' ","'18' ","'Men' ",7615
+2011 ,"'Group F Physical Sciences' ","'18' ","'Women' ",4895
+2011 ,"'Group F Physical Sciences' ","'19' ","'Men' ",1940
+2011 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1195
+2011 ,"'Group F Physical Sciences' ","'20' ","'Men' ",490
+2011 ,"'Group F Physical Sciences' ","'20' ","'Women' ",355
+2011 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",990
+2011 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",750
+2011 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",65
+2011 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",75
+2011 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3340
+2011 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2300
+2011 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",895
+2011 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",645
+2011 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",285
+2011 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",180
+2011 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",380
+2011 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",185
+2011 ,"'Group H Engineering' ","'17 and under' ","'Men' ",440
+2011 ,"'Group H Engineering' ","'17 and under' ","'Women' ",130
+2011 ,"'Group H Engineering' ","'18' ","'Men' ",10905
+2011 ,"'Group H Engineering' ","'18' ","'Women' ",1685
+2011 ,"'Group H Engineering' ","'19' ","'Men' ",4640
+2011 ,"'Group H Engineering' ","'19' ","'Women' ",650
+2011 ,"'Group H Engineering' ","'20' ","'Men' ",2065
+2011 ,"'Group H Engineering' ","'20' ","'Women' ",295
+2011 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4700
+2011 ,"'Group H Engineering' ","'21 and over' ","'Women' ",490
+2011 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",135
+2011 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",40
+2011 ,"'Group I Computer Sciences' ","'18' ","'Men' ",7135
+2011 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1315
+2011 ,"'Group I Computer Sciences' ","'19' ","'Men' ",3975
+2011 ,"'Group I Computer Sciences' ","'19' ","'Women' ",610
+2011 ,"'Group I Computer Sciences' ","'20' ","'Men' ",2025
+2011 ,"'Group I Computer Sciences' ","'20' ","'Women' ",305
+2011 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4180
+2011 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",700
+2011 ,"'Group J Technologies' ","'17 and under' ","'Men' ",10
+2011 ,"'Group J Technologies' ","'17 and under' ","'Women' ",10
+2011 ,"'Group J Technologies' ","'18' ","'Men' ",940
+2011 ,"'Group J Technologies' ","'18' ","'Women' ",240
+2011 ,"'Group J Technologies' ","'19' ","'Men' ",460
+2011 ,"'Group J Technologies' ","'19' ","'Women' ",105
+2011 ,"'Group J Technologies' ","'20' ","'Men' ",285
+2011 ,"'Group J Technologies' ","'20' ","'Women' ",60
+2011 ,"'Group J Technologies' ","'21 and over' ","'Men' ",600
+2011 ,"'Group J Technologies' ","'21 and over' ","'Women' ",105
+2011 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",35
+2011 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",55
+2011 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",2530
+2011 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1335
+2011 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1310
+2011 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",645
+2011 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",620
+2011 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",235
+2011 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1635
+2011 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",545
+2011 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",160
+2011 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",260
+2011 ,"'Group L Social Studies' ","'18' ","'Men' ",7955
+2011 ,"'Group L Social Studies' ","'18' ","'Women' ",9655
+2011 ,"'Group L Social Studies' ","'19' ","'Men' ",3420
+2011 ,"'Group L Social Studies' ","'19' ","'Women' ",4350
+2011 ,"'Group L Social Studies' ","'20' ","'Men' ",1115
+2011 ,"'Group L Social Studies' ","'20' ","'Women' ",1580
+2011 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",3080
+2011 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",8355
+2011 ,"'Group M Law' ","'17 and under' ","'Men' ",95
+2011 ,"'Group M Law' ","'17 and under' ","'Women' ",265
+2011 ,"'Group M Law' ","'18' ","'Men' ",4015
+2011 ,"'Group M Law' ","'18' ","'Women' ",7760
+2011 ,"'Group M Law' ","'19' ","'Men' ",1720
+2011 ,"'Group M Law' ","'19' ","'Women' ",2655
+2011 ,"'Group M Law' ","'20' ","'Men' ",700
+2011 ,"'Group M Law' ","'20' ","'Women' ",1030
+2011 ,"'Group M Law' ","'21 and over' ","'Men' ",1990
+2011 ,"'Group M Law' ","'21 and over' ","'Women' ",2485
+2011 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",345
+2011 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",400
+2011 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",12985
+2011 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",12945
+2011 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",7790
+2011 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",6865
+2011 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3650
+2011 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3440
+2011 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",6395
+2011 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",6290
+2011 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",20
+2011 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",60
+2011 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2545
+2011 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",3505
+2011 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1290
+2011 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1495
+2011 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",595
+2011 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",595
+2011 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",940
+2011 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",750
+2011 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",20
+2011 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",75
+2011 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",2035
+2011 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",6000
+2011 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",725
+2011 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1725
+2011 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",235
+2011 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",470
+2011 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",455
+2011 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",890
+2011 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",15
+2011 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",60
+2011 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",930
+2011 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2400
+2011 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",225
+2011 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",560
+2011 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",35
+2011 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",100
+2011 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",75
+2011 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",165
+2011 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Men' ",5
+2011 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",5
+2011 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",310
+2011 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",560
+2011 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",115
+2011 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",180
+2011 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",30
+2011 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",60
+2011 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",85
+2011 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",90
+2011 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",30
+2011 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",60
+2011 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4670
+2011 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",5255
+2011 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1435
+2011 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1385
+2011 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",340
+2011 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",335
+2011 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",840
+2011 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",710
+2011 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",65
+2011 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",140
+2011 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",6755
+2011 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",12890
+2011 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5565
+2011 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",10740
+2011 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2500
+2011 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3775
+2011 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4720
+2011 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",5920
+2011 ,"'Group X Education' ","'17 and under' ","'Women' ",25
+2011 ,"'Group X Education' ","'18' ","'Men' ",1040
+2011 ,"'Group X Education' ","'18' ","'Women' ",6860
+2011 ,"'Group X Education' ","'19' ","'Men' ",465
+2011 ,"'Group X Education' ","'19' ","'Women' ",2455
+2011 ,"'Group X Education' ","'20' ","'Men' ",235
+2011 ,"'Group X Education' ","'20' ","'Women' ",1010
+2011 ,"'Group X Education' ","'21 and over' ","'Men' ",735
+2011 ,"'Group X Education' ","'21 and over' ","'Women' ",4140
+2011 ,"'Y Combined arts' ","'17 and under' ","'Men' ",25
+2011 ,"'Y Combined arts' ","'17 and under' ","'Women' ",70
+2011 ,"'Y Combined arts' ","'18' ","'Men' ",2160
+2011 ,"'Y Combined arts' ","'18' ","'Women' ",5300
+2011 ,"'Y Combined arts' ","'19' ","'Men' ",960
+2011 ,"'Y Combined arts' ","'19' ","'Women' ",1795
+2011 ,"'Y Combined arts' ","'20' ","'Men' ",320
+2011 ,"'Y Combined arts' ","'20' ","'Women' ",560
+2011 ,"'Y Combined arts' ","'21 and over' ","'Men' ",705
+2011 ,"'Y Combined arts' ","'21 and over' ","'Women' ",950
+2011 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",55
+2011 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",50
+2011 ,"'Y Combined sciences' ","'18' ","'Men' ",2300
+2011 ,"'Y Combined sciences' ","'18' ","'Women' ",2180
+2011 ,"'Y Combined sciences' ","'19' ","'Men' ",1095
+2011 ,"'Y Combined sciences' ","'19' ","'Women' ",820
+2011 ,"'Y Combined sciences' ","'20' ","'Men' ",430
+2011 ,"'Y Combined sciences' ","'20' ","'Women' ",300
+2011 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",875
+2011 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",760
+2011 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",40
+2011 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",50
+2011 ,"'Y Combined social sciences' ","'18' ","'Men' ",1185
+2011 ,"'Y Combined social sciences' ","'18' ","'Women' ",1645
+2011 ,"'Y Combined social sciences' ","'19' ","'Men' ",645
+2011 ,"'Y Combined social sciences' ","'19' ","'Women' ",720
+2011 ,"'Y Combined social sciences' ","'20' ","'Men' ",235
+2011 ,"'Y Combined social sciences' ","'20' ","'Women' ",240
+2011 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",345
+2011 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",475
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",65
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",95
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",5135
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",4850
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",2570
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",2050
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",1090
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",700
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",2170
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",1700
+2011 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",45
+2011 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",100
+2011 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",2205
+2011 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",4020
+2011 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",1025
+2011 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1765
+2011 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",305
+2011 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",625
+2011 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",615
+2011 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1485
+2011 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",35
+2011 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",45
+2011 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1115
+2011 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",1215
+2011 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",485
+2011 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",480
+2011 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",170
+2011 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",170
+2011 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",370
+2011 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",515
+2012 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",45
+2012 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",75
+2012 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2300
+2012 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",2875
+2012 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",715
+2012 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",775
+2012 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",125
+2012 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",135
+2012 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",950
+2012 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1070
+2012 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",60
+2012 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",225
+2012 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",3090
+2012 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",11750
+2012 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1750
+2012 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",5260
+2012 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",635
+2012 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",2525
+2012 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",3940
+2012 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",17385
+2012 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",90
+2012 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",240
+2012 ,"'Group C Biological Sciences' ","'18' ","'Men' ",8990
+2012 ,"'Group C Biological Sciences' ","'18' ","'Women' ",14345
+2012 ,"'Group C Biological Sciences' ","'19' ","'Men' ",3625
+2012 ,"'Group C Biological Sciences' ","'19' ","'Women' ",4075
+2012 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1365
+2012 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1370
+2012 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",2465
+2012 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",3055
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",40
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",45
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",795
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",1905
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",320
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",785
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",135
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",330
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",495
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",935
+2012 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",85
+2012 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",85
+2012 ,"'Group F Physical Sciences' ","'18' ","'Men' ",7800
+2012 ,"'Group F Physical Sciences' ","'18' ","'Women' ",4890
+2012 ,"'Group F Physical Sciences' ","'19' ","'Men' ",1845
+2012 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1140
+2012 ,"'Group F Physical Sciences' ","'20' ","'Men' ",515
+2012 ,"'Group F Physical Sciences' ","'20' ","'Women' ",320
+2012 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",980
+2012 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",615
+2012 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",85
+2012 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",60
+2012 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3475
+2012 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2140
+2012 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",860
+2012 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",570
+2012 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",240
+2012 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",170
+2012 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",335
+2012 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",165
+2012 ,"'Group H Engineering' ","'17 and under' ","'Men' ",460
+2012 ,"'Group H Engineering' ","'17 and under' ","'Women' ",145
+2012 ,"'Group H Engineering' ","'18' ","'Men' ",10880
+2012 ,"'Group H Engineering' ","'18' ","'Women' ",1805
+2012 ,"'Group H Engineering' ","'19' ","'Men' ",4090
+2012 ,"'Group H Engineering' ","'19' ","'Women' ",670
+2012 ,"'Group H Engineering' ","'20' ","'Men' ",2120
+2012 ,"'Group H Engineering' ","'20' ","'Women' ",285
+2012 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4360
+2012 ,"'Group H Engineering' ","'21 and over' ","'Women' ",485
+2012 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",135
+2012 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",40
+2012 ,"'Group I Computer Sciences' ","'18' ","'Men' ",6915
+2012 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1190
+2012 ,"'Group I Computer Sciences' ","'19' ","'Men' ",3600
+2012 ,"'Group I Computer Sciences' ","'19' ","'Women' ",565
+2012 ,"'Group I Computer Sciences' ","'20' ","'Men' ",2045
+2012 ,"'Group I Computer Sciences' ","'20' ","'Women' ",285
+2012 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",3945
+2012 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",630
+2012 ,"'Group J Technologies' ","'17 and under' ","'Men' ",10
+2012 ,"'Group J Technologies' ","'17 and under' ","'Women' ",5
+2012 ,"'Group J Technologies' ","'18' ","'Men' ",805
+2012 ,"'Group J Technologies' ","'18' ","'Women' ",160
+2012 ,"'Group J Technologies' ","'19' ","'Men' ",350
+2012 ,"'Group J Technologies' ","'19' ","'Women' ",85
+2012 ,"'Group J Technologies' ","'20' ","'Men' ",240
+2012 ,"'Group J Technologies' ","'20' ","'Women' ",40
+2012 ,"'Group J Technologies' ","'21 and over' ","'Men' ",555
+2012 ,"'Group J Technologies' ","'21 and over' ","'Women' ",90
+2012 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",40
+2012 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",65
+2012 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",2165
+2012 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1330
+2012 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1030
+2012 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",525
+2012 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",530
+2012 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",190
+2012 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1245
+2012 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",430
+2012 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",185
+2012 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",275
+2012 ,"'Group L Social Studies' ","'18' ","'Men' ",7580
+2012 ,"'Group L Social Studies' ","'18' ","'Women' ",9625
+2012 ,"'Group L Social Studies' ","'19' ","'Men' ",2905
+2012 ,"'Group L Social Studies' ","'19' ","'Women' ",3825
+2012 ,"'Group L Social Studies' ","'20' ","'Men' ",1010
+2012 ,"'Group L Social Studies' ","'20' ","'Women' ",1545
+2012 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2725
+2012 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",8155
+2012 ,"'Group M Law' ","'17 and under' ","'Men' ",130
+2012 ,"'Group M Law' ","'17 and under' ","'Women' ",315
+2012 ,"'Group M Law' ","'18' ","'Men' ",3840
+2012 ,"'Group M Law' ","'18' ","'Women' ",7875
+2012 ,"'Group M Law' ","'19' ","'Men' ",1435
+2012 ,"'Group M Law' ","'19' ","'Women' ",2515
+2012 ,"'Group M Law' ","'20' ","'Men' ",690
+2012 ,"'Group M Law' ","'20' ","'Women' ",975
+2012 ,"'Group M Law' ","'21 and over' ","'Men' ",1955
+2012 ,"'Group M Law' ","'21 and over' ","'Women' ",2350
+2012 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",345
+2012 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",440
+2012 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",12310
+2012 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",12795
+2012 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",6970
+2012 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",5955
+2012 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3440
+2012 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3170
+2012 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",6170
+2012 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",6000
+2012 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",15
+2012 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",60
+2012 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2235
+2012 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",3250
+2012 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1075
+2012 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1230
+2012 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",530
+2012 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",520
+2012 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",970
+2012 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",715
+2012 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",15
+2012 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",65
+2012 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",2020
+2012 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",6250
+2012 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",600
+2012 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1325
+2012 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",170
+2012 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",350
+2012 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",435
+2012 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",805
+2012 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",15
+2012 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",55
+2012 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",850
+2012 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2255
+2012 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",200
+2012 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",390
+2012 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",30
+2012 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",85
+2012 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",80
+2012 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",105
+2012 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Men' ",5
+2012 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",10
+2012 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",265
+2012 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",535
+2012 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",80
+2012 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",135
+2012 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",30
+2012 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",40
+2012 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",80
+2012 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",60
+2012 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",25
+2012 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",50
+2012 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4540
+2012 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",5315
+2012 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1160
+2012 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1130
+2012 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",290
+2012 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",235
+2012 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",815
+2012 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",605
+2012 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",55
+2012 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",150
+2012 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",6450
+2012 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",12110
+2012 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",4755
+2012 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",9185
+2012 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2270
+2012 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3165
+2012 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4270
+2012 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",5315
+2012 ,"'Group X Education' ","'17 and under' ","'Women' ",35
+2012 ,"'Group X Education' ","'18' ","'Men' ",1150
+2012 ,"'Group X Education' ","'18' ","'Women' ",7095
+2012 ,"'Group X Education' ","'19' ","'Men' ",490
+2012 ,"'Group X Education' ","'19' ","'Women' ",2420
+2012 ,"'Group X Education' ","'20' ","'Men' ",205
+2012 ,"'Group X Education' ","'20' ","'Women' ",1065
+2012 ,"'Group X Education' ","'21 and over' ","'Men' ",680
+2012 ,"'Group X Education' ","'21 and over' ","'Women' ",3755
+2012 ,"'Y Combined arts' ","'17 and under' ","'Men' ",25
+2012 ,"'Y Combined arts' ","'17 and under' ","'Women' ",65
+2012 ,"'Y Combined arts' ","'18' ","'Men' ",1845
+2012 ,"'Y Combined arts' ","'18' ","'Women' ",4940
+2012 ,"'Y Combined arts' ","'19' ","'Men' ",710
+2012 ,"'Y Combined arts' ","'19' ","'Women' ",1415
+2012 ,"'Y Combined arts' ","'20' ","'Men' ",275
+2012 ,"'Y Combined arts' ","'20' ","'Women' ",435
+2012 ,"'Y Combined arts' ","'21 and over' ","'Men' ",590
+2012 ,"'Y Combined arts' ","'21 and over' ","'Women' ",850
+2012 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",60
+2012 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",40
+2012 ,"'Y Combined sciences' ","'18' ","'Men' ",2155
+2012 ,"'Y Combined sciences' ","'18' ","'Women' ",2040
+2012 ,"'Y Combined sciences' ","'19' ","'Men' ",935
+2012 ,"'Y Combined sciences' ","'19' ","'Women' ",760
+2012 ,"'Y Combined sciences' ","'20' ","'Men' ",385
+2012 ,"'Y Combined sciences' ","'20' ","'Women' ",275
+2012 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",825
+2012 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",700
+2012 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",35
+2012 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",50
+2012 ,"'Y Combined social sciences' ","'18' ","'Men' ",1220
+2012 ,"'Y Combined social sciences' ","'18' ","'Women' ",1480
+2012 ,"'Y Combined social sciences' ","'19' ","'Men' ",560
+2012 ,"'Y Combined social sciences' ","'19' ","'Women' ",615
+2012 ,"'Y Combined social sciences' ","'20' ","'Men' ",225
+2012 ,"'Y Combined social sciences' ","'20' ","'Women' ",205
+2012 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",325
+2012 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",385
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",65
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",75
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",4395
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",4270
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",2010
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",1635
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",940
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",680
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",1885
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",1570
+2012 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",50
+2012 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",105
+2012 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",2150
+2012 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",3695
+2012 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",750
+2012 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1440
+2012 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",305
+2012 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",535
+2012 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",505
+2012 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1090
+2012 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",75
+2012 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",90
+2012 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1630
+2012 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",1900
+2012 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",550
+2012 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",615
+2012 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",220
+2012 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",190
+2012 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",370
+2012 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",455
+2013 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",35
+2013 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",55
+2013 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2125
+2013 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",2845
+2013 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",730
+2013 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",810
+2013 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",115
+2013 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",100
+2013 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",850
+2013 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1100
+2013 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",50
+2013 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",240
+2013 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",3165
+2013 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",11970
+2013 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",2030
+2013 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",6280
+2013 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",690
+2013 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",2775
+2013 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",4030
+2013 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",18240
+2013 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",110
+2013 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",270
+2013 ,"'Group C Biological Sciences' ","'18' ","'Men' ",9380
+2013 ,"'Group C Biological Sciences' ","'18' ","'Women' ",15335
+2013 ,"'Group C Biological Sciences' ","'19' ","'Men' ",4410
+2013 ,"'Group C Biological Sciences' ","'19' ","'Women' ",5090
+2013 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1645
+2013 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1630
+2013 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",2965
+2013 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",3580
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",30
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",40
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",805
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",2075
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",355
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",945
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",170
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",435
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",585
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",1000
+2013 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",120
+2013 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",100
+2013 ,"'Group F Physical Sciences' ","'18' ","'Men' ",8085
+2013 ,"'Group F Physical Sciences' ","'18' ","'Women' ",5155
+2013 ,"'Group F Physical Sciences' ","'19' ","'Men' ",2090
+2013 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1330
+2013 ,"'Group F Physical Sciences' ","'20' ","'Men' ",480
+2013 ,"'Group F Physical Sciences' ","'20' ","'Women' ",340
+2013 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",950
+2013 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",675
+2013 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",80
+2013 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",60
+2013 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3625
+2013 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2180
+2013 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",975
+2013 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",570
+2013 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",300
+2013 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",170
+2013 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",365
+2013 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",150
+2013 ,"'Group H Engineering' ","'17 and under' ","'Men' ",550
+2013 ,"'Group H Engineering' ","'17 and under' ","'Women' ",130
+2013 ,"'Group H Engineering' ","'18' ","'Men' ",11670
+2013 ,"'Group H Engineering' ","'18' ","'Women' ",1990
+2013 ,"'Group H Engineering' ","'19' ","'Men' ",4800
+2013 ,"'Group H Engineering' ","'19' ","'Women' ",735
+2013 ,"'Group H Engineering' ","'20' ","'Men' ",2095
+2013 ,"'Group H Engineering' ","'20' ","'Women' ",335
+2013 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4400
+2013 ,"'Group H Engineering' ","'21 and over' ","'Women' ",450
+2013 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",165
+2013 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",35
+2013 ,"'Group I Computer Sciences' ","'18' ","'Men' ",7920
+2013 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1355
+2013 ,"'Group I Computer Sciences' ","'19' ","'Men' ",4190
+2013 ,"'Group I Computer Sciences' ","'19' ","'Women' ",590
+2013 ,"'Group I Computer Sciences' ","'20' ","'Men' ",2190
+2013 ,"'Group I Computer Sciences' ","'20' ","'Women' ",290
+2013 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4325
+2013 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",655
+2013 ,"'Group J Technologies' ","'17 and under' ","'Men' ",15
+2013 ,"'Group J Technologies' ","'17 and under' ","'Women' ",10
+2013 ,"'Group J Technologies' ","'18' ","'Men' ",830
+2013 ,"'Group J Technologies' ","'18' ","'Women' ",200
+2013 ,"'Group J Technologies' ","'19' ","'Men' ",470
+2013 ,"'Group J Technologies' ","'19' ","'Women' ",135
+2013 ,"'Group J Technologies' ","'20' ","'Men' ",215
+2013 ,"'Group J Technologies' ","'20' ","'Women' ",70
+2013 ,"'Group J Technologies' ","'21 and over' ","'Men' ",530
+2013 ,"'Group J Technologies' ","'21 and over' ","'Women' ",95
+2013 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",35
+2013 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",65
+2013 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",2030
+2013 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1275
+2013 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1140
+2013 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",650
+2013 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",525
+2013 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",190
+2013 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1355
+2013 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",460
+2013 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",200
+2013 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",290
+2013 ,"'Group L Social Studies' ","'18' ","'Men' ",8005
+2013 ,"'Group L Social Studies' ","'18' ","'Women' ",10640
+2013 ,"'Group L Social Studies' ","'19' ","'Men' ",3175
+2013 ,"'Group L Social Studies' ","'19' ","'Women' ",4350
+2013 ,"'Group L Social Studies' ","'20' ","'Men' ",1065
+2013 ,"'Group L Social Studies' ","'20' ","'Women' ",1765
+2013 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2775
+2013 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",8670
+2013 ,"'Group M Law' ","'17 and under' ","'Men' ",130
+2013 ,"'Group M Law' ","'17 and under' ","'Women' ",340
+2013 ,"'Group M Law' ","'18' ","'Men' ",4015
+2013 ,"'Group M Law' ","'18' ","'Women' ",8335
+2013 ,"'Group M Law' ","'19' ","'Men' ",1695
+2013 ,"'Group M Law' ","'19' ","'Women' ",2825
+2013 ,"'Group M Law' ","'20' ","'Men' ",755
+2013 ,"'Group M Law' ","'20' ","'Women' ",1030
+2013 ,"'Group M Law' ","'21 and over' ","'Men' ",2015
+2013 ,"'Group M Law' ","'21 and over' ","'Women' ",2605
+2013 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",365
+2013 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",535
+2013 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",12880
+2013 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",13105
+2013 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",7730
+2013 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",6755
+2013 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3590
+2013 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3485
+2013 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",6245
+2013 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",6295
+2013 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",30
+2013 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",70
+2013 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2565
+2013 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",3390
+2013 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1205
+2013 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1475
+2013 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",645
+2013 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",625
+2013 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",1055
+2013 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",790
+2013 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",10
+2013 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",75
+2013 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",1945
+2013 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",6455
+2013 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",615
+2013 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1610
+2013 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",165
+2013 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",370
+2013 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",425
+2013 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",790
+2013 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",20
+2013 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",40
+2013 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",795
+2013 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2115
+2013 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",240
+2013 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",460
+2013 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",55
+2013 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",90
+2013 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",90
+2013 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",110
+2013 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",10
+2013 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",270
+2013 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",460
+2013 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",110
+2013 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",170
+2013 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",30
+2013 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",40
+2013 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",80
+2013 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",85
+2013 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",20
+2013 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",40
+2013 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4585
+2013 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",5480
+2013 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1435
+2013 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1260
+2013 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",300
+2013 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",300
+2013 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",870
+2013 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",645
+2013 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",125
+2013 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",160
+2013 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",6840
+2013 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",12555
+2013 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5480
+2013 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",10015
+2013 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2530
+2013 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3415
+2013 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4955
+2013 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",5565
+2013 ,"'Group X Education' ","'17 and under' ","'Men' ",5
+2013 ,"'Group X Education' ","'17 and under' ","'Women' ",30
+2013 ,"'Group X Education' ","'18' ","'Men' ",1030
+2013 ,"'Group X Education' ","'18' ","'Women' ",7085
+2013 ,"'Group X Education' ","'19' ","'Men' ",540
+2013 ,"'Group X Education' ","'19' ","'Women' ",2710
+2013 ,"'Group X Education' ","'20' ","'Men' ",225
+2013 ,"'Group X Education' ","'20' ","'Women' ",1110
+2013 ,"'Group X Education' ","'21 and over' ","'Men' ",780
+2013 ,"'Group X Education' ","'21 and over' ","'Women' ",4345
+2013 ,"'Y Combined arts' ","'17 and under' ","'Men' ",10
+2013 ,"'Y Combined arts' ","'17 and under' ","'Women' ",50
+2013 ,"'Y Combined arts' ","'18' ","'Men' ",1780
+2013 ,"'Y Combined arts' ","'18' ","'Women' ",4755
+2013 ,"'Y Combined arts' ","'19' ","'Men' ",745
+2013 ,"'Y Combined arts' ","'19' ","'Women' ",1450
+2013 ,"'Y Combined arts' ","'20' ","'Men' ",270
+2013 ,"'Y Combined arts' ","'20' ","'Women' ",435
+2013 ,"'Y Combined arts' ","'21 and over' ","'Men' ",580
+2013 ,"'Y Combined arts' ","'21 and over' ","'Women' ",850
+2013 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",60
+2013 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",55
+2013 ,"'Y Combined sciences' ","'18' ","'Men' ",2265
+2013 ,"'Y Combined sciences' ","'18' ","'Women' ",2140
+2013 ,"'Y Combined sciences' ","'19' ","'Men' ",1005
+2013 ,"'Y Combined sciences' ","'19' ","'Women' ",780
+2013 ,"'Y Combined sciences' ","'20' ","'Men' ",360
+2013 ,"'Y Combined sciences' ","'20' ","'Women' ",245
+2013 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",810
+2013 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",660
+2013 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",45
+2013 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",35
+2013 ,"'Y Combined social sciences' ","'18' ","'Men' ",1220
+2013 ,"'Y Combined social sciences' ","'18' ","'Women' ",1505
+2013 ,"'Y Combined social sciences' ","'19' ","'Men' ",660
+2013 ,"'Y Combined social sciences' ","'19' ","'Women' ",635
+2013 ,"'Y Combined social sciences' ","'20' ","'Men' ",190
+2013 ,"'Y Combined social sciences' ","'20' ","'Women' ",205
+2013 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",300
+2013 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",385
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",55
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",70
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",4340
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",4335
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",2075
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",1745
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",910
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",670
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",1730
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",1475
+2013 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",45
+2013 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",90
+2013 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",2060
+2013 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",3625
+2013 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",870
+2013 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1605
+2013 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",290
+2013 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",560
+2013 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",585
+2013 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1305
+2013 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",55
+2013 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",90
+2013 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1835
+2013 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",2030
+2013 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",700
+2013 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",735
+2013 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",240
+2013 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",245
+2013 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",495
+2013 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",530
+2014 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",45
+2014 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",65
+2014 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2020
+2014 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",2875
+2014 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",675
+2014 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",845
+2014 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",130
+2014 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",120
+2014 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",975
+2014 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1160
+2014 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",80
+2014 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",220
+2014 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",3035
+2014 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",12255
+2014 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1805
+2014 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",6505
+2014 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",720
+2014 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",3060
+2014 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",4455
+2014 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",20270
+2014 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",130
+2014 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",335
+2014 ,"'Group C Biological Sciences' ","'18' ","'Men' ",10435
+2014 ,"'Group C Biological Sciences' ","'18' ","'Women' ",16530
+2014 ,"'Group C Biological Sciences' ","'19' ","'Men' ",4590
+2014 ,"'Group C Biological Sciences' ","'19' ","'Women' ",5555
+2014 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1925
+2014 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1905
+2014 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",3265
+2014 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",4145
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",25
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",45
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",770
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",2060
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",380
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",1120
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",170
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",470
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",560
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",1145
+2014 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",135
+2014 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",120
+2014 ,"'Group F Physical Sciences' ","'18' ","'Men' ",8035
+2014 ,"'Group F Physical Sciences' ","'18' ","'Women' ",5455
+2014 ,"'Group F Physical Sciences' ","'19' ","'Men' ",2185
+2014 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1445
+2014 ,"'Group F Physical Sciences' ","'20' ","'Men' ",565
+2014 ,"'Group F Physical Sciences' ","'20' ","'Women' ",405
+2014 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",950
+2014 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",625
+2014 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",90
+2014 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",75
+2014 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3630
+2014 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2140
+2014 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",970
+2014 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",565
+2014 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",270
+2014 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",185
+2014 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",355
+2014 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",185
+2014 ,"'Group H Engineering' ","'17 and under' ","'Men' ",565
+2014 ,"'Group H Engineering' ","'17 and under' ","'Women' ",155
+2014 ,"'Group H Engineering' ","'18' ","'Men' ",12225
+2014 ,"'Group H Engineering' ","'18' ","'Women' ",2295
+2014 ,"'Group H Engineering' ","'19' ","'Men' ",5155
+2014 ,"'Group H Engineering' ","'19' ","'Women' ",875
+2014 ,"'Group H Engineering' ","'20' ","'Men' ",2300
+2014 ,"'Group H Engineering' ","'20' ","'Women' ",410
+2014 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4460
+2014 ,"'Group H Engineering' ","'21 and over' ","'Women' ",670
+2014 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",150
+2014 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",35
+2014 ,"'Group I Computer Sciences' ","'18' ","'Men' ",8835
+2014 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1380
+2014 ,"'Group I Computer Sciences' ","'19' ","'Men' ",4590
+2014 ,"'Group I Computer Sciences' ","'19' ","'Women' ",680
+2014 ,"'Group I Computer Sciences' ","'20' ","'Men' ",2370
+2014 ,"'Group I Computer Sciences' ","'20' ","'Women' ",335
+2014 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4515
+2014 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",695
+2014 ,"'Group J Technologies' ","'17 and under' ","'Men' ",15
+2014 ,"'Group J Technologies' ","'17 and under' ","'Women' ",5
+2014 ,"'Group J Technologies' ","'18' ","'Men' ",840
+2014 ,"'Group J Technologies' ","'18' ","'Women' ",205
+2014 ,"'Group J Technologies' ","'19' ","'Men' ",445
+2014 ,"'Group J Technologies' ","'19' ","'Women' ",110
+2014 ,"'Group J Technologies' ","'20' ","'Men' ",270
+2014 ,"'Group J Technologies' ","'20' ","'Women' ",75
+2014 ,"'Group J Technologies' ","'21 and over' ","'Men' ",520
+2014 ,"'Group J Technologies' ","'21 and over' ","'Women' ",100
+2014 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",45
+2014 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",70
+2014 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",2035
+2014 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1305
+2014 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1135
+2014 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",660
+2014 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",515
+2014 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",240
+2014 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1250
+2014 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",435
+2014 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",210
+2014 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",300
+2014 ,"'Group L Social Studies' ","'18' ","'Men' ",8195
+2014 ,"'Group L Social Studies' ","'18' ","'Women' ",11495
+2014 ,"'Group L Social Studies' ","'19' ","'Men' ",3290
+2014 ,"'Group L Social Studies' ","'19' ","'Women' ",4810
+2014 ,"'Group L Social Studies' ","'20' ","'Men' ",1115
+2014 ,"'Group L Social Studies' ","'20' ","'Women' ",1970
+2014 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2840
+2014 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",9095
+2014 ,"'Group M Law' ","'17 and under' ","'Men' ",120
+2014 ,"'Group M Law' ","'17 and under' ","'Women' ",325
+2014 ,"'Group M Law' ","'18' ","'Men' ",3765
+2014 ,"'Group M Law' ","'18' ","'Women' ",8315
+2014 ,"'Group M Law' ","'19' ","'Men' ",1600
+2014 ,"'Group M Law' ","'19' ","'Women' ",2880
+2014 ,"'Group M Law' ","'20' ","'Men' ",790
+2014 ,"'Group M Law' ","'20' ","'Women' ",1150
+2014 ,"'Group M Law' ","'21 and over' ","'Men' ",2040
+2014 ,"'Group M Law' ","'21 and over' ","'Women' ",2700
+2014 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",375
+2014 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",555
+2014 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",13550
+2014 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",13350
+2014 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",7890
+2014 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",6910
+2014 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3715
+2014 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3460
+2014 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",7020
+2014 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",6840
+2014 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",30
+2014 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",75
+2014 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2795
+2014 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",3725
+2014 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1320
+2014 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1565
+2014 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",650
+2014 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",625
+2014 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",1145
+2014 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",790
+2014 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",20
+2014 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",90
+2014 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",1990
+2014 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",6325
+2014 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",605
+2014 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1575
+2014 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",185
+2014 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",470
+2014 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",435
+2014 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",835
+2014 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",10
+2014 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",50
+2014 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",790
+2014 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2005
+2014 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",205
+2014 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",410
+2014 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",35
+2014 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",80
+2014 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",85
+2014 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",110
+2014 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",5
+2014 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",220
+2014 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",425
+2014 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",105
+2014 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",125
+2014 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",25
+2014 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",40
+2014 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",100
+2014 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",75
+2014 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",25
+2014 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",50
+2014 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4730
+2014 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",5650
+2014 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1435
+2014 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1270
+2014 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",335
+2014 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",310
+2014 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",805
+2014 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",675
+2014 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",105
+2014 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",225
+2014 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",7190
+2014 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",13560
+2014 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5475
+2014 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",10265
+2014 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2540
+2014 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3490
+2014 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4785
+2014 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",5695
+2014 ,"'Group X Education' ","'17 and under' ","'Women' ",30
+2014 ,"'Group X Education' ","'18' ","'Men' ",1145
+2014 ,"'Group X Education' ","'18' ","'Women' ",7070
+2014 ,"'Group X Education' ","'19' ","'Men' ",540
+2014 ,"'Group X Education' ","'19' ","'Women' ",2740
+2014 ,"'Group X Education' ","'20' ","'Men' ",235
+2014 ,"'Group X Education' ","'20' ","'Women' ",1290
+2014 ,"'Group X Education' ","'21 and over' ","'Men' ",765
+2014 ,"'Group X Education' ","'21 and over' ","'Women' ",4630
+2014 ,"'Y Combined arts' ","'17 and under' ","'Men' ",20
+2014 ,"'Y Combined arts' ","'17 and under' ","'Women' ",70
+2014 ,"'Y Combined arts' ","'18' ","'Men' ",1655
+2014 ,"'Y Combined arts' ","'18' ","'Women' ",4625
+2014 ,"'Y Combined arts' ","'19' ","'Men' ",680
+2014 ,"'Y Combined arts' ","'19' ","'Women' ",1515
+2014 ,"'Y Combined arts' ","'20' ","'Men' ",240
+2014 ,"'Y Combined arts' ","'20' ","'Women' ",485
+2014 ,"'Y Combined arts' ","'21 and over' ","'Men' ",490
+2014 ,"'Y Combined arts' ","'21 and over' ","'Women' ",800
+2014 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",85
+2014 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",50
+2014 ,"'Y Combined sciences' ","'18' ","'Men' ",2235
+2014 ,"'Y Combined sciences' ","'18' ","'Women' ",2060
+2014 ,"'Y Combined sciences' ","'19' ","'Men' ",980
+2014 ,"'Y Combined sciences' ","'19' ","'Women' ",800
+2014 ,"'Y Combined sciences' ","'20' ","'Men' ",375
+2014 ,"'Y Combined sciences' ","'20' ","'Women' ",275
+2014 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",800
+2014 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",630
+2014 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",45
+2014 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",55
+2014 ,"'Y Combined social sciences' ","'18' ","'Men' ",1250
+2014 ,"'Y Combined social sciences' ","'18' ","'Women' ",1560
+2014 ,"'Y Combined social sciences' ","'19' ","'Men' ",600
+2014 ,"'Y Combined social sciences' ","'19' ","'Women' ",625
+2014 ,"'Y Combined social sciences' ","'20' ","'Men' ",210
+2014 ,"'Y Combined social sciences' ","'20' ","'Women' ",215
+2014 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",285
+2014 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",365
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",50
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",80
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",3725
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",3970
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",1755
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",1505
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",740
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",625
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",1405
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",1340
+2014 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",60
+2014 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",110
+2014 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",1935
+2014 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",3600
+2014 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",775
+2014 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1490
+2014 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",255
+2014 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",515
+2014 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",460
+2014 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",935
+2014 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",55
+2014 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",95
+2014 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1750
+2014 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",1970
+2014 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",705
+2014 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",755
+2014 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",200
+2014 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",230
+2014 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",490
+2014 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",605
+2015 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",40
+2015 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",85
+2015 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2015
+2015 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",2790
+2015 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",610
+2015 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",815
+2015 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",145
+2015 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",140
+2015 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",1025
+2015 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1295
+2015 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",55
+2015 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",215
+2015 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",3085
+2015 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",12750
+2015 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1785
+2015 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",6650
+2015 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",745
+2015 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",3110
+2015 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",4645
+2015 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",20500
+2015 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",120
+2015 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",340
+2015 ,"'Group C Biological Sciences' ","'18' ","'Men' ",10875
+2015 ,"'Group C Biological Sciences' ","'18' ","'Women' ",18420
+2015 ,"'Group C Biological Sciences' ","'19' ","'Men' ",4925
+2015 ,"'Group C Biological Sciences' ","'19' ","'Women' ",5960
+2015 ,"'Group C Biological Sciences' ","'20' ","'Men' ",1905
+2015 ,"'Group C Biological Sciences' ","'20' ","'Women' ",1975
+2015 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",3400
+2015 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",4335
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",40
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",50
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",745
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",2435
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",425
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",1225
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",200
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",510
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",625
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",1290
+2015 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",120
+2015 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",110
+2015 ,"'Group F Physical Sciences' ","'18' ","'Men' ",8230
+2015 ,"'Group F Physical Sciences' ","'18' ","'Women' ",5975
+2015 ,"'Group F Physical Sciences' ","'19' ","'Men' ",2345
+2015 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1525
+2015 ,"'Group F Physical Sciences' ","'20' ","'Men' ",545
+2015 ,"'Group F Physical Sciences' ","'20' ","'Women' ",445
+2015 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",990
+2015 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",670
+2015 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",85
+2015 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",80
+2015 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3840
+2015 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2145
+2015 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",1005
+2015 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",600
+2015 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",310
+2015 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",140
+2015 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",350
+2015 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",165
+2015 ,"'Group H Engineering' ","'17 and under' ","'Men' ",580
+2015 ,"'Group H Engineering' ","'17 and under' ","'Women' ",205
+2015 ,"'Group H Engineering' ","'18' ","'Men' ",12910
+2015 ,"'Group H Engineering' ","'18' ","'Women' ",2770
+2015 ,"'Group H Engineering' ","'19' ","'Men' ",5590
+2015 ,"'Group H Engineering' ","'19' ","'Women' ",1005
+2015 ,"'Group H Engineering' ","'20' ","'Men' ",2330
+2015 ,"'Group H Engineering' ","'20' ","'Women' ",440
+2015 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4400
+2015 ,"'Group H Engineering' ","'21 and over' ","'Women' ",620
+2015 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",220
+2015 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",80
+2015 ,"'Group I Computer Sciences' ","'18' ","'Men' ",9825
+2015 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1600
+2015 ,"'Group I Computer Sciences' ","'19' ","'Men' ",5085
+2015 ,"'Group I Computer Sciences' ","'19' ","'Women' ",810
+2015 ,"'Group I Computer Sciences' ","'20' ","'Men' ",2470
+2015 ,"'Group I Computer Sciences' ","'20' ","'Women' ",380
+2015 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4785
+2015 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",695
+2015 ,"'Group J Technologies' ","'17 and under' ","'Men' ",20
+2015 ,"'Group J Technologies' ","'17 and under' ","'Women' ",15
+2015 ,"'Group J Technologies' ","'18' ","'Men' ",740
+2015 ,"'Group J Technologies' ","'18' ","'Women' ",245
+2015 ,"'Group J Technologies' ","'19' ","'Men' ",390
+2015 ,"'Group J Technologies' ","'19' ","'Women' ",110
+2015 ,"'Group J Technologies' ","'20' ","'Men' ",235
+2015 ,"'Group J Technologies' ","'20' ","'Women' ",65
+2015 ,"'Group J Technologies' ","'21 and over' ","'Men' ",470
+2015 ,"'Group J Technologies' ","'21 and over' ","'Women' ",90
+2015 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",50
+2015 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",85
+2015 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",2135
+2015 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1505
+2015 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1125
+2015 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",760
+2015 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",530
+2015 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",240
+2015 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1375
+2015 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",540
+2015 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",200
+2015 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",320
+2015 ,"'Group L Social Studies' ","'18' ","'Men' ",8855
+2015 ,"'Group L Social Studies' ","'18' ","'Women' ",13195
+2015 ,"'Group L Social Studies' ","'19' ","'Men' ",3600
+2015 ,"'Group L Social Studies' ","'19' ","'Women' ",5040
+2015 ,"'Group L Social Studies' ","'20' ","'Men' ",1135
+2015 ,"'Group L Social Studies' ","'20' ","'Women' ",1960
+2015 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2775
+2015 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",9495
+2015 ,"'Group M Law' ","'17 and under' ","'Men' ",135
+2015 ,"'Group M Law' ","'17 and under' ","'Women' ",335
+2015 ,"'Group M Law' ","'18' ","'Men' ",3940
+2015 ,"'Group M Law' ","'18' ","'Women' ",9005
+2015 ,"'Group M Law' ","'19' ","'Men' ",1670
+2015 ,"'Group M Law' ","'19' ","'Women' ",2995
+2015 ,"'Group M Law' ","'20' ","'Men' ",665
+2015 ,"'Group M Law' ","'20' ","'Women' ",1105
+2015 ,"'Group M Law' ","'21 and over' ","'Men' ",1900
+2015 ,"'Group M Law' ","'21 and over' ","'Women' ",2555
+2015 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",440
+2015 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",595
+2015 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",14615
+2015 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",14085
+2015 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",8385
+2015 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",7280
+2015 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3500
+2015 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3315
+2015 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",7095
+2015 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",7205
+2015 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",25
+2015 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",105
+2015 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",2860
+2015 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",4025
+2015 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1395
+2015 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1640
+2015 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",630
+2015 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",635
+2015 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",1015
+2015 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",705
+2015 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",20
+2015 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",85
+2015 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",1805
+2015 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",6630
+2015 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",595
+2015 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1650
+2015 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",180
+2015 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",400
+2015 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",410
+2015 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",800
+2015 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",20
+2015 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",50
+2015 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",765
+2015 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",2100
+2015 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",195
+2015 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",370
+2015 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",20
+2015 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",100
+2015 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",75
+2015 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",120
+2015 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",10
+2015 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",285
+2015 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",470
+2015 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",100
+2015 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",155
+2015 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",30
+2015 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",50
+2015 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",90
+2015 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",75
+2015 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",30
+2015 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",55
+2015 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4750
+2015 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",5980
+2015 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1325
+2015 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1310
+2015 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",360
+2015 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",325
+2015 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",755
+2015 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",610
+2015 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",145
+2015 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",250
+2015 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",7795
+2015 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",14505
+2015 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5285
+2015 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",10680
+2015 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2475
+2015 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3505
+2015 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4925
+2015 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",5865
+2015 ,"'Group X Education' ","'17 and under' ","'Women' ",35
+2015 ,"'Group X Education' ","'18' ","'Men' ",1020
+2015 ,"'Group X Education' ","'18' ","'Women' ",7050
+2015 ,"'Group X Education' ","'19' ","'Men' ",465
+2015 ,"'Group X Education' ","'19' ","'Women' ",2745
+2015 ,"'Group X Education' ","'20' ","'Men' ",245
+2015 ,"'Group X Education' ","'20' ","'Women' ",1215
+2015 ,"'Group X Education' ","'21 and over' ","'Men' ",1305
+2015 ,"'Group X Education' ","'21 and over' ","'Women' ",6350
+2015 ,"'Y Combined arts' ","'17 and under' ","'Men' ",20
+2015 ,"'Y Combined arts' ","'17 and under' ","'Women' ",50
+2015 ,"'Y Combined arts' ","'18' ","'Men' ",1560
+2015 ,"'Y Combined arts' ","'18' ","'Women' ",4595
+2015 ,"'Y Combined arts' ","'19' ","'Men' ",580
+2015 ,"'Y Combined arts' ","'19' ","'Women' ",1335
+2015 ,"'Y Combined arts' ","'20' ","'Men' ",195
+2015 ,"'Y Combined arts' ","'20' ","'Women' ",430
+2015 ,"'Y Combined arts' ","'21 and over' ","'Men' ",455
+2015 ,"'Y Combined arts' ","'21 and over' ","'Women' ",735
+2015 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",85
+2015 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",70
+2015 ,"'Y Combined sciences' ","'18' ","'Men' ",2015
+2015 ,"'Y Combined sciences' ","'18' ","'Women' ",1955
+2015 ,"'Y Combined sciences' ","'19' ","'Men' ",835
+2015 ,"'Y Combined sciences' ","'19' ","'Women' ",735
+2015 ,"'Y Combined sciences' ","'20' ","'Men' ",280
+2015 ,"'Y Combined sciences' ","'20' ","'Women' ",245
+2015 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",570
+2015 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",615
+2015 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",45
+2015 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",50
+2015 ,"'Y Combined social sciences' ","'18' ","'Men' ",1395
+2015 ,"'Y Combined social sciences' ","'18' ","'Women' ",1635
+2015 ,"'Y Combined social sciences' ","'19' ","'Men' ",670
+2015 ,"'Y Combined social sciences' ","'19' ","'Women' ",630
+2015 ,"'Y Combined social sciences' ","'20' ","'Men' ",215
+2015 ,"'Y Combined social sciences' ","'20' ","'Women' ",220
+2015 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",385
+2015 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",405
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",50
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",80
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",2995
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",3660
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",1365
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",1460
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",560
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",530
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",1110
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",1360
+2015 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",35
+2015 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",100
+2015 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",1865
+2015 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",3735
+2015 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",750
+2015 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1455
+2015 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",235
+2015 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",495
+2015 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",450
+2015 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",1115
+2015 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",90
+2015 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",125
+2015 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1895
+2015 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",2220
+2015 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",665
+2015 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",740
+2015 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",210
+2015 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",205
+2015 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",350
+2015 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",435
+2016 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Men' ",40
+2016 ,"'Group A Medicine and Dentistry' ","'17 and under' ","'Women' ",75
+2016 ,"'Group A Medicine and Dentistry' ","'18' ","'Men' ",2070
+2016 ,"'Group A Medicine and Dentistry' ","'18' ","'Women' ",3070
+2016 ,"'Group A Medicine and Dentistry' ","'19' ","'Men' ",535
+2016 ,"'Group A Medicine and Dentistry' ","'19' ","'Women' ",775
+2016 ,"'Group A Medicine and Dentistry' ","'20' ","'Men' ",150
+2016 ,"'Group A Medicine and Dentistry' ","'20' ","'Women' ",155
+2016 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Men' ",1010
+2016 ,"'Group A Medicine and Dentistry' ","'21 and over' ","'Women' ",1245
+2016 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Men' ",65
+2016 ,"'Group B Subjects allied to Medicine' ","'17 and under' ","'Women' ",230
+2016 ,"'Group B Subjects allied to Medicine' ","'18' ","'Men' ",3200
+2016 ,"'Group B Subjects allied to Medicine' ","'18' ","'Women' ",13210
+2016 ,"'Group B Subjects allied to Medicine' ","'19' ","'Men' ",1795
+2016 ,"'Group B Subjects allied to Medicine' ","'19' ","'Women' ",6980
+2016 ,"'Group B Subjects allied to Medicine' ","'20' ","'Men' ",685
+2016 ,"'Group B Subjects allied to Medicine' ","'20' ","'Women' ",3105
+2016 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Men' ",4705
+2016 ,"'Group B Subjects allied to Medicine' ","'21 and over' ","'Women' ",21485
+2016 ,"'Group C Biological Sciences' ","'17 and under' ","'Men' ",130
+2016 ,"'Group C Biological Sciences' ","'17 and under' ","'Women' ",385
+2016 ,"'Group C Biological Sciences' ","'18' ","'Men' ",11145
+2016 ,"'Group C Biological Sciences' ","'18' ","'Women' ",19670
+2016 ,"'Group C Biological Sciences' ","'19' ","'Men' ",4820
+2016 ,"'Group C Biological Sciences' ","'19' ","'Women' ",6295
+2016 ,"'Group C Biological Sciences' ","'20' ","'Men' ",2005
+2016 ,"'Group C Biological Sciences' ","'20' ","'Women' ",2035
+2016 ,"'Group C Biological Sciences' ","'21 and over' ","'Men' ",3375
+2016 ,"'Group C Biological Sciences' ","'21 and over' ","'Women' ",4340
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Men' ",30
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ","'Women' ",55
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Men' ",745
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ","'Women' ",2390
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Men' ",360
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ","'Women' ",1090
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Men' ",155
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ","'Women' ",495
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Men' ",560
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ","'Women' ",1275
+2016 ,"'Group F Physical Sciences' ","'17 and under' ","'Men' ",125
+2016 ,"'Group F Physical Sciences' ","'17 and under' ","'Women' ",135
+2016 ,"'Group F Physical Sciences' ","'18' ","'Men' ",7660
+2016 ,"'Group F Physical Sciences' ","'18' ","'Women' ",5785
+2016 ,"'Group F Physical Sciences' ","'19' ","'Men' ",2220
+2016 ,"'Group F Physical Sciences' ","'19' ","'Women' ",1730
+2016 ,"'Group F Physical Sciences' ","'20' ","'Men' ",565
+2016 ,"'Group F Physical Sciences' ","'20' ","'Women' ",415
+2016 ,"'Group F Physical Sciences' ","'21 and over' ","'Men' ",910
+2016 ,"'Group F Physical Sciences' ","'21 and over' ","'Women' ",670
+2016 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Men' ",105
+2016 ,"'Group G Mathematical Sciences' ","'17 and under' ","'Women' ",100
+2016 ,"'Group G Mathematical Sciences' ","'18' ","'Men' ",3995
+2016 ,"'Group G Mathematical Sciences' ","'18' ","'Women' ",2255
+2016 ,"'Group G Mathematical Sciences' ","'19' ","'Men' ",1025
+2016 ,"'Group G Mathematical Sciences' ","'19' ","'Women' ",640
+2016 ,"'Group G Mathematical Sciences' ","'20' ","'Men' ",285
+2016 ,"'Group G Mathematical Sciences' ","'20' ","'Women' ",165
+2016 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Men' ",365
+2016 ,"'Group G Mathematical Sciences' ","'21 and over' ","'Women' ",140
+2016 ,"'Group H Engineering' ","'17 and under' ","'Men' ",590
+2016 ,"'Group H Engineering' ","'17 and under' ","'Women' ",215
+2016 ,"'Group H Engineering' ","'18' ","'Men' ",13110
+2016 ,"'Group H Engineering' ","'18' ","'Women' ",2845
+2016 ,"'Group H Engineering' ","'19' ","'Men' ",5460
+2016 ,"'Group H Engineering' ","'19' ","'Women' ",1075
+2016 ,"'Group H Engineering' ","'20' ","'Men' ",2400
+2016 ,"'Group H Engineering' ","'20' ","'Women' ",405
+2016 ,"'Group H Engineering' ","'21 and over' ","'Men' ",4055
+2016 ,"'Group H Engineering' ","'21 and over' ","'Women' ",630
+2016 ,"'Group I Computer Sciences' ","'17 and under' ","'Men' ",230
+2016 ,"'Group I Computer Sciences' ","'17 and under' ","'Women' ",70
+2016 ,"'Group I Computer Sciences' ","'18' ","'Men' ",10040
+2016 ,"'Group I Computer Sciences' ","'18' ","'Women' ",1775
+2016 ,"'Group I Computer Sciences' ","'19' ","'Men' ",5520
+2016 ,"'Group I Computer Sciences' ","'19' ","'Women' ",865
+2016 ,"'Group I Computer Sciences' ","'20' ","'Men' ",2500
+2016 ,"'Group I Computer Sciences' ","'20' ","'Women' ",330
+2016 ,"'Group I Computer Sciences' ","'21 and over' ","'Men' ",4780
+2016 ,"'Group I Computer Sciences' ","'21 and over' ","'Women' ",730
+2016 ,"'Group J Technologies' ","'17 and under' ","'Men' ",20
+2016 ,"'Group J Technologies' ","'17 and under' ","'Women' ",10
+2016 ,"'Group J Technologies' ","'18' ","'Men' ",600
+2016 ,"'Group J Technologies' ","'18' ","'Women' ",235
+2016 ,"'Group J Technologies' ","'19' ","'Men' ",345
+2016 ,"'Group J Technologies' ","'19' ","'Women' ",105
+2016 ,"'Group J Technologies' ","'20' ","'Men' ",180
+2016 ,"'Group J Technologies' ","'20' ","'Women' ",70
+2016 ,"'Group J Technologies' ","'21 and over' ","'Men' ",495
+2016 ,"'Group J Technologies' ","'21 and over' ","'Women' ",105
+2016 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Men' ",45
+2016 ,"'Group K Architecture, Building and Planning' ","'17 and under' ","'Women' ",80
+2016 ,"'Group K Architecture, Building and Planning' ","'18' ","'Men' ",2380
+2016 ,"'Group K Architecture, Building and Planning' ","'18' ","'Women' ",1605
+2016 ,"'Group K Architecture, Building and Planning' ","'19' ","'Men' ",1225
+2016 ,"'Group K Architecture, Building and Planning' ","'19' ","'Women' ",780
+2016 ,"'Group K Architecture, Building and Planning' ","'20' ","'Men' ",480
+2016 ,"'Group K Architecture, Building and Planning' ","'20' ","'Women' ",240
+2016 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Men' ",1265
+2016 ,"'Group K Architecture, Building and Planning' ","'21 and over' ","'Women' ",480
+2016 ,"'Group L Social Studies' ","'17 and under' ","'Men' ",220
+2016 ,"'Group L Social Studies' ","'17 and under' ","'Women' ",315
+2016 ,"'Group L Social Studies' ","'18' ","'Men' ",9485
+2016 ,"'Group L Social Studies' ","'18' ","'Women' ",13900
+2016 ,"'Group L Social Studies' ","'19' ","'Men' ",3720
+2016 ,"'Group L Social Studies' ","'19' ","'Women' ",5350
+2016 ,"'Group L Social Studies' ","'20' ","'Men' ",1115
+2016 ,"'Group L Social Studies' ","'20' ","'Women' ",1905
+2016 ,"'Group L Social Studies' ","'21 and over' ","'Men' ",2535
+2016 ,"'Group L Social Studies' ","'21 and over' ","'Women' ",9385
+2016 ,"'Group M Law' ","'17 and under' ","'Men' ",135
+2016 ,"'Group M Law' ","'17 and under' ","'Women' ",360
+2016 ,"'Group M Law' ","'18' ","'Men' ",4190
+2016 ,"'Group M Law' ","'18' ","'Women' ",9580
+2016 ,"'Group M Law' ","'19' ","'Men' ",1655
+2016 ,"'Group M Law' ","'19' ","'Women' ",3080
+2016 ,"'Group M Law' ","'20' ","'Men' ",650
+2016 ,"'Group M Law' ","'20' ","'Women' ",1060
+2016 ,"'Group M Law' ","'21 and over' ","'Men' ",1820
+2016 ,"'Group M Law' ","'21 and over' ","'Women' ",2510
+2016 ,"'Group N Business and Admin studies' ","'17 and under' ","'Men' ",440
+2016 ,"'Group N Business and Admin studies' ","'17 and under' ","'Women' ",555
+2016 ,"'Group N Business and Admin studies' ","'18' ","'Men' ",15900
+2016 ,"'Group N Business and Admin studies' ","'18' ","'Women' ",14645
+2016 ,"'Group N Business and Admin studies' ","'19' ","'Men' ",8625
+2016 ,"'Group N Business and Admin studies' ","'19' ","'Women' ",7200
+2016 ,"'Group N Business and Admin studies' ","'20' ","'Men' ",3560
+2016 ,"'Group N Business and Admin studies' ","'20' ","'Women' ",3180
+2016 ,"'Group N Business and Admin studies' ","'21 and over' ","'Men' ",6805
+2016 ,"'Group N Business and Admin studies' ","'21 and over' ","'Women' ",6745
+2016 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Men' ",25
+2016 ,"'Group P Mass Communication and Documentation' ","'17 and under' ","'Women' ",110
+2016 ,"'Group P Mass Communication and Documentation' ","'18' ","'Men' ",3185
+2016 ,"'Group P Mass Communication and Documentation' ","'18' ","'Women' ",4035
+2016 ,"'Group P Mass Communication and Documentation' ","'19' ","'Men' ",1535
+2016 ,"'Group P Mass Communication and Documentation' ","'19' ","'Women' ",1665
+2016 ,"'Group P Mass Communication and Documentation' ","'20' ","'Men' ",700
+2016 ,"'Group P Mass Communication and Documentation' ","'20' ","'Women' ",660
+2016 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Men' ",1055
+2016 ,"'Group P Mass Communication and Documentation' ","'21 and over' ","'Women' ",665
+2016 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Men' ",20
+2016 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ","'Women' ",95
+2016 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Men' ",1780
+2016 ,"'Group Q Linguistics, Classics and related' ","'18' ","'Women' ",6460
+2016 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Men' ",535
+2016 ,"'Group Q Linguistics, Classics and related' ","'19' ","'Women' ",1685
+2016 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Men' ",160
+2016 ,"'Group Q Linguistics, Classics and related' ","'20' ","'Women' ",415
+2016 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Men' ",380
+2016 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ","'Women' ",710
+2016 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Men' ",15
+2016 ,"'Group R European Languages, Literature and related' ","'17 and under' ","'Women' ",55
+2016 ,"'Group R European Languages, Literature and related' ","'18' ","'Men' ",745
+2016 ,"'Group R European Languages, Literature and related' ","'18' ","'Women' ",1855
+2016 ,"'Group R European Languages, Literature and related' ","'19' ","'Men' ",175
+2016 ,"'Group R European Languages, Literature and related' ","'19' ","'Women' ",390
+2016 ,"'Group R European Languages, Literature and related' ","'20' ","'Men' ",40
+2016 ,"'Group R European Languages, Literature and related' ","'20' ","'Women' ",70
+2016 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Men' ",80
+2016 ,"'Group R European Languages, Literature and related' ","'21 and over' ","'Women' ",80
+2016 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Men' ",5
+2016 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ","'Women' ",10
+2016 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Men' ",215
+2016 ,"'Group T Non-European Languages, Literature and related' ","'18' ","'Women' ",465
+2016 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Men' ",90
+2016 ,"'Group T Non-European Languages, Literature and related' ","'19' ","'Women' ",140
+2016 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Men' ",25
+2016 ,"'Group T Non-European Languages, Literature and related' ","'20' ","'Women' ",40
+2016 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Men' ",80
+2016 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ","'Women' ",75
+2016 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Men' ",25
+2016 ,"'Group V History and Philosophical studies' ","'17 and under' ","'Women' ",55
+2016 ,"'Group V History and Philosophical studies' ","'18' ","'Men' ",4565
+2016 ,"'Group V History and Philosophical studies' ","'18' ","'Women' ",6255
+2016 ,"'Group V History and Philosophical studies' ","'19' ","'Men' ",1370
+2016 ,"'Group V History and Philosophical studies' ","'19' ","'Women' ",1440
+2016 ,"'Group V History and Philosophical studies' ","'20' ","'Men' ",335
+2016 ,"'Group V History and Philosophical studies' ","'20' ","'Women' ",300
+2016 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Men' ",745
+2016 ,"'Group V History and Philosophical studies' ","'21 and over' ","'Women' ",605
+2016 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Men' ",160
+2016 ,"'Group W Creative Arts and Design' ","'17 and under' ","'Women' ",260
+2016 ,"'Group W Creative Arts and Design' ","'18' ","'Men' ",7730
+2016 ,"'Group W Creative Arts and Design' ","'18' ","'Women' ",14565
+2016 ,"'Group W Creative Arts and Design' ","'19' ","'Men' ",5310
+2016 ,"'Group W Creative Arts and Design' ","'19' ","'Women' ",10250
+2016 ,"'Group W Creative Arts and Design' ","'20' ","'Men' ",2395
+2016 ,"'Group W Creative Arts and Design' ","'20' ","'Women' ",3540
+2016 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Men' ",4770
+2016 ,"'Group W Creative Arts and Design' ","'21 and over' ","'Women' ",5510
+2016 ,"'Group X Education' ","'17 and under' ","'Women' ",25
+2016 ,"'Group X Education' ","'18' ","'Men' ",925
+2016 ,"'Group X Education' ","'18' ","'Women' ",6805
+2016 ,"'Group X Education' ","'19' ","'Men' ",425
+2016 ,"'Group X Education' ","'19' ","'Women' ",2775
+2016 ,"'Group X Education' ","'20' ","'Men' ",180
+2016 ,"'Group X Education' ","'20' ","'Women' ",1220
+2016 ,"'Group X Education' ","'21 and over' ","'Men' ",1390
+2016 ,"'Group X Education' ","'21 and over' ","'Women' ",6415
+2016 ,"'Y Combined arts' ","'17 and under' ","'Men' ",20
+2016 ,"'Y Combined arts' ","'17 and under' ","'Women' ",65
+2016 ,"'Y Combined arts' ","'18' ","'Men' ",1440
+2016 ,"'Y Combined arts' ","'18' ","'Women' ",4305
+2016 ,"'Y Combined arts' ","'19' ","'Men' ",565
+2016 ,"'Y Combined arts' ","'19' ","'Women' ",1280
+2016 ,"'Y Combined arts' ","'20' ","'Men' ",185
+2016 ,"'Y Combined arts' ","'20' ","'Women' ",410
+2016 ,"'Y Combined arts' ","'21 and over' ","'Men' ",395
+2016 ,"'Y Combined arts' ","'21 and over' ","'Women' ",690
+2016 ,"'Y Combined sciences' ","'17 and under' ","'Men' ",70
+2016 ,"'Y Combined sciences' ","'17 and under' ","'Women' ",65
+2016 ,"'Y Combined sciences' ","'18' ","'Men' ",1830
+2016 ,"'Y Combined sciences' ","'18' ","'Women' ",1775
+2016 ,"'Y Combined sciences' ","'19' ","'Men' ",755
+2016 ,"'Y Combined sciences' ","'19' ","'Women' ",720
+2016 ,"'Y Combined sciences' ","'20' ","'Men' ",255
+2016 ,"'Y Combined sciences' ","'20' ","'Women' ",235
+2016 ,"'Y Combined sciences' ","'21 and over' ","'Men' ",530
+2016 ,"'Y Combined sciences' ","'21 and over' ","'Women' ",575
+2016 ,"'Y Combined social sciences' ","'17 and under' ","'Men' ",50
+2016 ,"'Y Combined social sciences' ","'17 and under' ","'Women' ",70
+2016 ,"'Y Combined social sciences' ","'18' ","'Men' ",1515
+2016 ,"'Y Combined social sciences' ","'18' ","'Women' ",1545
+2016 ,"'Y Combined social sciences' ","'19' ","'Men' ",675
+2016 ,"'Y Combined social sciences' ","'19' ","'Women' ",645
+2016 ,"'Y Combined social sciences' ","'20' ","'Men' ",205
+2016 ,"'Y Combined social sciences' ","'20' ","'Women' ",210
+2016 ,"'Y Combined social sciences' ","'21 and over' ","'Men' ",305
+2016 ,"'Y Combined social sciences' ","'21 and over' ","'Women' ",330
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Men' ",50
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ","'Women' ",85
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Men' ",2590
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ","'Women' ",3355
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Men' ",1185
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ","'Women' ",1405
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Men' ",470
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ","'Women' ",520
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Men' ",960
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ","'Women' ",1405
+2016 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Men' ",45
+2016 ,"'Y Social Sciences combined with Arts' ","'17 and under' ","'Women' ",95
+2016 ,"'Y Social Sciences combined with Arts' ","'18' ","'Men' ",1885
+2016 ,"'Y Social Sciences combined with Arts' ","'18' ","'Women' ",3585
+2016 ,"'Y Social Sciences combined with Arts' ","'19' ","'Men' ",790
+2016 ,"'Y Social Sciences combined with Arts' ","'19' ","'Women' ",1380
+2016 ,"'Y Social Sciences combined with Arts' ","'20' ","'Men' ",220
+2016 ,"'Y Social Sciences combined with Arts' ","'20' ","'Women' ",445
+2016 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Men' ",405
+2016 ,"'Y Social Sciences combined with Arts' ","'21 and over' ","'Women' ",890
+2016 ,"'Z General, other combined and unknown' ","'17 and under' ","'Men' ",95
+2016 ,"'Z General, other combined and unknown' ","'17 and under' ","'Women' ",120
+2016 ,"'Z General, other combined and unknown' ","'18' ","'Men' ",1855
+2016 ,"'Z General, other combined and unknown' ","'18' ","'Women' ",2150
+2016 ,"'Z General, other combined and unknown' ","'19' ","'Men' ",695
+2016 ,"'Z General, other combined and unknown' ","'19' ","'Women' ",700
+2016 ,"'Z General, other combined and unknown' ","'20' ","'Men' ",200
+2016 ,"'Z General, other combined and unknown' ","'20' ","'Women' ",175
+2016 ,"'Z General, other combined and unknown' ","'21 and over' ","'Men' ",290
+2016 ,"'Z General, other combined and unknown' ","'21 and over' ","'Women' ",315

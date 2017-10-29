@@ -1,0 +1,746 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Deferred Status , Age Band , Acceptance Route , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_032_07.pdf"
+ 
+Cycle Year,Deferred Status , Age Band , Acceptance Route,Number of Acceptances,
+2007 ,"'Deferred' ","'17 and under' ","'Firm choice' ",500
+2007 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",65
+2007 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",15
+2007 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",25
+2007 ,"'Deferred' ","'17 and under' ","'Direct Clearing' ",5
+2007 ,"'Deferred' ","'17 and under' ","'RPA' ",15
+2007 ,"'Deferred' ","'18' ","'Firm choice' ",16980
+2007 ,"'Deferred' ","'18' ","'Insurance choice' ",2220
+2007 ,"'Deferred' ","'18' ","'Other main scheme choice' ",150
+2007 ,"'Deferred' ","'18' ","'Extra' ",70
+2007 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",635
+2007 ,"'Deferred' ","'18' ","'Direct Clearing' ",10
+2007 ,"'Deferred' ","'18' ","'RPA' ",45
+2007 ,"'Deferred' ","'19' ","'Firm choice' ",2305
+2007 ,"'Deferred' ","'19' ","'Insurance choice' ",180
+2007 ,"'Deferred' ","'19' ","'Other main scheme choice' ",140
+2007 ,"'Deferred' ","'19' ","'Extra' ",25
+2007 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",120
+2007 ,"'Deferred' ","'19' ","'Direct Clearing' ",20
+2007 ,"'Deferred' ","'19' ","'RPA' ",35
+2007 ,"'Deferred' ","'20' ","'Firm choice' ",735
+2007 ,"'Deferred' ","'20' ","'Insurance choice' ",40
+2007 ,"'Deferred' ","'20' ","'Other main scheme choice' ",75
+2007 ,"'Deferred' ","'20' ","'Extra' ",10
+2007 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",50
+2007 ,"'Deferred' ","'20' ","'Direct Clearing' ",10
+2007 ,"'Deferred' ","'20' ","'RPA' ",30
+2007 ,"'Deferred' ","'21 and over' ","'Firm choice' ",2665
+2007 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",55
+2007 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",535
+2007 ,"'Deferred' ","'21 and over' ","'Extra' ",15
+2007 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",180
+2007 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",70
+2007 ,"'Deferred' ","'21 and over' ","'RPA' ",295
+2007 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",2960
+2007 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",325
+2007 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",265
+2007 ,"'Not deferred' ","'17 and under' ","'Extra' ",35
+2007 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",335
+2007 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",130
+2007 ,"'Not deferred' ","'17 and under' ","'RPA' ",435
+2007 ,"'Not deferred' ","'18' ","'Firm choice' ",148750
+2007 ,"'Not deferred' ","'18' ","'Insurance choice' ",15370
+2007 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1700
+2007 ,"'Not deferred' ","'18' ","'Extra' ",1905
+2007 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",15330
+2007 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1075
+2007 ,"'Not deferred' ","'18' ","'RPA' ",2805
+2007 ,"'Not deferred' ","'19' ","'Firm choice' ",58990
+2007 ,"'Not deferred' ","'19' ","'Insurance choice' ",3555
+2007 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2910
+2007 ,"'Not deferred' ","'19' ","'Extra' ",890
+2007 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",6215
+2007 ,"'Not deferred' ","'19' ","'Direct Clearing' ",1855
+2007 ,"'Not deferred' ","'19' ","'RPA' ",3865
+2007 ,"'Not deferred' ","'20' ","'Firm choice' ",20075
+2007 ,"'Not deferred' ","'20' ","'Insurance choice' ",905
+2007 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",2365
+2007 ,"'Not deferred' ","'20' ","'Extra' ",305
+2007 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",2275
+2007 ,"'Not deferred' ","'20' ","'Direct Clearing' ",1320
+2007 ,"'Not deferred' ","'20' ","'RPA' ",3520
+2007 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",49025
+2007 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1040
+2007 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",8950
+2007 ,"'Not deferred' ","'21 and over' ","'Extra' ",510
+2007 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",4510
+2007 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",4680
+2007 ,"'Not deferred' ","'21 and over' ","'RPA' ",15930
+2008 ,"'Deferred' ","'17 and under' ","'Firm choice' ",460
+2008 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",70
+2008 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",15
+2008 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",20
+2008 ,"'Deferred' ","'17 and under' ","'Direct Clearing' ",5
+2008 ,"'Deferred' ","'17 and under' ","'RPA' ",10
+2008 ,"'Deferred' ","'18' ","'Firm choice' ",17425
+2008 ,"'Deferred' ","'18' ","'Insurance choice' ",2580
+2008 ,"'Deferred' ","'18' ","'Other main scheme choice' ",145
+2008 ,"'Deferred' ","'18' ","'Extra' ",130
+2008 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",680
+2008 ,"'Deferred' ","'18' ","'Direct Clearing' ",15
+2008 ,"'Deferred' ","'18' ","'RPA' ",50
+2008 ,"'Deferred' ","'19' ","'Firm choice' ",2615
+2008 ,"'Deferred' ","'19' ","'Insurance choice' ",250
+2008 ,"'Deferred' ","'19' ","'Other main scheme choice' ",125
+2008 ,"'Deferred' ","'19' ","'Extra' ",40
+2008 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",165
+2008 ,"'Deferred' ","'19' ","'Direct Clearing' ",20
+2008 ,"'Deferred' ","'19' ","'RPA' ",45
+2008 ,"'Deferred' ","'20' ","'Firm choice' ",825
+2008 ,"'Deferred' ","'20' ","'Insurance choice' ",60
+2008 ,"'Deferred' ","'20' ","'Other main scheme choice' ",95
+2008 ,"'Deferred' ","'20' ","'Extra' ",10
+2008 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",45
+2008 ,"'Deferred' ","'20' ","'Direct Clearing' ",20
+2008 ,"'Deferred' ","'20' ","'RPA' ",40
+2008 ,"'Deferred' ","'21 and over' ","'Firm choice' ",2950
+2008 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",70
+2008 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",590
+2008 ,"'Deferred' ","'21 and over' ","'Extra' ",25
+2008 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",220
+2008 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",95
+2008 ,"'Deferred' ","'21 and over' ","'RPA' ",375
+2008 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",2855
+2008 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",430
+2008 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",255
+2008 ,"'Not deferred' ","'17 and under' ","'Extra' ",40
+2008 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",375
+2008 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",115
+2008 ,"'Not deferred' ","'17 and under' ","'RPA' ",600
+2008 ,"'Not deferred' ","'18' ","'Firm choice' ",156805
+2008 ,"'Not deferred' ","'18' ","'Insurance choice' ",17485
+2008 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1680
+2008 ,"'Not deferred' ","'18' ","'Extra' ",2525
+2008 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",16775
+2008 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1070
+2008 ,"'Not deferred' ","'18' ","'RPA' ",3295
+2008 ,"'Not deferred' ","'19' ","'Firm choice' ",64085
+2008 ,"'Not deferred' ","'19' ","'Insurance choice' ",3990
+2008 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2745
+2008 ,"'Not deferred' ","'19' ","'Extra' ",1290
+2008 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",6815
+2008 ,"'Not deferred' ","'19' ","'Direct Clearing' ",2015
+2008 ,"'Not deferred' ","'19' ","'RPA' ",4445
+2008 ,"'Not deferred' ","'20' ","'Firm choice' ",24230
+2008 ,"'Not deferred' ","'20' ","'Insurance choice' ",1135
+2008 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",2445
+2008 ,"'Not deferred' ","'20' ","'Extra' ",490
+2008 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",2635
+2008 ,"'Not deferred' ","'20' ","'Direct Clearing' ",1570
+2008 ,"'Not deferred' ","'20' ","'RPA' ",4340
+2008 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",57965
+2008 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1135
+2008 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",9600
+2008 ,"'Not deferred' ","'21 and over' ","'Extra' ",770
+2008 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",5530
+2008 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",5710
+2008 ,"'Not deferred' ","'21 and over' ","'RPA' ",19110
+2009 ,"'Deferred' ","'17 and under' ","'Firm choice' ",450
+2009 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",70
+2009 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",35
+2009 ,"'Deferred' ","'17 and under' ","'Extra' ",5
+2009 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",35
+2009 ,"'Deferred' ","'17 and under' ","'RPA' ",5
+2009 ,"'Deferred' ","'18' ","'Firm choice' ",16065
+2009 ,"'Deferred' ","'18' ","'Insurance choice' ",2780
+2009 ,"'Deferred' ","'18' ","'Other main scheme choice' ",170
+2009 ,"'Deferred' ","'18' ","'Extra' ",130
+2009 ,"'Deferred' ","'18' ","'Adjustment' ",5
+2009 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",875
+2009 ,"'Deferred' ","'18' ","'Direct Clearing' ",20
+2009 ,"'Deferred' ","'18' ","'RPA' ",25
+2009 ,"'Deferred' ","'19' ","'Firm choice' ",2585
+2009 ,"'Deferred' ","'19' ","'Insurance choice' ",270
+2009 ,"'Deferred' ","'19' ","'Other main scheme choice' ",165
+2009 ,"'Deferred' ","'19' ","'Extra' ",40
+2009 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",175
+2009 ,"'Deferred' ","'19' ","'Direct Clearing' ",25
+2009 ,"'Deferred' ","'19' ","'RPA' ",25
+2009 ,"'Deferred' ","'20' ","'Firm choice' ",940
+2009 ,"'Deferred' ","'20' ","'Insurance choice' ",70
+2009 ,"'Deferred' ","'20' ","'Other main scheme choice' ",125
+2009 ,"'Deferred' ","'20' ","'Extra' ",15
+2009 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",70
+2009 ,"'Deferred' ","'20' ","'Direct Clearing' ",30
+2009 ,"'Deferred' ","'20' ","'RPA' ",40
+2009 ,"'Deferred' ","'21 and over' ","'Firm choice' ",3150
+2009 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",75
+2009 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",805
+2009 ,"'Deferred' ","'21 and over' ","'Extra' ",45
+2009 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",315
+2009 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",165
+2009 ,"'Deferred' ","'21 and over' ","'RPA' ",280
+2009 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",3040
+2009 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",435
+2009 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",295
+2009 ,"'Not deferred' ","'17 and under' ","'Extra' ",60
+2009 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",5
+2009 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",360
+2009 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",95
+2009 ,"'Not deferred' ","'17 and under' ","'RPA' ",460
+2009 ,"'Not deferred' ","'18' ","'Firm choice' ",159155
+2009 ,"'Not deferred' ","'18' ","'Insurance choice' ",22150
+2009 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",2005
+2009 ,"'Not deferred' ","'18' ","'Extra' ",2425
+2009 ,"'Not deferred' ","'18' ","'Adjustment' ",295
+2009 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",18870
+2009 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1065
+2009 ,"'Not deferred' ","'18' ","'RPA' ",2790
+2009 ,"'Not deferred' ","'19' ","'Firm choice' ",68230
+2009 ,"'Not deferred' ","'19' ","'Insurance choice' ",4930
+2009 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",3485
+2009 ,"'Not deferred' ","'19' ","'Extra' ",1485
+2009 ,"'Not deferred' ","'19' ","'Adjustment' ",55
+2009 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",7560
+2009 ,"'Not deferred' ","'19' ","'Direct Clearing' ",1885
+2009 ,"'Not deferred' ","'19' ","'RPA' ",4025
+2009 ,"'Not deferred' ","'20' ","'Firm choice' ",25555
+2009 ,"'Not deferred' ","'20' ","'Insurance choice' ",1255
+2009 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",2840
+2009 ,"'Not deferred' ","'20' ","'Extra' ",510
+2009 ,"'Not deferred' ","'20' ","'Adjustment' ",15
+2009 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",2690
+2009 ,"'Not deferred' ","'20' ","'Direct Clearing' ",1655
+2009 ,"'Not deferred' ","'20' ","'RPA' ",3940
+2009 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",64290
+2009 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1265
+2009 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",12600
+2009 ,"'Not deferred' ","'21 and over' ","'Extra' ",905
+2009 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",10
+2009 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",5915
+2009 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",5870
+2009 ,"'Not deferred' ","'21 and over' ","'RPA' ",17305
+2010 ,"'Deferred' ","'17 and under' ","'Firm choice' ",385
+2010 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",70
+2010 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",10
+2010 ,"'Deferred' ","'17 and under' ","'Extra' ",5
+2010 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",15
+2010 ,"'Deferred' ","'17 and under' ","'RPA' ",5
+2010 ,"'Deferred' ","'18' ","'Firm choice' ",15005
+2010 ,"'Deferred' ","'18' ","'Insurance choice' ",3160
+2010 ,"'Deferred' ","'18' ","'Other main scheme choice' ",120
+2010 ,"'Deferred' ","'18' ","'Extra' ",100
+2010 ,"'Deferred' ","'18' ","'Adjustment' ",20
+2010 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",575
+2010 ,"'Deferred' ","'18' ","'Direct Clearing' ",10
+2010 ,"'Deferred' ","'18' ","'RPA' ",15
+2010 ,"'Deferred' ","'19' ","'Firm choice' ",2930
+2010 ,"'Deferred' ","'19' ","'Insurance choice' ",305
+2010 ,"'Deferred' ","'19' ","'Other main scheme choice' ",105
+2010 ,"'Deferred' ","'19' ","'Extra' ",35
+2010 ,"'Deferred' ","'19' ","'Adjustment' ",5
+2010 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",120
+2010 ,"'Deferred' ","'19' ","'Direct Clearing' ",10
+2010 ,"'Deferred' ","'19' ","'RPA' ",20
+2010 ,"'Deferred' ","'20' ","'Firm choice' ",1065
+2010 ,"'Deferred' ","'20' ","'Insurance choice' ",60
+2010 ,"'Deferred' ","'20' ","'Other main scheme choice' ",65
+2010 ,"'Deferred' ","'20' ","'Extra' ",20
+2010 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",50
+2010 ,"'Deferred' ","'20' ","'Direct Clearing' ",10
+2010 ,"'Deferred' ","'20' ","'RPA' ",25
+2010 ,"'Deferred' ","'21 and over' ","'Firm choice' ",3845
+2010 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",95
+2010 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",525
+2010 ,"'Deferred' ","'21 and over' ","'Extra' ",65
+2010 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",170
+2010 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",80
+2010 ,"'Deferred' ","'21 and over' ","'RPA' ",170
+2010 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",2945
+2010 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",465
+2010 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",170
+2010 ,"'Not deferred' ","'17 and under' ","'Extra' ",45
+2010 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",5
+2010 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",385
+2010 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",65
+2010 ,"'Not deferred' ","'17 and under' ","'RPA' ",350
+2010 ,"'Not deferred' ","'18' ","'Firm choice' ",158230
+2010 ,"'Not deferred' ","'18' ","'Insurance choice' ",24830
+2010 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1205
+2010 ,"'Not deferred' ","'18' ","'Extra' ",2570
+2010 ,"'Not deferred' ","'18' ","'Adjustment' ",245
+2010 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",20415
+2010 ,"'Not deferred' ","'18' ","'Direct Clearing' ",590
+2010 ,"'Not deferred' ","'18' ","'RPA' ",1855
+2010 ,"'Not deferred' ","'19' ","'Firm choice' ",74655
+2010 ,"'Not deferred' ","'19' ","'Insurance choice' ",5430
+2010 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2075
+2010 ,"'Not deferred' ","'19' ","'Extra' ",2015
+2010 ,"'Not deferred' ","'19' ","'Adjustment' ",80
+2010 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",8125
+2010 ,"'Not deferred' ","'19' ","'Direct Clearing' ",1400
+2010 ,"'Not deferred' ","'19' ","'RPA' ",2895
+2010 ,"'Not deferred' ","'20' ","'Firm choice' ",27635
+2010 ,"'Not deferred' ","'20' ","'Insurance choice' ",1450
+2010 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",1840
+2010 ,"'Not deferred' ","'20' ","'Extra' ",720
+2010 ,"'Not deferred' ","'20' ","'Adjustment' ",15
+2010 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",2865
+2010 ,"'Not deferred' ","'20' ","'Direct Clearing' ",1280
+2010 ,"'Not deferred' ","'20' ","'RPA' ",3630
+2010 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",72105
+2010 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1595
+2010 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",7605
+2010 ,"'Not deferred' ","'21 and over' ","'Extra' ",1445
+2010 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",10
+2010 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",6240
+2010 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",4520
+2010 ,"'Not deferred' ","'21 and over' ","'RPA' ",14055
+2011 ,"'Deferred' ","'17 and under' ","'Firm choice' ",285
+2011 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",40
+2011 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",10
+2011 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",15
+2011 ,"'Deferred' ","'18' ","'Firm choice' ",5835
+2011 ,"'Deferred' ","'18' ","'Insurance choice' ",1110
+2011 ,"'Deferred' ","'18' ","'Other main scheme choice' ",70
+2011 ,"'Deferred' ","'18' ","'Extra' ",60
+2011 ,"'Deferred' ","'18' ","'Adjustment' ",5
+2011 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",230
+2011 ,"'Deferred' ","'18' ","'Direct Clearing' ",5
+2011 ,"'Deferred' ","'18' ","'RPA' ",10
+2011 ,"'Deferred' ","'19' ","'Firm choice' ",1500
+2011 ,"'Deferred' ","'19' ","'Insurance choice' ",180
+2011 ,"'Deferred' ","'19' ","'Other main scheme choice' ",70
+2011 ,"'Deferred' ","'19' ","'Extra' ",25
+2011 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",70
+2011 ,"'Deferred' ","'19' ","'Direct Clearing' ",5
+2011 ,"'Deferred' ","'19' ","'RPA' ",10
+2011 ,"'Deferred' ","'20' ","'Firm choice' ",705
+2011 ,"'Deferred' ","'20' ","'Insurance choice' ",40
+2011 ,"'Deferred' ","'20' ","'Other main scheme choice' ",60
+2011 ,"'Deferred' ","'20' ","'Extra' ",20
+2011 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",15
+2011 ,"'Deferred' ","'20' ","'Direct Clearing' ",5
+2011 ,"'Deferred' ","'20' ","'RPA' ",10
+2011 ,"'Deferred' ","'21 and over' ","'Firm choice' ",2125
+2011 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",50
+2011 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",380
+2011 ,"'Deferred' ","'21 and over' ","'Extra' ",40
+2011 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",115
+2011 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",35
+2011 ,"'Deferred' ","'21 and over' ","'RPA' ",85
+2011 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",2995
+2011 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",520
+2011 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",210
+2011 ,"'Not deferred' ","'17 and under' ","'Extra' ",50
+2011 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",5
+2011 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",370
+2011 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",55
+2011 ,"'Not deferred' ","'17 and under' ","'RPA' ",225
+2011 ,"'Not deferred' ","'18' ","'Firm choice' ",167930
+2011 ,"'Not deferred' ","'18' ","'Insurance choice' ",28115
+2011 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1360
+2011 ,"'Not deferred' ","'18' ","'Extra' ",3655
+2011 ,"'Not deferred' ","'18' ","'Adjustment' ",415
+2011 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",23680
+2011 ,"'Not deferred' ","'18' ","'Direct Clearing' ",760
+2011 ,"'Not deferred' ","'18' ","'RPA' ",1260
+2011 ,"'Not deferred' ","'19' ","'Firm choice' ",78780
+2011 ,"'Not deferred' ","'19' ","'Insurance choice' ",7000
+2011 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2225
+2011 ,"'Not deferred' ","'19' ","'Extra' ",2455
+2011 ,"'Not deferred' ","'19' ","'Adjustment' ",100
+2011 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",9485
+2011 ,"'Not deferred' ","'19' ","'Direct Clearing' ",1360
+2011 ,"'Not deferred' ","'19' ","'RPA' ",1810
+2011 ,"'Not deferred' ","'20' ","'Firm choice' ",28980
+2011 ,"'Not deferred' ","'20' ","'Insurance choice' ",1535
+2011 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",1965
+2011 ,"'Not deferred' ","'20' ","'Extra' ",1010
+2011 ,"'Not deferred' ","'20' ","'Adjustment' ",15
+2011 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",2945
+2011 ,"'Not deferred' ","'20' ","'Direct Clearing' ",1300
+2011 ,"'Not deferred' ","'20' ","'RPA' ",2120
+2011 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",71630
+2011 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1785
+2011 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",7840
+2011 ,"'Not deferred' ","'21 and over' ","'Extra' ",2220
+2011 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",15
+2011 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",6115
+2011 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",4605
+2011 ,"'Not deferred' ","'21 and over' ","'RPA' ",9905
+2012 ,"'Deferred' ","'17 and under' ","'Firm choice' ",360
+2012 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",50
+2012 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",10
+2012 ,"'Deferred' ","'17 and under' ","'Extra' ",5
+2012 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",15
+2012 ,"'Deferred' ","'18' ","'Firm choice' ",12920
+2012 ,"'Deferred' ","'18' ","'Insurance choice' ",2345
+2012 ,"'Deferred' ","'18' ","'Other main scheme choice' ",75
+2012 ,"'Deferred' ","'18' ","'Extra' ",100
+2012 ,"'Deferred' ","'18' ","'Adjustment' ",30
+2012 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",595
+2012 ,"'Deferred' ","'18' ","'Direct Clearing' ",25
+2012 ,"'Deferred' ","'18' ","'RPA' ",10
+2012 ,"'Deferred' ","'19' ","'Firm choice' ",2270
+2012 ,"'Deferred' ","'19' ","'Insurance choice' ",255
+2012 ,"'Deferred' ","'19' ","'Other main scheme choice' ",70
+2012 ,"'Deferred' ","'19' ","'Extra' ",50
+2012 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",120
+2012 ,"'Deferred' ","'19' ","'Direct Clearing' ",20
+2012 ,"'Deferred' ","'19' ","'RPA' ",15
+2012 ,"'Deferred' ","'20' ","'Firm choice' ",945
+2012 ,"'Deferred' ","'20' ","'Insurance choice' ",40
+2012 ,"'Deferred' ","'20' ","'Other main scheme choice' ",65
+2012 ,"'Deferred' ","'20' ","'Extra' ",20
+2012 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",45
+2012 ,"'Deferred' ","'20' ","'Direct Clearing' ",20
+2012 ,"'Deferred' ","'20' ","'RPA' ",15
+2012 ,"'Deferred' ","'21 and over' ","'Firm choice' ",2750
+2012 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",90
+2012 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",365
+2012 ,"'Deferred' ","'21 and over' ","'Extra' ",65
+2012 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",220
+2012 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",90
+2012 ,"'Deferred' ","'21 and over' ","'RPA' ",120
+2012 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",3075
+2012 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",445
+2012 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",190
+2012 ,"'Not deferred' ","'17 and under' ","'Extra' ",50
+2012 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",10
+2012 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",390
+2012 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",95
+2012 ,"'Not deferred' ","'17 and under' ","'RPA' ",315
+2012 ,"'Not deferred' ","'18' ","'Firm choice' ",163545
+2012 ,"'Not deferred' ","'18' ","'Insurance choice' ",19075
+2012 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1165
+2012 ,"'Not deferred' ","'18' ","'Extra' ",3040
+2012 ,"'Not deferred' ","'18' ","'Adjustment' ",1000
+2012 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",22420
+2012 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1430
+2012 ,"'Not deferred' ","'18' ","'RPA' ",1895
+2012 ,"'Not deferred' ","'19' ","'Firm choice' ",66460
+2012 ,"'Not deferred' ","'19' ","'Insurance choice' ",5115
+2012 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",1860
+2012 ,"'Not deferred' ","'19' ","'Extra' ",1850
+2012 ,"'Not deferred' ","'19' ","'Adjustment' ",215
+2012 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",9440
+2012 ,"'Not deferred' ","'19' ","'Direct Clearing' ",2175
+2012 ,"'Not deferred' ","'19' ","'RPA' ",2515
+2012 ,"'Not deferred' ","'20' ","'Firm choice' ",25790
+2012 ,"'Not deferred' ","'20' ","'Insurance choice' ",1240
+2012 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",1510
+2012 ,"'Not deferred' ","'20' ","'Extra' ",785
+2012 ,"'Not deferred' ","'20' ","'Adjustment' ",40
+2012 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",3180
+2012 ,"'Not deferred' ","'20' ","'Direct Clearing' ",1835
+2012 ,"'Not deferred' ","'20' ","'RPA' ",2570
+2012 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",63195
+2012 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1340
+2012 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",5925
+2012 ,"'Not deferred' ","'21 and over' ","'Extra' ",1900
+2012 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",30
+2012 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",7010
+2012 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",6605
+2012 ,"'Not deferred' ","'21 and over' ","'RPA' ",10015
+2013 ,"'Deferred' ","'17 and under' ","'Firm choice' ",295
+2013 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",50
+2013 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",15
+2013 ,"'Deferred' ","'17 and under' ","'Extra' ",5
+2013 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",20
+2013 ,"'Deferred' ","'17 and under' ","'Direct Clearing' ",5
+2013 ,"'Deferred' ","'17 and under' ","'RPA' ",5
+2013 ,"'Deferred' ","'18' ","'Firm choice' ",13055
+2013 ,"'Deferred' ","'18' ","'Insurance choice' ",2285
+2013 ,"'Deferred' ","'18' ","'Other main scheme choice' ",110
+2013 ,"'Deferred' ","'18' ","'Extra' ",95
+2013 ,"'Deferred' ","'18' ","'Adjustment' ",15
+2013 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",660
+2013 ,"'Deferred' ","'18' ","'Direct Clearing' ",45
+2013 ,"'Deferred' ","'18' ","'RPA' ",25
+2013 ,"'Deferred' ","'19' ","'Firm choice' ",2920
+2013 ,"'Deferred' ","'19' ","'Insurance choice' ",295
+2013 ,"'Deferred' ","'19' ","'Other main scheme choice' ",115
+2013 ,"'Deferred' ","'19' ","'Extra' ",35
+2013 ,"'Deferred' ","'19' ","'Adjustment' ",10
+2013 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",140
+2013 ,"'Deferred' ","'19' ","'Direct Clearing' ",30
+2013 ,"'Deferred' ","'19' ","'RPA' ",25
+2013 ,"'Deferred' ","'20' ","'Firm choice' ",1010
+2013 ,"'Deferred' ","'20' ","'Insurance choice' ",60
+2013 ,"'Deferred' ","'20' ","'Other main scheme choice' ",80
+2013 ,"'Deferred' ","'20' ","'Extra' ",10
+2013 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",45
+2013 ,"'Deferred' ","'20' ","'Direct Clearing' ",15
+2013 ,"'Deferred' ","'20' ","'RPA' ",20
+2013 ,"'Deferred' ","'21 and over' ","'Firm choice' ",2950
+2013 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",90
+2013 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",440
+2013 ,"'Deferred' ","'21 and over' ","'Extra' ",80
+2013 ,"'Deferred' ","'21 and over' ","'Adjustment' ",5
+2013 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",215
+2013 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",135
+2013 ,"'Deferred' ","'21 and over' ","'RPA' ",130
+2013 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",3295
+2013 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",475
+2013 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",210
+2013 ,"'Not deferred' ","'17 and under' ","'Extra' ",55
+2013 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",10
+2013 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",435
+2013 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",110
+2013 ,"'Not deferred' ","'17 and under' ","'RPA' ",360
+2013 ,"'Not deferred' ","'18' ","'Firm choice' ",170910
+2013 ,"'Not deferred' ","'18' ","'Insurance choice' ",20575
+2013 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1505
+2013 ,"'Not deferred' ","'18' ","'Extra' ",3060
+2013 ,"'Not deferred' ","'18' ","'Adjustment' ",875
+2013 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",21465
+2013 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1685
+2013 ,"'Not deferred' ","'18' ","'RPA' ",2085
+2013 ,"'Not deferred' ","'19' ","'Firm choice' ",75880
+2013 ,"'Not deferred' ","'19' ","'Insurance choice' ",5975
+2013 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2420
+2013 ,"'Not deferred' ","'19' ","'Extra' ",1940
+2013 ,"'Not deferred' ","'19' ","'Adjustment' ",230
+2013 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",9665
+2013 ,"'Not deferred' ","'19' ","'Direct Clearing' ",2715
+2013 ,"'Not deferred' ","'19' ","'RPA' ",2780
+2013 ,"'Not deferred' ","'20' ","'Firm choice' ",27520
+2013 ,"'Not deferred' ","'20' ","'Insurance choice' ",1360
+2013 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",2040
+2013 ,"'Not deferred' ","'20' ","'Extra' ",735
+2013 ,"'Not deferred' ","'20' ","'Adjustment' ",35
+2013 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",2985
+2013 ,"'Not deferred' ","'20' ","'Direct Clearing' ",2255
+2013 ,"'Not deferred' ","'20' ","'RPA' ",2785
+2013 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",65420
+2013 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1675
+2013 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",7350
+2013 ,"'Not deferred' ","'21 and over' ","'Extra' ",1805
+2013 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",40
+2013 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",6660
+2013 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",7820
+2013 ,"'Not deferred' ","'21 and over' ","'RPA' ",10870
+2014 ,"'Deferred' ","'17 and under' ","'Firm choice' ",335
+2014 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",60
+2014 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",15
+2014 ,"'Deferred' ","'17 and under' ","'Extra' ",5
+2014 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",20
+2014 ,"'Deferred' ","'17 and under' ","'Direct Clearing' ",5
+2014 ,"'Deferred' ","'17 and under' ","'RPA' ",5
+2014 ,"'Deferred' ","'18' ","'Firm choice' ",13650
+2014 ,"'Deferred' ","'18' ","'Insurance choice' ",2630
+2014 ,"'Deferred' ","'18' ","'Other main scheme choice' ",110
+2014 ,"'Deferred' ","'18' ","'Extra' ",100
+2014 ,"'Deferred' ","'18' ","'Adjustment' ",15
+2014 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",845
+2014 ,"'Deferred' ","'18' ","'Direct Clearing' ",35
+2014 ,"'Deferred' ","'18' ","'RPA' ",25
+2014 ,"'Deferred' ","'19' ","'Firm choice' ",2955
+2014 ,"'Deferred' ","'19' ","'Insurance choice' ",345
+2014 ,"'Deferred' ","'19' ","'Other main scheme choice' ",95
+2014 ,"'Deferred' ","'19' ","'Extra' ",50
+2014 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",160
+2014 ,"'Deferred' ","'19' ","'Direct Clearing' ",20
+2014 ,"'Deferred' ","'19' ","'RPA' ",30
+2014 ,"'Deferred' ","'20' ","'Firm choice' ",1185
+2014 ,"'Deferred' ","'20' ","'Insurance choice' ",60
+2014 ,"'Deferred' ","'20' ","'Other main scheme choice' ",105
+2014 ,"'Deferred' ","'20' ","'Extra' ",20
+2014 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",60
+2014 ,"'Deferred' ","'20' ","'Direct Clearing' ",25
+2014 ,"'Deferred' ","'20' ","'RPA' ",20
+2014 ,"'Deferred' ","'21 and over' ","'Firm choice' ",3175
+2014 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",105
+2014 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",450
+2014 ,"'Deferred' ","'21 and over' ","'Extra' ",100
+2014 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",255
+2014 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",130
+2014 ,"'Deferred' ","'21 and over' ","'RPA' ",145
+2014 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",3755
+2014 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",530
+2014 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",205
+2014 ,"'Not deferred' ","'17 and under' ","'Extra' ",65
+2014 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",15
+2014 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",445
+2014 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",100
+2014 ,"'Not deferred' ","'17 and under' ","'RPA' ",230
+2014 ,"'Not deferred' ","'18' ","'Firm choice' ",172030
+2014 ,"'Not deferred' ","'18' ","'Insurance choice' ",23155
+2014 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1300
+2014 ,"'Not deferred' ","'18' ","'Extra' ",2725
+2014 ,"'Not deferred' ","'18' ","'Adjustment' ",815
+2014 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",24525
+2014 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1465
+2014 ,"'Not deferred' ","'18' ","'RPA' ",1550
+2014 ,"'Not deferred' ","'19' ","'Firm choice' ",76700
+2014 ,"'Not deferred' ","'19' ","'Insurance choice' ",6660
+2014 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2320
+2014 ,"'Not deferred' ","'19' ","'Extra' ",1850
+2014 ,"'Not deferred' ","'19' ","'Adjustment' ",230
+2014 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",10850
+2014 ,"'Not deferred' ","'19' ","'Direct Clearing' ",2430
+2014 ,"'Not deferred' ","'19' ","'RPA' ",2800
+2014 ,"'Not deferred' ","'20' ","'Firm choice' ",29180
+2014 ,"'Not deferred' ","'20' ","'Insurance choice' ",1470
+2014 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",1935
+2014 ,"'Not deferred' ","'20' ","'Extra' ",770
+2014 ,"'Not deferred' ","'20' ","'Adjustment' ",40
+2014 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",3435
+2014 ,"'Not deferred' ","'20' ","'Direct Clearing' ",2190
+2014 ,"'Not deferred' ","'20' ","'RPA' ",2815
+2014 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",69200
+2014 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1720
+2014 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",7060
+2014 ,"'Not deferred' ","'21 and over' ","'Extra' ",1940
+2014 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",40
+2014 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",6915
+2014 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",7395
+2014 ,"'Not deferred' ","'21 and over' ","'RPA' ",12165
+2015 ,"'Deferred' ","'17 and under' ","'Firm choice' ",405
+2015 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",55
+2015 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",10
+2015 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",20
+2015 ,"'Deferred' ","'17 and under' ","'Direct Clearing' ",5
+2015 ,"'Deferred' ","'17 and under' ","'RPA' ",5
+2015 ,"'Deferred' ","'18' ","'Firm choice' ",14675
+2015 ,"'Deferred' ","'18' ","'Insurance choice' ",3005
+2015 ,"'Deferred' ","'18' ","'Other main scheme choice' ",75
+2015 ,"'Deferred' ","'18' ","'Extra' ",115
+2015 ,"'Deferred' ","'18' ","'Adjustment' ",20
+2015 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",780
+2015 ,"'Deferred' ","'18' ","'Direct Clearing' ",35
+2015 ,"'Deferred' ","'18' ","'RPA' ",45
+2015 ,"'Deferred' ","'19' ","'Firm choice' ",3090
+2015 ,"'Deferred' ","'19' ","'Insurance choice' ",330
+2015 ,"'Deferred' ","'19' ","'Other main scheme choice' ",90
+2015 ,"'Deferred' ","'19' ","'Extra' ",55
+2015 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",170
+2015 ,"'Deferred' ","'19' ","'Direct Clearing' ",20
+2015 ,"'Deferred' ","'19' ","'RPA' ",35
+2015 ,"'Deferred' ","'20' ","'Firm choice' ",1075
+2015 ,"'Deferred' ","'20' ","'Insurance choice' ",80
+2015 ,"'Deferred' ","'20' ","'Other main scheme choice' ",70
+2015 ,"'Deferred' ","'20' ","'Extra' ",20
+2015 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",60
+2015 ,"'Deferred' ","'20' ","'Direct Clearing' ",20
+2015 ,"'Deferred' ","'20' ","'RPA' ",20
+2015 ,"'Deferred' ","'21 and over' ","'Firm choice' ",3265
+2015 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",95
+2015 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",435
+2015 ,"'Deferred' ","'21 and over' ","'Extra' ",120
+2015 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",225
+2015 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",155
+2015 ,"'Deferred' ","'21 and over' ","'RPA' ",115
+2015 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",4035
+2015 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",610
+2015 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",165
+2015 ,"'Not deferred' ","'17 and under' ","'Extra' ",50
+2015 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",15
+2015 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",475
+2015 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",95
+2015 ,"'Not deferred' ","'17 and under' ","'RPA' ",305
+2015 ,"'Not deferred' ","'18' ","'Firm choice' ",179895
+2015 ,"'Not deferred' ","'18' ","'Insurance choice' ",24990
+2015 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1370
+2015 ,"'Not deferred' ","'18' ","'Extra' ",2825
+2015 ,"'Not deferred' ","'18' ","'Adjustment' ",780
+2015 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",25950
+2015 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1665
+2015 ,"'Not deferred' ","'18' ","'RPA' ",2050
+2015 ,"'Not deferred' ","'19' ","'Firm choice' ",78405
+2015 ,"'Not deferred' ","'19' ","'Insurance choice' ",7015
+2015 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2240
+2015 ,"'Not deferred' ","'19' ","'Extra' ",1760
+2015 ,"'Not deferred' ","'19' ","'Adjustment' ",250
+2015 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",11255
+2015 ,"'Not deferred' ","'19' ","'Direct Clearing' ",2900
+2015 ,"'Not deferred' ","'19' ","'RPA' ",3220
+2015 ,"'Not deferred' ","'20' ","'Firm choice' ",28500
+2015 ,"'Not deferred' ","'20' ","'Insurance choice' ",1455
+2015 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",1800
+2015 ,"'Not deferred' ","'20' ","'Extra' ",785
+2015 ,"'Not deferred' ","'20' ","'Adjustment' ",30
+2015 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",3185
+2015 ,"'Not deferred' ","'20' ","'Direct Clearing' ",2370
+2015 ,"'Not deferred' ","'20' ","'RPA' ",3060
+2015 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",70780
+2015 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1855
+2015 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",7125
+2015 ,"'Not deferred' ","'21 and over' ","'Extra' ",1760
+2015 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",40
+2015 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",7010
+2015 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",7940
+2015 ,"'Not deferred' ","'21 and over' ","'RPA' ",13445
+2016 ,"'Deferred' ","'17 and under' ","'Firm choice' ",410
+2016 ,"'Deferred' ","'17 and under' ","'Insurance choice' ",50
+2016 ,"'Deferred' ","'17 and under' ","'Other main scheme choice' ",15
+2016 ,"'Deferred' ","'17 and under' ","'Extra' ",5
+2016 ,"'Deferred' ","'17 and under' ","'Main scheme Clearing' ",20
+2016 ,"'Deferred' ","'17 and under' ","'RPA' ",5
+2016 ,"'Deferred' ","'18' ","'Firm choice' ",15545
+2016 ,"'Deferred' ","'18' ","'Insurance choice' ",3045
+2016 ,"'Deferred' ","'18' ","'Other main scheme choice' ",100
+2016 ,"'Deferred' ","'18' ","'Extra' ",140
+2016 ,"'Deferred' ","'18' ","'Adjustment' ",20
+2016 ,"'Deferred' ","'18' ","'Main scheme Clearing' ",835
+2016 ,"'Deferred' ","'18' ","'Direct Clearing' ",40
+2016 ,"'Deferred' ","'18' ","'RPA' ",30
+2016 ,"'Deferred' ","'19' ","'Firm choice' ",3050
+2016 ,"'Deferred' ","'19' ","'Insurance choice' ",360
+2016 ,"'Deferred' ","'19' ","'Other main scheme choice' ",90
+2016 ,"'Deferred' ","'19' ","'Extra' ",55
+2016 ,"'Deferred' ","'19' ","'Main scheme Clearing' ",160
+2016 ,"'Deferred' ","'19' ","'Direct Clearing' ",25
+2016 ,"'Deferred' ","'19' ","'RPA' ",40
+2016 ,"'Deferred' ","'20' ","'Firm choice' ",1070
+2016 ,"'Deferred' ","'20' ","'Insurance choice' ",60
+2016 ,"'Deferred' ","'20' ","'Other main scheme choice' ",65
+2016 ,"'Deferred' ","'20' ","'Extra' ",25
+2016 ,"'Deferred' ","'20' ","'Main scheme Clearing' ",40
+2016 ,"'Deferred' ","'20' ","'Direct Clearing' ",20
+2016 ,"'Deferred' ","'20' ","'RPA' ",20
+2016 ,"'Deferred' ","'21 and over' ","'Firm choice' ",2670
+2016 ,"'Deferred' ","'21 and over' ","'Insurance choice' ",75
+2016 ,"'Deferred' ","'21 and over' ","'Other main scheme choice' ",400
+2016 ,"'Deferred' ","'21 and over' ","'Extra' ",115
+2016 ,"'Deferred' ","'21 and over' ","'Main scheme Clearing' ",180
+2016 ,"'Deferred' ","'21 and over' ","'Direct Clearing' ",115
+2016 ,"'Deferred' ","'21 and over' ","'RPA' ",130
+2016 ,"'Not deferred' ","'17 and under' ","'Firm choice' ",4195
+2016 ,"'Not deferred' ","'17 and under' ","'Insurance choice' ",620
+2016 ,"'Not deferred' ","'17 and under' ","'Other main scheme choice' ",205
+2016 ,"'Not deferred' ","'17 and under' ","'Extra' ",60
+2016 ,"'Not deferred' ","'17 and under' ","'Adjustment' ",10
+2016 ,"'Not deferred' ","'17 and under' ","'Main scheme Clearing' ",490
+2016 ,"'Not deferred' ","'17 and under' ","'Direct Clearing' ",85
+2016 ,"'Not deferred' ","'17 and under' ","'RPA' ",275
+2016 ,"'Not deferred' ","'18' ","'Firm choice' ",181530
+2016 ,"'Not deferred' ","'18' ","'Insurance choice' ",25385
+2016 ,"'Not deferred' ","'18' ","'Other main scheme choice' ",1465
+2016 ,"'Not deferred' ","'18' ","'Extra' ",2790
+2016 ,"'Not deferred' ","'18' ","'Adjustment' ",650
+2016 ,"'Not deferred' ","'18' ","'Main scheme Clearing' ",27630
+2016 ,"'Not deferred' ","'18' ","'Direct Clearing' ",1715
+2016 ,"'Not deferred' ","'18' ","'RPA' ",1995
+2016 ,"'Not deferred' ","'19' ","'Firm choice' ",79565
+2016 ,"'Not deferred' ","'19' ","'Insurance choice' ",6740
+2016 ,"'Not deferred' ","'19' ","'Other main scheme choice' ",2465
+2016 ,"'Not deferred' ","'19' ","'Extra' ",1750
+2016 ,"'Not deferred' ","'19' ","'Adjustment' ",165
+2016 ,"'Not deferred' ","'19' ","'Main scheme Clearing' ",11115
+2016 ,"'Not deferred' ","'19' ","'Direct Clearing' ",2905
+2016 ,"'Not deferred' ","'19' ","'RPA' ",3360
+2016 ,"'Not deferred' ","'20' ","'Firm choice' ",27825
+2016 ,"'Not deferred' ","'20' ","'Insurance choice' ",1420
+2016 ,"'Not deferred' ","'20' ","'Other main scheme choice' ",2030
+2016 ,"'Not deferred' ","'20' ","'Extra' ",755
+2016 ,"'Not deferred' ","'20' ","'Adjustment' ",30
+2016 ,"'Not deferred' ","'20' ","'Main scheme Clearing' ",3095
+2016 ,"'Not deferred' ","'20' ","'Direct Clearing' ",2340
+2016 ,"'Not deferred' ","'20' ","'RPA' ",3100
+2016 ,"'Not deferred' ","'21 and over' ","'Firm choice' ",70490
+2016 ,"'Not deferred' ","'21 and over' ","'Insurance choice' ",1745
+2016 ,"'Not deferred' ","'21 and over' ","'Other main scheme choice' ",7680
+2016 ,"'Not deferred' ","'21 and over' ","'Extra' ",1785
+2016 ,"'Not deferred' ","'21 and over' ","'Adjustment' ",20
+2016 ,"'Not deferred' ","'21 and over' ","'Main scheme Clearing' ",6465
+2016 ,"'Not deferred' ","'21 and over' ","'Direct Clearing' ",7600
+2016 ,"'Not deferred' ","'21 and over' ","'RPA' ",12600

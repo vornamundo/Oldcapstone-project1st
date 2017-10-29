@@ -1,0 +1,138 @@
+"Statistic:   Number of Applicants"
+"Variables:   SIMD Quintile 2012 , Sex , Cycle Year"
+"Coverage:   Scottish domiciled 18 year olds"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR2_047_04.pdf"
+ 
+Cycle Year,SIMD Quintile 2012 , Sex,Number of Applicants,
+2006 ,"'SIMD Quintile 1' ","'Men' ",565
+2006 ,"'SIMD Quintile 1' ","'Women' ",905
+2006 ,"'SIMD Quintile 2' ","'Men' ",905
+2006 ,"'SIMD Quintile 2' ","'Women' ",1345
+2006 ,"'SIMD Quintile 3' ","'Men' ",1420
+2006 ,"'SIMD Quintile 3' ","'Women' ",1825
+2006 ,"'SIMD Quintile 4' ","'Men' ",1945
+2006 ,"'SIMD Quintile 4' ","'Women' ",2425
+2006 ,"'SIMD Quintile 5' ","'Men' ",3000
+2006 ,"'SIMD Quintile 5' ","'Women' ",3380
+2006 ,"'Not assigned' ","'Men' ",50
+2006 ,"'Not assigned' ","'Women' ",60
+2007 ,"'SIMD Quintile 1' ","'Men' ",625
+2007 ,"'SIMD Quintile 1' ","'Women' ",860
+2007 ,"'SIMD Quintile 2' ","'Men' ",825
+2007 ,"'SIMD Quintile 2' ","'Women' ",1245
+2007 ,"'SIMD Quintile 3' ","'Men' ",1375
+2007 ,"'SIMD Quintile 3' ","'Women' ",1780
+2007 ,"'SIMD Quintile 4' ","'Men' ",1830
+2007 ,"'SIMD Quintile 4' ","'Women' ",2415
+2007 ,"'SIMD Quintile 5' ","'Men' ",2760
+2007 ,"'SIMD Quintile 5' ","'Women' ",3240
+2007 ,"'Not assigned' ","'Men' ",40
+2007 ,"'Not assigned' ","'Women' ",50
+2008 ,"'SIMD Quintile 1' ","'Men' ",555
+2008 ,"'SIMD Quintile 1' ","'Women' ",825
+2008 ,"'SIMD Quintile 2' ","'Men' ",900
+2008 ,"'SIMD Quintile 2' ","'Women' ",1300
+2008 ,"'SIMD Quintile 3' ","'Men' ",1355
+2008 ,"'SIMD Quintile 3' ","'Women' ",1880
+2008 ,"'SIMD Quintile 4' ","'Men' ",2070
+2008 ,"'SIMD Quintile 4' ","'Women' ",2525
+2008 ,"'SIMD Quintile 5' ","'Men' ",2905
+2008 ,"'SIMD Quintile 5' ","'Women' ",3400
+2008 ,"'Not assigned' ","'Men' ",185
+2008 ,"'Not assigned' ","'Women' ",205
+2009 ,"'SIMD Quintile 1' ","'Men' ",595
+2009 ,"'SIMD Quintile 1' ","'Women' ",870
+2009 ,"'SIMD Quintile 2' ","'Men' ",945
+2009 ,"'SIMD Quintile 2' ","'Women' ",1355
+2009 ,"'SIMD Quintile 3' ","'Men' ",1480
+2009 ,"'SIMD Quintile 3' ","'Women' ",1860
+2009 ,"'SIMD Quintile 4' ","'Men' ",2040
+2009 ,"'SIMD Quintile 4' ","'Women' ",2540
+2009 ,"'SIMD Quintile 5' ","'Men' ",3025
+2009 ,"'SIMD Quintile 5' ","'Women' ",3390
+2009 ,"'Not assigned' ","'Men' ",225
+2009 ,"'Not assigned' ","'Women' ",180
+2010 ,"'SIMD Quintile 1' ","'Men' ",645
+2010 ,"'SIMD Quintile 1' ","'Women' ",1085
+2010 ,"'SIMD Quintile 2' ","'Men' ",1130
+2010 ,"'SIMD Quintile 2' ","'Women' ",1650
+2010 ,"'SIMD Quintile 3' ","'Men' ",1610
+2010 ,"'SIMD Quintile 3' ","'Women' ",2260
+2010 ,"'SIMD Quintile 4' ","'Men' ",2115
+2010 ,"'SIMD Quintile 4' ","'Women' ",2920
+2010 ,"'SIMD Quintile 5' ","'Men' ",3155
+2010 ,"'SIMD Quintile 5' ","'Women' ",3575
+2010 ,"'Not assigned' ","'Men' ",30
+2010 ,"'Not assigned' ","'Women' ",35
+2011 ,"'SIMD Quintile 1' ","'Men' ",675
+2011 ,"'SIMD Quintile 1' ","'Women' ",1045
+2011 ,"'SIMD Quintile 2' ","'Men' ",1035
+2011 ,"'SIMD Quintile 2' ","'Women' ",1520
+2011 ,"'SIMD Quintile 3' ","'Men' ",1480
+2011 ,"'SIMD Quintile 3' ","'Women' ",2155
+2011 ,"'SIMD Quintile 4' ","'Men' ",2160
+2011 ,"'SIMD Quintile 4' ","'Women' ",2715
+2011 ,"'SIMD Quintile 5' ","'Men' ",3070
+2011 ,"'SIMD Quintile 5' ","'Women' ",3645
+2011 ,"'Not assigned' ","'Men' ",25
+2011 ,"'Not assigned' ","'Women' ",30
+2012 ,"'SIMD Quintile 1' ","'Men' ",655
+2012 ,"'SIMD Quintile 1' ","'Women' ",1070
+2012 ,"'SIMD Quintile 2' ","'Men' ",995
+2012 ,"'SIMD Quintile 2' ","'Women' ",1520
+2012 ,"'SIMD Quintile 3' ","'Men' ",1550
+2012 ,"'SIMD Quintile 3' ","'Women' ",2155
+2012 ,"'SIMD Quintile 4' ","'Men' ",2025
+2012 ,"'SIMD Quintile 4' ","'Women' ",2845
+2012 ,"'SIMD Quintile 5' ","'Men' ",3020
+2012 ,"'SIMD Quintile 5' ","'Women' ",3575
+2012 ,"'Not assigned' ","'Men' ",25
+2012 ,"'Not assigned' ","'Women' ",30
+2013 ,"'SIMD Quintile 1' ","'Men' ",670
+2013 ,"'SIMD Quintile 1' ","'Women' ",1120
+2013 ,"'SIMD Quintile 2' ","'Men' ",1005
+2013 ,"'SIMD Quintile 2' ","'Women' ",1585
+2013 ,"'SIMD Quintile 3' ","'Men' ",1555
+2013 ,"'SIMD Quintile 3' ","'Women' ",2160
+2013 ,"'SIMD Quintile 4' ","'Men' ",2095
+2013 ,"'SIMD Quintile 4' ","'Women' ",2740
+2013 ,"'SIMD Quintile 5' ","'Men' ",2955
+2013 ,"'SIMD Quintile 5' ","'Women' ",3490
+2013 ,"'Not assigned' ","'Men' ",25
+2013 ,"'Not assigned' ","'Women' ",20
+2014 ,"'SIMD Quintile 1' ","'Men' ",735
+2014 ,"'SIMD Quintile 1' ","'Women' ",1275
+2014 ,"'SIMD Quintile 2' ","'Men' ",1010
+2014 ,"'SIMD Quintile 2' ","'Women' ",1610
+2014 ,"'SIMD Quintile 3' ","'Men' ",1465
+2014 ,"'SIMD Quintile 3' ","'Women' ",2210
+2014 ,"'SIMD Quintile 4' ","'Men' ",1970
+2014 ,"'SIMD Quintile 4' ","'Women' ",2815
+2014 ,"'SIMD Quintile 5' ","'Men' ",2880
+2014 ,"'SIMD Quintile 5' ","'Women' ",3420
+2014 ,"'Not assigned' ","'Men' ",10
+2014 ,"'Not assigned' ","'Women' ",10
+2015 ,"'SIMD Quintile 1' ","'Men' ",750
+2015 ,"'SIMD Quintile 1' ","'Women' ",1215
+2015 ,"'SIMD Quintile 2' ","'Men' ",1030
+2015 ,"'SIMD Quintile 2' ","'Women' ",1735
+2015 ,"'SIMD Quintile 3' ","'Men' ",1575
+2015 ,"'SIMD Quintile 3' ","'Women' ",2310
+2015 ,"'SIMD Quintile 4' ","'Men' ",2100
+2015 ,"'SIMD Quintile 4' ","'Women' ",2830
+2015 ,"'SIMD Quintile 5' ","'Men' ",2875
+2015 ,"'SIMD Quintile 5' ","'Women' ",3545
+2015 ,"'Not assigned' ","'Men' ",20
+2015 ,"'Not assigned' ","'Women' ",25
+2016 ,"'SIMD Quintile 1' ","'Men' ",735
+2016 ,"'SIMD Quintile 1' ","'Women' ",1320
+2016 ,"'SIMD Quintile 2' ","'Men' ",970
+2016 ,"'SIMD Quintile 2' ","'Women' ",1775
+2016 ,"'SIMD Quintile 3' ","'Men' ",1420
+2016 ,"'SIMD Quintile 3' ","'Women' ",2245
+2016 ,"'SIMD Quintile 4' ","'Men' ",2065
+2016 ,"'SIMD Quintile 4' ","'Women' ",2835
+2016 ,"'SIMD Quintile 5' ","'Men' ",2830
+2016 ,"'SIMD Quintile 5' ","'Women' ",3445
+2016 ,"'Not assigned' ","'Men' ",20
+2016 ,"'Not assigned' ","'Women' ",55

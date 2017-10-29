@@ -1,0 +1,28 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Deferred Status , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_001_01.pdf"
+ 
+Cycle Year,Deferred Status,Number of Acceptances,
+2006 ,"'Deferred' ",28070
+2006 ,"'Not deferred' ",362820
+2007 ,"'Deferred' ",28320
+2007 ,"'Not deferred' ",385110
+2008 ,"'Deferred' ",30275
+2008 ,"'Not deferred' ",426350
+2009 ,"'Deferred' ",30075
+2009 ,"'Not deferred' ",451780
+2010 ,"'Deferred' ",29275
+2010 ,"'Not deferred' ",458055
+2011 ,"'Deferred' ",13220
+2011 ,"'Not deferred' ",478810
+2012 ,"'Deferred' ",24195
+2012 ,"'Not deferred' ",440715
+2013 ,"'Deferred' ",25525
+2013 ,"'Not deferred' ",470070
+2014 ,"'Deferred' ",27355
+2014 ,"'Not deferred' ",485010
+2015 ,"'Deferred' ",28805
+2015 ,"'Not deferred' ",503460
+2016 ,"'Deferred' ",29025
+2016 ,"'Not deferred' ",506150

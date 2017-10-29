@@ -1,0 +1,1566 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Summary Level) , Ethnic Group (Summary Level) , Cycle Year"
+"Coverage:   UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_022_01.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Ethnic Group (Summary Level),Number of Acceptances,
+2007 ,"'Group A Medicine and Dentistry' ","'Asian' ",1865
+2007 ,"'Group A Medicine and Dentistry' ","'Black' ",200
+2007 ,"'Group A Medicine and Dentistry' ","'Mixed' ",285
+2007 ,"'Group A Medicine and Dentistry' ","'White' ",5510
+2007 ,"'Group A Medicine and Dentistry' ","'Other' ",160
+2007 ,"'Group A Medicine and Dentistry' ","'Unknown' ",130
+2007 ,"'Group B Subjects allied to Medicine' ","'Asian' ",3715
+2007 ,"'Group B Subjects allied to Medicine' ","'Black' ",1760
+2007 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",560
+2007 ,"'Group B Subjects allied to Medicine' ","'White' ",17215
+2007 ,"'Group B Subjects allied to Medicine' ","'Other' ",345
+2007 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",1190
+2007 ,"'Group C Biological Sciences' ","'Asian' ",1970
+2007 ,"'Group C Biological Sciences' ","'Black' ",1320
+2007 ,"'Group C Biological Sciences' ","'Mixed' ",875
+2007 ,"'Group C Biological Sciences' ","'White' ",24170
+2007 ,"'Group C Biological Sciences' ","'Other' ",275
+2007 ,"'Group C Biological Sciences' ","'Unknown' ",1195
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",20
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",25
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",50
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",3645
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",10
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",205
+2007 ,"'Group F Physical Sciences' ","'Asian' ",775
+2007 ,"'Group F Physical Sciences' ","'Black' ",280
+2007 ,"'Group F Physical Sciences' ","'Mixed' ",325
+2007 ,"'Group F Physical Sciences' ","'White' ",12310
+2007 ,"'Group F Physical Sciences' ","'Other' ",75
+2007 ,"'Group F Physical Sciences' ","'Unknown' ",475
+2007 ,"'Group G Mathematical Sciences' ","'Asian' ",700
+2007 ,"'Group G Mathematical Sciences' ","'Black' ",105
+2007 ,"'Group G Mathematical Sciences' ","'Mixed' ",120
+2007 ,"'Group G Mathematical Sciences' ","'White' ",3765
+2007 ,"'Group G Mathematical Sciences' ","'Other' ",45
+2007 ,"'Group G Mathematical Sciences' ","'Unknown' ",135
+2007 ,"'Group H Engineering' ","'Asian' ",1805
+2007 ,"'Group H Engineering' ","'Black' ",1100
+2007 ,"'Group H Engineering' ","'Mixed' ",395
+2007 ,"'Group H Engineering' ","'White' ",10160
+2007 ,"'Group H Engineering' ","'Other' ",210
+2007 ,"'Group H Engineering' ","'Unknown' ",935
+2007 ,"'Group I Computer Sciences' ","'Asian' ",2380
+2007 ,"'Group I Computer Sciences' ","'Black' ",1200
+2007 ,"'Group I Computer Sciences' ","'Mixed' ",415
+2007 ,"'Group I Computer Sciences' ","'White' ",9615
+2007 ,"'Group I Computer Sciences' ","'Other' ",215
+2007 ,"'Group I Computer Sciences' ","'Unknown' ",1385
+2007 ,"'Group J Technologies' ","'Asian' ",100
+2007 ,"'Group J Technologies' ","'Black' ",85
+2007 ,"'Group J Technologies' ","'Mixed' ",75
+2007 ,"'Group J Technologies' ","'White' ",1770
+2007 ,"'Group J Technologies' ","'Other' ",20
+2007 ,"'Group J Technologies' ","'Unknown' ",170
+2007 ,"'Group K Architecture, Building and Planning' ","'Asian' ",720
+2007 ,"'Group K Architecture, Building and Planning' ","'Black' ",325
+2007 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",175
+2007 ,"'Group K Architecture, Building and Planning' ","'White' ",6065
+2007 ,"'Group K Architecture, Building and Planning' ","'Other' ",85
+2007 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",550
+2007 ,"'Group L Social Studies' ","'Asian' ",2360
+2007 ,"'Group L Social Studies' ","'Black' ",2175
+2007 ,"'Group L Social Studies' ","'Mixed' ",895
+2007 ,"'Group L Social Studies' ","'White' ",19495
+2007 ,"'Group L Social Studies' ","'Other' ",245
+2007 ,"'Group L Social Studies' ","'Unknown' ",1565
+2007 ,"'Group M Law' ","'Asian' ",2720
+2007 ,"'Group M Law' ","'Black' ",1165
+2007 ,"'Group M Law' ","'Mixed' ",520
+2007 ,"'Group M Law' ","'White' ",10725
+2007 ,"'Group M Law' ","'Other' ",240
+2007 ,"'Group M Law' ","'Unknown' ",895
+2007 ,"'Group N Business and Admin studies' ","'Asian' ",6040
+2007 ,"'Group N Business and Admin studies' ","'Black' ",3145
+2007 ,"'Group N Business and Admin studies' ","'Mixed' ",1075
+2007 ,"'Group N Business and Admin studies' ","'White' ",24905
+2007 ,"'Group N Business and Admin studies' ","'Other' ",545
+2007 ,"'Group N Business and Admin studies' ","'Unknown' ",2940
+2007 ,"'Group P Mass Communication and Documentation' ","'Asian' ",435
+2007 ,"'Group P Mass Communication and Documentation' ","'Black' ",480
+2007 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",310
+2007 ,"'Group P Mass Communication and Documentation' ","'White' ",6840
+2007 ,"'Group P Mass Communication and Documentation' ","'Other' ",70
+2007 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",460
+2007 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",440
+2007 ,"'Group Q Linguistics, Classics and related' ","'Black' ",165
+2007 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",315
+2007 ,"'Group Q Linguistics, Classics and related' ","'White' ",8920
+2007 ,"'Group Q Linguistics, Classics and related' ","'Other' ",80
+2007 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",345
+2007 ,"'Group R European Languages, Literature and related' ","'Asian' ",75
+2007 ,"'Group R European Languages, Literature and related' ","'Black' ",65
+2007 ,"'Group R European Languages, Literature and related' ","'Mixed' ",140
+2007 ,"'Group R European Languages, Literature and related' ","'White' ",3225
+2007 ,"'Group R European Languages, Literature and related' ","'Other' ",25
+2007 ,"'Group R European Languages, Literature and related' ","'Unknown' ",105
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",65
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",25
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",70
+2007 ,"'Group T Non-European Languages, Literature and related' ","'White' ",1305
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",25
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",55
+2007 ,"'Group V History and Philosophical studies' ","'Asian' ",325
+2007 ,"'Group V History and Philosophical studies' ","'Black' ",165
+2007 ,"'Group V History and Philosophical studies' ","'Mixed' ",360
+2007 ,"'Group V History and Philosophical studies' ","'White' ",11125
+2007 ,"'Group V History and Philosophical studies' ","'Other' ",65
+2007 ,"'Group V History and Philosophical studies' ","'Unknown' ",375
+2007 ,"'Group W Creative Arts and Design' ","'Asian' ",1530
+2007 ,"'Group W Creative Arts and Design' ","'Black' ",1375
+2007 ,"'Group W Creative Arts and Design' ","'Mixed' ",1460
+2007 ,"'Group W Creative Arts and Design' ","'White' ",35895
+2007 ,"'Group W Creative Arts and Design' ","'Other' ",380
+2007 ,"'Group W Creative Arts and Design' ","'Unknown' ",2100
+2007 ,"'Group X Education' ","'Asian' ",685
+2007 ,"'Group X Education' ","'Black' ",335
+2007 ,"'Group X Education' ","'Mixed' ",205
+2007 ,"'Group X Education' ","'White' ",10990
+2007 ,"'Group X Education' ","'Other' ",65
+2007 ,"'Group X Education' ","'Unknown' ",520
+2007 ,"'Y Combined arts' ","'Asian' ",470
+2007 ,"'Y Combined arts' ","'Black' ",390
+2007 ,"'Y Combined arts' ","'Mixed' ",495
+2007 ,"'Y Combined arts' ","'White' ",11795
+2007 ,"'Y Combined arts' ","'Other' ",120
+2007 ,"'Y Combined arts' ","'Unknown' ",595
+2007 ,"'Y Combined sciences' ","'Asian' ",760
+2007 ,"'Y Combined sciences' ","'Black' ",410
+2007 ,"'Y Combined sciences' ","'Mixed' ",215
+2007 ,"'Y Combined sciences' ","'White' ",5580
+2007 ,"'Y Combined sciences' ","'Other' ",95
+2007 ,"'Y Combined sciences' ","'Unknown' ",400
+2007 ,"'Y Combined social sciences' ","'Asian' ",970
+2007 ,"'Y Combined social sciences' ","'Black' ",515
+2007 ,"'Y Combined social sciences' ","'Mixed' ",190
+2007 ,"'Y Combined social sciences' ","'White' ",3265
+2007 ,"'Y Combined social sciences' ","'Other' ",75
+2007 ,"'Y Combined social sciences' ","'Unknown' ",290
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1875
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",1035
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",555
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",15955
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",175
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",1120
+2007 ,"'Y Social Sciences combined with Arts' ","'Asian' ",610
+2007 ,"'Y Social Sciences combined with Arts' ","'Black' ",525
+2007 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",480
+2007 ,"'Y Social Sciences combined with Arts' ","'White' ",9225
+2007 ,"'Y Social Sciences combined with Arts' ","'Other' ",150
+2007 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",620
+2007 ,"'Z General, other combined and unknown' ","'Asian' ",650
+2007 ,"'Z General, other combined and unknown' ","'Black' ",325
+2007 ,"'Z General, other combined and unknown' ","'Mixed' ",145
+2007 ,"'Z General, other combined and unknown' ","'White' ",3360
+2007 ,"'Z General, other combined and unknown' ","'Other' ",80
+2007 ,"'Z General, other combined and unknown' ","'Unknown' ",445
+2008 ,"'Group A Medicine and Dentistry' ","'Asian' ",1800
+2008 ,"'Group A Medicine and Dentistry' ","'Black' ",240
+2008 ,"'Group A Medicine and Dentistry' ","'Mixed' ",290
+2008 ,"'Group A Medicine and Dentistry' ","'White' ",5640
+2008 ,"'Group A Medicine and Dentistry' ","'Other' ",155
+2008 ,"'Group A Medicine and Dentistry' ","'Unknown' ",165
+2008 ,"'Group B Subjects allied to Medicine' ","'Asian' ",4535
+2008 ,"'Group B Subjects allied to Medicine' ","'Black' ",3865
+2008 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",945
+2008 ,"'Group B Subjects allied to Medicine' ","'White' ",28770
+2008 ,"'Group B Subjects allied to Medicine' ","'Other' ",445
+2008 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",2035
+2008 ,"'Group C Biological Sciences' ","'Asian' ",2210
+2008 ,"'Group C Biological Sciences' ","'Black' ",1535
+2008 ,"'Group C Biological Sciences' ","'Mixed' ",980
+2008 ,"'Group C Biological Sciences' ","'White' ",25480
+2008 ,"'Group C Biological Sciences' ","'Other' ",255
+2008 ,"'Group C Biological Sciences' ","'Unknown' ",1380
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",30
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",25
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",60
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",4035
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",5
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",280
+2008 ,"'Group F Physical Sciences' ","'Asian' ",860
+2008 ,"'Group F Physical Sciences' ","'Black' ",300
+2008 ,"'Group F Physical Sciences' ","'Mixed' ",340
+2008 ,"'Group F Physical Sciences' ","'White' ",12775
+2008 ,"'Group F Physical Sciences' ","'Other' ",75
+2008 ,"'Group F Physical Sciences' ","'Unknown' ",510
+2008 ,"'Group G Mathematical Sciences' ","'Asian' ",820
+2008 ,"'Group G Mathematical Sciences' ","'Black' ",105
+2008 ,"'Group G Mathematical Sciences' ","'Mixed' ",160
+2008 ,"'Group G Mathematical Sciences' ","'White' ",4075
+2008 ,"'Group G Mathematical Sciences' ","'Other' ",35
+2008 ,"'Group G Mathematical Sciences' ","'Unknown' ",125
+2008 ,"'Group H Engineering' ","'Asian' ",2055
+2008 ,"'Group H Engineering' ","'Black' ",1160
+2008 ,"'Group H Engineering' ","'Mixed' ",450
+2008 ,"'Group H Engineering' ","'White' ",11280
+2008 ,"'Group H Engineering' ","'Other' ",215
+2008 ,"'Group H Engineering' ","'Unknown' ",1185
+2008 ,"'Group I Computer Sciences' ","'Asian' ",2535
+2008 ,"'Group I Computer Sciences' ","'Black' ",1270
+2008 ,"'Group I Computer Sciences' ","'Mixed' ",435
+2008 ,"'Group I Computer Sciences' ","'White' ",10295
+2008 ,"'Group I Computer Sciences' ","'Other' ",250
+2008 ,"'Group I Computer Sciences' ","'Unknown' ",1690
+2008 ,"'Group J Technologies' ","'Asian' ",75
+2008 ,"'Group J Technologies' ","'Black' ",105
+2008 ,"'Group J Technologies' ","'Mixed' ",85
+2008 ,"'Group J Technologies' ","'White' ",1925
+2008 ,"'Group J Technologies' ","'Other' ",20
+2008 ,"'Group J Technologies' ","'Unknown' ",165
+2008 ,"'Group K Architecture, Building and Planning' ","'Asian' ",780
+2008 ,"'Group K Architecture, Building and Planning' ","'Black' ",410
+2008 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",235
+2008 ,"'Group K Architecture, Building and Planning' ","'White' ",6710
+2008 ,"'Group K Architecture, Building and Planning' ","'Other' ",90
+2008 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",580
+2008 ,"'Group L Social Studies' ","'Asian' ",2600
+2008 ,"'Group L Social Studies' ","'Black' ",2620
+2008 ,"'Group L Social Studies' ","'Mixed' ",940
+2008 ,"'Group L Social Studies' ","'White' ",21245
+2008 ,"'Group L Social Studies' ","'Other' ",235
+2008 ,"'Group L Social Studies' ","'Unknown' ",1805
+2008 ,"'Group M Law' ","'Asian' ",2840
+2008 ,"'Group M Law' ","'Black' ",1440
+2008 ,"'Group M Law' ","'Mixed' ",585
+2008 ,"'Group M Law' ","'White' ",11370
+2008 ,"'Group M Law' ","'Other' ",255
+2008 ,"'Group M Law' ","'Unknown' ",1030
+2008 ,"'Group N Business and Admin studies' ","'Asian' ",6560
+2008 ,"'Group N Business and Admin studies' ","'Black' ",3605
+2008 ,"'Group N Business and Admin studies' ","'Mixed' ",1230
+2008 ,"'Group N Business and Admin studies' ","'White' ",27225
+2008 ,"'Group N Business and Admin studies' ","'Other' ",565
+2008 ,"'Group N Business and Admin studies' ","'Unknown' ",3560
+2008 ,"'Group P Mass Communication and Documentation' ","'Asian' ",425
+2008 ,"'Group P Mass Communication and Documentation' ","'Black' ",565
+2008 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",345
+2008 ,"'Group P Mass Communication and Documentation' ","'White' ",7350
+2008 ,"'Group P Mass Communication and Documentation' ","'Other' ",80
+2008 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",485
+2008 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",475
+2008 ,"'Group Q Linguistics, Classics and related' ","'Black' ",195
+2008 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",345
+2008 ,"'Group Q Linguistics, Classics and related' ","'White' ",9605
+2008 ,"'Group Q Linguistics, Classics and related' ","'Other' ",65
+2008 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",355
+2008 ,"'Group R European Languages, Literature and related' ","'Asian' ",90
+2008 ,"'Group R European Languages, Literature and related' ","'Black' ",55
+2008 ,"'Group R European Languages, Literature and related' ","'Mixed' ",145
+2008 ,"'Group R European Languages, Literature and related' ","'White' ",3585
+2008 ,"'Group R European Languages, Literature and related' ","'Other' ",45
+2008 ,"'Group R European Languages, Literature and related' ","'Unknown' ",135
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",60
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",25
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",70
+2008 ,"'Group T Non-European Languages, Literature and related' ","'White' ",1150
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",15
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",55
+2008 ,"'Group V History and Philosophical studies' ","'Asian' ",405
+2008 ,"'Group V History and Philosophical studies' ","'Black' ",155
+2008 ,"'Group V History and Philosophical studies' ","'Mixed' ",385
+2008 ,"'Group V History and Philosophical studies' ","'White' ",12055
+2008 ,"'Group V History and Philosophical studies' ","'Other' ",65
+2008 ,"'Group V History and Philosophical studies' ","'Unknown' ",420
+2008 ,"'Group W Creative Arts and Design' ","'Asian' ",1675
+2008 ,"'Group W Creative Arts and Design' ","'Black' ",1470
+2008 ,"'Group W Creative Arts and Design' ","'Mixed' ",1620
+2008 ,"'Group W Creative Arts and Design' ","'White' ",37875
+2008 ,"'Group W Creative Arts and Design' ","'Other' ",350
+2008 ,"'Group W Creative Arts and Design' ","'Unknown' ",2320
+2008 ,"'Group X Education' ","'Asian' ",765
+2008 ,"'Group X Education' ","'Black' ",370
+2008 ,"'Group X Education' ","'Mixed' ",255
+2008 ,"'Group X Education' ","'White' ",12310
+2008 ,"'Group X Education' ","'Other' ",60
+2008 ,"'Group X Education' ","'Unknown' ",675
+2008 ,"'Y Combined arts' ","'Asian' ",450
+2008 ,"'Y Combined arts' ","'Black' ",450
+2008 ,"'Y Combined arts' ","'Mixed' ",495
+2008 ,"'Y Combined arts' ","'White' ",11880
+2008 ,"'Y Combined arts' ","'Other' ",110
+2008 ,"'Y Combined arts' ","'Unknown' ",555
+2008 ,"'Y Combined sciences' ","'Asian' ",795
+2008 ,"'Y Combined sciences' ","'Black' ",450
+2008 ,"'Y Combined sciences' ","'Mixed' ",205
+2008 ,"'Y Combined sciences' ","'White' ",5840
+2008 ,"'Y Combined sciences' ","'Other' ",80
+2008 ,"'Y Combined sciences' ","'Unknown' ",380
+2008 ,"'Y Combined social sciences' ","'Asian' ",1055
+2008 ,"'Y Combined social sciences' ","'Black' ",560
+2008 ,"'Y Combined social sciences' ","'Mixed' ",195
+2008 ,"'Y Combined social sciences' ","'White' ",3440
+2008 ,"'Y Combined social sciences' ","'Other' ",70
+2008 ,"'Y Combined social sciences' ","'Unknown' ",295
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1960
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",1140
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",675
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",16695
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",160
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",1145
+2008 ,"'Y Social Sciences combined with Arts' ","'Asian' ",705
+2008 ,"'Y Social Sciences combined with Arts' ","'Black' ",535
+2008 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",490
+2008 ,"'Y Social Sciences combined with Arts' ","'White' ",9560
+2008 ,"'Y Social Sciences combined with Arts' ","'Other' ",125
+2008 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",615
+2008 ,"'Z General, other combined and unknown' ","'Asian' ",720
+2008 ,"'Z General, other combined and unknown' ","'Black' ",360
+2008 ,"'Z General, other combined and unknown' ","'Mixed' ",165
+2008 ,"'Z General, other combined and unknown' ","'White' ",2915
+2008 ,"'Z General, other combined and unknown' ","'Other' ",55
+2008 ,"'Z General, other combined and unknown' ","'Unknown' ",535
+2009 ,"'Group A Medicine and Dentistry' ","'Asian' ",1910
+2009 ,"'Group A Medicine and Dentistry' ","'Black' ",225
+2009 ,"'Group A Medicine and Dentistry' ","'Mixed' ",315
+2009 ,"'Group A Medicine and Dentistry' ","'White' ",5500
+2009 ,"'Group A Medicine and Dentistry' ","'Other' ",170
+2009 ,"'Group A Medicine and Dentistry' ","'Unknown' ",115
+2009 ,"'Group B Subjects allied to Medicine' ","'Asian' ",5080
+2009 ,"'Group B Subjects allied to Medicine' ","'Black' ",4605
+2009 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1110
+2009 ,"'Group B Subjects allied to Medicine' ","'White' ",32490
+2009 ,"'Group B Subjects allied to Medicine' ","'Other' ",495
+2009 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",1320
+2009 ,"'Group C Biological Sciences' ","'Asian' ",2290
+2009 ,"'Group C Biological Sciences' ","'Black' ",1650
+2009 ,"'Group C Biological Sciences' ","'Mixed' ",1110
+2009 ,"'Group C Biological Sciences' ","'White' ",27875
+2009 ,"'Group C Biological Sciences' ","'Other' ",270
+2009 ,"'Group C Biological Sciences' ","'Unknown' ",930
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",45
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",30
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",75
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",4620
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",10
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",240
+2009 ,"'Group F Physical Sciences' ","'Asian' ",940
+2009 ,"'Group F Physical Sciences' ","'Black' ",300
+2009 ,"'Group F Physical Sciences' ","'Mixed' ",365
+2009 ,"'Group F Physical Sciences' ","'White' ",13645
+2009 ,"'Group F Physical Sciences' ","'Other' ",75
+2009 ,"'Group F Physical Sciences' ","'Unknown' ",390
+2009 ,"'Group G Mathematical Sciences' ","'Asian' ",1020
+2009 ,"'Group G Mathematical Sciences' ","'Black' ",155
+2009 ,"'Group G Mathematical Sciences' ","'Mixed' ",180
+2009 ,"'Group G Mathematical Sciences' ","'White' ",4825
+2009 ,"'Group G Mathematical Sciences' ","'Other' ",50
+2009 ,"'Group G Mathematical Sciences' ","'Unknown' ",105
+2009 ,"'Group H Engineering' ","'Asian' ",2355
+2009 ,"'Group H Engineering' ","'Black' ",1350
+2009 ,"'Group H Engineering' ","'Mixed' ",545
+2009 ,"'Group H Engineering' ","'White' ",12890
+2009 ,"'Group H Engineering' ","'Other' ",290
+2009 ,"'Group H Engineering' ","'Unknown' ",830
+2009 ,"'Group I Computer Sciences' ","'Asian' ",2860
+2009 ,"'Group I Computer Sciences' ","'Black' ",1500
+2009 ,"'Group I Computer Sciences' ","'Mixed' ",515
+2009 ,"'Group I Computer Sciences' ","'White' ",11675
+2009 ,"'Group I Computer Sciences' ","'Other' ",260
+2009 ,"'Group I Computer Sciences' ","'Unknown' ",1335
+2009 ,"'Group J Technologies' ","'Asian' ",115
+2009 ,"'Group J Technologies' ","'Black' ",110
+2009 ,"'Group J Technologies' ","'Mixed' ",100
+2009 ,"'Group J Technologies' ","'White' ",2220
+2009 ,"'Group J Technologies' ","'Other' ",15
+2009 ,"'Group J Technologies' ","'Unknown' ",130
+2009 ,"'Group K Architecture, Building and Planning' ","'Asian' ",805
+2009 ,"'Group K Architecture, Building and Planning' ","'Black' ",490
+2009 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",260
+2009 ,"'Group K Architecture, Building and Planning' ","'White' ",6525
+2009 ,"'Group K Architecture, Building and Planning' ","'Other' ",85
+2009 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",445
+2009 ,"'Group L Social Studies' ","'Asian' ",2890
+2009 ,"'Group L Social Studies' ","'Black' ",2820
+2009 ,"'Group L Social Studies' ","'Mixed' ",1170
+2009 ,"'Group L Social Studies' ","'White' ",23640
+2009 ,"'Group L Social Studies' ","'Other' ",255
+2009 ,"'Group L Social Studies' ","'Unknown' ",1375
+2009 ,"'Group M Law' ","'Asian' ",3055
+2009 ,"'Group M Law' ","'Black' ",1590
+2009 ,"'Group M Law' ","'Mixed' ",655
+2009 ,"'Group M Law' ","'White' ",12065
+2009 ,"'Group M Law' ","'Other' ",255
+2009 ,"'Group M Law' ","'Unknown' ",985
+2009 ,"'Group N Business and Admin studies' ","'Asian' ",6690
+2009 ,"'Group N Business and Admin studies' ","'Black' ",3925
+2009 ,"'Group N Business and Admin studies' ","'Mixed' ",1350
+2009 ,"'Group N Business and Admin studies' ","'White' ",29780
+2009 ,"'Group N Business and Admin studies' ","'Other' ",565
+2009 ,"'Group N Business and Admin studies' ","'Unknown' ",2730
+2009 ,"'Group P Mass Communication and Documentation' ","'Asian' ",495
+2009 ,"'Group P Mass Communication and Documentation' ","'Black' ",615
+2009 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",395
+2009 ,"'Group P Mass Communication and Documentation' ","'White' ",7990
+2009 ,"'Group P Mass Communication and Documentation' ","'Other' ",85
+2009 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",335
+2009 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",570
+2009 ,"'Group Q Linguistics, Classics and related' ","'Black' ",250
+2009 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",435
+2009 ,"'Group Q Linguistics, Classics and related' ","'White' ",10500
+2009 ,"'Group Q Linguistics, Classics and related' ","'Other' ",70
+2009 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",320
+2009 ,"'Group R European Languages, Literature and related' ","'Asian' ",90
+2009 ,"'Group R European Languages, Literature and related' ","'Black' ",55
+2009 ,"'Group R European Languages, Literature and related' ","'Mixed' ",150
+2009 ,"'Group R European Languages, Literature and related' ","'White' ",3760
+2009 ,"'Group R European Languages, Literature and related' ","'Other' ",45
+2009 ,"'Group R European Languages, Literature and related' ","'Unknown' ",70
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",60
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",30
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",70
+2009 ,"'Group T Non-European Languages, Literature and related' ","'White' ",1130
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",10
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",30
+2009 ,"'Group V History and Philosophical studies' ","'Asian' ",455
+2009 ,"'Group V History and Philosophical studies' ","'Black' ",175
+2009 ,"'Group V History and Philosophical studies' ","'Mixed' ",410
+2009 ,"'Group V History and Philosophical studies' ","'White' ",12630
+2009 ,"'Group V History and Philosophical studies' ","'Other' ",70
+2009 ,"'Group V History and Philosophical studies' ","'Unknown' ",335
+2009 ,"'Group W Creative Arts and Design' ","'Asian' ",1690
+2009 ,"'Group W Creative Arts and Design' ","'Black' ",1770
+2009 ,"'Group W Creative Arts and Design' ","'Mixed' ",1775
+2009 ,"'Group W Creative Arts and Design' ","'White' ",40790
+2009 ,"'Group W Creative Arts and Design' ","'Other' ",385
+2009 ,"'Group W Creative Arts and Design' ","'Unknown' ",1975
+2009 ,"'Group X Education' ","'Asian' ",845
+2009 ,"'Group X Education' ","'Black' ",440
+2009 ,"'Group X Education' ","'Mixed' ",260
+2009 ,"'Group X Education' ","'White' ",13525
+2009 ,"'Group X Education' ","'Other' ",85
+2009 ,"'Group X Education' ","'Unknown' ",610
+2009 ,"'Y Combined arts' ","'Asian' ",445
+2009 ,"'Y Combined arts' ","'Black' ",415
+2009 ,"'Y Combined arts' ","'Mixed' ",490
+2009 ,"'Y Combined arts' ","'White' ",10990
+2009 ,"'Y Combined arts' ","'Other' ",80
+2009 ,"'Y Combined arts' ","'Unknown' ",310
+2009 ,"'Y Combined sciences' ","'Asian' ",740
+2009 ,"'Y Combined sciences' ","'Black' ",385
+2009 ,"'Y Combined sciences' ","'Mixed' ",195
+2009 ,"'Y Combined sciences' ","'White' ",5730
+2009 ,"'Y Combined sciences' ","'Other' ",80
+2009 ,"'Y Combined sciences' ","'Unknown' ",260
+2009 ,"'Y Combined social sciences' ","'Asian' ",825
+2009 ,"'Y Combined social sciences' ","'Black' ",460
+2009 ,"'Y Combined social sciences' ","'Mixed' ",160
+2009 ,"'Y Combined social sciences' ","'White' ",2970
+2009 ,"'Y Combined social sciences' ","'Other' ",45
+2009 ,"'Y Combined social sciences' ","'Unknown' ",125
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1620
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",975
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",590
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",15355
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",130
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",810
+2009 ,"'Y Social Sciences combined with Arts' ","'Asian' ",635
+2009 ,"'Y Social Sciences combined with Arts' ","'Black' ",540
+2009 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",445
+2009 ,"'Y Social Sciences combined with Arts' ","'White' ",8955
+2009 ,"'Y Social Sciences combined with Arts' ","'Other' ",120
+2009 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",505
+2009 ,"'Z General, other combined and unknown' ","'Asian' ",650
+2009 ,"'Z General, other combined and unknown' ","'Black' ",380
+2009 ,"'Z General, other combined and unknown' ","'Mixed' ",170
+2009 ,"'Z General, other combined and unknown' ","'White' ",3095
+2009 ,"'Z General, other combined and unknown' ","'Other' ",55
+2009 ,"'Z General, other combined and unknown' ","'Unknown' ",420
+2010 ,"'Group A Medicine and Dentistry' ","'Asian' ",1770
+2010 ,"'Group A Medicine and Dentistry' ","'Black' ",215
+2010 ,"'Group A Medicine and Dentistry' ","'Mixed' ",305
+2010 ,"'Group A Medicine and Dentistry' ","'White' ",5690
+2010 ,"'Group A Medicine and Dentistry' ","'Other' ",145
+2010 ,"'Group A Medicine and Dentistry' ","'Unknown' ",90
+2010 ,"'Group B Subjects allied to Medicine' ","'Asian' ",5245
+2010 ,"'Group B Subjects allied to Medicine' ","'Black' ",4460
+2010 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1115
+2010 ,"'Group B Subjects allied to Medicine' ","'White' ",34710
+2010 ,"'Group B Subjects allied to Medicine' ","'Other' ",490
+2010 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",630
+2010 ,"'Group C Biological Sciences' ","'Asian' ",2600
+2010 ,"'Group C Biological Sciences' ","'Black' ",1820
+2010 ,"'Group C Biological Sciences' ","'Mixed' ",1275
+2010 ,"'Group C Biological Sciences' ","'White' ",29160
+2010 ,"'Group C Biological Sciences' ","'Other' ",310
+2010 ,"'Group C Biological Sciences' ","'Unknown' ",435
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",35
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",40
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",85
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",5000
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",10
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",55
+2010 ,"'Group F Physical Sciences' ","'Asian' ",985
+2010 ,"'Group F Physical Sciences' ","'Black' ",410
+2010 ,"'Group F Physical Sciences' ","'Mixed' ",425
+2010 ,"'Group F Physical Sciences' ","'White' ",14145
+2010 ,"'Group F Physical Sciences' ","'Other' ",100
+2010 ,"'Group F Physical Sciences' ","'Unknown' ",205
+2010 ,"'Group G Mathematical Sciences' ","'Asian' ",1050
+2010 ,"'Group G Mathematical Sciences' ","'Black' ",180
+2010 ,"'Group G Mathematical Sciences' ","'Mixed' ",195
+2010 ,"'Group G Mathematical Sciences' ","'White' ",4980
+2010 ,"'Group G Mathematical Sciences' ","'Other' ",55
+2010 ,"'Group G Mathematical Sciences' ","'Unknown' ",80
+2010 ,"'Group H Engineering' ","'Asian' ",2560
+2010 ,"'Group H Engineering' ","'Black' ",1495
+2010 ,"'Group H Engineering' ","'Mixed' ",555
+2010 ,"'Group H Engineering' ","'White' ",13335
+2010 ,"'Group H Engineering' ","'Other' ",270
+2010 ,"'Group H Engineering' ","'Unknown' ",430
+2010 ,"'Group I Computer Sciences' ","'Asian' ",3215
+2010 ,"'Group I Computer Sciences' ","'Black' ",1635
+2010 ,"'Group I Computer Sciences' ","'Mixed' ",550
+2010 ,"'Group I Computer Sciences' ","'White' ",11885
+2010 ,"'Group I Computer Sciences' ","'Other' ",290
+2010 ,"'Group I Computer Sciences' ","'Unknown' ",430
+2010 ,"'Group J Technologies' ","'Asian' ",145
+2010 ,"'Group J Technologies' ","'Black' ",140
+2010 ,"'Group J Technologies' ","'Mixed' ",100
+2010 ,"'Group J Technologies' ","'White' ",2295
+2010 ,"'Group J Technologies' ","'Other' ",20
+2010 ,"'Group J Technologies' ","'Unknown' ",60
+2010 ,"'Group K Architecture, Building and Planning' ","'Asian' ",830
+2010 ,"'Group K Architecture, Building and Planning' ","'Black' ",545
+2010 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",235
+2010 ,"'Group K Architecture, Building and Planning' ","'White' ",5755
+2010 ,"'Group K Architecture, Building and Planning' ","'Other' ",120
+2010 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",125
+2010 ,"'Group L Social Studies' ","'Asian' ",3070
+2010 ,"'Group L Social Studies' ","'Black' ",3240
+2010 ,"'Group L Social Studies' ","'Mixed' ",1265
+2010 ,"'Group L Social Studies' ","'White' ",24745
+2010 ,"'Group L Social Studies' ","'Other' ",335
+2010 ,"'Group L Social Studies' ","'Unknown' ",620
+2010 ,"'Group M Law' ","'Asian' ",2950
+2010 ,"'Group M Law' ","'Black' ",1635
+2010 ,"'Group M Law' ","'Mixed' ",665
+2010 ,"'Group M Law' ","'White' ",12025
+2010 ,"'Group M Law' ","'Other' ",320
+2010 ,"'Group M Law' ","'Unknown' ",300
+2010 ,"'Group N Business and Admin studies' ","'Asian' ",7120
+2010 ,"'Group N Business and Admin studies' ","'Black' ",4350
+2010 ,"'Group N Business and Admin studies' ","'Mixed' ",1500
+2010 ,"'Group N Business and Admin studies' ","'White' ",29565
+2010 ,"'Group N Business and Admin studies' ","'Other' ",660
+2010 ,"'Group N Business and Admin studies' ","'Unknown' ",890
+2010 ,"'Group P Mass Communication and Documentation' ","'Asian' ",485
+2010 ,"'Group P Mass Communication and Documentation' ","'Black' ",715
+2010 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",405
+2010 ,"'Group P Mass Communication and Documentation' ","'White' ",8140
+2010 ,"'Group P Mass Communication and Documentation' ","'Other' ",90
+2010 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",130
+2010 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",610
+2010 ,"'Group Q Linguistics, Classics and related' ","'Black' ",230
+2010 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",395
+2010 ,"'Group Q Linguistics, Classics and related' ","'White' ",10370
+2010 ,"'Group Q Linguistics, Classics and related' ","'Other' ",85
+2010 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",175
+2010 ,"'Group R European Languages, Literature and related' ","'Asian' ",90
+2010 ,"'Group R European Languages, Literature and related' ","'Black' ",60
+2010 ,"'Group R European Languages, Literature and related' ","'Mixed' ",170
+2010 ,"'Group R European Languages, Literature and related' ","'White' ",3820
+2010 ,"'Group R European Languages, Literature and related' ","'Other' ",30
+2010 ,"'Group R European Languages, Literature and related' ","'Unknown' ",50
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",60
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",25
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",85
+2010 ,"'Group T Non-European Languages, Literature and related' ","'White' ",1095
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",10
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",20
+2010 ,"'Group V History and Philosophical studies' ","'Asian' ",480
+2010 ,"'Group V History and Philosophical studies' ","'Black' ",220
+2010 ,"'Group V History and Philosophical studies' ","'Mixed' ",455
+2010 ,"'Group V History and Philosophical studies' ","'White' ",12705
+2010 ,"'Group V History and Philosophical studies' ","'Other' ",85
+2010 ,"'Group V History and Philosophical studies' ","'Unknown' ",190
+2010 ,"'Group W Creative Arts and Design' ","'Asian' ",1770
+2010 ,"'Group W Creative Arts and Design' ","'Black' ",1825
+2010 ,"'Group W Creative Arts and Design' ","'Mixed' ",1900
+2010 ,"'Group W Creative Arts and Design' ","'White' ",40590
+2010 ,"'Group W Creative Arts and Design' ","'Other' ",340
+2010 ,"'Group W Creative Arts and Design' ","'Unknown' ",630
+2010 ,"'Group X Education' ","'Asian' ",1030
+2010 ,"'Group X Education' ","'Black' ",585
+2010 ,"'Group X Education' ","'Mixed' ",345
+2010 ,"'Group X Education' ","'White' ",13635
+2010 ,"'Group X Education' ","'Other' ",95
+2010 ,"'Group X Education' ","'Unknown' ",220
+2010 ,"'Y Combined arts' ","'Asian' ",455
+2010 ,"'Y Combined arts' ","'Black' ",380
+2010 ,"'Y Combined arts' ","'Mixed' ",495
+2010 ,"'Y Combined arts' ","'White' ",10725
+2010 ,"'Y Combined arts' ","'Other' ",115
+2010 ,"'Y Combined arts' ","'Unknown' ",145
+2010 ,"'Y Combined sciences' ","'Asian' ",840
+2010 ,"'Y Combined sciences' ","'Black' ",570
+2010 ,"'Y Combined sciences' ","'Mixed' ",235
+2010 ,"'Y Combined sciences' ","'White' ",5745
+2010 ,"'Y Combined sciences' ","'Other' ",95
+2010 ,"'Y Combined sciences' ","'Unknown' ",140
+2010 ,"'Y Combined social sciences' ","'Asian' ",810
+2010 ,"'Y Combined social sciences' ","'Black' ",490
+2010 ,"'Y Combined social sciences' ","'Mixed' ",190
+2010 ,"'Y Combined social sciences' ","'White' ",3040
+2010 ,"'Y Combined social sciences' ","'Other' ",60
+2010 ,"'Y Combined social sciences' ","'Unknown' ",40
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1515
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",1085
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",625
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",15575
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",130
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",235
+2010 ,"'Y Social Sciences combined with Arts' ","'Asian' ",640
+2010 ,"'Y Social Sciences combined with Arts' ","'Black' ",525
+2010 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",450
+2010 ,"'Y Social Sciences combined with Arts' ","'White' ",8715
+2010 ,"'Y Social Sciences combined with Arts' ","'Other' ",110
+2010 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",205
+2010 ,"'Z General, other combined and unknown' ","'Asian' ",375
+2010 ,"'Z General, other combined and unknown' ","'Black' ",285
+2010 ,"'Z General, other combined and unknown' ","'Mixed' ",140
+2010 ,"'Z General, other combined and unknown' ","'White' ",2885
+2010 ,"'Z General, other combined and unknown' ","'Other' ",35
+2010 ,"'Z General, other combined and unknown' ","'Unknown' ",95
+2011 ,"'Group A Medicine and Dentistry' ","'Asian' ",1755
+2011 ,"'Group A Medicine and Dentistry' ","'Black' ",225
+2011 ,"'Group A Medicine and Dentistry' ","'Mixed' ",300
+2011 ,"'Group A Medicine and Dentistry' ","'White' ",5530
+2011 ,"'Group A Medicine and Dentistry' ","'Other' ",150
+2011 ,"'Group A Medicine and Dentistry' ","'Unknown' ",125
+2011 ,"'Group B Subjects allied to Medicine' ","'Asian' ",5455
+2011 ,"'Group B Subjects allied to Medicine' ","'Black' ",4670
+2011 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1185
+2011 ,"'Group B Subjects allied to Medicine' ","'White' ",32565
+2011 ,"'Group B Subjects allied to Medicine' ","'Other' ",530
+2011 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",420
+2011 ,"'Group C Biological Sciences' ","'Asian' ",2810
+2011 ,"'Group C Biological Sciences' ","'Black' ",2155
+2011 ,"'Group C Biological Sciences' ","'Mixed' ",1410
+2011 ,"'Group C Biological Sciences' ","'White' ",29730
+2011 ,"'Group C Biological Sciences' ","'Other' ",345
+2011 ,"'Group C Biological Sciences' ","'Unknown' ",305
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",50
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",60
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",100
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",5330
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",15
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",40
+2011 ,"'Group F Physical Sciences' ","'Asian' ",1095
+2011 ,"'Group F Physical Sciences' ","'Black' ",405
+2011 ,"'Group F Physical Sciences' ","'Mixed' ",495
+2011 ,"'Group F Physical Sciences' ","'White' ",14525
+2011 ,"'Group F Physical Sciences' ","'Other' ",80
+2011 ,"'Group F Physical Sciences' ","'Unknown' ",150
+2011 ,"'Group G Mathematical Sciences' ","'Asian' ",1155
+2011 ,"'Group G Mathematical Sciences' ","'Black' ",235
+2011 ,"'Group G Mathematical Sciences' ","'Mixed' ",245
+2011 ,"'Group G Mathematical Sciences' ","'White' ",5170
+2011 ,"'Group G Mathematical Sciences' ","'Other' ",70
+2011 ,"'Group G Mathematical Sciences' ","'Unknown' ",60
+2011 ,"'Group H Engineering' ","'Asian' ",2865
+2011 ,"'Group H Engineering' ","'Black' ",1680
+2011 ,"'Group H Engineering' ","'Mixed' ",635
+2011 ,"'Group H Engineering' ","'White' ",13525
+2011 ,"'Group H Engineering' ","'Other' ",365
+2011 ,"'Group H Engineering' ","'Unknown' ",365
+2011 ,"'Group I Computer Sciences' ","'Asian' ",3205
+2011 ,"'Group I Computer Sciences' ","'Black' ",1725
+2011 ,"'Group I Computer Sciences' ","'Mixed' ",585
+2011 ,"'Group I Computer Sciences' ","'White' ",12160
+2011 ,"'Group I Computer Sciences' ","'Other' ",300
+2011 ,"'Group I Computer Sciences' ","'Unknown' ",320
+2011 ,"'Group J Technologies' ","'Asian' ",125
+2011 ,"'Group J Technologies' ","'Black' ",110
+2011 ,"'Group J Technologies' ","'Mixed' ",95
+2011 ,"'Group J Technologies' ","'White' ",2065
+2011 ,"'Group J Technologies' ","'Other' ",20
+2011 ,"'Group J Technologies' ","'Unknown' ",40
+2011 ,"'Group K Architecture, Building and Planning' ","'Asian' ",790
+2011 ,"'Group K Architecture, Building and Planning' ","'Black' ",560
+2011 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",245
+2011 ,"'Group K Architecture, Building and Planning' ","'White' ",5510
+2011 ,"'Group K Architecture, Building and Planning' ","'Other' ",110
+2011 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",90
+2011 ,"'Group L Social Studies' ","'Asian' ",3245
+2011 ,"'Group L Social Studies' ","'Black' ",3610
+2011 ,"'Group L Social Studies' ","'Mixed' ",1415
+2011 ,"'Group L Social Studies' ","'White' ",25400
+2011 ,"'Group L Social Studies' ","'Other' ",340
+2011 ,"'Group L Social Studies' ","'Unknown' ",420
+2011 ,"'Group M Law' ","'Asian' ",3240
+2011 ,"'Group M Law' ","'Black' ",1805
+2011 ,"'Group M Law' ","'Mixed' ",795
+2011 ,"'Group M Law' ","'White' ",12055
+2011 ,"'Group M Law' ","'Other' ",320
+2011 ,"'Group M Law' ","'Unknown' ",235
+2011 ,"'Group N Business and Admin studies' ","'Asian' ",7845
+2011 ,"'Group N Business and Admin studies' ","'Black' ",4935
+2011 ,"'Group N Business and Admin studies' ","'Mixed' ",1670
+2011 ,"'Group N Business and Admin studies' ","'White' ",30855
+2011 ,"'Group N Business and Admin studies' ","'Other' ",715
+2011 ,"'Group N Business and Admin studies' ","'Unknown' ",565
+2011 ,"'Group P Mass Communication and Documentation' ","'Asian' ",485
+2011 ,"'Group P Mass Communication and Documentation' ","'Black' ",755
+2011 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",470
+2011 ,"'Group P Mass Communication and Documentation' ","'White' ",8585
+2011 ,"'Group P Mass Communication and Documentation' ","'Other' ",120
+2011 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",85
+2011 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",640
+2011 ,"'Group Q Linguistics, Classics and related' ","'Black' ",300
+2011 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",440
+2011 ,"'Group Q Linguistics, Classics and related' ","'White' ",10240
+2011 ,"'Group Q Linguistics, Classics and related' ","'Other' ",80
+2011 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",130
+2011 ,"'Group R European Languages, Literature and related' ","'Asian' ",100
+2011 ,"'Group R European Languages, Literature and related' ","'Black' ",60
+2011 ,"'Group R European Languages, Literature and related' ","'Mixed' ",215
+2011 ,"'Group R European Languages, Literature and related' ","'White' ",3635
+2011 ,"'Group R European Languages, Literature and related' ","'Other' ",30
+2011 ,"'Group R European Languages, Literature and related' ","'Unknown' ",55
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",50
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",25
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",85
+2011 ,"'Group T Non-European Languages, Literature and related' ","'White' ",1075
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",15
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",15
+2011 ,"'Group V History and Philosophical studies' ","'Asian' ",480
+2011 ,"'Group V History and Philosophical studies' ","'Black' ",270
+2011 ,"'Group V History and Philosophical studies' ","'Mixed' ",520
+2011 ,"'Group V History and Philosophical studies' ","'White' ",12690
+2011 ,"'Group V History and Philosophical studies' ","'Other' ",75
+2011 ,"'Group V History and Philosophical studies' ","'Unknown' ",170
+2011 ,"'Group W Creative Arts and Design' ","'Asian' ",1925
+2011 ,"'Group W Creative Arts and Design' ","'Black' ",1920
+2011 ,"'Group W Creative Arts and Design' ","'Mixed' ",2050
+2011 ,"'Group W Creative Arts and Design' ","'White' ",41745
+2011 ,"'Group W Creative Arts and Design' ","'Other' ",395
+2011 ,"'Group W Creative Arts and Design' ","'Unknown' ",540
+2011 ,"'Group X Education' ","'Asian' ",1195
+2011 ,"'Group X Education' ","'Black' ",695
+2011 ,"'Group X Education' ","'Mixed' ",340
+2011 ,"'Group X Education' ","'White' ",14225
+2011 ,"'Group X Education' ","'Other' ",100
+2011 ,"'Group X Education' ","'Unknown' ",175
+2011 ,"'Y Combined arts' ","'Asian' ",475
+2011 ,"'Y Combined arts' ","'Black' ",420
+2011 ,"'Y Combined arts' ","'Mixed' ",525
+2011 ,"'Y Combined arts' ","'White' ",10225
+2011 ,"'Y Combined arts' ","'Other' ",95
+2011 ,"'Y Combined arts' ","'Unknown' ",115
+2011 ,"'Y Combined sciences' ","'Asian' ",985
+2011 ,"'Y Combined sciences' ","'Black' ",680
+2011 ,"'Y Combined sciences' ","'Mixed' ",255
+2011 ,"'Y Combined sciences' ","'White' ",5775
+2011 ,"'Y Combined sciences' ","'Other' ",110
+2011 ,"'Y Combined sciences' ","'Unknown' ",90
+2011 ,"'Y Combined social sciences' ","'Asian' ",745
+2011 ,"'Y Combined social sciences' ","'Black' ",495
+2011 ,"'Y Combined social sciences' ","'Mixed' ",160
+2011 ,"'Y Combined social sciences' ","'White' ",2955
+2011 ,"'Y Combined social sciences' ","'Other' ",60
+2011 ,"'Y Combined social sciences' ","'Unknown' ",45
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1395
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",1050
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",660
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",15055
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",120
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",150
+2011 ,"'Y Social Sciences combined with Arts' ","'Asian' ",660
+2011 ,"'Y Social Sciences combined with Arts' ","'Black' ",545
+2011 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",450
+2011 ,"'Y Social Sciences combined with Arts' ","'White' ",8615
+2011 ,"'Y Social Sciences combined with Arts' ","'Other' ",100
+2011 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",155
+2011 ,"'Z General, other combined and unknown' ","'Asian' ",435
+2011 ,"'Z General, other combined and unknown' ","'Black' ",305
+2011 ,"'Z General, other combined and unknown' ","'Mixed' ",140
+2011 ,"'Z General, other combined and unknown' ","'White' ",2830
+2011 ,"'Z General, other combined and unknown' ","'Other' ",40
+2011 ,"'Z General, other combined and unknown' ","'Unknown' ",65
+2012 ,"'Group A Medicine and Dentistry' ","'Asian' ",1865
+2012 ,"'Group A Medicine and Dentistry' ","'Black' ",225
+2012 ,"'Group A Medicine and Dentistry' ","'Mixed' ",330
+2012 ,"'Group A Medicine and Dentistry' ","'White' ",5370
+2012 ,"'Group A Medicine and Dentistry' ","'Other' ",190
+2012 ,"'Group A Medicine and Dentistry' ","'Unknown' ",170
+2012 ,"'Group B Subjects allied to Medicine' ","'Asian' ",5430
+2012 ,"'Group B Subjects allied to Medicine' ","'Black' ",4760
+2012 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1185
+2012 ,"'Group B Subjects allied to Medicine' ","'White' ",31185
+2012 ,"'Group B Subjects allied to Medicine' ","'Other' ",690
+2012 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",395
+2012 ,"'Group C Biological Sciences' ","'Asian' ",3035
+2012 ,"'Group C Biological Sciences' ","'Black' ",2325
+2012 ,"'Group C Biological Sciences' ","'Mixed' ",1420
+2012 ,"'Group C Biological Sciences' ","'White' ",28640
+2012 ,"'Group C Biological Sciences' ","'Other' ",425
+2012 ,"'Group C Biological Sciences' ","'Unknown' ",330
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",70
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",50
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",100
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",5020
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",15
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",45
+2012 ,"'Group F Physical Sciences' ","'Asian' ",1160
+2012 ,"'Group F Physical Sciences' ","'Black' ",430
+2012 ,"'Group F Physical Sciences' ","'Mixed' ",515
+2012 ,"'Group F Physical Sciences' ","'White' ",14235
+2012 ,"'Group F Physical Sciences' ","'Other' ",155
+2012 ,"'Group F Physical Sciences' ","'Unknown' ",135
+2012 ,"'Group G Mathematical Sciences' ","'Asian' ",1025
+2012 ,"'Group G Mathematical Sciences' ","'Black' ",210
+2012 ,"'Group G Mathematical Sciences' ","'Mixed' ",185
+2012 ,"'Group G Mathematical Sciences' ","'White' ",5035
+2012 ,"'Group G Mathematical Sciences' ","'Other' ",100
+2012 ,"'Group G Mathematical Sciences' ","'Unknown' ",70
+2012 ,"'Group H Engineering' ","'Asian' ",2840
+2012 ,"'Group H Engineering' ","'Black' ",1690
+2012 ,"'Group H Engineering' ","'Mixed' ",665
+2012 ,"'Group H Engineering' ","'White' ",13065
+2012 ,"'Group H Engineering' ","'Other' ",535
+2012 ,"'Group H Engineering' ","'Unknown' ",260
+2012 ,"'Group I Computer Sciences' ","'Asian' ",3070
+2012 ,"'Group I Computer Sciences' ","'Black' ",1645
+2012 ,"'Group I Computer Sciences' ","'Mixed' ",595
+2012 ,"'Group I Computer Sciences' ","'White' ",11440
+2012 ,"'Group I Computer Sciences' ","'Other' ",365
+2012 ,"'Group I Computer Sciences' ","'Unknown' ",300
+2012 ,"'Group J Technologies' ","'Asian' ",80
+2012 ,"'Group J Technologies' ","'Black' ",120
+2012 ,"'Group J Technologies' ","'Mixed' ",80
+2012 ,"'Group J Technologies' ","'White' ",1650
+2012 ,"'Group J Technologies' ","'Other' ",20
+2012 ,"'Group J Technologies' ","'Unknown' ",25
+2012 ,"'Group K Architecture, Building and Planning' ","'Asian' ",685
+2012 ,"'Group K Architecture, Building and Planning' ","'Black' ",515
+2012 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",230
+2012 ,"'Group K Architecture, Building and Planning' ","'White' ",4435
+2012 ,"'Group K Architecture, Building and Planning' ","'Other' ",150
+2012 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",95
+2012 ,"'Group L Social Studies' ","'Asian' ",3120
+2012 ,"'Group L Social Studies' ","'Black' ",4065
+2012 ,"'Group L Social Studies' ","'Mixed' ",1310
+2012 ,"'Group L Social Studies' ","'White' ",23330
+2012 ,"'Group L Social Studies' ","'Other' ",405
+2012 ,"'Group L Social Studies' ","'Unknown' ",425
+2012 ,"'Group M Law' ","'Asian' ",3260
+2012 ,"'Group M Law' ","'Black' ",1895
+2012 ,"'Group M Law' ","'Mixed' ",720
+2012 ,"'Group M Law' ","'White' ",11200
+2012 ,"'Group M Law' ","'Other' ",355
+2012 ,"'Group M Law' ","'Unknown' ",210
+2012 ,"'Group N Business and Admin studies' ","'Asian' ",7695
+2012 ,"'Group N Business and Admin studies' ","'Black' ",5160
+2012 ,"'Group N Business and Admin studies' ","'Mixed' ",1550
+2012 ,"'Group N Business and Admin studies' ","'White' ",28360
+2012 ,"'Group N Business and Admin studies' ","'Other' ",935
+2012 ,"'Group N Business and Admin studies' ","'Unknown' ",655
+2012 ,"'Group P Mass Communication and Documentation' ","'Asian' ",500
+2012 ,"'Group P Mass Communication and Documentation' ","'Black' ",870
+2012 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",440
+2012 ,"'Group P Mass Communication and Documentation' ","'White' ",7375
+2012 ,"'Group P Mass Communication and Documentation' ","'Other' ",125
+2012 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",85
+2012 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",650
+2012 ,"'Group Q Linguistics, Classics and related' ","'Black' ",280
+2012 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",480
+2012 ,"'Group Q Linguistics, Classics and related' ","'White' ",9650
+2012 ,"'Group Q Linguistics, Classics and related' ","'Other' ",95
+2012 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",125
+2012 ,"'Group R European Languages, Literature and related' ","'Asian' ",80
+2012 ,"'Group R European Languages, Literature and related' ","'Black' ",70
+2012 ,"'Group R European Languages, Literature and related' ","'Mixed' ",160
+2012 ,"'Group R European Languages, Literature and related' ","'White' ",3255
+2012 ,"'Group R European Languages, Literature and related' ","'Other' ",35
+2012 ,"'Group R European Languages, Literature and related' ","'Unknown' ",50
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",70
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",25
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",60
+2012 ,"'Group T Non-European Languages, Literature and related' ","'White' ",900
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",20
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",25
+2012 ,"'Group V History and Philosophical studies' ","'Asian' ",505
+2012 ,"'Group V History and Philosophical studies' ","'Black' ",275
+2012 ,"'Group V History and Philosophical studies' ","'Mixed' ",430
+2012 ,"'Group V History and Philosophical studies' ","'White' ",11895
+2012 ,"'Group V History and Philosophical studies' ","'Other' ",85
+2012 ,"'Group V History and Philosophical studies' ","'Unknown' ",170
+2012 ,"'Group W Creative Arts and Design' ","'Asian' ",1810
+2012 ,"'Group W Creative Arts and Design' ","'Black' ",1925
+2012 ,"'Group W Creative Arts and Design' ","'Mixed' ",1880
+2012 ,"'Group W Creative Arts and Design' ","'White' ",37545
+2012 ,"'Group W Creative Arts and Design' ","'Other' ",420
+2012 ,"'Group W Creative Arts and Design' ","'Unknown' ",440
+2012 ,"'Group X Education' ","'Asian' ",1315
+2012 ,"'Group X Education' ","'Black' ",800
+2012 ,"'Group X Education' ","'Mixed' ",415
+2012 ,"'Group X Education' ","'White' ",13835
+2012 ,"'Group X Education' ","'Other' ",135
+2012 ,"'Group X Education' ","'Unknown' ",130
+2012 ,"'Y Combined arts' ","'Asian' ",470
+2012 ,"'Y Combined arts' ","'Black' ",435
+2012 ,"'Y Combined arts' ","'Mixed' ",485
+2012 ,"'Y Combined arts' ","'White' ",8700
+2012 ,"'Y Combined arts' ","'Other' ",100
+2012 ,"'Y Combined arts' ","'Unknown' ",105
+2012 ,"'Y Combined sciences' ","'Asian' ",830
+2012 ,"'Y Combined sciences' ","'Black' ",690
+2012 ,"'Y Combined sciences' ","'Mixed' ",240
+2012 ,"'Y Combined sciences' ","'White' ",5300
+2012 ,"'Y Combined sciences' ","'Other' ",120
+2012 ,"'Y Combined sciences' ","'Unknown' ",80
+2012 ,"'Y Combined social sciences' ","'Asian' ",735
+2012 ,"'Y Combined social sciences' ","'Black' ",445
+2012 ,"'Y Combined social sciences' ","'Mixed' ",185
+2012 ,"'Y Combined social sciences' ","'White' ",2470
+2012 ,"'Y Combined social sciences' ","'Other' ",70
+2012 ,"'Y Combined social sciences' ","'Unknown' ",50
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1130
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",1090
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",545
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",12710
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",165
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",200
+2012 ,"'Y Social Sciences combined with Arts' ","'Asian' ",595
+2012 ,"'Y Social Sciences combined with Arts' ","'Black' ",510
+2012 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",415
+2012 ,"'Y Social Sciences combined with Arts' ","'White' ",7295
+2012 ,"'Y Social Sciences combined with Arts' ","'Other' ",120
+2012 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",125
+2012 ,"'Z General, other combined and unknown' ","'Asian' ",515
+2012 ,"'Z General, other combined and unknown' ","'Black' ",295
+2012 ,"'Z General, other combined and unknown' ","'Mixed' ",180
+2012 ,"'Z General, other combined and unknown' ","'White' ",3535
+2012 ,"'Z General, other combined and unknown' ","'Other' ",70
+2012 ,"'Z General, other combined and unknown' ","'Unknown' ",70
+2013 ,"'Group A Medicine and Dentistry' ","'Asian' ",1895
+2013 ,"'Group A Medicine and Dentistry' ","'Black' ",200
+2013 ,"'Group A Medicine and Dentistry' ","'Mixed' ",325
+2013 ,"'Group A Medicine and Dentistry' ","'White' ",5055
+2013 ,"'Group A Medicine and Dentistry' ","'Other' ",195
+2013 ,"'Group A Medicine and Dentistry' ","'Unknown' ",160
+2013 ,"'Group B Subjects allied to Medicine' ","'Asian' ",6060
+2013 ,"'Group B Subjects allied to Medicine' ","'Black' ",4860
+2013 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1310
+2013 ,"'Group B Subjects allied to Medicine' ","'White' ",32930
+2013 ,"'Group B Subjects allied to Medicine' ","'Other' ",685
+2013 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",420
+2013 ,"'Group C Biological Sciences' ","'Asian' ",3350
+2013 ,"'Group C Biological Sciences' ","'Black' ",2745
+2013 ,"'Group C Biological Sciences' ","'Mixed' ",1650
+2013 ,"'Group C Biological Sciences' ","'White' ",31985
+2013 ,"'Group C Biological Sciences' ","'Other' ",555
+2013 ,"'Group C Biological Sciences' ","'Unknown' ",360
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",80
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",75
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",100
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",5630
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",15
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",50
+2013 ,"'Group F Physical Sciences' ","'Asian' ",1370
+2013 ,"'Group F Physical Sciences' ","'Black' ",495
+2013 ,"'Group F Physical Sciences' ","'Mixed' ",535
+2013 ,"'Group F Physical Sciences' ","'White' ",14890
+2013 ,"'Group F Physical Sciences' ","'Other' ",150
+2013 ,"'Group F Physical Sciences' ","'Unknown' ",140
+2013 ,"'Group G Mathematical Sciences' ","'Asian' ",1220
+2013 ,"'Group G Mathematical Sciences' ","'Black' ",235
+2013 ,"'Group G Mathematical Sciences' ","'Mixed' ",235
+2013 ,"'Group G Mathematical Sciences' ","'White' ",5230
+2013 ,"'Group G Mathematical Sciences' ","'Other' ",105
+2013 ,"'Group G Mathematical Sciences' ","'Unknown' ",60
+2013 ,"'Group H Engineering' ","'Asian' ",3240
+2013 ,"'Group H Engineering' ","'Black' ",1825
+2013 ,"'Group H Engineering' ","'Mixed' ",710
+2013 ,"'Group H Engineering' ","'White' ",14030
+2013 ,"'Group H Engineering' ","'Other' ",545
+2013 ,"'Group H Engineering' ","'Unknown' ",305
+2013 ,"'Group I Computer Sciences' ","'Asian' ",3285
+2013 ,"'Group I Computer Sciences' ","'Black' ",1695
+2013 ,"'Group I Computer Sciences' ","'Mixed' ",650
+2013 ,"'Group I Computer Sciences' ","'White' ",13285
+2013 ,"'Group I Computer Sciences' ","'Other' ",370
+2013 ,"'Group I Computer Sciences' ","'Unknown' ",310
+2013 ,"'Group J Technologies' ","'Asian' ",85
+2013 ,"'Group J Technologies' ","'Black' ",120
+2013 ,"'Group J Technologies' ","'Mixed' ",70
+2013 ,"'Group J Technologies' ","'White' ",1820
+2013 ,"'Group J Technologies' ","'Other' ",10
+2013 ,"'Group J Technologies' ","'Unknown' ",25
+2013 ,"'Group K Architecture, Building and Planning' ","'Asian' ",700
+2013 ,"'Group K Architecture, Building and Planning' ","'Black' ",500
+2013 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",260
+2013 ,"'Group K Architecture, Building and Planning' ","'White' ",4435
+2013 ,"'Group K Architecture, Building and Planning' ","'Other' ",155
+2013 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",90
+2013 ,"'Group L Social Studies' ","'Asian' ",3480
+2013 ,"'Group L Social Studies' ","'Black' ",4120
+2013 ,"'Group L Social Studies' ","'Mixed' ",1440
+2013 ,"'Group L Social Studies' ","'White' ",25515
+2013 ,"'Group L Social Studies' ","'Other' ",440
+2013 ,"'Group L Social Studies' ","'Unknown' ",525
+2013 ,"'Group M Law' ","'Asian' ",3340
+2013 ,"'Group M Law' ","'Black' ",2020
+2013 ,"'Group M Law' ","'Mixed' ",865
+2013 ,"'Group M Law' ","'White' ",11900
+2013 ,"'Group M Law' ","'Other' ",420
+2013 ,"'Group M Law' ","'Unknown' ",250
+2013 ,"'Group N Business and Admin studies' ","'Asian' ",7775
+2013 ,"'Group N Business and Admin studies' ","'Black' ",5340
+2013 ,"'Group N Business and Admin studies' ","'Mixed' ",1730
+2013 ,"'Group N Business and Admin studies' ","'White' ",30955
+2013 ,"'Group N Business and Admin studies' ","'Other' ",940
+2013 ,"'Group N Business and Admin studies' ","'Unknown' ",900
+2013 ,"'Group P Mass Communication and Documentation' ","'Asian' ",550
+2013 ,"'Group P Mass Communication and Documentation' ","'Black' ",895
+2013 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",500
+2013 ,"'Group P Mass Communication and Documentation' ","'White' ",8155
+2013 ,"'Group P Mass Communication and Documentation' ","'Other' ",125
+2013 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",115
+2013 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",700
+2013 ,"'Group Q Linguistics, Classics and related' ","'Black' ",315
+2013 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",480
+2013 ,"'Group Q Linguistics, Classics and related' ","'White' ",9875
+2013 ,"'Group Q Linguistics, Classics and related' ","'Other' ",80
+2013 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",115
+2013 ,"'Group R European Languages, Literature and related' ","'Asian' ",90
+2013 ,"'Group R European Languages, Literature and related' ","'Black' ",85
+2013 ,"'Group R European Languages, Literature and related' ","'Mixed' ",165
+2013 ,"'Group R European Languages, Literature and related' ","'White' ",3200
+2013 ,"'Group R European Languages, Literature and related' ","'Other' ",40
+2013 ,"'Group R European Languages, Literature and related' ","'Unknown' ",40
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",75
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",35
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",80
+2013 ,"'Group T Non-European Languages, Literature and related' ","'White' ",890
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",20
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",20
+2013 ,"'Group V History and Philosophical studies' ","'Asian' ",555
+2013 ,"'Group V History and Philosophical studies' ","'Black' ",340
+2013 ,"'Group V History and Philosophical studies' ","'Mixed' ",505
+2013 ,"'Group V History and Philosophical studies' ","'White' ",12410
+2013 ,"'Group V History and Philosophical studies' ","'Other' ",90
+2013 ,"'Group V History and Philosophical studies' ","'Unknown' ",150
+2013 ,"'Group W Creative Arts and Design' ","'Asian' ",1820
+2013 ,"'Group W Creative Arts and Design' ","'Black' ",2160
+2013 ,"'Group W Creative Arts and Design' ","'Mixed' ",2075
+2013 ,"'Group W Creative Arts and Design' ","'White' ",40135
+2013 ,"'Group W Creative Arts and Design' ","'Other' ",470
+2013 ,"'Group W Creative Arts and Design' ","'Unknown' ",585
+2013 ,"'Group X Education' ","'Asian' ",1590
+2013 ,"'Group X Education' ","'Black' ",985
+2013 ,"'Group X Education' ","'Mixed' ",425
+2013 ,"'Group X Education' ","'White' ",14290
+2013 ,"'Group X Education' ","'Other' ",160
+2013 ,"'Group X Education' ","'Unknown' ",160
+2013 ,"'Y Combined arts' ","'Asian' ",390
+2013 ,"'Y Combined arts' ","'Black' ",405
+2013 ,"'Y Combined arts' ","'Mixed' ",445
+2013 ,"'Y Combined arts' ","'White' ",8600
+2013 ,"'Y Combined arts' ","'Other' ",95
+2013 ,"'Y Combined arts' ","'Unknown' ",105
+2013 ,"'Y Combined sciences' ","'Asian' ",830
+2013 ,"'Y Combined sciences' ","'Black' ",625
+2013 ,"'Y Combined sciences' ","'Mixed' ",265
+2013 ,"'Y Combined sciences' ","'White' ",5475
+2013 ,"'Y Combined sciences' ","'Other' ",100
+2013 ,"'Y Combined sciences' ","'Unknown' ",100
+2013 ,"'Y Combined social sciences' ","'Asian' ",740
+2013 ,"'Y Combined social sciences' ","'Black' ",415
+2013 ,"'Y Combined social sciences' ","'Mixed' ",180
+2013 ,"'Y Combined social sciences' ","'White' ",2665
+2013 ,"'Y Combined social sciences' ","'Other' ",50
+2013 ,"'Y Combined social sciences' ","'Unknown' ",50
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1200
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",1020
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",560
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",12550
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",155
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",185
+2013 ,"'Y Social Sciences combined with Arts' ","'Asian' ",655
+2013 ,"'Y Social Sciences combined with Arts' ","'Black' ",615
+2013 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",425
+2013 ,"'Y Social Sciences combined with Arts' ","'White' ",7395
+2013 ,"'Y Social Sciences combined with Arts' ","'Other' ",130
+2013 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",120
+2013 ,"'Z General, other combined and unknown' ","'Asian' ",580
+2013 ,"'Z General, other combined and unknown' ","'Black' ",355
+2013 ,"'Z General, other combined and unknown' ","'Mixed' ",255
+2013 ,"'Z General, other combined and unknown' ","'White' ",4275
+2013 ,"'Z General, other combined and unknown' ","'Other' ",85
+2013 ,"'Z General, other combined and unknown' ","'Unknown' ",125
+2014 ,"'Group A Medicine and Dentistry' ","'Asian' ",1900
+2014 ,"'Group A Medicine and Dentistry' ","'Black' ",250
+2014 ,"'Group A Medicine and Dentistry' ","'Mixed' ",370
+2014 ,"'Group A Medicine and Dentistry' ","'White' ",5030
+2014 ,"'Group A Medicine and Dentistry' ","'Other' ",185
+2014 ,"'Group A Medicine and Dentistry' ","'Unknown' ",145
+2014 ,"'Group B Subjects allied to Medicine' ","'Asian' ",6205
+2014 ,"'Group B Subjects allied to Medicine' ","'Black' ",5590
+2014 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1415
+2014 ,"'Group B Subjects allied to Medicine' ","'White' ",34785
+2014 ,"'Group B Subjects allied to Medicine' ","'Other' ",775
+2014 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",410
+2014 ,"'Group C Biological Sciences' ","'Asian' ",3765
+2014 ,"'Group C Biological Sciences' ","'Black' ",3185
+2014 ,"'Group C Biological Sciences' ","'Mixed' ",1955
+2014 ,"'Group C Biological Sciences' ","'White' ",34710
+2014 ,"'Group C Biological Sciences' ","'Other' ",620
+2014 ,"'Group C Biological Sciences' ","'Unknown' ",375
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",70
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",85
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",130
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",5895
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",20
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",35
+2014 ,"'Group F Physical Sciences' ","'Asian' ",1325
+2014 ,"'Group F Physical Sciences' ","'Black' ",485
+2014 ,"'Group F Physical Sciences' ","'Mixed' ",645
+2014 ,"'Group F Physical Sciences' ","'White' ",15300
+2014 ,"'Group F Physical Sciences' ","'Other' ",165
+2014 ,"'Group F Physical Sciences' ","'Unknown' ",150
+2014 ,"'Group G Mathematical Sciences' ","'Asian' ",1180
+2014 ,"'Group G Mathematical Sciences' ","'Black' ",285
+2014 ,"'Group G Mathematical Sciences' ","'Mixed' ",255
+2014 ,"'Group G Mathematical Sciences' ","'White' ",5180
+2014 ,"'Group G Mathematical Sciences' ","'Other' ",95
+2014 ,"'Group G Mathematical Sciences' ","'Unknown' ",65
+2014 ,"'Group H Engineering' ","'Asian' ",3790
+2014 ,"'Group H Engineering' ","'Black' ",2395
+2014 ,"'Group H Engineering' ","'Mixed' ",785
+2014 ,"'Group H Engineering' ","'White' ",14400
+2014 ,"'Group H Engineering' ","'Other' ",645
+2014 ,"'Group H Engineering' ","'Unknown' ",305
+2014 ,"'Group I Computer Sciences' ","'Asian' ",3625
+2014 ,"'Group I Computer Sciences' ","'Black' ",1795
+2014 ,"'Group I Computer Sciences' ","'Mixed' ",735
+2014 ,"'Group I Computer Sciences' ","'White' ",14165
+2014 ,"'Group I Computer Sciences' ","'Other' ",420
+2014 ,"'Group I Computer Sciences' ","'Unknown' ",280
+2014 ,"'Group J Technologies' ","'Asian' ",95
+2014 ,"'Group J Technologies' ","'Black' ",125
+2014 ,"'Group J Technologies' ","'Mixed' ",110
+2014 ,"'Group J Technologies' ","'White' ",1755
+2014 ,"'Group J Technologies' ","'Other' ",20
+2014 ,"'Group J Technologies' ","'Unknown' ",30
+2014 ,"'Group K Architecture, Building and Planning' ","'Asian' ",780
+2014 ,"'Group K Architecture, Building and Planning' ","'Black' ",500
+2014 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",240
+2014 ,"'Group K Architecture, Building and Planning' ","'White' ",4335
+2014 ,"'Group K Architecture, Building and Planning' ","'Other' ",180
+2014 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",80
+2014 ,"'Group L Social Studies' ","'Asian' ",3870
+2014 ,"'Group L Social Studies' ","'Black' ",4430
+2014 ,"'Group L Social Studies' ","'Mixed' ",1625
+2014 ,"'Group L Social Studies' ","'White' ",26790
+2014 ,"'Group L Social Studies' ","'Other' ",505
+2014 ,"'Group L Social Studies' ","'Unknown' ",465
+2014 ,"'Group M Law' ","'Asian' ",3350
+2014 ,"'Group M Law' ","'Black' ",2175
+2014 ,"'Group M Law' ","'Mixed' ",800
+2014 ,"'Group M Law' ","'White' ",11765
+2014 ,"'Group M Law' ","'Other' ",395
+2014 ,"'Group M Law' ","'Unknown' ",215
+2014 ,"'Group N Business and Admin studies' ","'Asian' ",8290
+2014 ,"'Group N Business and Admin studies' ","'Black' ",6495
+2014 ,"'Group N Business and Admin studies' ","'Mixed' ",1990
+2014 ,"'Group N Business and Admin studies' ","'White' ",31405
+2014 ,"'Group N Business and Admin studies' ","'Other' ",1200
+2014 ,"'Group N Business and Admin studies' ","'Unknown' ",740
+2014 ,"'Group P Mass Communication and Documentation' ","'Asian' ",570
+2014 ,"'Group P Mass Communication and Documentation' ","'Black' ",845
+2014 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",560
+2014 ,"'Group P Mass Communication and Documentation' ","'White' ",8815
+2014 ,"'Group P Mass Communication and Documentation' ","'Other' ",130
+2014 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",115
+2014 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",755
+2014 ,"'Group Q Linguistics, Classics and related' ","'Black' ",345
+2014 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",525
+2014 ,"'Group Q Linguistics, Classics and related' ","'White' ",9725
+2014 ,"'Group Q Linguistics, Classics and related' ","'Other' ",100
+2014 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",135
+2014 ,"'Group R European Languages, Literature and related' ","'Asian' ",115
+2014 ,"'Group R European Languages, Literature and related' ","'Black' ",70
+2014 ,"'Group R European Languages, Literature and related' ","'Mixed' ",155
+2014 ,"'Group R European Languages, Literature and related' ","'White' ",3000
+2014 ,"'Group R European Languages, Literature and related' ","'Other' ",40
+2014 ,"'Group R European Languages, Literature and related' ","'Unknown' ",25
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",55
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",30
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",70
+2014 ,"'Group T Non-European Languages, Literature and related' ","'White' ",795
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",15
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",25
+2014 ,"'Group V History and Philosophical studies' ","'Asian' ",620
+2014 ,"'Group V History and Philosophical studies' ","'Black' ",390
+2014 ,"'Group V History and Philosophical studies' ","'Mixed' ",525
+2014 ,"'Group V History and Philosophical studies' ","'White' ",12700
+2014 ,"'Group V History and Philosophical studies' ","'Other' ",100
+2014 ,"'Group V History and Philosophical studies' ","'Unknown' ",110
+2014 ,"'Group W Creative Arts and Design' ","'Asian' ",1985
+2014 ,"'Group W Creative Arts and Design' ","'Black' ",2255
+2014 ,"'Group W Creative Arts and Design' ","'Mixed' ",2330
+2014 ,"'Group W Creative Arts and Design' ","'White' ",40635
+2014 ,"'Group W Creative Arts and Design' ","'Other' ",480
+2014 ,"'Group W Creative Arts and Design' ","'Unknown' ",695
+2014 ,"'Group X Education' ","'Asian' ",1730
+2014 ,"'Group X Education' ","'Black' ",1015
+2014 ,"'Group X Education' ","'Mixed' ",420
+2014 ,"'Group X Education' ","'White' ",14625
+2014 ,"'Group X Education' ","'Other' ",215
+2014 ,"'Group X Education' ","'Unknown' ",170
+2014 ,"'Y Combined arts' ","'Asian' ",430
+2014 ,"'Y Combined arts' ","'Black' ",345
+2014 ,"'Y Combined arts' ","'Mixed' ",460
+2014 ,"'Y Combined arts' ","'White' ",8120
+2014 ,"'Y Combined arts' ","'Other' ",95
+2014 ,"'Y Combined arts' ","'Unknown' ",120
+2014 ,"'Y Combined sciences' ","'Asian' ",885
+2014 ,"'Y Combined sciences' ","'Black' ",520
+2014 ,"'Y Combined sciences' ","'Mixed' ",235
+2014 ,"'Y Combined sciences' ","'White' ",5255
+2014 ,"'Y Combined sciences' ","'Other' ",140
+2014 ,"'Y Combined sciences' ","'Unknown' ",105
+2014 ,"'Y Combined social sciences' ","'Asian' ",750
+2014 ,"'Y Combined social sciences' ","'Black' ",420
+2014 ,"'Y Combined social sciences' ","'Mixed' ",200
+2014 ,"'Y Combined social sciences' ","'White' ",2610
+2014 ,"'Y Combined social sciences' ","'Other' ",70
+2014 ,"'Y Combined social sciences' ","'Unknown' ",40
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",1015
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",840
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",490
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",10910
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",145
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",130
+2014 ,"'Y Social Sciences combined with Arts' ","'Asian' ",575
+2014 ,"'Y Social Sciences combined with Arts' ","'Black' ",545
+2014 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",415
+2014 ,"'Y Social Sciences combined with Arts' ","'White' ",6690
+2014 ,"'Y Social Sciences combined with Arts' ","'Other' ",130
+2014 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",135
+2014 ,"'Z General, other combined and unknown' ","'Asian' ",655
+2014 ,"'Z General, other combined and unknown' ","'Black' ",565
+2014 ,"'Z General, other combined and unknown' ","'Mixed' ",250
+2014 ,"'Z General, other combined and unknown' ","'White' ",3775
+2014 ,"'Z General, other combined and unknown' ","'Other' ",95
+2014 ,"'Z General, other combined and unknown' ","'Unknown' ",105
+2015 ,"'Group A Medicine and Dentistry' ","'Asian' ",1955
+2015 ,"'Group A Medicine and Dentistry' ","'Black' ",285
+2015 ,"'Group A Medicine and Dentistry' ","'Mixed' ",390
+2015 ,"'Group A Medicine and Dentistry' ","'White' ",4810
+2015 ,"'Group A Medicine and Dentistry' ","'Other' ",205
+2015 ,"'Group A Medicine and Dentistry' ","'Unknown' ",180
+2015 ,"'Group B Subjects allied to Medicine' ","'Asian' ",6690
+2015 ,"'Group B Subjects allied to Medicine' ","'Black' ",5765
+2015 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1490
+2015 ,"'Group B Subjects allied to Medicine' ","'White' ",34705
+2015 ,"'Group B Subjects allied to Medicine' ","'Other' ",870
+2015 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",565
+2015 ,"'Group C Biological Sciences' ","'Asian' ",4565
+2015 ,"'Group C Biological Sciences' ","'Black' ",3425
+2015 ,"'Group C Biological Sciences' ","'Mixed' ",2230
+2015 ,"'Group C Biological Sciences' ","'White' ",36145
+2015 ,"'Group C Biological Sciences' ","'Other' ",730
+2015 ,"'Group C Biological Sciences' ","'Unknown' ",480
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",130
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",115
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",175
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",6505
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",20
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",50
+2015 ,"'Group F Physical Sciences' ","'Asian' ",1560
+2015 ,"'Group F Physical Sciences' ","'Black' ",575
+2015 ,"'Group F Physical Sciences' ","'Mixed' ",710
+2015 ,"'Group F Physical Sciences' ","'White' ",15615
+2015 ,"'Group F Physical Sciences' ","'Other' ",195
+2015 ,"'Group F Physical Sciences' ","'Unknown' ",185
+2015 ,"'Group G Mathematical Sciences' ","'Asian' ",1190
+2015 ,"'Group G Mathematical Sciences' ","'Black' ",235
+2015 ,"'Group G Mathematical Sciences' ","'Mixed' ",270
+2015 ,"'Group G Mathematical Sciences' ","'White' ",5385
+2015 ,"'Group G Mathematical Sciences' ","'Other' ",80
+2015 ,"'Group G Mathematical Sciences' ","'Unknown' ",100
+2015 ,"'Group H Engineering' ","'Asian' ",4280
+2015 ,"'Group H Engineering' ","'Black' ",2385
+2015 ,"'Group H Engineering' ","'Mixed' ",935
+2015 ,"'Group H Engineering' ","'White' ",15320
+2015 ,"'Group H Engineering' ","'Other' ",725
+2015 ,"'Group H Engineering' ","'Unknown' ",355
+2015 ,"'Group I Computer Sciences' ","'Asian' ",3885
+2015 ,"'Group I Computer Sciences' ","'Black' ",1925
+2015 ,"'Group I Computer Sciences' ","'Mixed' ",850
+2015 ,"'Group I Computer Sciences' ","'White' ",15395
+2015 ,"'Group I Computer Sciences' ","'Other' ",500
+2015 ,"'Group I Computer Sciences' ","'Unknown' ",355
+2015 ,"'Group J Technologies' ","'Asian' ",100
+2015 ,"'Group J Technologies' ","'Black' ",135
+2015 ,"'Group J Technologies' ","'Mixed' ",90
+2015 ,"'Group J Technologies' ","'White' ",1540
+2015 ,"'Group J Technologies' ","'Other' ",20
+2015 ,"'Group J Technologies' ","'Unknown' ",25
+2015 ,"'Group K Architecture, Building and Planning' ","'Asian' ",825
+2015 ,"'Group K Architecture, Building and Planning' ","'Black' ",545
+2015 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",280
+2015 ,"'Group K Architecture, Building and Planning' ","'White' ",4590
+2015 ,"'Group K Architecture, Building and Planning' ","'Other' ",200
+2015 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",115
+2015 ,"'Group L Social Studies' ","'Asian' ",4415
+2015 ,"'Group L Social Studies' ","'Black' ",4895
+2015 ,"'Group L Social Studies' ","'Mixed' ",1850
+2015 ,"'Group L Social Studies' ","'White' ",28530
+2015 ,"'Group L Social Studies' ","'Other' ",615
+2015 ,"'Group L Social Studies' ","'Unknown' ",605
+2015 ,"'Group M Law' ","'Asian' ",3360
+2015 ,"'Group M Law' ","'Black' ",2040
+2015 ,"'Group M Law' ","'Mixed' ",910
+2015 ,"'Group M Law' ","'White' ",11985
+2015 ,"'Group M Law' ","'Other' ",480
+2015 ,"'Group M Law' ","'Unknown' ",290
+2015 ,"'Group N Business and Admin studies' ","'Asian' ",8805
+2015 ,"'Group N Business and Admin studies' ","'Black' ",6750
+2015 ,"'Group N Business and Admin studies' ","'Mixed' ",2145
+2015 ,"'Group N Business and Admin studies' ","'White' ",32580
+2015 ,"'Group N Business and Admin studies' ","'Other' ",1240
+2015 ,"'Group N Business and Admin studies' ","'Unknown' ",890
+2015 ,"'Group P Mass Communication and Documentation' ","'Asian' ",545
+2015 ,"'Group P Mass Communication and Documentation' ","'Black' ",920
+2015 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",565
+2015 ,"'Group P Mass Communication and Documentation' ","'White' ",8930
+2015 ,"'Group P Mass Communication and Documentation' ","'Other' ",160
+2015 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",120
+2015 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",820
+2015 ,"'Group Q Linguistics, Classics and related' ","'Black' ",335
+2015 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",560
+2015 ,"'Group Q Linguistics, Classics and related' ","'White' ",9510
+2015 ,"'Group Q Linguistics, Classics and related' ","'Other' ",135
+2015 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",155
+2015 ,"'Group R European Languages, Literature and related' ","'Asian' ",100
+2015 ,"'Group R European Languages, Literature and related' ","'Black' ",105
+2015 ,"'Group R European Languages, Literature and related' ","'Mixed' ",175
+2015 ,"'Group R European Languages, Literature and related' ","'White' ",2980
+2015 ,"'Group R European Languages, Literature and related' ","'Other' ",40
+2015 ,"'Group R European Languages, Literature and related' ","'Unknown' ",40
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",70
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",45
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",80
+2015 ,"'Group T Non-European Languages, Literature and related' ","'White' ",905
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",15
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",25
+2015 ,"'Group V History and Philosophical studies' ","'Asian' ",655
+2015 ,"'Group V History and Philosophical studies' ","'Black' ",380
+2015 ,"'Group V History and Philosophical studies' ","'Mixed' ",585
+2015 ,"'Group V History and Philosophical studies' ","'White' ",12730
+2015 ,"'Group V History and Philosophical studies' ","'Other' ",110
+2015 ,"'Group V History and Philosophical studies' ","'Unknown' ",160
+2015 ,"'Group W Creative Arts and Design' ","'Asian' ",2075
+2015 ,"'Group W Creative Arts and Design' ","'Black' ",2365
+2015 ,"'Group W Creative Arts and Design' ","'Mixed' ",2445
+2015 ,"'Group W Creative Arts and Design' ","'White' ",41800
+2015 ,"'Group W Creative Arts and Design' ","'Other' ",545
+2015 ,"'Group W Creative Arts and Design' ","'Unknown' ",645
+2015 ,"'Group X Education' ","'Asian' ",1745
+2015 ,"'Group X Education' ","'Black' ",1065
+2015 ,"'Group X Education' ","'Mixed' ",455
+2015 ,"'Group X Education' ","'White' ",16290
+2015 ,"'Group X Education' ","'Other' ",235
+2015 ,"'Group X Education' ","'Unknown' ",205
+2015 ,"'Y Combined arts' ","'Asian' ",440
+2015 ,"'Y Combined arts' ","'Black' ",365
+2015 ,"'Y Combined arts' ","'Mixed' ",475
+2015 ,"'Y Combined arts' ","'White' ",7565
+2015 ,"'Y Combined arts' ","'Other' ",85
+2015 ,"'Y Combined arts' ","'Unknown' ",100
+2015 ,"'Y Combined sciences' ","'Asian' ",645
+2015 ,"'Y Combined sciences' ","'Black' ",435
+2015 ,"'Y Combined sciences' ","'Mixed' ",250
+2015 ,"'Y Combined sciences' ","'White' ",4830
+2015 ,"'Y Combined sciences' ","'Other' ",80
+2015 ,"'Y Combined sciences' ","'Unknown' ",75
+2015 ,"'Y Combined social sciences' ","'Asian' ",790
+2015 ,"'Y Combined social sciences' ","'Black' ",460
+2015 ,"'Y Combined social sciences' ","'Mixed' ",190
+2015 ,"'Y Combined social sciences' ","'White' ",2820
+2015 ,"'Y Combined social sciences' ","'Other' ",95
+2015 ,"'Y Combined social sciences' ","'Unknown' ",120
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",940
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",850
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",465
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",9140
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",130
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",190
+2015 ,"'Y Social Sciences combined with Arts' ","'Asian' ",595
+2015 ,"'Y Social Sciences combined with Arts' ","'Black' ",615
+2015 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",470
+2015 ,"'Y Social Sciences combined with Arts' ","'White' ",6700
+2015 ,"'Y Social Sciences combined with Arts' ","'Other' ",130
+2015 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",145
+2015 ,"'Z General, other combined and unknown' ","'Asian' ",605
+2015 ,"'Z General, other combined and unknown' ","'Black' ",430
+2015 ,"'Z General, other combined and unknown' ","'Mixed' ",280
+2015 ,"'Z General, other combined and unknown' ","'White' ",3880
+2015 ,"'Z General, other combined and unknown' ","'Other' ",85
+2015 ,"'Z General, other combined and unknown' ","'Unknown' ",85
+2016 ,"'Group A Medicine and Dentistry' ","'Asian' ",2210
+2016 ,"'Group A Medicine and Dentistry' ","'Black' ",355
+2016 ,"'Group A Medicine and Dentistry' ","'Mixed' ",400
+2016 ,"'Group A Medicine and Dentistry' ","'White' ",4600
+2016 ,"'Group A Medicine and Dentistry' ","'Other' ",245
+2016 ,"'Group A Medicine and Dentistry' ","'Unknown' ",175
+2016 ,"'Group B Subjects allied to Medicine' ","'Asian' ",7055
+2016 ,"'Group B Subjects allied to Medicine' ","'Black' ",6550
+2016 ,"'Group B Subjects allied to Medicine' ","'Mixed' ",1595
+2016 ,"'Group B Subjects allied to Medicine' ","'White' ",35265
+2016 ,"'Group B Subjects allied to Medicine' ","'Other' ",950
+2016 ,"'Group B Subjects allied to Medicine' ","'Unknown' ",510
+2016 ,"'Group C Biological Sciences' ","'Asian' ",4705
+2016 ,"'Group C Biological Sciences' ","'Black' ",3720
+2016 ,"'Group C Biological Sciences' ","'Mixed' ",2290
+2016 ,"'Group C Biological Sciences' ","'White' ",37195
+2016 ,"'Group C Biological Sciences' ","'Other' ",755
+2016 ,"'Group C Biological Sciences' ","'Unknown' ",545
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Asian' ",90
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Black' ",115
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Mixed' ",160
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'White' ",6120
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",25
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Unknown' ",55
+2016 ,"'Group F Physical Sciences' ","'Asian' ",1605
+2016 ,"'Group F Physical Sciences' ","'Black' ",595
+2016 ,"'Group F Physical Sciences' ","'Mixed' ",725
+2016 ,"'Group F Physical Sciences' ","'White' ",14690
+2016 ,"'Group F Physical Sciences' ","'Other' ",220
+2016 ,"'Group F Physical Sciences' ","'Unknown' ",210
+2016 ,"'Group G Mathematical Sciences' ","'Asian' ",1275
+2016 ,"'Group G Mathematical Sciences' ","'Black' ",260
+2016 ,"'Group G Mathematical Sciences' ","'Mixed' ",300
+2016 ,"'Group G Mathematical Sciences' ","'White' ",5465
+2016 ,"'Group G Mathematical Sciences' ","'Other' ",105
+2016 ,"'Group G Mathematical Sciences' ","'Unknown' ",80
+2016 ,"'Group H Engineering' ","'Asian' ",4425
+2016 ,"'Group H Engineering' ","'Black' ",2235
+2016 ,"'Group H Engineering' ","'Mixed' ",950
+2016 ,"'Group H Engineering' ","'White' ",15230
+2016 ,"'Group H Engineering' ","'Other' ",790
+2016 ,"'Group H Engineering' ","'Unknown' ",380
+2016 ,"'Group I Computer Sciences' ","'Asian' ",4085
+2016 ,"'Group I Computer Sciences' ","'Black' ",1805
+2016 ,"'Group I Computer Sciences' ","'Mixed' ",850
+2016 ,"'Group I Computer Sciences' ","'White' ",15855
+2016 ,"'Group I Computer Sciences' ","'Other' ",510
+2016 ,"'Group I Computer Sciences' ","'Unknown' ",375
+2016 ,"'Group J Technologies' ","'Asian' ",90
+2016 ,"'Group J Technologies' ","'Black' ",110
+2016 ,"'Group J Technologies' ","'Mixed' ",90
+2016 ,"'Group J Technologies' ","'White' ",1380
+2016 ,"'Group J Technologies' ","'Other' ",15
+2016 ,"'Group J Technologies' ","'Unknown' ",25
+2016 ,"'Group K Architecture, Building and Planning' ","'Asian' ",885
+2016 ,"'Group K Architecture, Building and Planning' ","'Black' ",605
+2016 ,"'Group K Architecture, Building and Planning' ","'Mixed' ",315
+2016 ,"'Group K Architecture, Building and Planning' ","'White' ",4875
+2016 ,"'Group K Architecture, Building and Planning' ","'Other' ",180
+2016 ,"'Group K Architecture, Building and Planning' ","'Unknown' ",115
+2016 ,"'Group L Social Studies' ","'Asian' ",4545
+2016 ,"'Group L Social Studies' ","'Black' ",5140
+2016 ,"'Group L Social Studies' ","'Mixed' ",1910
+2016 ,"'Group L Social Studies' ","'White' ",29280
+2016 ,"'Group L Social Studies' ","'Other' ",660
+2016 ,"'Group L Social Studies' ","'Unknown' ",675
+2016 ,"'Group M Law' ","'Asian' ",3565
+2016 ,"'Group M Law' ","'Black' ",2080
+2016 ,"'Group M Law' ","'Mixed' ",980
+2016 ,"'Group M Law' ","'White' ",12480
+2016 ,"'Group M Law' ","'Other' ",455
+2016 ,"'Group M Law' ","'Unknown' ",275
+2016 ,"'Group N Business and Admin studies' ","'Asian' ",9200
+2016 ,"'Group N Business and Admin studies' ","'Black' ",6305
+2016 ,"'Group N Business and Admin studies' ","'Mixed' ",2255
+2016 ,"'Group N Business and Admin studies' ","'White' ",33780
+2016 ,"'Group N Business and Admin studies' ","'Other' ",1230
+2016 ,"'Group N Business and Admin studies' ","'Unknown' ",1000
+2016 ,"'Group P Mass Communication and Documentation' ","'Asian' ",565
+2016 ,"'Group P Mass Communication and Documentation' ","'Black' ",825
+2016 ,"'Group P Mass Communication and Documentation' ","'Mixed' ",580
+2016 ,"'Group P Mass Communication and Documentation' ","'White' ",9510
+2016 ,"'Group P Mass Communication and Documentation' ","'Other' ",155
+2016 ,"'Group P Mass Communication and Documentation' ","'Unknown' ",125
+2016 ,"'Group Q Linguistics, Classics and related' ","'Asian' ",855
+2016 ,"'Group Q Linguistics, Classics and related' ","'Black' ",335
+2016 ,"'Group Q Linguistics, Classics and related' ","'Mixed' ",525
+2016 ,"'Group Q Linguistics, Classics and related' ","'White' ",9245
+2016 ,"'Group Q Linguistics, Classics and related' ","'Other' ",115
+2016 ,"'Group Q Linguistics, Classics and related' ","'Unknown' ",100
+2016 ,"'Group R European Languages, Literature and related' ","'Asian' ",115
+2016 ,"'Group R European Languages, Literature and related' ","'Black' ",65
+2016 ,"'Group R European Languages, Literature and related' ","'Mixed' ",145
+2016 ,"'Group R European Languages, Literature and related' ","'White' ",2735
+2016 ,"'Group R European Languages, Literature and related' ","'Other' ",30
+2016 ,"'Group R European Languages, Literature and related' ","'Unknown' ",45
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Asian' ",50
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Black' ",45
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Mixed' ",85
+2016 ,"'Group T Non-European Languages, Literature and related' ","'White' ",810
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",15
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Unknown' ",15
+2016 ,"'Group V History and Philosophical studies' ","'Asian' ",690
+2016 ,"'Group V History and Philosophical studies' ","'Black' ",455
+2016 ,"'Group V History and Philosophical studies' ","'Mixed' ",605
+2016 ,"'Group V History and Philosophical studies' ","'White' ",12640
+2016 ,"'Group V History and Philosophical studies' ","'Other' ",125
+2016 ,"'Group V History and Philosophical studies' ","'Unknown' ",155
+2016 ,"'Group W Creative Arts and Design' ","'Asian' ",2055
+2016 ,"'Group W Creative Arts and Design' ","'Black' ",2295
+2016 ,"'Group W Creative Arts and Design' ","'Mixed' ",2540
+2016 ,"'Group W Creative Arts and Design' ","'White' ",40680
+2016 ,"'Group W Creative Arts and Design' ","'Other' ",535
+2016 ,"'Group W Creative Arts and Design' ","'Unknown' ",545
+2016 ,"'Group X Education' ","'Asian' ",1815
+2016 ,"'Group X Education' ","'Black' ",1085
+2016 ,"'Group X Education' ","'Mixed' ",520
+2016 ,"'Group X Education' ","'White' ",15830
+2016 ,"'Group X Education' ","'Other' ",265
+2016 ,"'Group X Education' ","'Unknown' ",210
+2016 ,"'Y Combined arts' ","'Asian' ",395
+2016 ,"'Y Combined arts' ","'Black' ",325
+2016 ,"'Y Combined arts' ","'Mixed' ",445
+2016 ,"'Y Combined arts' ","'White' ",7120
+2016 ,"'Y Combined arts' ","'Other' ",85
+2016 ,"'Y Combined arts' ","'Unknown' ",110
+2016 ,"'Y Combined sciences' ","'Asian' ",670
+2016 ,"'Y Combined sciences' ","'Black' ",405
+2016 ,"'Y Combined sciences' ","'Mixed' ",250
+2016 ,"'Y Combined sciences' ","'White' ",4175
+2016 ,"'Y Combined sciences' ","'Other' ",95
+2016 ,"'Y Combined sciences' ","'Unknown' ",75
+2016 ,"'Y Combined social sciences' ","'Asian' ",880
+2016 ,"'Y Combined social sciences' ","'Black' ",425
+2016 ,"'Y Combined social sciences' ","'Mixed' ",175
+2016 ,"'Y Combined social sciences' ","'White' ",2720
+2016 ,"'Y Combined social sciences' ","'Other' ",100
+2016 ,"'Y Combined social sciences' ","'Unknown' ",60
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Asian' ",905
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Black' ",905
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Mixed' ",445
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'White' ",7915
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",150
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Unknown' ",235
+2016 ,"'Y Social Sciences combined with Arts' ","'Asian' ",505
+2016 ,"'Y Social Sciences combined with Arts' ","'Black' ",550
+2016 ,"'Y Social Sciences combined with Arts' ","'Mixed' ",455
+2016 ,"'Y Social Sciences combined with Arts' ","'White' ",6425
+2016 ,"'Y Social Sciences combined with Arts' ","'Other' ",125
+2016 ,"'Y Social Sciences combined with Arts' ","'Unknown' ",130
+2016 ,"'Z General, other combined and unknown' ","'Asian' ",530
+2016 ,"'Z General, other combined and unknown' ","'Black' ",260
+2016 ,"'Z General, other combined and unknown' ","'Mixed' ",270
+2016 ,"'Z General, other combined and unknown' ","'White' ",3685
+2016 ,"'Z General, other combined and unknown' ","'Other' ",75
+2016 ,"'Z General, other combined and unknown' ","'Unknown' ",70

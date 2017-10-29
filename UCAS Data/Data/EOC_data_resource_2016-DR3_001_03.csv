@@ -1,0 +1,28 @@
+"Statistic:   Number of Applications"
+"Variables:   Deferred Status , Cycle Year"
+"Coverage:   Applications through the main scheme"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_001_03.pdf"
+ 
+Cycle Year,Deferred Status,Number of Applications,
+2006 ,"'Deferred' ",140670
+2006 ,"'Not deferred' ",2074765
+2007 ,"'Deferred' ",138500
+2007 ,"'Not deferred' ",2216570
+2008 ,"'Deferred' ",124505
+2008 ,"'Not deferred' ",2071135
+2009 ,"'Deferred' ",123590
+2009 ,"'Not deferred' ",2263825
+2010 ,"'Deferred' ",127080
+2010 ,"'Not deferred' ",2593415
+2011 ,"'Deferred' ",69815
+2011 ,"'Not deferred' ",2777200
+2012 ,"'Deferred' ",98475
+2012 ,"'Not deferred' ",2537775
+2013 ,"'Deferred' ",92655
+2013 ,"'Not deferred' ",2619210
+2014 ,"'Deferred' ",94735
+2014 ,"'Not deferred' ",2729810
+2015 ,"'Deferred' ",100500
+2015 ,"'Not deferred' ",2790570
+2016 ,"'Deferred' ",98975
+2016 ,"'Not deferred' ",2800610

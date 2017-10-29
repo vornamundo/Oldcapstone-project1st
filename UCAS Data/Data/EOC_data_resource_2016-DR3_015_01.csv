@@ -1,0 +1,1825 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Detailed Level) , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_015_01.pdf"
+ 
+Cycle Year,Subject Group (Detailed Level),Number of Acceptances,
+2007 ,"'A1 - Pre-clinical Medicine' ",7845
+2007 ,"'A2 - Pre-clinical Dentistry' ",1200
+2007 ,"'A9 - Others in Medicine and Dentistry' ",20
+2007 ,"'B1 - Anatomy,Physiology and Pathology' ",3855
+2007 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",3985
+2007 ,"'B3 - Complementary Medicine' ",1225
+2007 ,"'B4 - Nutrition' ",1030
+2007 ,"'B5 - Ophthalmics' ",815
+2007 ,"'B6 - Aural and Oral Sciences' ",880
+2007 ,"'B7 - Nursing' ",6430
+2007 ,"'B8 - Medical Technology' ",1620
+2007 ,"'B9 - Others in Subjects allied to Medicine' ",7125
+2007 ,"'BB - Combinations within Subjects allied to Medicine' ",245
+2007 ,"'C0 - Biological Sciences: any area of study' ",25
+2007 ,"'C1 - Biology' ",4395
+2007 ,"'C2 - Botany' ",25
+2007 ,"'C3 - Zoology' ",1135
+2007 ,"'C4 - Genetics' ",440
+2007 ,"'C5 - Microbiology' ",350
+2007 ,"'C6 - Sport and Exercise Science' ",9255
+2007 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",2150
+2007 ,"'C8 - Psychology' ",13120
+2007 ,"'C9 - Others in Biological Sciences' ",655
+2007 ,"'CC - Combinations within Biological Sciences' ",630
+2007 ,"'D1 - Pre-clinical Veterinary Medicine' ",945
+2007 ,"'D3 - Animal Science' ",1455
+2007 ,"'D4 - Agriculture' ",1335
+2007 ,"'D5 - Forestry & arboriculture' ",110
+2007 ,"'D6 - Food and Beverage studies' ",330
+2007 ,"'D7 - Agricultural Sciences' ",40
+2007 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",35
+2007 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",75
+2007 ,"'F0 - Physical Sciences: any area of study' ",85
+2007 ,"'F1 - Chemistry' ",3555
+2007 ,"'F2 - Materials Science' ",10
+2007 ,"'F3 - Physics' ",2965
+2007 ,"'F4 - Forensic and Archaeological Science' ",1820
+2007 ,"'F5 - Astronomy' ",120
+2007 ,"'F6 - Geology' ",1350
+2007 ,"'F7 - Science of aquatic & terrestrial environments' ",1220
+2007 ,"'F8 - Physical geographical sciences' ",3105
+2007 ,"'F9 - Others in Physical Sciences' ",365
+2007 ,"'FF - Combinations within Physical Sciences' ",885
+2007 ,"'G0 - Mathematical Sciences: any area' ",30
+2007 ,"'G1 - Mathematics' ",5135
+2007 ,"'G2 - Operational Research' ",45
+2007 ,"'G3 - Statistics' ",180
+2007 ,"'G9 - Others in Mathematical Sciences' ",20
+2007 ,"'GG - Combinations within Mathematical Sciences' ",420
+2007 ,"'H0 - Engineering: any area of study' ",90
+2007 ,"'H1 - General Engineering' ",2890
+2007 ,"'H2 - Civil Engineering' ",3740
+2007 ,"'H3 - Mechanical Engineering' ",4710
+2007 ,"'H4 - Aerospace Engineering' ",1860
+2007 ,"'H5 - Naval Architecture' ",140
+2007 ,"'H6 - Electronic and Electrical Engineering' ",4720
+2007 ,"'H7 - Production and Manufacturing Engineering' ",750
+2007 ,"'H8 - Chemical,Process and Energy Engineering' ",1435
+2007 ,"'H9 - Others in Engineering' ",5
+2007 ,"'HH - Combinations within Engineering' ",760
+2007 ,"'I1 - Computer Science' ",11420
+2007 ,"'I2 - Information Systems' ",3250
+2007 ,"'I3 - Software Engineering' ",1410
+2007 ,"'I4 - Artificial Intelligence' ",70
+2007 ,"'I9 - Others in Computer Sciences' ",35
+2007 ,"'II - Combinations in Computer Sciences' ",1095
+2007 ,"'J1 - Minerals Technology' ",40
+2007 ,"'J2 - Metallurgy' ",5
+2007 ,"'J4 - Polymers and Textiles' ",185
+2007 ,"'J5 - Materials Technology not otherwise spec' ",310
+2007 ,"'J6 - Maritime Technology' ",220
+2007 ,"'J7 - Biotechnology' ",135
+2007 ,"'J9 - Others in Technology' ",1685
+2007 ,"'JJ - Combinations within Technology' ",15
+2007 ,"'K1 - Architecture' ",3785
+2007 ,"'K2 - Building' ",3910
+2007 ,"'K3 - Landscape & Garden Design' ",190
+2007 ,"'K4 - Planning (Urban,Rural and Regional)' ",1070
+2007 ,"'K9 - Others in Architecture,Build & Plan' ",10
+2007 ,"'KK - Combinations within Architecture,Build & Plan' ",330
+2007 ,"'L0 - Social Studies: any area of study' ",45
+2007 ,"'L1 - Economics' ",5320
+2007 ,"'L2 - Politics' ",4170
+2007 ,"'L3 - Sociology' ",4220
+2007 ,"'L4 - Social Policy' ",1215
+2007 ,"'L5 - Social Work' ",9170
+2007 ,"'L6 - Anthropology' ",630
+2007 ,"'L7 - Human and Social Geography' ",2385
+2007 ,"'L9 - Others in Social Studies' ",455
+2007 ,"'LL - Combinations within Social Studies' ",2795
+2007 ,"'M1 - Law by Area' ",15510
+2007 ,"'M2 - Law by Topic' ",1130
+2007 ,"'M9 - Others in Law' ",1970
+2007 ,"'MM - Combinations within Law' ",465
+2007 ,"'N0 - Business & Admin studies: any area' ",15
+2007 ,"'N1 - Business studies' ",10660
+2007 ,"'N2 - Management studies' ",9815
+2007 ,"'N3 - Finance' ",1275
+2007 ,"'N4 - Accounting' ",5530
+2007 ,"'N5 - Marketing' ",3505
+2007 ,"'N6 - Human Resource Management' ",675
+2007 ,"'N7 - Office Skills' ",15
+2007 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",7620
+2007 ,"'N9 - Others in Business & Admin Studies' ",485
+2007 ,"'NN - Combinations within Business & Admin Studies' ",10135
+2007 ,"'P1 - Information Services' ",115
+2007 ,"'P2 - Publicity studies' ",400
+2007 ,"'P3 - Media studies' ",4915
+2007 ,"'P4 - Publishing' ",75
+2007 ,"'P5 - Journalism' ",2145
+2007 ,"'P9 - Others in Mass Comms & Documentation' ",700
+2007 ,"'PP - Combinations within Mass Comms & Documentation' ",1130
+2007 ,"'Q1 - Linguistics' ",375
+2007 ,"'Q2 - Comparative Literary studies' ",115
+2007 ,"'Q3 - English studies' ",8380
+2007 ,"'Q4 - Ancient Language studies' ",10
+2007 ,"'Q5 - Celtic studies' ",135
+2007 ,"'Q6 - Latin studies' ",5
+2007 ,"'Q7 - Classical Greek studies' ",5
+2007 ,"'Q8 - Classical studies' ",865
+2007 ,"'Q9 - Others in Linguistics,Classics & related' ",95
+2007 ,"'QQ - Combinations within Linguistics,Classics & related' ",870
+2007 ,"'R0 - European Langs,Lit & related: any area' ",100
+2007 ,"'R1 - French studies' ",620
+2007 ,"'R2 - German studies' ",245
+2007 ,"'R3 - Italian studies' ",80
+2007 ,"'R4 - Spanish studies' ",310
+2007 ,"'R6 - Scandinavian studies' ",15
+2007 ,"'R7 - Russian and East European studies' ",75
+2007 ,"'R9 - Others in European Langs,Lit and related' ",830
+2007 ,"'RR - Combinations within European Langs,Lit and related' ",1760
+2007 ,"'T1 - Chinese studies' ",135
+2007 ,"'T2 - Japanese studies' ",155
+2007 ,"'T3 - South Asian studies' ",35
+2007 ,"'T4 - Other Asian studies' ",5
+2007 ,"'T5 - African studies' ",20
+2007 ,"'T6 - Modern Middle Eastern studies' ",140
+2007 ,"'T7 - American studies' ",480
+2007 ,"'T9 - Others in non-European Langs, Lit & related' ",685
+2007 ,"'TT - Combinations within non-European Langs & related' ",40
+2007 ,"'V1 - History by Period' ",7225
+2007 ,"'V2 - History by Area' ",80
+2007 ,"'V3 - History by Topic' ",1180
+2007 ,"'V4 - Archaeology' ",530
+2007 ,"'V5 - Philosophy' ",1395
+2007 ,"'V6 - Theology and Religious studies' ",1225
+2007 ,"'V9 - Others in Hist & Philosophical studies' ",115
+2007 ,"'VV - Combinations within Hist & Philosophical studies' ",1270
+2007 ,"'W0 - Creative Arts & Design: any area' ",35
+2007 ,"'W1 - Fine Art' ",4785
+2007 ,"'W2 - Design studies' ",16845
+2007 ,"'W3 - Music' ",4985
+2007 ,"'W4 - Drama' ",6625
+2007 ,"'W5 - Dance' ",935
+2007 ,"'W6 - Cinematics and Photography' ",6445
+2007 ,"'W7 - Crafts' ",685
+2007 ,"'W8 - Imaginative Writing' ",530
+2007 ,"'W9 - Others in Creative Arts and Design' ",495
+2007 ,"'WW - Combinations within Creative Arts and Design' ",3525
+2007 ,"'X1 - Training Teachers' ",6605
+2007 ,"'X2 - Research and Study Skills in Education' ",60
+2007 ,"'X3 - Academic studies in Education' ",5745
+2007 ,"'X9 - Others in Education' ",275
+2007 ,"'XX - Combinations within Education' ",345
+2007 ,"'Y Combs of arts/humanities' ",4475
+2007 ,"'Y Combs of engin/tech/building studies' ",335
+2007 ,"'Y Combs of engineering/technology' ",265
+2007 ,"'Y Combs of languages' ",1690
+2007 ,"'Y Combs of languages with arts/humanities' ",8525
+2007 ,"'Y Combs of med/bio/agric sciences' ",2955
+2007 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1780
+2007 ,"'Y Combs of phys/math science with arts/humanities/languages' ",2950
+2007 ,"'Y Combs of phys/math science with social studies/bus/law' ",4890
+2007 ,"'Y Combs of phys/math/comp sciences' ",1190
+2007 ,"'Y Combs of science/engineering with arts/humanities/languages' ",7595
+2007 ,"'Y Combs of science/engineering with social studies/bus/law' ",7665
+2007 ,"'Y Combs of sciences with engineering/technology' ",1915
+2007 ,"'Y Combs of soc studies/law' ",2510
+2007 ,"'Y Combs of soc studies/law with business' ",3930
+2007 ,"'Y Combs of social studies/bus/law with arts/humanities' ",9390
+2007 ,"'Y Combs of social studies/bus/law with languages' ",3825
+2007 ,"'Z Combs of 3 subjects, or other general courses' ",5835
+2007 ,"'Z Other courses not elsewhere classified' ",115
+2008 ,"'A1 - Pre-clinical Medicine' ",8015
+2008 ,"'A2 - Pre-clinical Dentistry' ",1210
+2008 ,"'A9 - Others in Medicine and Dentistry' ",35
+2008 ,"'B1 - Anatomy,Physiology and Pathology' ",3650
+2008 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4095
+2008 ,"'B3 - Complementary Medicine' ",1305
+2008 ,"'B4 - Nutrition' ",1050
+2008 ,"'B5 - Ophthalmics' ",810
+2008 ,"'B6 - Aural and Oral Sciences' ",910
+2008 ,"'B7 - Nursing' ",21395
+2008 ,"'B8 - Medical Technology' ",1780
+2008 ,"'B9 - Others in Subjects allied to Medicine' ",7845
+2008 ,"'BB - Combinations within Subjects allied to Medicine' ",235
+2008 ,"'C0 - Biological Sciences: any area of study' ",15
+2008 ,"'C1 - Biology' ",4515
+2008 ,"'C2 - Botany' ",20
+2008 ,"'C3 - Zoology' ",1275
+2008 ,"'C4 - Genetics' ",425
+2008 ,"'C5 - Microbiology' ",350
+2008 ,"'C6 - Sport and Exercise Science' ",9785
+2008 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",2315
+2008 ,"'C8 - Psychology' ",14130
+2008 ,"'C9 - Others in Biological Sciences' ",855
+2008 ,"'CC - Combinations within Biological Sciences' ",590
+2008 ,"'D1 - Pre-clinical Veterinary Medicine' ",910
+2008 ,"'D3 - Animal Science' ",1760
+2008 ,"'D4 - Agriculture' ",1485
+2008 ,"'D5 - Forestry & arboriculture' ",140
+2008 ,"'D6 - Food and Beverage studies' ",345
+2008 ,"'D7 - Agricultural Sciences' ",40
+2008 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",35
+2008 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",90
+2008 ,"'F0 - Physical Sciences: any area of study' ",80
+2008 ,"'F1 - Chemistry' ",3800
+2008 ,"'F2 - Materials Science' ",5
+2008 ,"'F3 - Physics' ",3050
+2008 ,"'F4 - Forensic and Archaeological Science' ",1815
+2008 ,"'F5 - Astronomy' ",120
+2008 ,"'F6 - Geology' ",1345
+2008 ,"'F7 - Science of aquatic & terrestrial environments' ",1405
+2008 ,"'F8 - Physical geographical sciences' ",3245
+2008 ,"'F9 - Others in Physical Sciences' ",355
+2008 ,"'FF - Combinations within Physical Sciences' ",975
+2008 ,"'G0 - Mathematical Sciences: any area' ",15
+2008 ,"'G1 - Mathematics' ",5605
+2008 ,"'G2 - Operational Research' ",85
+2008 ,"'G3 - Statistics' ",150
+2008 ,"'G9 - Others in Mathematical Sciences' ",20
+2008 ,"'GG - Combinations within Mathematical Sciences' ",520
+2008 ,"'H0 - Engineering: any area of study' ",125
+2008 ,"'H1 - General Engineering' ",3100
+2008 ,"'H2 - Civil Engineering' ",4405
+2008 ,"'H3 - Mechanical Engineering' ",5395
+2008 ,"'H4 - Aerospace Engineering' ",1930
+2008 ,"'H5 - Naval Architecture' ",210
+2008 ,"'H6 - Electronic and Electrical Engineering' ",4720
+2008 ,"'H7 - Production and Manufacturing Engineering' ",730
+2008 ,"'H8 - Chemical,Process and Energy Engineering' ",1630
+2008 ,"'H9 - Others in Engineering' ",5
+2008 ,"'HH - Combinations within Engineering' ",690
+2008 ,"'I1 - Computer Science' ",12135
+2008 ,"'I2 - Information Systems' ",3485
+2008 ,"'I3 - Software Engineering' ",1585
+2008 ,"'I4 - Artificial Intelligence' ",60
+2008 ,"'II - Combinations in Computer Sciences' ",1250
+2008 ,"'J1 - Minerals Technology' ",60
+2008 ,"'J2 - Metallurgy' ",5
+2008 ,"'J4 - Polymers and Textiles' ",155
+2008 ,"'J5 - Materials Technology not otherwise spec' ",220
+2008 ,"'J6 - Maritime Technology' ",165
+2008 ,"'J7 - Biotechnology' ",130
+2008 ,"'J9 - Others in Technology' ",1975
+2008 ,"'JJ - Combinations within Technology' ",5
+2008 ,"'K1 - Architecture' ",4235
+2008 ,"'K2 - Building' ",4370
+2008 ,"'K3 - Landscape & Garden Design' ",175
+2008 ,"'K4 - Planning (Urban,Rural and Regional)' ",1095
+2008 ,"'K9 - Others in Architecture,Build & Plan' ",10
+2008 ,"'KK - Combinations within Architecture,Build & Plan' ",350
+2008 ,"'L0 - Social Studies: any area of study' ",45
+2008 ,"'L1 - Economics' ",6360
+2008 ,"'L2 - Politics' ",4600
+2008 ,"'L3 - Sociology' ",4530
+2008 ,"'L4 - Social Policy' ",1195
+2008 ,"'L5 - Social Work' ",10050
+2008 ,"'L6 - Anthropology' ",690
+2008 ,"'L7 - Human and Social Geography' ",2615
+2008 ,"'L9 - Others in Social Studies' ",595
+2008 ,"'LL - Combinations within Social Studies' ",2885
+2008 ,"'M1 - Law by Area' ",16570
+2008 ,"'M2 - Law by Topic' ",1135
+2008 ,"'M9 - Others in Law' ",2325
+2008 ,"'MM - Combinations within Law' ",455
+2008 ,"'N0 - Business & Admin studies: any area' ",15
+2008 ,"'N1 - Business studies' ",10770
+2008 ,"'N2 - Management studies' ",11345
+2008 ,"'N3 - Finance' ",1450
+2008 ,"'N4 - Accounting' ",5900
+2008 ,"'N5 - Marketing' ",3800
+2008 ,"'N6 - Human Resource Management' ",740
+2008 ,"'N7 - Office Skills' ",25
+2008 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",8725
+2008 ,"'N9 - Others in Business & Admin Studies' ",470
+2008 ,"'NN - Combinations within Business & Admin Studies' ",11720
+2008 ,"'P1 - Information Services' ",155
+2008 ,"'P2 - Publicity studies' ",430
+2008 ,"'P3 - Media studies' ",5040
+2008 ,"'P4 - Publishing' ",75
+2008 ,"'P5 - Journalism' ",2390
+2008 ,"'P9 - Others in Mass Comms & Documentation' ",840
+2008 ,"'PP - Combinations within Mass Comms & Documentation' ",1275
+2008 ,"'Q1 - Linguistics' ",405
+2008 ,"'Q2 - Comparative Literary studies' ",120
+2008 ,"'Q3 - English studies' ",9030
+2008 ,"'Q4 - Ancient Language studies' ",15
+2008 ,"'Q5 - Celtic studies' ",125
+2008 ,"'Q6 - Latin studies' ",10
+2008 ,"'Q8 - Classical studies' ",865
+2008 ,"'Q9 - Others in Linguistics,Classics & related' ",125
+2008 ,"'QQ - Combinations within Linguistics,Classics & related' ",935
+2008 ,"'R0 - European Langs,Lit & related: any area' ",125
+2008 ,"'R1 - French studies' ",690
+2008 ,"'R2 - German studies' ",245
+2008 ,"'R3 - Italian studies' ",70
+2008 ,"'R4 - Spanish studies' ",350
+2008 ,"'R6 - Scandinavian studies' ",15
+2008 ,"'R7 - Russian and East European studies' ",85
+2008 ,"'R8 - European studies' ",220
+2008 ,"'R9 - Others in European Langs,Lit and related' ",855
+2008 ,"'RR - Combinations within European Langs,Lit and related' ",1815
+2008 ,"'T1 - Chinese studies' ",130
+2008 ,"'T2 - Japanese studies' ",170
+2008 ,"'T3 - South Asian studies' ",45
+2008 ,"'T4 - Other Asian studies' ",5
+2008 ,"'T5 - African studies' ",15
+2008 ,"'T6 - Modern Middle Eastern studies' ",125
+2008 ,"'T7 - American studies' ",520
+2008 ,"'T9 - Others in non-European Langs, Lit & related' ",435
+2008 ,"'TT - Combinations within non-European Langs & related' ",45
+2008 ,"'V1 - History by Period' ",7915
+2008 ,"'V2 - History by Area' ",95
+2008 ,"'V3 - History by Topic' ",1305
+2008 ,"'V4 - Archaeology' ",550
+2008 ,"'V5 - Philosophy' ",1365
+2008 ,"'V6 - Theology and Religious studies' ",1345
+2008 ,"'V9 - Others in Hist & Philosophical studies' ",160
+2008 ,"'VV - Combinations within Hist & Philosophical studies' ",1420
+2008 ,"'W0 - Creative Arts & Design: any area' ",140
+2008 ,"'W1 - Fine Art' ",4820
+2008 ,"'W2 - Design studies' ",17775
+2008 ,"'W3 - Music' ",5130
+2008 ,"'W4 - Drama' ",6875
+2008 ,"'W5 - Dance' ",1140
+2008 ,"'W6 - Cinematics and Photography' ",6955
+2008 ,"'W7 - Crafts' ",710
+2008 ,"'W8 - Imaginative Writing' ",570
+2008 ,"'W9 - Others in Creative Arts and Design' ",600
+2008 ,"'WW - Combinations within Creative Arts and Design' ",3945
+2008 ,"'X1 - Training Teachers' ",7275
+2008 ,"'X2 - Research and Study Skills in Education' ",40
+2008 ,"'X3 - Academic studies in Education' ",6675
+2008 ,"'X9 - Others in Education' ",260
+2008 ,"'XX - Combinations within Education' ",425
+2008 ,"'Y Combs of arts/humanities' ",4370
+2008 ,"'Y Combs of engin/tech/building studies' ",285
+2008 ,"'Y Combs of engineering/technology' ",295
+2008 ,"'Y Combs of languages' ",1800
+2008 ,"'Y Combs of languages with arts/humanities' ",8635
+2008 ,"'Y Combs of med/bio/agric sciences' ",3255
+2008 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1755
+2008 ,"'Y Combs of phys/math science with arts/humanities/languages' ",2910
+2008 ,"'Y Combs of phys/math science with social studies/bus/law' ",5070
+2008 ,"'Y Combs of phys/math/comp sciences' ",1265
+2008 ,"'Y Combs of science/engineering with arts/humanities/languages' ",8050
+2008 ,"'Y Combs of science/engineering with social studies/bus/law' ",8135
+2008 ,"'Y Combs of sciences with engineering/technology' ",1850
+2008 ,"'Y Combs of soc studies/law' ",2575
+2008 ,"'Y Combs of soc studies/law with business' ",4315
+2008 ,"'Y Combs of social studies/bus/law with arts/humanities' ",9870
+2008 ,"'Y Combs of social studies/bus/law with languages' ",3840
+2008 ,"'Z Combs of 3 subjects, or other general courses' ",5560
+2008 ,"'Z Other courses not elsewhere classified' ",70
+2009 ,"'A1 - Pre-clinical Medicine' ",7975
+2009 ,"'A2 - Pre-clinical Dentistry' ",1215
+2009 ,"'A9 - Others in Medicine and Dentistry' ",40
+2009 ,"'B1 - Anatomy,Physiology and Pathology' ",3820
+2009 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4345
+2009 ,"'B3 - Complementary Medicine' ",1190
+2009 ,"'B4 - Nutrition' ",1160
+2009 ,"'B5 - Ophthalmics' ",855
+2009 ,"'B6 - Aural and Oral Sciences' ",885
+2009 ,"'B7 - Nursing' ",24635
+2009 ,"'B8 - Medical Technology' ",1950
+2009 ,"'B9 - Others in Subjects allied to Medicine' ",9045
+2009 ,"'BB - Combinations within Subjects allied to Medicine' ",240
+2009 ,"'C0 - Biological Sciences: any area of study' ",10
+2009 ,"'C1 - Biology' ",4665
+2009 ,"'C2 - Botany' ",20
+2009 ,"'C3 - Zoology' ",1420
+2009 ,"'C4 - Genetics' ",430
+2009 ,"'C5 - Microbiology' ",375
+2009 ,"'C6 - Sport and Exercise Science' ",10760
+2009 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",2270
+2009 ,"'C8 - Psychology' ",15345
+2009 ,"'C9 - Others in Biological Sciences' ",1125
+2009 ,"'CC - Combinations within Biological Sciences' ",535
+2009 ,"'D1 - Pre-clinical Veterinary Medicine' ",885
+2009 ,"'D3 - Animal Science' ",2010
+2009 ,"'D4 - Agriculture' ",1740
+2009 ,"'D5 - Forestry & arboriculture' ",190
+2009 ,"'D6 - Food and Beverage studies' ",440
+2009 ,"'D7 - Agricultural Sciences' ",60
+2009 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",35
+2009 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",95
+2009 ,"'F0 - Physical Sciences: any area of study' ",65
+2009 ,"'F1 - Chemistry' ",3955
+2009 ,"'F2 - Materials Science' ",5
+2009 ,"'F3 - Physics' ",3565
+2009 ,"'F4 - Forensic and Archaeological Science' ",2045
+2009 ,"'F5 - Astronomy' ",155
+2009 ,"'F6 - Geology' ",1510
+2009 ,"'F7 - Science of aquatic & terrestrial environments' ",1410
+2009 ,"'F8 - Physical geographical sciences' ",3550
+2009 ,"'F9 - Others in Physical Sciences' ",390
+2009 ,"'FF - Combinations within Physical Sciences' ",640
+2009 ,"'G0 - Mathematical Sciences: any area' ",15
+2009 ,"'G1 - Mathematics' ",6855
+2009 ,"'G2 - Operational Research' ",90
+2009 ,"'G3 - Statistics' ",175
+2009 ,"'G9 - Others in Mathematical Sciences' ",50
+2009 ,"'GG - Combinations within Mathematical Sciences' ",520
+2009 ,"'H0 - Engineering: any area of study' ",125
+2009 ,"'H1 - General Engineering' ",3395
+2009 ,"'H2 - Civil Engineering' ",4705
+2009 ,"'H3 - Mechanical Engineering' ",6275
+2009 ,"'H4 - Aerospace Engineering' ",2345
+2009 ,"'H5 - Naval Architecture' ",220
+2009 ,"'H6 - Electronic and Electrical Engineering' ",5090
+2009 ,"'H7 - Production and Manufacturing Engineering' ",710
+2009 ,"'H8 - Chemical,Process and Energy Engineering' ",1830
+2009 ,"'H9 - Others in Engineering' ",25
+2009 ,"'HH - Combinations within Engineering' ",720
+2009 ,"'I1 - Computer Science' ",13255
+2009 ,"'I2 - Information Systems' ",3855
+2009 ,"'I3 - Software Engineering' ",1675
+2009 ,"'I4 - Artificial Intelligence' ",60
+2009 ,"'II - Combinations in Computer Sciences' ",1435
+2009 ,"'J0 - Technologies: any area of study' ",5
+2009 ,"'J1 - Minerals Technology' ",30
+2009 ,"'J2 - Metallurgy' ",40
+2009 ,"'J4 - Polymers and Textiles' ",190
+2009 ,"'J5 - Materials Technology not otherwise spec' ",225
+2009 ,"'J6 - Maritime Technology' ",155
+2009 ,"'J7 - Biotechnology' ",125
+2009 ,"'J9 - Others in Technology' ",2295
+2009 ,"'JJ - Combinations within Technology' ",10
+2009 ,"'K0 - Architecture,Build & Plan: any area' ",10
+2009 ,"'K1 - Architecture' ",4410
+2009 ,"'K2 - Building' ",4335
+2009 ,"'K3 - Landscape & Garden Design' ",285
+2009 ,"'K4 - Planning (Urban,Rural and Regional)' ",1020
+2009 ,"'K9 - Others in Architecture,Build & Plan' ",5
+2009 ,"'KK - Combinations within Architecture,Build & Plan' ",230
+2009 ,"'L0 - Social Studies: any area of study' ",515
+2009 ,"'L1 - Economics' ",7050
+2009 ,"'L2 - Politics' ",5255
+2009 ,"'L3 - Sociology' ",5005
+2009 ,"'L4 - Social Policy' ",1420
+2009 ,"'L5 - Social Work' ",10695
+2009 ,"'L6 - Anthropology' ",685
+2009 ,"'L7 - Human and Social Geography' ",2715
+2009 ,"'L9 - Others in Social Studies' ",590
+2009 ,"'LL - Combinations within Social Studies' ",2815
+2009 ,"'M1 - Law by Area' ",17595
+2009 ,"'M2 - Law by Topic' ",1165
+2009 ,"'M9 - Others in Law' ",2835
+2009 ,"'MM - Combinations within Law' ",430
+2009 ,"'N0 - Business & Admin studies: any area' ",10
+2009 ,"'N1 - Business studies' ",12400
+2009 ,"'N2 - Management studies' ",11845
+2009 ,"'N3 - Finance' ",1335
+2009 ,"'N4 - Accounting' ",6260
+2009 ,"'N5 - Marketing' ",4085
+2009 ,"'N6 - Human Resource Management' ",695
+2009 ,"'N7 - Office Skills' ",20
+2009 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",9415
+2009 ,"'N9 - Others in Business & Admin Studies' ",580
+2009 ,"'NN - Combinations within Business & Admin Studies' ",11770
+2009 ,"'P1 - Information Services' ",160
+2009 ,"'P2 - Publicity studies' ",520
+2009 ,"'P3 - Media studies' ",5555
+2009 ,"'P4 - Publishing' ",105
+2009 ,"'P5 - Journalism' ",2840
+2009 ,"'P9 - Others in Mass Comms & Documentation' ",805
+2009 ,"'PP - Combinations within Mass Comms & Documentation' ",1040
+2009 ,"'Q1 - Linguistics' ",510
+2009 ,"'Q2 - Comparative Literary studies' ",180
+2009 ,"'Q3 - English studies' ",10295
+2009 ,"'Q4 - Ancient Language studies' ",15
+2009 ,"'Q5 - Celtic studies' ",160
+2009 ,"'Q6 - Latin studies' ",10
+2009 ,"'Q8 - Classical studies' ",895
+2009 ,"'Q9 - Others in Linguistics,Classics & related' ",55
+2009 ,"'QQ - Combinations within Linguistics,Classics & related' ",745
+2009 ,"'R0 - European Langs,Lit & related: any area' ",95
+2009 ,"'R1 - French studies' ",790
+2009 ,"'R2 - German studies' ",285
+2009 ,"'R3 - Italian studies' ",80
+2009 ,"'R4 - Spanish studies' ",385
+2009 ,"'R5 - Portuguese studies' ",5
+2009 ,"'R6 - Scandinavian studies' ",15
+2009 ,"'R7 - Russian and East European studies' ",110
+2009 ,"'R8 - European studies' ",250
+2009 ,"'R9 - Others in European Langs,Lit and related' ",800
+2009 ,"'RR - Combinations within European Langs,Lit and related' ",1810
+2009 ,"'T1 - Chinese studies' ",155
+2009 ,"'T2 - Japanese studies' ",220
+2009 ,"'T3 - South Asian studies' ",45
+2009 ,"'T4 - Other Asian studies' ",10
+2009 ,"'T5 - African studies' ",30
+2009 ,"'T6 - Modern Middle Eastern studies' ",125
+2009 ,"'T7 - American studies' ",495
+2009 ,"'T9 - Others in non-European Langs, Lit & related' ",315
+2009 ,"'TT - Combinations within non-European Langs & related' ",95
+2009 ,"'V1 - History by Period' ",8495
+2009 ,"'V2 - History by Area' ",115
+2009 ,"'V3 - History by Topic' ",1320
+2009 ,"'V4 - Archaeology' ",525
+2009 ,"'V5 - Philosophy' ",1600
+2009 ,"'V6 - Theology and Religious studies' ",1240
+2009 ,"'V9 - Others in Hist & Philosophical studies' ",155
+2009 ,"'VV - Combinations within Hist & Philosophical studies' ",1365
+2009 ,"'W0 - Creative Arts & Design: any area' ",115
+2009 ,"'W1 - Fine Art' ",4975
+2009 ,"'W2 - Design studies' ",18995
+2009 ,"'W3 - Music' ",5325
+2009 ,"'W4 - Drama' ",7410
+2009 ,"'W5 - Dance' ",1355
+2009 ,"'W6 - Cinematics and Photography' ",7745
+2009 ,"'W7 - Crafts' ",695
+2009 ,"'W8 - Imaginative Writing' ",805
+2009 ,"'W9 - Others in Creative Arts and Design' ",745
+2009 ,"'WW - Combinations within Creative Arts and Design' ",4065
+2009 ,"'X1 - Training Teachers' ",7935
+2009 ,"'X2 - Research and Study Skills in Education' ",50
+2009 ,"'X3 - Academic studies in Education' ",7205
+2009 ,"'X9 - Others in Education' ",310
+2009 ,"'XX - Combinations within Education' ",545
+2009 ,"'Y Combs of arts/humanities' ",4165
+2009 ,"'Y Combs of engin/tech/building studies' ",215
+2009 ,"'Y Combs of engineering/technology' ",360
+2009 ,"'Y Combs of languages' ",1570
+2009 ,"'Y Combs of languages with arts/humanities' ",7865
+2009 ,"'Y Combs of med/bio/agric sciences' ",3440
+2009 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1565
+2009 ,"'Y Combs of phys/math science with arts/humanities/languages' ",2675
+2009 ,"'Y Combs of phys/math science with social studies/bus/law' ",4105
+2009 ,"'Y Combs of phys/math/comp sciences' ",1135
+2009 ,"'Y Combs of science/engineering with arts/humanities/languages' ",8105
+2009 ,"'Y Combs of science/engineering with social studies/bus/law' ",6660
+2009 ,"'Y Combs of sciences with engineering/technology' ",1650
+2009 ,"'Y Combs of soc studies/law' ",2265
+2009 ,"'Y Combs of soc studies/law with business' ",3475
+2009 ,"'Y Combs of social studies/bus/law with arts/humanities' ",9985
+2009 ,"'Y Combs of social studies/bus/law with languages' ",2730
+2009 ,"'Z Combs of 3 subjects, or other general courses' ",5665
+2009 ,"'Z Other courses not elsewhere classified' ",80
+2010 ,"'A1 - Pre-clinical Medicine' ",7945
+2010 ,"'A2 - Pre-clinical Dentistry' ",1280
+2010 ,"'A9 - Others in Medicine and Dentistry' ",20
+2010 ,"'B1 - Anatomy,Physiology and Pathology' ",3755
+2010 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4365
+2010 ,"'B3 - Complementary Medicine' ",1055
+2010 ,"'B4 - Nutrition' ",1130
+2010 ,"'B5 - Ophthalmics' ",810
+2010 ,"'B6 - Aural and Oral Sciences' ",840
+2010 ,"'B7 - Nursing' ",26550
+2010 ,"'B8 - Medical Technology' ",1950
+2010 ,"'B9 - Others in Subjects allied to Medicine' ",9190
+2010 ,"'BB - Combinations within Subjects allied to Medicine' ",240
+2010 ,"'C0 - Biological Sciences: any area of study' ",10
+2010 ,"'C1 - Biology' ",5005
+2010 ,"'C2 - Botany' ",30
+2010 ,"'C3 - Zoology' ",1670
+2010 ,"'C4 - Genetics' ",395
+2010 ,"'C5 - Microbiology' ",355
+2010 ,"'C6 - Sport and Exercise Science' ",10955
+2010 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",2420
+2010 ,"'C8 - Psychology' ",16110
+2010 ,"'C9 - Others in Biological Sciences' ",1280
+2010 ,"'CC - Combinations within Biological Sciences' ",605
+2010 ,"'D1 - Pre-clinical Veterinary Medicine' ",980
+2010 ,"'D3 - Animal Science' ",2085
+2010 ,"'D4 - Agriculture' ",1910
+2010 ,"'D5 - Forestry & arboriculture' ",160
+2010 ,"'D6 - Food and Beverage studies' ",385
+2010 ,"'D7 - Agricultural Sciences' ",85
+2010 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",35
+2010 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",145
+2010 ,"'F0 - Physical Sciences: any area of study' ",65
+2010 ,"'F1 - Chemistry' ",4365
+2010 ,"'F2 - Materials Science' ",15
+2010 ,"'F3 - Physics' ",3675
+2010 ,"'F4 - Forensic and Archaeological Science' ",2115
+2010 ,"'F5 - Astronomy' ",155
+2010 ,"'F6 - Geology' ",1535
+2010 ,"'F7 - Science of aquatic & terrestrial environments' ",1605
+2010 ,"'F8 - Physical geographical sciences' ",3615
+2010 ,"'F9 - Others in Physical Sciences' ",270
+2010 ,"'FF - Combinations within Physical Sciences' ",590
+2010 ,"'G1 - Mathematics' ",7210
+2010 ,"'G2 - Operational Research' ",90
+2010 ,"'G3 - Statistics' ",145
+2010 ,"'G9 - Others in Mathematical Sciences' ",30
+2010 ,"'GG - Combinations within Mathematical Sciences' ",455
+2010 ,"'H0 - Engineering: any area of study' ",135
+2010 ,"'H1 - General Engineering' ",3260
+2010 ,"'H2 - Civil Engineering' ",4935
+2010 ,"'H3 - Mechanical Engineering' ",6600
+2010 ,"'H4 - Aerospace Engineering' ",2435
+2010 ,"'H5 - Naval Architecture' ",135
+2010 ,"'H6 - Electronic and Electrical Engineering' ",5120
+2010 ,"'H7 - Production and Manufacturing Engineering' ",735
+2010 ,"'H8 - Chemical,Process and Energy Engineering' ",1845
+2010 ,"'H9 - Others in Engineering' ",30
+2010 ,"'HH - Combinations within Engineering' ",830
+2010 ,"'I1 - Computer Science' ",13245
+2010 ,"'I2 - Information Systems' ",4010
+2010 ,"'I3 - Software Engineering' ",1700
+2010 ,"'I4 - Artificial Intelligence' ",60
+2010 ,"'I9 - Others in Computer Sciences' ",25
+2010 ,"'II - Combinations in Computer Sciences' ",1460
+2010 ,"'J1 - Minerals Technology' ",35
+2010 ,"'J2 - Metallurgy' ",45
+2010 ,"'J3 - Ceramics and Glass' ",10
+2010 ,"'J4 - Polymers and Textiles' ",155
+2010 ,"'J5 - Materials Technology not otherwise spec' ",270
+2010 ,"'J6 - Maritime Technology' ",200
+2010 ,"'J7 - Biotechnology' ",160
+2010 ,"'J9 - Others in Technology' ",2355
+2010 ,"'JJ - Combinations within Technology' ",10
+2010 ,"'K0 - Architecture,Build & Plan: any area' ",5
+2010 ,"'K1 - Architecture' ",4380
+2010 ,"'K2 - Building' ",3745
+2010 ,"'K3 - Landscape & Garden Design' ",290
+2010 ,"'K4 - Planning (Urban,Rural and Regional)' ",825
+2010 ,"'K9 - Others in Architecture,Build & Plan' ",5
+2010 ,"'KK - Combinations within Architecture,Build & Plan' ",165
+2010 ,"'L0 - Social Studies: any area of study' ",535
+2010 ,"'L1 - Economics' ",7180
+2010 ,"'L2 - Politics' ",5425
+2010 ,"'L3 - Sociology' ",5565
+2010 ,"'L4 - Social Policy' ",1535
+2010 ,"'L5 - Social Work' ",11185
+2010 ,"'L6 - Anthropology' ",745
+2010 ,"'L7 - Human and Social Geography' ",2845
+2010 ,"'L9 - Others in Social Studies' ",630
+2010 ,"'LL - Combinations within Social Studies' ",2990
+2010 ,"'M1 - Law by Area' ",16975
+2010 ,"'M2 - Law by Topic' ",1210
+2010 ,"'M9 - Others in Law' ",3185
+2010 ,"'MM - Combinations within Law' ",480
+2010 ,"'N0 - Business & Admin studies: any area' ",5
+2010 ,"'N1 - Business studies' ",12305
+2010 ,"'N2 - Management studies' ",12530
+2010 ,"'N3 - Finance' ",1670
+2010 ,"'N4 - Accounting' ",6920
+2010 ,"'N5 - Marketing' ",3970
+2010 ,"'N6 - Human Resource Management' ",690
+2010 ,"'N7 - Office Skills' ",40
+2010 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",9665
+2010 ,"'N9 - Others in Business & Admin Studies' ",640
+2010 ,"'NN - Combinations within Business & Admin Studies' ",10820
+2010 ,"'P1 - Information Services' ",160
+2010 ,"'P2 - Publicity studies' ",460
+2010 ,"'P3 - Media studies' ",5585
+2010 ,"'P4 - Publishing' ",120
+2010 ,"'P5 - Journalism' ",3150
+2010 ,"'P9 - Others in Mass Comms & Documentation' ",630
+2010 ,"'PP - Combinations within Mass Comms & Documentation' ",1105
+2010 ,"'Q1 - Linguistics' ",535
+2010 ,"'Q2 - Comparative Literary studies' ",230
+2010 ,"'Q3 - English studies' ",10020
+2010 ,"'Q4 - Ancient Language studies' ",10
+2010 ,"'Q5 - Celtic studies' ",160
+2010 ,"'Q6 - Latin studies' ",10
+2010 ,"'Q8 - Classical studies' ",870
+2010 ,"'Q9 - Others in Linguistics,Classics & related' ",75
+2010 ,"'QQ - Combinations within Linguistics,Classics & related' ",750
+2010 ,"'R0 - European Langs,Lit & related: any area' ",120
+2010 ,"'R1 - French studies' ",740
+2010 ,"'R2 - German studies' ",285
+2010 ,"'R3 - Italian studies' ",60
+2010 ,"'R4 - Spanish studies' ",415
+2010 ,"'R6 - Scandinavian studies' ",15
+2010 ,"'R7 - Russian and East European studies' ",100
+2010 ,"'R8 - European studies' ",95
+2010 ,"'R9 - Others in European Langs,Lit and related' ",850
+2010 ,"'RR - Combinations within European Langs,Lit and related' ",1990
+2010 ,"'T1 - Chinese studies' ",175
+2010 ,"'T2 - Japanese studies' ",225
+2010 ,"'T3 - South Asian studies' ",35
+2010 ,"'T4 - Other Asian studies' ",15
+2010 ,"'T5 - African studies' ",25
+2010 ,"'T6 - Modern Middle Eastern studies' ",135
+2010 ,"'T7 - American studies' ",540
+2010 ,"'T9 - Others in non-European Langs, Lit & related' ",260
+2010 ,"'TT - Combinations within non-European Langs & related' ",70
+2010 ,"'V1 - History by Period' ",8600
+2010 ,"'V2 - History by Area' ",155
+2010 ,"'V3 - History by Topic' ",1300
+2010 ,"'V4 - Archaeology' ",550
+2010 ,"'V5 - Philosophy' ",1630
+2010 ,"'V6 - Theology and Religious studies' ",1325
+2010 ,"'V9 - Others in Hist & Philosophical studies' ",160
+2010 ,"'VV - Combinations within Hist & Philosophical studies' ",1260
+2010 ,"'W0 - Creative Arts & Design: any area' ",130
+2010 ,"'W1 - Fine Art' ",4905
+2010 ,"'W2 - Design studies' ",18695
+2010 ,"'W3 - Music' ",5465
+2010 ,"'W4 - Drama' ",7545
+2010 ,"'W5 - Dance' ",1415
+2010 ,"'W6 - Cinematics and Photography' ",7675
+2010 ,"'W7 - Crafts' ",625
+2010 ,"'W8 - Imaginative Writing' ",770
+2010 ,"'W9 - Others in Creative Arts and Design' ",725
+2010 ,"'WW - Combinations within Creative Arts and Design' ",3610
+2010 ,"'X1 - Training Teachers' ",7520
+2010 ,"'X2 - Research and Study Skills in Education' ",95
+2010 ,"'X3 - Academic studies in Education' ",7995
+2010 ,"'X9 - Others in Education' ",195
+2010 ,"'XX - Combinations within Education' ",525
+2010 ,"'Y Combs of arts/humanities' ",3955
+2010 ,"'Y Combs of engin/tech/building studies' ",190
+2010 ,"'Y Combs of engineering/technology' ",315
+2010 ,"'Y Combs of languages' ",1650
+2010 ,"'Y Combs of languages with arts/humanities' ",7665
+2010 ,"'Y Combs of med/bio/agric sciences' ",3765
+2010 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1510
+2010 ,"'Y Combs of phys/math science with arts/humanities/languages' ",2800
+2010 ,"'Y Combs of phys/math science with social studies/bus/law' ",3725
+2010 ,"'Y Combs of phys/math/comp sciences' ",1170
+2010 ,"'Y Combs of science/engineering with arts/humanities/languages' ",8405
+2010 ,"'Y Combs of science/engineering with social studies/bus/law' ",6320
+2010 ,"'Y Combs of sciences with engineering/technology' ",1625
+2010 ,"'Y Combs of soc studies/law' ",2520
+2010 ,"'Y Combs of soc studies/law with business' ",3285
+2010 ,"'Y Combs of social studies/bus/law with arts/humanities' ",9750
+2010 ,"'Y Combs of social studies/bus/law with languages' ",2595
+2010 ,"'Z Combs of 3 subjects, or other general courses' ",4555
+2011 ,"'A1 - Pre-clinical Medicine' ",7800
+2011 ,"'A2 - Pre-clinical Dentistry' ",1195
+2011 ,"'A9 - Others in Medicine and Dentistry' ",75
+2011 ,"'B1 - Anatomy,Physiology and Pathology' ",3725
+2011 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4530
+2011 ,"'B3 - Complementary Medicine' ",1005
+2011 ,"'B4 - Nutrition' ",1130
+2011 ,"'B5 - Ophthalmics' ",940
+2011 ,"'B6 - Aural and Oral Sciences' ",805
+2011 ,"'B7 - Nursing' ",23995
+2011 ,"'B8 - Medical Technology' ",1805
+2011 ,"'B9 - Others in Subjects allied to Medicine' ",9765
+2011 ,"'BB - Combinations within Subjects allied to Medicine' ",255
+2011 ,"'C0 - Biological Sciences: any area of study' ",25
+2011 ,"'C1 - Biology' ",5385
+2011 ,"'C2 - Botany' ",20
+2011 ,"'C3 - Zoology' ",1545
+2011 ,"'C4 - Genetics' ",375
+2011 ,"'C5 - Microbiology' ",295
+2011 ,"'C6 - Sport and Exercise Science' ",11055
+2011 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",2870
+2011 ,"'C8 - Psychology' ",16685
+2011 ,"'C9 - Others in Biological Sciences' ",1310
+2011 ,"'CC - Combinations within Biological Sciences' ",575
+2011 ,"'D1 - Pre-clinical Veterinary Medicine' ",970
+2011 ,"'D3 - Animal Science' ",2240
+2011 ,"'D4 - Agriculture' ",2065
+2011 ,"'D5 - Forestry & arboriculture' ",160
+2011 ,"'D6 - Food and Beverage studies' ",420
+2011 ,"'D7 - Agricultural Sciences' ",65
+2011 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",40
+2011 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",155
+2011 ,"'F0 - Physical Sciences: any area of study' ",90
+2011 ,"'F1 - Chemistry' ",4525
+2011 ,"'F3 - Physics' ",4100
+2011 ,"'F4 - Forensic and Archaeological Science' ",2240
+2011 ,"'F5 - Astronomy' ",215
+2011 ,"'F6 - Geology' ",1550
+2011 ,"'F7 - Science of aquatic & terrestrial environments' ",1495
+2011 ,"'F8 - Physical geographical sciences' ",3450
+2011 ,"'F9 - Others in Physical Sciences' ",230
+2011 ,"'FF - Combinations within Physical Sciences' ",545
+2011 ,"'G1 - Mathematics' ",7585
+2011 ,"'G2 - Operational Research' ",105
+2011 ,"'G3 - Statistics' ",160
+2011 ,"'G9 - Others in Mathematical Sciences' ",10
+2011 ,"'GG - Combinations within Mathematical Sciences' ",500
+2011 ,"'H0 - Engineering: any area of study' ",115
+2011 ,"'H1 - General Engineering' ",2915
+2011 ,"'H2 - Civil Engineering' ",4840
+2011 ,"'H3 - Mechanical Engineering' ",6710
+2011 ,"'H4 - Aerospace Engineering' ",2535
+2011 ,"'H5 - Naval Architecture' ",130
+2011 ,"'H6 - Electronic and Electrical Engineering' ",5005
+2011 ,"'H7 - Production and Manufacturing Engineering' ",725
+2011 ,"'H8 - Chemical,Process and Energy Engineering' ",2135
+2011 ,"'H9 - Others in Engineering' ",30
+2011 ,"'HH - Combinations within Engineering' ",860
+2011 ,"'I1 - Computer Science' ",13405
+2011 ,"'I2 - Information Systems' ",3610
+2011 ,"'I3 - Software Engineering' ",1880
+2011 ,"'I4 - Artificial Intelligence' ",65
+2011 ,"'I9 - Others in Computer Sciences' ",5
+2011 ,"'II - Combinations in Computer Sciences' ",1450
+2011 ,"'J1 - Minerals Technology' ",40
+2011 ,"'J2 - Metallurgy' ",30
+2011 ,"'J3 - Ceramics and Glass' ",25
+2011 ,"'J4 - Polymers and Textiles' ",125
+2011 ,"'J5 - Materials Technology not otherwise spec' ",240
+2011 ,"'J6 - Maritime Technology' ",120
+2011 ,"'J7 - Biotechnology' ",200
+2011 ,"'J9 - Others in Technology' ",2015
+2011 ,"'JJ - Combinations within Technology' ",20
+2011 ,"'K1 - Architecture' ",4380
+2011 ,"'K2 - Building' ",3420
+2011 ,"'K3 - Landscape & Garden Design' ",235
+2011 ,"'K4 - Planning (Urban,Rural and Regional)' ",760
+2011 ,"'K9 - Others in Architecture,Build & Plan' ",5
+2011 ,"'KK - Combinations within Architecture,Build & Plan' ",155
+2011 ,"'L0 - Social Studies: any area of study' ",480
+2011 ,"'L1 - Economics' ",7800
+2011 ,"'L2 - Politics' ",5915
+2011 ,"'L3 - Sociology' ",5590
+2011 ,"'L4 - Social Policy' ",1725
+2011 ,"'L5 - Social Work' ",11290
+2011 ,"'L6 - Anthropology' ",695
+2011 ,"'L7 - Human and Social Geography' ",2745
+2011 ,"'L9 - Others in Social Studies' ",715
+2011 ,"'LL - Combinations within Social Studies' ",2970
+2011 ,"'M1 - Law by Area' ",17945
+2011 ,"'M2 - Law by Topic' ",1170
+2011 ,"'M9 - Others in Law' ",3120
+2011 ,"'MM - Combinations within Law' ",485
+2011 ,"'N0 - Business & Admin studies: any area' ",5
+2011 ,"'N1 - Business studies' ",13130
+2011 ,"'N2 - Management studies' ",12665
+2011 ,"'N3 - Finance' ",1550
+2011 ,"'N4 - Accounting' ",6910
+2011 ,"'N5 - Marketing' ",4195
+2011 ,"'N6 - Human Resource Management' ",745
+2011 ,"'N7 - Office Skills' ",15
+2011 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",9170
+2011 ,"'N9 - Others in Business & Admin Studies' ",610
+2011 ,"'NN - Combinations within Business & Admin Studies' ",12105
+2011 ,"'P1 - Information Services' ",90
+2011 ,"'P2 - Publicity studies' ",560
+2011 ,"'P3 - Media studies' ",5965
+2011 ,"'P4 - Publishing' ",100
+2011 ,"'P5 - Journalism' ",3405
+2011 ,"'P9 - Others in Mass Comms & Documentation' ",565
+2011 ,"'PP - Combinations within Mass Comms & Documentation' ",1105
+2011 ,"'Q1 - Linguistics' ",500
+2011 ,"'Q2 - Comparative Literary studies' ",205
+2011 ,"'Q3 - English studies' ",10020
+2011 ,"'Q4 - Ancient Language studies' ",15
+2011 ,"'Q5 - Celtic studies' ",165
+2011 ,"'Q6 - Latin studies' ",10
+2011 ,"'Q8 - Classical studies' ",820
+2011 ,"'Q9 - Others in Linguistics,Classics & related' ",95
+2011 ,"'QQ - Combinations within Linguistics,Classics & related' ",805
+2011 ,"'R0 - European Langs,Lit & related: any area' ",55
+2011 ,"'R1 - French studies' ",685
+2011 ,"'R2 - German studies' ",290
+2011 ,"'R3 - Italian studies' ",65
+2011 ,"'R4 - Spanish studies' ",465
+2011 ,"'R6 - Scandinavian studies' ",15
+2011 ,"'R7 - Russian and East European studies' ",90
+2011 ,"'R8 - European studies' ",115
+2011 ,"'R9 - Others in European Langs,Lit and related' ",1050
+2011 ,"'RR - Combinations within European Langs,Lit and related' ",1730
+2011 ,"'T1 - Chinese studies' ",205
+2011 ,"'T2 - Japanese studies' ",190
+2011 ,"'T3 - South Asian studies' ",60
+2011 ,"'T4 - Other Asian studies' ",20
+2011 ,"'T5 - African studies' ",25
+2011 ,"'T6 - Modern Middle Eastern studies' ",100
+2011 ,"'T7 - American studies' ",505
+2011 ,"'T9 - Others in non-European Langs, Lit & related' ",265
+2011 ,"'TT - Combinations within non-European Langs & related' ",65
+2011 ,"'V1 - History by Period' ",8810
+2011 ,"'V2 - History by Area' ",135
+2011 ,"'V3 - History by Topic' ",1225
+2011 ,"'V4 - Archaeology' ",510
+2011 ,"'V5 - Philosophy' ",1660
+2011 ,"'V6 - Theology and Religious studies' ",1310
+2011 ,"'V9 - Others in Hist & Philosophical studies' ",130
+2011 ,"'VV - Combinations within Hist & Philosophical studies' ",1280
+2011 ,"'W0 - Creative Arts & Design: any area' ",140
+2011 ,"'W1 - Fine Art' ",5015
+2011 ,"'W2 - Design studies' ",19580
+2011 ,"'W3 - Music' ",5730
+2011 ,"'W4 - Drama' ",7390
+2011 ,"'W5 - Dance' ",1560
+2011 ,"'W6 - Cinematics and Photography' ",7875
+2011 ,"'W7 - Crafts' ",625
+2011 ,"'W8 - Imaginative Writing' ",805
+2011 ,"'W9 - Others in Creative Arts and Design' ",750
+2011 ,"'WW - Combinations within Creative Arts and Design' ",3595
+2011 ,"'X1 - Training Teachers' ",7260
+2011 ,"'X2 - Research and Study Skills in Education' ",105
+2011 ,"'X3 - Academic studies in Education' ",8815
+2011 ,"'X9 - Others in Education' ",180
+2011 ,"'XX - Combinations within Education' ",600
+2011 ,"'Y Combs of arts/humanities' ",3875
+2011 ,"'Y Combs of engin/tech/building studies' ",195
+2011 ,"'Y Combs of engineering/technology' ",325
+2011 ,"'Y Combs of languages' ",1595
+2011 ,"'Y Combs of languages with arts/humanities' ",7375
+2011 ,"'Y Combs of med/bio/agric sciences' ",4005
+2011 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1670
+2011 ,"'Y Combs of phys/math science with arts/humanities/languages' ",2530
+2011 ,"'Y Combs of phys/math science with social studies/bus/law' ",3295
+2011 ,"'Y Combs of phys/math/comp sciences' ",1110
+2011 ,"'Y Combs of science/engineering with arts/humanities/languages' ",8615
+2011 ,"'Y Combs of science/engineering with social studies/bus/law' ",5980
+2011 ,"'Y Combs of sciences with engineering/technology' ",1550
+2011 ,"'Y Combs of soc studies/law' ",2690
+2011 ,"'Y Combs of soc studies/law with business' ",2890
+2011 ,"'Y Combs of social studies/bus/law with arts/humanities' ",9690
+2011 ,"'Y Combs of social studies/bus/law with languages' ",2500
+2011 ,"'Z Combs of 3 subjects, or other general courses' ",4595
+2012 ,"'A1 - Pre-clinical Medicine' ",7805
+2012 ,"'A2 - Pre-clinical Dentistry' ",1195
+2012 ,"'A9 - Others in Medicine and Dentistry' ",80
+2012 ,"'B1 - Anatomy,Physiology and Pathology' ",3670
+2012 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4375
+2012 ,"'B3 - Complementary Medicine' ",765
+2012 ,"'B4 - Nutrition' ",1060
+2012 ,"'B5 - Ophthalmics' ",945
+2012 ,"'B6 - Aural and Oral Sciences' ",720
+2012 ,"'B7 - Nursing' ",23835
+2012 ,"'B8 - Medical Technology' ",1805
+2012 ,"'B9 - Others in Subjects allied to Medicine' ",9190
+2012 ,"'BB - Combinations within Subjects allied to Medicine' ",255
+2012 ,"'C1 - Biology' ",5435
+2012 ,"'C2 - Botany' ",35
+2012 ,"'C3 - Zoology' ",1570
+2012 ,"'C4 - Genetics' ",455
+2012 ,"'C5 - Microbiology' ",340
+2012 ,"'C6 - Sport and Exercise Science' ",10885
+2012 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",3260
+2012 ,"'C8 - Psychology' ",16175
+2012 ,"'C9 - Others in Biological Sciences' ",925
+2012 ,"'CC - Combinations within Biological Sciences' ",540
+2012 ,"'D1 - Pre-clinical Veterinary Medicine' ",1020
+2012 ,"'D3 - Animal Science' ",2055
+2012 ,"'D4 - Agriculture' ",1865
+2012 ,"'D5 - Forestry & arboriculture' ",135
+2012 ,"'D6 - Food and Beverage studies' ",485
+2012 ,"'D7 - Agricultural Sciences' ",65
+2012 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",20
+2012 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",135
+2012 ,"'F1 - Chemistry' ",4510
+2012 ,"'F3 - Physics' ",4350
+2012 ,"'F4 - Forensic and Archaeological Science' ",2020
+2012 ,"'F5 - Astronomy' ",210
+2012 ,"'F6 - Geology' ",1650
+2012 ,"'F7 - Science of aquatic & terrestrial environments' ",1485
+2012 ,"'F8 - Physical geographical sciences' ",3320
+2012 ,"'F9 - Others in Physical Sciences' ",210
+2012 ,"'FF - Combinations within Physical Sciences' ",520
+2012 ,"'G1 - Mathematics' ",7310
+2012 ,"'G2 - Operational Research' ",65
+2012 ,"'G3 - Statistics' ",175
+2012 ,"'G9 - Others in Mathematical Sciences' ",15
+2012 ,"'GG - Combinations within Mathematical Sciences' ",530
+2012 ,"'H1 - General Engineering' ",3380
+2012 ,"'H2 - Civil Engineering' ",4230
+2012 ,"'H3 - Mechanical Engineering' ",6850
+2012 ,"'H4 - Aerospace Engineering' ",2395
+2012 ,"'H5 - Naval Architecture' ",130
+2012 ,"'H6 - Electronic and Electrical Engineering' ",4645
+2012 ,"'H7 - Production and Manufacturing Engineering' ",650
+2012 ,"'H8 - Chemical,Process and Energy Engineering' ",2220
+2012 ,"'H9 - Others in Engineering' ",10
+2012 ,"'HH - Combinations within Engineering' ",785
+2012 ,"'I1 - Computer Science' ",12565
+2012 ,"'I2 - Information Systems' ",2905
+2012 ,"'I3 - Software Engineering' ",1865
+2012 ,"'I4 - Artificial Intelligence' ",60
+2012 ,"'I5 - Health Informatics' ",5
+2012 ,"'I6 - Games' ",500
+2012 ,"'I7 - Computer generated visual & audio effects' ",20
+2012 ,"'I9 - Others in Computer Sciences' ",135
+2012 ,"'II - Combinations in Computer Sciences' ",1295
+2012 ,"'J1 - Minerals Technology' ",40
+2012 ,"'J2 - Metallurgy' ",20
+2012 ,"'J3 - Ceramics and Glass' ",10
+2012 ,"'J4 - Polymers and Textiles' ",55
+2012 ,"'J5 - Materials Technology not otherwise spec' ",230
+2012 ,"'J6 - Maritime Technology' ",125
+2012 ,"'J7 - Biotechnology' ",215
+2012 ,"'J9 - Others in Technology' ",1640
+2012 ,"'JJ - Combinations within Technology' ",15
+2012 ,"'K1 - Architecture' ",4060
+2012 ,"'K2 - Building' ",2575
+2012 ,"'K3 - Landscape & Garden Design' ",180
+2012 ,"'K4 - Planning (Urban,Rural and Regional)' ",575
+2012 ,"'K9 - Others in Architecture,Build & Plan' ",10
+2012 ,"'KK - Combinations within Architecture,Build & Plan' ",150
+2012 ,"'L0 - Social Studies: any area of study' ",15
+2012 ,"'L1 - Economics' ",7295
+2012 ,"'L2 - Politics' ",5485
+2012 ,"'L3 - Sociology' ",5045
+2012 ,"'L4 - Social Policy' ",1510
+2012 ,"'L5 - Social Work' ",11280
+2012 ,"'L6 - Anthropology' ",1070
+2012 ,"'L7 - Human and Social Geography' ",2710
+2012 ,"'L8 - Development studies' ",55
+2012 ,"'L9 - Others in Social Studies' ",650
+2012 ,"'LL - Combinations within Social Studies' ",2720
+2012 ,"'M1 - Law by Area' ",18025
+2012 ,"'M2 - Law by Topic' ",975
+2012 ,"'M9 - Others in Law' ",2655
+2012 ,"'MM - Combinations within Law' ",425
+2012 ,"'N1 - Business studies' ",11865
+2012 ,"'N2 - Management studies' ",11970
+2012 ,"'N3 - Finance' ",1595
+2012 ,"'N4 - Accounting' ",6585
+2012 ,"'N5 - Marketing' ",3840
+2012 ,"'N6 - Human Resource Management' ",695
+2012 ,"'N7 - Office Skills' ",50
+2012 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",8220
+2012 ,"'N9 - Others in Business & Admin Studies' ",515
+2012 ,"'NN - Combinations within Business & Admin Studies' ",12265
+2012 ,"'P1 - Information Services' ",110
+2012 ,"'P2 - Publicity studies' ",500
+2012 ,"'P3 - Media studies' ",5505
+2012 ,"'P4 - Publishing' ",45
+2012 ,"'P5 - Journalism' ",2995
+2012 ,"'P9 - Others in Mass Comms & Documentation' ",550
+2012 ,"'PP - Combinations within Mass Comms & Documentation' ",890
+2012 ,"'Q1 - Linguistics' ",530
+2012 ,"'Q2 - Comparative Literary studies' ",140
+2012 ,"'Q3 - English studies' ",9480
+2012 ,"'Q4 - Ancient Language studies' ",5
+2012 ,"'Q5 - Celtic studies' ",150
+2012 ,"'Q6 - Latin studies' ",15
+2012 ,"'Q7 - Classical Greek studies' ",5
+2012 ,"'Q8 - Classical studies' ",825
+2012 ,"'Q9 - Others in Linguistics,Classics & related' ",95
+2012 ,"'QQ - Combinations within Linguistics,Classics & related' ",790
+2012 ,"'R1 - French studies' ",585
+2012 ,"'R2 - German studies' ",200
+2012 ,"'R3 - Italian studies' ",45
+2012 ,"'R4 - Spanish studies' ",395
+2012 ,"'R5 - Portuguese studies' ",5
+2012 ,"'R6 - Scandinavian studies' ",10
+2012 ,"'R7 - Russian and East European studies' ",65
+2012 ,"'R8 - European studies' ",85
+2012 ,"'R9 - Others in European Langs,Lit and related' ",1015
+2012 ,"'RR - Combinations within European Langs,Lit and related' ",1660
+2012 ,"'T1 - Chinese studies' ",170
+2012 ,"'T2 - Japanese studies' ",145
+2012 ,"'T3 - South Asian studies' ",40
+2012 ,"'T4 - Other Asian studies' ",30
+2012 ,"'T5 - African studies' ",10
+2012 ,"'T6 - Modern Middle Eastern studies' ",115
+2012 ,"'T7 - American studies' ",455
+2012 ,"'T9 - Others in non-European Langs, Lit & related' ",175
+2012 ,"'TT - Combinations within non-European Langs & related' ",90
+2012 ,"'V1 - History by Period' ",8670
+2012 ,"'V2 - History by Area' ",100
+2012 ,"'V3 - History by Topic' ",1120
+2012 ,"'V4 - Archaeology' ",485
+2012 ,"'V5 - Philosophy' ",1430
+2012 ,"'V6 - Theology and Religious studies' ",1130
+2012 ,"'V7 - Heritage studies' ",5
+2012 ,"'V9 - Others in Hist & Philosophical studies' ",80
+2012 ,"'VV - Combinations within Hist & Philosophical studies' ",1140
+2012 ,"'W1 - Fine Art' ",4250
+2012 ,"'W2 - Design studies' ",17325
+2012 ,"'W3 - Music' ",5595
+2012 ,"'W4 - Drama' ",7140
+2012 ,"'W5 - Dance' ",1335
+2012 ,"'W6 - Cinematics and Photography' ",7400
+2012 ,"'W7 - Crafts' ",430
+2012 ,"'W8 - Imaginative Writing' ",670
+2012 ,"'W9 - Others in Creative Arts and Design' ",710
+2012 ,"'WW - Combinations within Creative Arts and Design' ",2885
+2012 ,"'X1 - Training Teachers' ",7545
+2012 ,"'X2 - Research and Study Skills in Education' ",70
+2012 ,"'X3 - Academic studies in Education' ",8535
+2012 ,"'X9 - Others in Education' ",165
+2012 ,"'XX - Combinations within Education' ",585
+2012 ,"'Y Combs of arts/humanities' ",3195
+2012 ,"'Y Combs of engin/tech/building studies' ",235
+2012 ,"'Y Combs of engineering/technology' ",305
+2012 ,"'Y Combs of languages' ",1430
+2012 ,"'Y Combs of languages with arts/humanities' ",6535
+2012 ,"'Y Combs of med/bio/agric sciences' ",3890
+2012 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1350
+2012 ,"'Y Combs of phys/math science with arts/humanities/languages' ",1980
+2012 ,"'Y Combs of phys/math science with social studies/bus/law' ",2995
+2012 ,"'Y Combs of phys/math/comp sciences' ",975
+2012 ,"'Y Combs of science/engineering with arts/humanities/languages' ",7260
+2012 ,"'Y Combs of science/engineering with social studies/bus/law' ",5300
+2012 ,"'Y Combs of sciences with engineering/technology' ",1420
+2012 ,"'Y Combs of soc studies/law' ",2240
+2012 ,"'Y Combs of soc studies/law with business' ",2855
+2012 ,"'Y Combs of social studies/bus/law with arts/humanities' ",8480
+2012 ,"'Y Combs of social studies/bus/law with languages' ",2145
+2012 ,"'Z Combs of 3 subjects, or other general courses' ",6090
+2013 ,"'A1 - Pre-clinical Medicine' ",7515
+2013 ,"'A2 - Pre-clinical Dentistry' ",1190
+2013 ,"'A9 - Others in Medicine and Dentistry' ",60
+2013 ,"'B1 - Anatomy,Physiology and Pathology' ",4015
+2013 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4635
+2013 ,"'B3 - Complementary Medicine' ",870
+2013 ,"'B4 - Nutrition' ",1215
+2013 ,"'B5 - Ophthalmics' ",1020
+2013 ,"'B6 - Aural and Oral Sciences' ",690
+2013 ,"'B7 - Nursing' ",24700
+2013 ,"'B8 - Medical Technology' ",1880
+2013 ,"'B9 - Others in Subjects allied to Medicine' ",10155
+2013 ,"'BB - Combinations within Subjects allied to Medicine' ",295
+2013 ,"'C1 - Biology' ",6040
+2013 ,"'C2 - Botany' ",30
+2013 ,"'C3 - Zoology' ",1745
+2013 ,"'C4 - Genetics' ",465
+2013 ,"'C5 - Microbiology' ",355
+2013 ,"'C6 - Sport and Exercise Science' ",12345
+2013 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",3420
+2013 ,"'C8 - Psychology' ",18110
+2013 ,"'C9 - Others in Biological Sciences' ",1375
+2013 ,"'CC - Combinations within Biological Sciences' ",530
+2013 ,"'D1 - Pre-clinical Veterinary Medicine' ",1015
+2013 ,"'D3 - Animal Science' ",2500
+2013 ,"'D4 - Agriculture' ",1995
+2013 ,"'D5 - Forestry & arboriculture' ",145
+2013 ,"'D6 - Food and Beverage studies' ",550
+2013 ,"'D7 - Agricultural Sciences' ",95
+2013 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",30
+2013 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",110
+2013 ,"'F1 - Chemistry' ",4910
+2013 ,"'F2 - Materials Science' ",5
+2013 ,"'F3 - Physics' ",4780
+2013 ,"'F4 - Forensic and Archaeological Science' ",2135
+2013 ,"'F5 - Astronomy' ",170
+2013 ,"'F6 - Geology' ",1760
+2013 ,"'F7 - Science of aquatic & terrestrial environments' ",1435
+2013 ,"'F8 - Physical geographical sciences' ",3470
+2013 ,"'F9 - Others in Physical Sciences' ",115
+2013 ,"'FF - Combinations within Physical Sciences' ",540
+2013 ,"'G1 - Mathematics' ",7700
+2013 ,"'G2 - Operational Research' ",70
+2013 ,"'G3 - Statistics' ",180
+2013 ,"'G9 - Others in Mathematical Sciences' ",15
+2013 ,"'GG - Combinations within Mathematical Sciences' ",515
+2013 ,"'H1 - General Engineering' ",3765
+2013 ,"'H2 - Civil Engineering' ",4085
+2013 ,"'H3 - Mechanical Engineering' ",7525
+2013 ,"'H4 - Aerospace Engineering' ",2585
+2013 ,"'H5 - Naval Architecture' ",130
+2013 ,"'H6 - Electronic and Electrical Engineering' ",4845
+2013 ,"'H7 - Production and Manufacturing Engineering' ",655
+2013 ,"'H8 - Chemical,Process and Energy Engineering' ",2810
+2013 ,"'H9 - Others in Engineering' ",15
+2013 ,"'HH - Combinations within Engineering' ",740
+2013 ,"'I1 - Computer Science' ",14390
+2013 ,"'I2 - Information Systems' ",2665
+2013 ,"'I3 - Software Engineering' ",2075
+2013 ,"'I4 - Artificial Intelligence' ",60
+2013 ,"'I5 - Health Informatics' ",5
+2013 ,"'I6 - Games' ",875
+2013 ,"'I7 - Computer generated visual & audio effects' ",80
+2013 ,"'I9 - Others in Computer Sciences' ",120
+2013 ,"'II - Combinations in Computer Sciences' ",1440
+2013 ,"'J1 - Minerals Technology' ",45
+2013 ,"'J2 - Metallurgy' ",20
+2013 ,"'J3 - Ceramics and Glass' ",10
+2013 ,"'J4 - Polymers and Textiles' ",70
+2013 ,"'J5 - Materials Technology not otherwise spec' ",275
+2013 ,"'J6 - Maritime Technology' ",145
+2013 ,"'J7 - Biotechnology' ",220
+2013 ,"'J9 - Others in Technology' ",1735
+2013 ,"'JJ - Combinations within Technology' ",40
+2013 ,"'K1 - Architecture' ",4265
+2013 ,"'K2 - Building' ",2510
+2013 ,"'K3 - Landscape & Garden Design' ",210
+2013 ,"'K4 - Planning (Urban,Rural and Regional)' ",550
+2013 ,"'K9 - Others in Architecture,Build & Plan' ",5
+2013 ,"'KK - Combinations within Architecture,Build & Plan' ",190
+2013 ,"'L1 - Economics' ",7875
+2013 ,"'L2 - Politics' ",5850
+2013 ,"'L3 - Sociology' ",5350
+2013 ,"'L4 - Social Policy' ",1580
+2013 ,"'L5 - Social Work' ",12570
+2013 ,"'L6 - Anthropology' ",1125
+2013 ,"'L7 - Human and Social Geography' ",2930
+2013 ,"'L8 - Development studies' ",50
+2013 ,"'L9 - Others in Social Studies' ",570
+2013 ,"'LL - Combinations within Social Studies' ",3030
+2013 ,"'M1 - Law by Area' ",19150
+2013 ,"'M2 - Law by Topic' ",1325
+2013 ,"'M9 - Others in Law' ",2805
+2013 ,"'MM - Combinations within Law' ",460
+2013 ,"'N1 - Business studies' ",12375
+2013 ,"'N2 - Management studies' ",11805
+2013 ,"'N3 - Finance' ",1690
+2013 ,"'N4 - Accounting' ",6475
+2013 ,"'N5 - Marketing' ",4325
+2013 ,"'N6 - Human Resource Management' ",655
+2013 ,"'N7 - Office Skills' ",60
+2013 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",8595
+2013 ,"'N9 - Others in Business & Admin Studies' ",625
+2013 ,"'NN - Combinations within Business & Admin Studies' ",14380
+2013 ,"'P1 - Information Services' ",110
+2013 ,"'P2 - Publicity studies' ",490
+2013 ,"'P3 - Media studies' ",6590
+2013 ,"'P4 - Publishing' ",50
+2013 ,"'P5 - Journalism' ",3065
+2013 ,"'P9 - Others in Mass Comms & Documentation' ",610
+2013 ,"'PP - Combinations within Mass Comms & Documentation' ",925
+2013 ,"'Q1 - Linguistics' ",665
+2013 ,"'Q2 - Comparative Literary studies' ",185
+2013 ,"'Q3 - English studies' ",9685
+2013 ,"'Q4 - Ancient Language studies' ",10
+2013 ,"'Q5 - Celtic studies' ",135
+2013 ,"'Q6 - Latin studies' ",5
+2013 ,"'Q8 - Classical studies' ",850
+2013 ,"'Q9 - Others in Linguistics,Classics & related' ",115
+2013 ,"'QQ - Combinations within Linguistics,Classics & related' ",805
+2013 ,"'R1 - French studies' ",530
+2013 ,"'R2 - German studies' ",210
+2013 ,"'R3 - Italian studies' ",25
+2013 ,"'R4 - Spanish studies' ",395
+2013 ,"'R6 - Scandinavian studies' ",10
+2013 ,"'R7 - Russian and East European studies' ",55
+2013 ,"'R8 - European studies' ",100
+2013 ,"'R9 - Others in European Langs,Lit and related' ",1050
+2013 ,"'RR - Combinations within European Langs,Lit and related' ",1625
+2013 ,"'T1 - Chinese studies' ",180
+2013 ,"'T2 - Japanese studies' ",165
+2013 ,"'T3 - South Asian studies' ",40
+2013 ,"'T4 - Other Asian studies' ",40
+2013 ,"'T5 - African studies' ",15
+2013 ,"'T6 - Modern Middle Eastern studies' ",115
+2013 ,"'T7 - American studies' ",465
+2013 ,"'T9 - Others in non-European Langs, Lit & related' ",165
+2013 ,"'TT - Combinations within non-European Langs & related' ",75
+2013 ,"'V1 - History by Period' ",9425
+2013 ,"'V2 - History by Area' ",100
+2013 ,"'V3 - History by Topic' ",1005
+2013 ,"'V4 - Archaeology' ",470
+2013 ,"'V5 - Philosophy' ",1525
+2013 ,"'V6 - Theology and Religious studies' ",1070
+2013 ,"'V7 - Heritage studies' ",10
+2013 ,"'V9 - Others in Hist & Philosophical studies' ",95
+2013 ,"'VV - Combinations within Hist & Philosophical studies' ",1225
+2013 ,"'W1 - Fine Art' ",4590
+2013 ,"'W2 - Design studies' ",17950
+2013 ,"'W3 - Music' ",8165
+2013 ,"'W4 - Drama' ",7750
+2013 ,"'W5 - Dance' ",1395
+2013 ,"'W6 - Cinematics and Photography' ",7285
+2013 ,"'W7 - Crafts' ",400
+2013 ,"'W8 - Imaginative Writing' ",795
+2013 ,"'W9 - Others in Creative Arts and Design' ",725
+2013 ,"'WW - Combinations within Creative Arts and Design' ",2590
+2013 ,"'X1 - Training Teachers' ",6925
+2013 ,"'X2 - Research and Study Skills in Education' ",110
+2013 ,"'X3 - Academic studies in Education' ",9990
+2013 ,"'X9 - Others in Education' ",220
+2013 ,"'XX - Combinations within Education' ",615
+2013 ,"'Y Combs of arts/humanities' ",2835
+2013 ,"'Y Combs of engin/tech/building studies' ",205
+2013 ,"'Y Combs of engineering/technology' ",315
+2013 ,"'Y Combs of languages' ",1415
+2013 ,"'Y Combs of languages with arts/humanities' ",6675
+2013 ,"'Y Combs of med/bio/agric sciences' ",4145
+2013 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1300
+2013 ,"'Y Combs of phys/math science with arts/humanities/languages' ",1930
+2013 ,"'Y Combs of phys/math science with social studies/bus/law' ",3140
+2013 ,"'Y Combs of phys/math/comp sciences' ",995
+2013 ,"'Y Combs of science/engineering with arts/humanities/languages' ",6725
+2013 ,"'Y Combs of science/engineering with social studies/bus/law' ",5620
+2013 ,"'Y Combs of sciences with engineering/technology' ",1415
+2013 ,"'Y Combs of soc studies/law' ",2180
+2013 ,"'Y Combs of soc studies/law with business' ",2995
+2013 ,"'Y Combs of social studies/bus/law with arts/humanities' ",8820
+2013 ,"'Y Combs of social studies/bus/law with languages' ",2220
+2013 ,"'Z Combs of 3 subjects, or other general courses' ",6630
+2013 ,"'Z Other courses not elsewhere classified' ",325
+2014 ,"'A1 - Pre-clinical Medicine' ",7680
+2014 ,"'A2 - Pre-clinical Dentistry' ",1105
+2014 ,"'A9 - Others in Medicine and Dentistry' ",130
+2014 ,"'B1 - Anatomy,Physiology and Pathology' ",4235
+2014 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4460
+2014 ,"'B3 - Complementary Medicine' ",895
+2014 ,"'B4 - Nutrition' ",1275
+2014 ,"'B5 - Ophthalmics' ",1030
+2014 ,"'B6 - Aural and Oral Sciences' ",725
+2014 ,"'B7 - Nursing' ",26965
+2014 ,"'B8 - Medical Technology' ",1875
+2014 ,"'B9 - Others in Subjects allied to Medicine' ",10635
+2014 ,"'BB - Combinations within Subjects allied to Medicine' ",310
+2014 ,"'C1 - Biology' ",6435
+2014 ,"'C2 - Botany' ",30
+2014 ,"'C3 - Zoology' ",1985
+2014 ,"'C4 - Genetics' ",480
+2014 ,"'C5 - Microbiology' ",420
+2014 ,"'C6 - Sport and Exercise Science' ",14045
+2014 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",3425
+2014 ,"'C8 - Psychology' ",19785
+2014 ,"'C9 - Others in Biological Sciences' ",1600
+2014 ,"'CC - Combinations within Biological Sciences' ",610
+2014 ,"'D1 - Pre-clinical Veterinary Medicine' ",1075
+2014 ,"'D2 - Clinical Veterinary Medicine & Dentistry' ",10
+2014 ,"'D3 - Animal Science' ",2545
+2014 ,"'D4 - Agriculture' ",2175
+2014 ,"'D5 - Forestry & arboriculture' ",105
+2014 ,"'D6 - Food and Beverage studies' ",575
+2014 ,"'D7 - Agricultural Sciences' ",85
+2014 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",30
+2014 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",140
+2014 ,"'F1 - Chemistry' ",5270
+2014 ,"'F2 - Materials Science' ",5
+2014 ,"'F3 - Physics' ",4890
+2014 ,"'F4 - Forensic and Archaeological Science' ",2130
+2014 ,"'F5 - Astronomy' ",190
+2014 ,"'F6 - Geology' ",1965
+2014 ,"'F7 - Science of aquatic & terrestrial environments' ",1460
+2014 ,"'F8 - Physical geographical sciences' ",3395
+2014 ,"'F9 - Others in Physical Sciences' ",55
+2014 ,"'FF - Combinations within Physical Sciences' ",560
+2014 ,"'G1 - Mathematics' ",7770
+2014 ,"'G2 - Operational Research' ",50
+2014 ,"'G3 - Statistics' ",170
+2014 ,"'G9 - Others in Mathematical Sciences' ",20
+2014 ,"'GG - Combinations within Mathematical Sciences' ",470
+2014 ,"'H1 - General Engineering' ",4535
+2014 ,"'H2 - Civil Engineering' ",3880
+2014 ,"'H3 - Mechanical Engineering' ",7885
+2014 ,"'H4 - Aerospace Engineering' ",2990
+2014 ,"'H5 - Naval Architecture' ",65
+2014 ,"'H6 - Electronic and Electrical Engineering' ",4785
+2014 ,"'H7 - Production and Manufacturing Engineering' ",600
+2014 ,"'H8 - Chemical,Process and Energy Engineering' ",3575
+2014 ,"'H9 - Others in Engineering' ",65
+2014 ,"'HH - Combinations within Engineering' ",730
+2014 ,"'I1 - Computer Science' ",15755
+2014 ,"'I2 - Information Systems' ",2365
+2014 ,"'I3 - Software Engineering' ",2120
+2014 ,"'I4 - Artificial Intelligence' ",95
+2014 ,"'I5 - Health Informatics' ",5
+2014 ,"'I6 - Games' ",1835
+2014 ,"'I7 - Computer generated visual & audio effects' ",120
+2014 ,"'I9 - Others in Computer Sciences' ",130
+2014 ,"'II - Combinations in Computer Sciences' ",1155
+2014 ,"'J1 - Minerals Technology' ",55
+2014 ,"'J2 - Metallurgy' ",20
+2014 ,"'J4 - Polymers and Textiles' ",60
+2014 ,"'J5 - Materials Technology not otherwise spec' ",310
+2014 ,"'J6 - Maritime Technology' ",140
+2014 ,"'J7 - Biotechnology' ",205
+2014 ,"'J9 - Others in Technology' ",1760
+2014 ,"'JJ - Combinations within Technology' ",35
+2014 ,"'K1 - Architecture' ",4220
+2014 ,"'K2 - Building' ",2550
+2014 ,"'K3 - Landscape & Garden Design' ",185
+2014 ,"'K4 - Planning (Urban,Rural and Regional)' ",535
+2014 ,"'K9 - Others in Architecture,Build & Plan' ",5
+2014 ,"'KK - Combinations within Architecture,Build & Plan' ",195
+2014 ,"'L1 - Economics' ",7995
+2014 ,"'L2 - Politics' ",6335
+2014 ,"'L3 - Sociology' ",5705
+2014 ,"'L4 - Social Policy' ",1425
+2014 ,"'L5 - Social Work' ",13305
+2014 ,"'L6 - Anthropology' ",1505
+2014 ,"'L7 - Human and Social Geography' ",3175
+2014 ,"'L8 - Development studies' ",35
+2014 ,"'L9 - Others in Social Studies' ",665
+2014 ,"'LL - Combinations within Social Studies' ",3170
+2014 ,"'M1 - Law by Area' ",19340
+2014 ,"'M2 - Law by Topic' ",1285
+2014 ,"'M9 - Others in Law' ",2600
+2014 ,"'MM - Combinations within Law' ",470
+2014 ,"'N1 - Business studies' ",13720
+2014 ,"'N2 - Management studies' ",11760
+2014 ,"'N3 - Finance' ",1990
+2014 ,"'N4 - Accounting' ",6410
+2014 ,"'N5 - Marketing' ",4595
+2014 ,"'N6 - Human Resource Management' ",725
+2014 ,"'N7 - Office Skills' ",85
+2014 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",9185
+2014 ,"'N9 - Others in Business & Admin Studies' ",675
+2014 ,"'NN - Combinations within Business & Admin Studies' ",14520
+2014 ,"'P1 - Information Services' ",145
+2014 ,"'P2 - Publicity studies' ",500
+2014 ,"'P3 - Media studies' ",7285
+2014 ,"'P4 - Publishing' ",30
+2014 ,"'P5 - Journalism' ",3215
+2014 ,"'P9 - Others in Mass Comms & Documentation' ",575
+2014 ,"'PP - Combinations within Mass Comms & Documentation' ",960
+2014 ,"'Q1 - Linguistics' ",625
+2014 ,"'Q2 - Comparative Literary studies' ",220
+2014 ,"'Q3 - English studies' ",9550
+2014 ,"'Q4 - Ancient Language studies' ",15
+2014 ,"'Q5 - Celtic studies' ",145
+2014 ,"'Q6 - Latin studies' ",5
+2014 ,"'Q8 - Classical studies' ",990
+2014 ,"'Q9 - Others in Linguistics,Classics & related' ",170
+2014 ,"'QQ - Combinations within Linguistics,Classics & related' ",795
+2014 ,"'R1 - French studies' ",520
+2014 ,"'R2 - German studies' ",210
+2014 ,"'R3 - Italian studies' ",40
+2014 ,"'R4 - Spanish studies' ",315
+2014 ,"'R6 - Scandinavian studies' ",10
+2014 ,"'R7 - Russian and East European studies' ",55
+2014 ,"'R8 - European studies' ",105
+2014 ,"'R9 - Others in European Langs,Lit and related' ",1040
+2014 ,"'RR - Combinations within European Langs,Lit and related' ",1485
+2014 ,"'T1 - Chinese studies' ",145
+2014 ,"'T2 - Japanese studies' ",155
+2014 ,"'T3 - South Asian studies' ",70
+2014 ,"'T4 - Other Asian studies' ",30
+2014 ,"'T5 - African studies' ",15
+2014 ,"'T6 - Modern Middle Eastern studies' ",115
+2014 ,"'T7 - American studies' ",420
+2014 ,"'T9 - Others in non-European Langs, Lit & related' ",75
+2014 ,"'TT - Combinations within non-European Langs & related' ",90
+2014 ,"'V1 - History by Period' ",9685
+2014 ,"'V2 - History by Area' ",95
+2014 ,"'V3 - History by Topic' ",1070
+2014 ,"'V4 - Archaeology' ",415
+2014 ,"'V5 - Philosophy' ",1600
+2014 ,"'V6 - Theology and Religious studies' ",1110
+2014 ,"'V7 - Heritage studies' ",10
+2014 ,"'V9 - Others in Hist & Philosophical studies' ",75
+2014 ,"'VV - Combinations within Hist & Philosophical studies' ",1225
+2014 ,"'W1 - Fine Art' ",4725
+2014 ,"'W2 - Design studies' ",19030
+2014 ,"'W3 - Music' ",8550
+2014 ,"'W4 - Drama' ",8165
+2014 ,"'W5 - Dance' ",1465
+2014 ,"'W6 - Cinematics and Photography' ",7210
+2014 ,"'W7 - Crafts' ",390
+2014 ,"'W8 - Imaginative Writing' ",855
+2014 ,"'W9 - Others in Creative Arts and Design' ",605
+2014 ,"'WW - Combinations within Creative Arts and Design' ",2330
+2014 ,"'X1 - Training Teachers' ",7220
+2014 ,"'X2 - Research and Study Skills in Education' ",95
+2014 ,"'X3 - Academic studies in Education' ",10225
+2014 ,"'X9 - Others in Education' ",310
+2014 ,"'XX - Combinations within Education' ",585
+2014 ,"'Y Combs of arts/humanities' ",2760
+2014 ,"'Y Combs of engin/tech/building studies' ",235
+2014 ,"'Y Combs of engineering/technology' ",320
+2014 ,"'Y Combs of languages' ",1405
+2014 ,"'Y Combs of languages with arts/humanities' ",6415
+2014 ,"'Y Combs of med/bio/agric sciences' ",3985
+2014 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",1225
+2014 ,"'Y Combs of phys/math science with arts/humanities/languages' ",1600
+2014 ,"'Y Combs of phys/math science with social studies/bus/law' ",3200
+2014 ,"'Y Combs of phys/math/comp sciences' ",1040
+2014 ,"'Y Combs of science/engineering with arts/humanities/languages' ",5395
+2014 ,"'Y Combs of science/engineering with social studies/bus/law' ",4995
+2014 ,"'Y Combs of sciences with engineering/technology' ",1490
+2014 ,"'Y Combs of soc studies/law' ",2205
+2014 ,"'Y Combs of soc studies/law with business' ",3005
+2014 ,"'Y Combs of social studies/bus/law with arts/humanities' ",7935
+2014 ,"'Y Combs of social studies/bus/law with languages' ",2205
+2014 ,"'Z Combs of 3 subjects, or other general courses' ",6855
+2014 ,"'Z Other courses not elsewhere classified' ",5
+2015 ,"'A1 - Pre-clinical Medicine' ",7660
+2015 ,"'A2 - Pre-clinical Dentistry' ",1095
+2015 ,"'A9 - Others in Medicine and Dentistry' ",210
+2015 ,"'B1 - Anatomy,Physiology and Pathology' ",4420
+2015 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4220
+2015 ,"'B3 - Complementary Medicine' ",1155
+2015 ,"'B4 - Nutrition' ",1290
+2015 ,"'B5 - Ophthalmics' ",1095
+2015 ,"'B6 - Aural and Oral Sciences' ",740
+2015 ,"'B7 - Nursing' ",27535
+2015 ,"'B8 - Medical Technology' ",1930
+2015 ,"'B9 - Others in Subjects allied to Medicine' ",10700
+2015 ,"'BB - Combinations within Subjects allied to Medicine' ",450
+2015 ,"'C1 - Biology' ",7005
+2015 ,"'C2 - Botany' ",40
+2015 ,"'C3 - Zoology' ",1845
+2015 ,"'C4 - Genetics' ",415
+2015 ,"'C5 - Microbiology' ",450
+2015 ,"'C6 - Sport and Exercise Science' ",15205
+2015 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",4090
+2015 ,"'C8 - Psychology' ",20645
+2015 ,"'C9 - Others in Biological Sciences' ",1960
+2015 ,"'CC - Combinations within Biological Sciences' ",595
+2015 ,"'D1 - Pre-clinical Veterinary Medicine' ",1165
+2015 ,"'D2 - Clinical Veterinary Medicine & Dentistry' ",30
+2015 ,"'D3 - Animal Science' ",2860
+2015 ,"'D4 - Agriculture' ",2415
+2015 ,"'D5 - Forestry & arboriculture' ",105
+2015 ,"'D6 - Food and Beverage studies' ",770
+2015 ,"'D7 - Agricultural Sciences' ",65
+2015 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",25
+2015 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",110
+2015 ,"'F1 - Chemistry' ",5495
+2015 ,"'F2 - Materials Science' ",35
+2015 ,"'F3 - Physics' ",4990
+2015 ,"'F4 - Forensic and Archaeological Science' ",2275
+2015 ,"'F5 - Astronomy' ",205
+2015 ,"'F6 - Geology' ",1905
+2015 ,"'F7 - Science of aquatic & terrestrial environments' ",1490
+2015 ,"'F8 - Physical geographical sciences' ",3765
+2015 ,"'F9 - Others in Physical Sciences' ",95
+2015 ,"'FF - Combinations within Physical Sciences' ",695
+2015 ,"'G1 - Mathematics' ",7995
+2015 ,"'G2 - Operational Research' ",45
+2015 ,"'G3 - Statistics' ",175
+2015 ,"'G9 - Others in Mathematical Sciences' ",15
+2015 ,"'GG - Combinations within Mathematical Sciences' ",505
+2015 ,"'H1 - General Engineering' ",4840
+2015 ,"'H2 - Civil Engineering' ",4170
+2015 ,"'H3 - Mechanical Engineering' ",8535
+2015 ,"'H4 - Aerospace Engineering' ",3100
+2015 ,"'H5 - Naval Architecture' ",75
+2015 ,"'H6 - Electronic and Electrical Engineering' ",4915
+2015 ,"'H7 - Production and Manufacturing Engineering' ",675
+2015 ,"'H8 - Chemical,Process and Energy Engineering' ",3775
+2015 ,"'H9 - Others in Engineering' ",65
+2015 ,"'HH - Combinations within Engineering' ",705
+2015 ,"'I1 - Computer Science' ",17730
+2015 ,"'I2 - Information Systems' ",2340
+2015 ,"'I3 - Software Engineering' ",2080
+2015 ,"'I4 - Artificial Intelligence' ",85
+2015 ,"'I5 - Health Informatics' ",5
+2015 ,"'I6 - Games' ",2320
+2015 ,"'I7 - Computer generated visual & audio effects' ",125
+2015 ,"'I9 - Others in Computer Sciences' ",180
+2015 ,"'II - Combinations in Computer Sciences' ",1085
+2015 ,"'J1 - Minerals Technology' ",25
+2015 ,"'J2 - Metallurgy' ",5
+2015 ,"'J4 - Polymers and Textiles' ",85
+2015 ,"'J5 - Materials Technology not otherwise spec' ",305
+2015 ,"'J6 - Maritime Technology' ",145
+2015 ,"'J7 - Biotechnology' ",255
+2015 ,"'J9 - Others in Technology' ",1515
+2015 ,"'JJ - Combinations within Technology' ",40
+2015 ,"'K1 - Architecture' ",4530
+2015 ,"'K2 - Building' ",2765
+2015 ,"'K3 - Landscape & Garden Design' ",235
+2015 ,"'K4 - Planning (Urban,Rural and Regional)' ",610
+2015 ,"'K9 - Others in Architecture,Build & Plan' ",15
+2015 ,"'KK - Combinations within Architecture,Build & Plan' ",190
+2015 ,"'L1 - Economics' ",8205
+2015 ,"'L2 - Politics' ",7100
+2015 ,"'L3 - Sociology' ",7075
+2015 ,"'L4 - Social Policy' ",1555
+2015 ,"'L5 - Social Work' ",13800
+2015 ,"'L6 - Anthropology' ",1605
+2015 ,"'L7 - Human and Social Geography' ",3300
+2015 ,"'L8 - Development studies' ",75
+2015 ,"'L9 - Others in Social Studies' ",685
+2015 ,"'LL - Combinations within Social Studies' ",3185
+2015 ,"'M1 - Law by Area' ",20040
+2015 ,"'M2 - Law by Topic' ",1465
+2015 ,"'M9 - Others in Law' ",2320
+2015 ,"'MM - Combinations within Law' ",475
+2015 ,"'N1 - Business studies' ",15105
+2015 ,"'N2 - Management studies' ",12915
+2015 ,"'N3 - Finance' ",2145
+2015 ,"'N4 - Accounting' ",6970
+2015 ,"'N5 - Marketing' ",4980
+2015 ,"'N6 - Human Resource Management' ",745
+2015 ,"'N7 - Office Skills' ",45
+2015 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",8950
+2015 ,"'N9 - Others in Business & Admin Studies' ",665
+2015 ,"'NN - Combinations within Business & Admin Studies' ",13990
+2015 ,"'P1 - Information Services' ",140
+2015 ,"'P2 - Publicity studies' ",485
+2015 ,"'P3 - Media studies' ",7545
+2015 ,"'P4 - Publishing' ",30
+2015 ,"'P5 - Journalism' ",3370
+2015 ,"'P9 - Others in Mass Comms & Documentation' ",620
+2015 ,"'PP - Combinations within Mass Comms & Documentation' ",840
+2015 ,"'Q1 - Linguistics' ",585
+2015 ,"'Q2 - Comparative Literary studies' ",210
+2015 ,"'Q3 - English studies' ",9610
+2015 ,"'Q4 - Ancient Language studies' ",15
+2015 ,"'Q5 - Celtic studies' ",175
+2015 ,"'Q6 - Latin studies' ",15
+2015 ,"'Q8 - Classical studies' ",1015
+2015 ,"'Q9 - Others in Linguistics,Classics & related' ",175
+2015 ,"'QQ - Combinations within Linguistics,Classics & related' ",775
+2015 ,"'R1 - French studies' ",430
+2015 ,"'R2 - German studies' ",175
+2015 ,"'R3 - Italian studies' ",25
+2015 ,"'R4 - Spanish studies' ",325
+2015 ,"'R6 - Scandinavian studies' ",10
+2015 ,"'R7 - Russian and East European studies' ",50
+2015 ,"'R8 - European studies' ",105
+2015 ,"'R9 - Others in European Langs,Lit and related' ",1295
+2015 ,"'RR - Combinations within European Langs,Lit and related' ",1410
+2015 ,"'T1 - Chinese studies' ",170
+2015 ,"'T2 - Japanese studies' ",235
+2015 ,"'T3 - South Asian studies' ",25
+2015 ,"'T4 - Other Asian studies' ",95
+2015 ,"'T5 - African studies' ",10
+2015 ,"'T6 - Modern Middle Eastern studies' ",90
+2015 ,"'T7 - American studies' ",485
+2015 ,"'T9 - Others in non-European Langs, Lit & related' ",95
+2015 ,"'TT - Combinations within non-European Langs & related' ",65
+2015 ,"'V1 - History by Period' ",9785
+2015 ,"'V2 - History by Area' ",145
+2015 ,"'V3 - History by Topic' ",1080
+2015 ,"'V4 - Archaeology' ",455
+2015 ,"'V5 - Philosophy' ",1725
+2015 ,"'V6 - Theology and Religious studies' ",1035
+2015 ,"'V7 - Heritage studies' ",15
+2015 ,"'V9 - Others in Hist & Philosophical studies' ",75
+2015 ,"'VV - Combinations within Hist & Philosophical studies' ",1190
+2015 ,"'W1 - Fine Art' ",4805
+2015 ,"'W2 - Design studies' ",19390
+2015 ,"'W3 - Music' ",9370
+2015 ,"'W4 - Drama' ",8350
+2015 ,"'W5 - Dance' ",1420
+2015 ,"'W6 - Cinematics and Photography' ",7975
+2015 ,"'W7 - Crafts' ",405
+2015 ,"'W8 - Imaginative Writing' ",830
+2015 ,"'W9 - Others in Creative Arts and Design' ",680
+2015 ,"'WW - Combinations within Creative Arts and Design' ",2200
+2015 ,"'X1 - Training Teachers' ",9090
+2015 ,"'X2 - Research and Study Skills in Education' ",85
+2015 ,"'X3 - Academic studies in Education' ",10325
+2015 ,"'X9 - Others in Education' ",280
+2015 ,"'XX - Combinations within Education' ",650
+2015 ,"'Y Combs of arts/humanities' ",2235
+2015 ,"'Y Combs of engin/tech/building studies' ",175
+2015 ,"'Y Combs of engineering/technology' ",265
+2015 ,"'Y Combs of languages' ",1380
+2015 ,"'Y Combs of languages with arts/humanities' ",6340
+2015 ,"'Y Combs of med/bio/agric sciences' ",3745
+2015 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",950
+2015 ,"'Y Combs of phys/math science with arts/humanities/languages' ",1190
+2015 ,"'Y Combs of phys/math science with social studies/bus/law' ",2695
+2015 ,"'Y Combs of phys/math/comp sciences' ",1035
+2015 ,"'Y Combs of science/engineering with arts/humanities/languages' ",4145
+2015 ,"'Y Combs of science/engineering with social studies/bus/law' ",5150
+2015 ,"'Y Combs of sciences with engineering/technology' ",1230
+2015 ,"'Y Combs of soc studies/law' ",1955
+2015 ,"'Y Combs of soc studies/law with business' ",3695
+2015 ,"'Y Combs of social studies/bus/law with arts/humanities' ",7860
+2015 ,"'Y Combs of social studies/bus/law with languages' ",2375
+2015 ,"'Z Combs of 3 subjects, or other general courses' ",6925
+2016 ,"'A1 - Pre-clinical Medicine' ",7830
+2016 ,"'A2 - Pre-clinical Dentistry' ",1100
+2016 ,"'A9 - Others in Medicine and Dentistry' ",195
+2016 ,"'B1 - Anatomy,Physiology and Pathology' ",4540
+2016 ,"'B2 - Pharmacology,Toxicology and Pharmacy' ",4325
+2016 ,"'B3 - Complementary Medicine' ",1120
+2016 ,"'B4 - Nutrition' ",1430
+2016 ,"'B5 - Ophthalmics' ",1150
+2016 ,"'B6 - Aural and Oral Sciences' ",710
+2016 ,"'B7 - Nursing' ",28890
+2016 ,"'B8 - Medical Technology' ",2090
+2016 ,"'B9 - Others in Subjects allied to Medicine' ",10885
+2016 ,"'BB - Combinations within Subjects allied to Medicine' ",315
+2016 ,"'C1 - Biology' ",7330
+2016 ,"'C2 - Botany' ",50
+2016 ,"'C3 - Zoology' ",1830
+2016 ,"'C4 - Genetics' ",490
+2016 ,"'C5 - Microbiology' ",480
+2016 ,"'C6 - Sport and Exercise Science' ",15545
+2016 ,"'C7 - Molecular Biology,Biophysics & Biochem' ",4340
+2016 ,"'C8 - Psychology' ",21575
+2016 ,"'C9 - Others in Biological Sciences' ",1960
+2016 ,"'CC - Combinations within Biological Sciences' ",590
+2016 ,"'D1 - Pre-clinical Veterinary Medicine' ",1215
+2016 ,"'D2 - Clinical Veterinary Medicine & Dentistry' ",5
+2016 ,"'D3 - Animal Science' ",2775
+2016 ,"'D4 - Agriculture' ",2195
+2016 ,"'D5 - Forestry & arboriculture' ",100
+2016 ,"'D6 - Food and Beverage studies' ",670
+2016 ,"'D7 - Agricultural Sciences' ",60
+2016 ,"'D9 - Others in Vet Sci,Ag & related subjects' ",30
+2016 ,"'DD - Combinations within Vet Sci,Ag & related subjects' ",105
+2016 ,"'F1 - Chemistry' ",5255
+2016 ,"'F2 - Materials Science' ",40
+2016 ,"'F3 - Physics' ",4725
+2016 ,"'F4 - Forensic and Archaeological Science' ",2245
+2016 ,"'F5 - Astronomy' ",225
+2016 ,"'F6 - Geology' ",1700
+2016 ,"'F7 - Science of aquatic & terrestrial environments' ",1420
+2016 ,"'F8 - Physical geographical sciences' ",3730
+2016 ,"'F9 - Others in Physical Sciences' ",130
+2016 ,"'FF - Combinations within Physical Sciences' ",740
+2016 ,"'G1 - Mathematics' ",8300
+2016 ,"'G2 - Operational Research' ",45
+2016 ,"'G3 - Statistics' ",210
+2016 ,"'G9 - Others in Mathematical Sciences' ",15
+2016 ,"'GG - Combinations within Mathematical Sciences' ",500
+2016 ,"'H1 - General Engineering' ",4730
+2016 ,"'H2 - Civil Engineering' ",4290
+2016 ,"'H3 - Mechanical Engineering' ",8590
+2016 ,"'H4 - Aerospace Engineering' ",3450
+2016 ,"'H5 - Naval Architecture' ",65
+2016 ,"'H6 - Electronic and Electrical Engineering' ",4860
+2016 ,"'H7 - Production and Manufacturing Engineering' ",580
+2016 ,"'H8 - Chemical,Process and Energy Engineering' ",3300
+2016 ,"'H9 - Others in Engineering' ",55
+2016 ,"'HH - Combinations within Engineering' ",865
+2016 ,"'I1 - Computer Science' ",18260
+2016 ,"'I2 - Information Systems' ",2105
+2016 ,"'I3 - Software Engineering' ",2225
+2016 ,"'I4 - Artificial Intelligence' ",105
+2016 ,"'I5 - Health Informatics' ",5
+2016 ,"'I6 - Games' ",2755
+2016 ,"'I7 - Computer generated visual & audio effects' ",170
+2016 ,"'I9 - Others in Computer Sciences' ",195
+2016 ,"'II - Combinations in Computer Sciences' ",1030
+2016 ,"'J1 - Minerals Technology' ",25
+2016 ,"'J3 - Ceramics and Glass' ",10
+2016 ,"'J4 - Polymers and Textiles' ",75
+2016 ,"'J5 - Materials Technology not otherwise spec' ",255
+2016 ,"'J6 - Maritime Technology' ",130
+2016 ,"'J7 - Biotechnology' ",280
+2016 ,"'J9 - Others in Technology' ",1345
+2016 ,"'JJ - Combinations within Technology' ",40
+2016 ,"'K1 - Architecture' ",4725
+2016 ,"'K2 - Building' ",2830
+2016 ,"'K3 - Landscape & Garden Design' ",220
+2016 ,"'K4 - Planning (Urban,Rural and Regional)' ",610
+2016 ,"'K9 - Others in Architecture,Build & Plan' ",5
+2016 ,"'KK - Combinations within Architecture,Build & Plan' ",185
+2016 ,"'L1 - Economics' ",8670
+2016 ,"'L2 - Politics' ",7565
+2016 ,"'L3 - Sociology' ",7625
+2016 ,"'L4 - Social Policy' ",1575
+2016 ,"'L5 - Social Work' ",13185
+2016 ,"'L6 - Anthropology' ",1845
+2016 ,"'L7 - Human and Social Geography' ",3390
+2016 ,"'L8 - Development studies' ",115
+2016 ,"'L9 - Others in Social Studies' ",865
+2016 ,"'LL - Combinations within Social Studies' ",3105
+2016 ,"'M1 - Law by Area' ",20650
+2016 ,"'M2 - Law by Topic' ",1670
+2016 ,"'M9 - Others in Law' ",2285
+2016 ,"'MM - Combinations within Law' ",445
+2016 ,"'N1 - Business studies' ",14685
+2016 ,"'N2 - Management studies' ",14195
+2016 ,"'N3 - Finance' ",2385
+2016 ,"'N4 - Accounting' ",7040
+2016 ,"'N5 - Marketing' ",5275
+2016 ,"'N6 - Human Resource Management' ",745
+2016 ,"'N7 - Office Skills' ",15
+2016 ,"'N8 - Hospitality, leisure, sport, tourism & transport' ",8820
+2016 ,"'N9 - Others in Business & Admin Studies' ",560
+2016 ,"'NN - Combinations within Business & Admin Studies' ",13935
+2016 ,"'P1 - Information Services' ",120
+2016 ,"'P2 - Publicity studies' ",370
+2016 ,"'P3 - Media studies' ",8360
+2016 ,"'P4 - Publishing' ",75
+2016 ,"'P5 - Journalism' ",3270
+2016 ,"'P9 - Others in Mass Comms & Documentation' ",670
+2016 ,"'PP - Combinations within Mass Comms & Documentation' ",775
+2016 ,"'Q1 - Linguistics' ",585
+2016 ,"'Q2 - Comparative Literary studies' ",245
+2016 ,"'Q3 - English studies' ",9260
+2016 ,"'Q4 - Ancient Language studies' ",10
+2016 ,"'Q5 - Celtic studies' ",95
+2016 ,"'Q6 - Latin studies' ",15
+2016 ,"'Q7 - Classical Greek studies' ",5
+2016 ,"'Q8 - Classical studies' ",1080
+2016 ,"'Q9 - Others in Linguistics,Classics & related' ",185
+2016 ,"'QQ - Combinations within Linguistics,Classics & related' ",770
+2016 ,"'R1 - French studies' ",390
+2016 ,"'R2 - German studies' ",165
+2016 ,"'R3 - Italian studies' ",20
+2016 ,"'R4 - Spanish studies' ",350
+2016 ,"'R6 - Scandinavian studies' ",15
+2016 ,"'R7 - Russian and East European studies' ",40
+2016 ,"'R8 - European studies' ",80
+2016 ,"'R9 - Others in European Langs,Lit and related' ",1165
+2016 ,"'RR - Combinations within European Langs,Lit and related' ",1280
+2016 ,"'T1 - Chinese studies' ",140
+2016 ,"'T2 - Japanese studies' ",215
+2016 ,"'T3 - South Asian studies' ",20
+2016 ,"'T4 - Other Asian studies' ",120
+2016 ,"'T5 - African studies' ",10
+2016 ,"'T6 - Modern Middle Eastern studies' ",100
+2016 ,"'T7 - American studies' ",395
+2016 ,"'T9 - Others in non-European Langs, Lit & related' ",80
+2016 ,"'TT - Combinations within non-European Langs & related' ",60
+2016 ,"'V1 - History by Period' ",9830
+2016 ,"'V2 - History by Area' ",135
+2016 ,"'V3 - History by Topic' ",1035
+2016 ,"'V4 - Archaeology' ",420
+2016 ,"'V5 - Philosophy' ",1800
+2016 ,"'V6 - Theology and Religious studies' ",1155
+2016 ,"'V7 - Heritage studies' ",15
+2016 ,"'V9 - Others in Hist & Philosophical studies' ",115
+2016 ,"'VV - Combinations within Hist & Philosophical studies' ",1185
+2016 ,"'W1 - Fine Art' ",4610
+2016 ,"'W2 - Design studies' ",19245
+2016 ,"'W3 - Music' ",9830
+2016 ,"'W4 - Drama' ",7930
+2016 ,"'W5 - Dance' ",1350
+2016 ,"'W6 - Cinematics and Photography' ",7720
+2016 ,"'W7 - Crafts' ",335
+2016 ,"'W8 - Imaginative Writing' ",815
+2016 ,"'W9 - Others in Creative Arts and Design' ",735
+2016 ,"'WW - Combinations within Creative Arts and Design' ",1915
+2016 ,"'X1 - Training Teachers' ",9230
+2016 ,"'X2 - Research and Study Skills in Education' ",25
+2016 ,"'X3 - Academic studies in Education' ",10170
+2016 ,"'X9 - Others in Education' ",235
+2016 ,"'XX - Combinations within Education' ",505
+2016 ,"'Y Combs of arts/humanities' ",2155
+2016 ,"'Y Combs of engin/tech/building studies' ",195
+2016 ,"'Y Combs of engineering/technology' ",275
+2016 ,"'Y Combs of languages' ",1270
+2016 ,"'Y Combs of languages with arts/humanities' ",5935
+2016 ,"'Y Combs of med/bio/agric sciences' ",3420
+2016 ,"'Y Combs of med/bio/agric sciences with phys/math/comp sciences' ",730
+2016 ,"'Y Combs of phys/math science with arts/humanities/languages' ",1030
+2016 ,"'Y Combs of phys/math science with social studies/bus/law' ",2570
+2016 ,"'Y Combs of phys/math/comp sciences' ",955
+2016 ,"'Y Combs of science/engineering with arts/humanities/languages' ",3565
+2016 ,"'Y Combs of science/engineering with social studies/bus/law' ",4860
+2016 ,"'Y Combs of sciences with engineering/technology' ",1250
+2016 ,"'Y Combs of soc studies/law' ",1790
+2016 ,"'Y Combs of soc studies/law with business' ",3755
+2016 ,"'Y Combs of social studies/bus/law with arts/humanities' ",7405
+2016 ,"'Y Combs of social studies/bus/law with languages' ",2340
+2016 ,"'Z Combs of 3 subjects, or other general courses' ",6595

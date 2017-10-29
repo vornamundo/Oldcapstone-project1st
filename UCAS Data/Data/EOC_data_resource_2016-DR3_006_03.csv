@@ -1,0 +1,182 @@
+"Statistic:   Number of Applications"
+"Variables:   Provider Country , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   Applications through the main scheme and UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_006_03.pdf"
+ 
+Cycle Year,Provider Country , Applicant Domicile (High Level),Number of Applications,
+2006 ,"'England' ","'England' ",1485705
+2006 ,"'England' ","'Northern Ireland' ",22825
+2006 ,"'England' ","'Scotland' ",12875
+2006 ,"'England' ","'Wales' ",41810
+2006 ,"'Northern Ireland' ","'England' ",1225
+2006 ,"'Northern Ireland' ","'Northern Ireland' ",52640
+2006 ,"'Northern Ireland' ","'Scotland' ",155
+2006 ,"'Northern Ireland' ","'Wales' ",55
+2006 ,"'Scotland' ","'England' ",39115
+2006 ,"'Scotland' ","'Northern Ireland' ",11355
+2006 ,"'Scotland' ","'Scotland' ",128215
+2006 ,"'Scotland' ","'Wales' ",1215
+2006 ,"'Wales' ","'England' ",52085
+2006 ,"'Wales' ","'Northern Ireland' ",1255
+2006 ,"'Wales' ","'Scotland' ",485
+2006 ,"'Wales' ","'Wales' ",42480
+2007 ,"'England' ","'England' ",1595535
+2007 ,"'England' ","'Northern Ireland' ",25920
+2007 ,"'England' ","'Scotland' ",12935
+2007 ,"'England' ","'Wales' ",41220
+2007 ,"'Northern Ireland' ","'England' ",1330
+2007 ,"'Northern Ireland' ","'Northern Ireland' ",50325
+2007 ,"'Northern Ireland' ","'Scotland' ",185
+2007 ,"'Northern Ireland' ","'Wales' ",85
+2007 ,"'Scotland' ","'England' ",39535
+2007 ,"'Scotland' ","'Northern Ireland' ",10430
+2007 ,"'Scotland' ","'Scotland' ",129380
+2007 ,"'Scotland' ","'Wales' ",1185
+2007 ,"'Wales' ","'England' ",51070
+2007 ,"'Wales' ","'Northern Ireland' ",1145
+2007 ,"'Wales' ","'Scotland' ",425
+2007 ,"'Wales' ","'Wales' ",44010
+2008 ,"'England' ","'England' ",1512740
+2008 ,"'England' ","'Northern Ireland' ",21775
+2008 ,"'England' ","'Scotland' ",11065
+2008 ,"'England' ","'Wales' ",35735
+2008 ,"'Northern Ireland' ","'England' ",1620
+2008 ,"'Northern Ireland' ","'Northern Ireland' ",42385
+2008 ,"'Northern Ireland' ","'Scotland' ",175
+2008 ,"'Northern Ireland' ","'Wales' ",70
+2008 ,"'Scotland' ","'England' ",37295
+2008 ,"'Scotland' ","'Northern Ireland' ",8955
+2008 ,"'Scotland' ","'Scotland' ",117975
+2008 ,"'Scotland' ","'Wales' ",1150
+2008 ,"'Wales' ","'England' ",41800
+2008 ,"'Wales' ","'Northern Ireland' ",935
+2008 ,"'Wales' ","'Scotland' ",365
+2008 ,"'Wales' ","'Wales' ",42325
+2009 ,"'England' ","'England' ",1649290
+2009 ,"'England' ","'Northern Ireland' ",22575
+2009 ,"'England' ","'Scotland' ",11385
+2009 ,"'England' ","'Wales' ",37930
+2009 ,"'Northern Ireland' ","'England' ",1835
+2009 ,"'Northern Ireland' ","'Northern Ireland' ",44650
+2009 ,"'Northern Ireland' ","'Scotland' ",200
+2009 ,"'Northern Ireland' ","'Wales' ",90
+2009 ,"'Scotland' ","'England' ",38840
+2009 ,"'Scotland' ","'Northern Ireland' ",8815
+2009 ,"'Scotland' ","'Scotland' ",124220
+2009 ,"'Scotland' ","'Wales' ",1145
+2009 ,"'Wales' ","'England' ",44545
+2009 ,"'Wales' ","'Northern Ireland' ",970
+2009 ,"'Wales' ","'Scotland' ",355
+2009 ,"'Wales' ","'Wales' ",46855
+2010 ,"'England' ","'England' ",1874505
+2010 ,"'England' ","'Northern Ireland' ",25185
+2010 ,"'England' ","'Scotland' ",12090
+2010 ,"'England' ","'Wales' ",44865
+2010 ,"'Northern Ireland' ","'England' ",1610
+2010 ,"'Northern Ireland' ","'Northern Ireland' ",49030
+2010 ,"'Northern Ireland' ","'Scotland' ",205
+2010 ,"'Northern Ireland' ","'Wales' ",75
+2010 ,"'Scotland' ","'England' ",39750
+2010 ,"'Scotland' ","'Northern Ireland' ",10260
+2010 ,"'Scotland' ","'Scotland' ",150435
+2010 ,"'Scotland' ","'Wales' ",1165
+2010 ,"'Wales' ","'England' ",49805
+2010 ,"'Wales' ","'Northern Ireland' ",1175
+2010 ,"'Wales' ","'Scotland' ",400
+2010 ,"'Wales' ","'Wales' ",46065
+2011 ,"'England' ","'England' ",1956715
+2011 ,"'England' ","'Northern Ireland' ",29200
+2011 ,"'England' ","'Scotland' ",11830
+2011 ,"'England' ","'Wales' ",47610
+2011 ,"'Northern Ireland' ","'England' ",1935
+2011 ,"'Northern Ireland' ","'Northern Ireland' ",49965
+2011 ,"'Northern Ireland' ","'Scotland' ",215
+2011 ,"'Northern Ireland' ","'Wales' ",80
+2011 ,"'Scotland' ","'England' ",33420
+2011 ,"'Scotland' ","'Northern Ireland' ",10380
+2011 ,"'Scotland' ","'Scotland' ",159385
+2011 ,"'Scotland' ","'Wales' ",1030
+2011 ,"'Wales' ","'England' ",51095
+2011 ,"'Wales' ","'Northern Ireland' ",1345
+2011 ,"'Wales' ","'Scotland' ",395
+2011 ,"'Wales' ","'Wales' ",47225
+2012 ,"'England' ","'England' ",1763365
+2012 ,"'England' ","'Northern Ireland' ",24945
+2012 ,"'England' ","'Scotland' ",9795
+2012 ,"'England' ","'Wales' ",49025
+2012 ,"'Northern Ireland' ","'England' ",2260
+2012 ,"'Northern Ireland' ","'Northern Ireland' ",51380
+2012 ,"'Northern Ireland' ","'Scotland' ",210
+2012 ,"'Northern Ireland' ","'Wales' ",95
+2012 ,"'Scotland' ","'England' ",31555
+2012 ,"'Scotland' ","'Northern Ireland' ",8570
+2012 ,"'Scotland' ","'Scotland' ",161605
+2012 ,"'Scotland' ","'Wales' ",1095
+2012 ,"'Wales' ","'England' ",44235
+2012 ,"'Wales' ","'Northern Ireland' ",1105
+2012 ,"'Wales' ","'Scotland' ",255
+2012 ,"'Wales' ","'Wales' ",44325
+2013 ,"'England' ","'England' ",1798955
+2013 ,"'England' ","'Northern Ireland' ",25630
+2013 ,"'England' ","'Scotland' ",9690
+2013 ,"'England' ","'Wales' ",48895
+2013 ,"'Northern Ireland' ","'England' ",2455
+2013 ,"'Northern Ireland' ","'Northern Ireland' ",54130
+2013 ,"'Northern Ireland' ","'Scotland' ",200
+2013 ,"'Northern Ireland' ","'Wales' ",85
+2013 ,"'Scotland' ","'England' ",36180
+2013 ,"'Scotland' ","'Northern Ireland' ",10070
+2013 ,"'Scotland' ","'Scotland' ",163570
+2013 ,"'Scotland' ","'Wales' ",1070
+2013 ,"'Wales' ","'England' ",48870
+2013 ,"'Wales' ","'Northern Ireland' ",1315
+2013 ,"'Wales' ","'Scotland' ",250
+2013 ,"'Wales' ","'Wales' ",41735
+2014 ,"'England' ","'England' ",1867390
+2014 ,"'England' ","'Northern Ireland' ",26130
+2014 ,"'England' ","'Scotland' ",9710
+2014 ,"'England' ","'Wales' ",52655
+2014 ,"'Northern Ireland' ","'England' ",2790
+2014 ,"'Northern Ireland' ","'Northern Ireland' ",55285
+2014 ,"'Northern Ireland' ","'Scotland' ",140
+2014 ,"'Northern Ireland' ","'Wales' ",95
+2014 ,"'Scotland' ","'England' ",36690
+2014 ,"'Scotland' ","'Northern Ireland' ",8765
+2014 ,"'Scotland' ","'Scotland' ",170355
+2014 ,"'Scotland' ","'Wales' ",1080
+2014 ,"'Wales' ","'England' ",51370
+2014 ,"'Wales' ","'Northern Ireland' ",1185
+2014 ,"'Wales' ","'Scotland' ",260
+2014 ,"'Wales' ","'Wales' ",40955
+2015 ,"'England' ","'England' ",1889265
+2015 ,"'England' ","'Northern Ireland' ",26970
+2015 ,"'England' ","'Scotland' ",10125
+2015 ,"'England' ","'Wales' ",54585
+2015 ,"'Northern Ireland' ","'England' ",3390
+2015 ,"'Northern Ireland' ","'Northern Ireland' ",56700
+2015 ,"'Northern Ireland' ","'Scotland' ",225
+2015 ,"'Northern Ireland' ","'Wales' ",110
+2015 ,"'Scotland' ","'England' ",37360
+2015 ,"'Scotland' ","'Northern Ireland' ",8875
+2015 ,"'Scotland' ","'Scotland' ",185695
+2015 ,"'Scotland' ","'Wales' ",1065
+2015 ,"'Wales' ","'England' ",51765
+2015 ,"'Wales' ","'Northern Ireland' ",1175
+2015 ,"'Wales' ","'Scotland' ",250
+2015 ,"'Wales' ","'Wales' ",39960
+2016 ,"'England' ","'England' ",1885085
+2016 ,"'England' ","'Northern Ireland' ",28690
+2016 ,"'England' ","'Scotland' ",10425
+2016 ,"'England' ","'Wales' ",54755
+2016 ,"'Northern Ireland' ","'England' ",2650
+2016 ,"'Northern Ireland' ","'Northern Ireland' ",55890
+2016 ,"'Northern Ireland' ","'Scotland' ",235
+2016 ,"'Northern Ireland' ","'Wales' ",105
+2016 ,"'Scotland' ","'England' ",37585
+2016 ,"'Scotland' ","'Northern Ireland' ",9200
+2016 ,"'Scotland' ","'Scotland' ",189345
+2016 ,"'Scotland' ","'Wales' ",1140
+2016 ,"'Wales' ","'England' ",51330
+2016 ,"'Wales' ","'Northern Ireland' ",1415
+2016 ,"'Wales' ","'Scotland' ",230
+2016 ,"'Wales' ","'Wales' ",40020

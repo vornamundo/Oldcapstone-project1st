@@ -1,0 +1,72 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Deferred Status , Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_002_01.pdf"
+ 
+Cycle Year,Deferred Status , Applicant Domicile (UK / EU / Not EU),Number of Acceptances,
+2006 ,"'Deferred' ","'UK' ",25495
+2006 ,"'Deferred' ","'EU (excluding UK)' ",940
+2006 ,"'Deferred' ","'Not EU' ",1630
+2006 ,"'Not deferred' ","'UK' ",318865
+2006 ,"'Not deferred' ","'EU (excluding UK)' ",17340
+2006 ,"'Not deferred' ","'Not EU' ",26615
+2007 ,"'Deferred' ","'UK' ",25515
+2007 ,"'Deferred' ","'EU (excluding UK)' ",1070
+2007 ,"'Deferred' ","'Not EU' ",1740
+2007 ,"'Not deferred' ","'UK' ",337855
+2007 ,"'Not deferred' ","'EU (excluding UK)' ",19590
+2007 ,"'Not deferred' ","'Not EU' ",27660
+2008 ,"'Deferred' ","'UK' ",27290
+2008 ,"'Deferred' ","'EU (excluding UK)' ",1130
+2008 ,"'Deferred' ","'Not EU' ",1855
+2008 ,"'Not deferred' ","'UK' ",376565
+2008 ,"'Not deferred' ","'EU (excluding UK)' ",20235
+2008 ,"'Not deferred' ","'Not EU' ",29550
+2009 ,"'Deferred' ","'UK' ",26895
+2009 ,"'Deferred' ","'EU (excluding UK)' ",1280
+2009 ,"'Deferred' ","'Not EU' ",1900
+2009 ,"'Not deferred' ","'UK' ",397060
+2009 ,"'Not deferred' ","'EU (excluding UK)' ",22525
+2009 ,"'Not deferred' ","'Not EU' ",32195
+2010 ,"'Deferred' ","'UK' ",25880
+2010 ,"'Deferred' ","'EU (excluding UK)' ",1335
+2010 ,"'Deferred' ","'Not EU' ",2060
+2010 ,"'Not deferred' ","'UK' ",397550
+2010 ,"'Not deferred' ","'EU (excluding UK)' ",24275
+2010 ,"'Not deferred' ","'Not EU' ",36230
+2011 ,"'Deferred' ","'UK' ",10700
+2011 ,"'Deferred' ","'EU (excluding UK)' ",955
+2011 ,"'Deferred' ","'Not EU' ",1565
+2011 ,"'Not deferred' ","'UK' ",419370
+2011 ,"'Not deferred' ","'EU (excluding UK)' ",25750
+2011 ,"'Not deferred' ","'Not EU' ",33695
+2012 ,"'Deferred' ","'UK' ",21125
+2012 ,"'Deferred' ","'EU (excluding UK)' ",1210
+2012 ,"'Deferred' ","'Not EU' ",1865
+2012 ,"'Not deferred' ","'UK' ",385120
+2012 ,"'Not deferred' ","'EU (excluding UK)' ",22025
+2012 ,"'Not deferred' ","'Not EU' ",33570
+2013 ,"'Deferred' ","'UK' ",22235
+2013 ,"'Deferred' ","'EU (excluding UK)' ",1270
+2013 ,"'Deferred' ","'Not EU' ",2015
+2013 ,"'Not deferred' ","'UK' ",411375
+2013 ,"'Not deferred' ","'EU (excluding UK)' ",23235
+2013 ,"'Not deferred' ","'Not EU' ",35460
+2014 ,"'Deferred' ","'UK' ",23755
+2014 ,"'Deferred' ","'EU (excluding UK)' ",1420
+2014 ,"'Deferred' ","'Not EU' ",2185
+2014 ,"'Not deferred' ","'UK' ",423695
+2014 ,"'Not deferred' ","'EU (excluding UK)' ",24965
+2014 ,"'Not deferred' ","'Not EU' ",36355
+2015 ,"'Deferred' ","'UK' ",25175
+2015 ,"'Deferred' ","'EU (excluding UK)' ",1510
+2015 ,"'Deferred' ","'Not EU' ",2115
+2015 ,"'Not deferred' ","'UK' ",438540
+2015 ,"'Not deferred' ","'EU (excluding UK)' ",27790
+2015 ,"'Not deferred' ","'Not EU' ",37135
+2016 ,"'Deferred' ","'UK' ",25575
+2016 ,"'Deferred' ","'EU (excluding UK)' ",1470
+2016 ,"'Deferred' ","'Not EU' ",1980
+2016 ,"'Not deferred' ","'UK' ",439905
+2016 ,"'Not deferred' ","'EU (excluding UK)' ",29875
+2016 ,"'Not deferred' ","'Not EU' ",36365

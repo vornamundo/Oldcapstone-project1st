@@ -1,0 +1,786 @@
+"Statistic:   Number of Applications"
+"Variables:   Subject Group (Summary Level) , Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   Applications through the main scheme"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_011_03.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Applicant Domicile (UK / EU / Not EU),Number of Applications,
+2007 ,"'Group A Medicine and Dentistry' ","'UK' ",68265
+2007 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",6870
+2007 ,"'Group A Medicine and Dentistry' ","'Not EU' ",8375
+2007 ,"'Group B Subjects allied to Medicine' ","'UK' ",164880
+2007 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",12155
+2007 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",10115
+2007 ,"'Group C Biological Sciences' ","'UK' ",169605
+2007 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",9255
+2007 ,"'Group C Biological Sciences' ","'Not EU' ",8695
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",16250
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",1305
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",870
+2007 ,"'Group F Physical Sciences' ","'UK' ",77705
+2007 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",3370
+2007 ,"'Group F Physical Sciences' ","'Not EU' ",4370
+2007 ,"'Group G Mathematical Sciences' ","'UK' ",28880
+2007 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2095
+2007 ,"'Group G Mathematical Sciences' ","'Not EU' ",4430
+2007 ,"'Group H Engineering' ","'UK' ",76135
+2007 ,"'Group H Engineering' ","'EU (excluding UK)' ",10715
+2007 ,"'Group H Engineering' ","'Not EU' ",26320
+2007 ,"'Group I Computer Sciences' ","'UK' ",67475
+2007 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",4395
+2007 ,"'Group I Computer Sciences' ","'Not EU' ",7855
+2007 ,"'Group J Technologies' ","'UK' ",9090
+2007 ,"'Group J Technologies' ","'EU (excluding UK)' ",710
+2007 ,"'Group J Technologies' ","'Not EU' ",970
+2007 ,"'Group K Architecture, Building and Planning' ","'UK' ",40800
+2007 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",5390
+2007 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",4730
+2007 ,"'Group L Social Studies' ","'UK' ",158825
+2007 ,"'Group L Social Studies' ","'EU (excluding UK)' ",12575
+2007 ,"'Group L Social Studies' ","'Not EU' ",19610
+2007 ,"'Group M Law' ","'UK' ",89695
+2007 ,"'Group M Law' ","'EU (excluding UK)' ",6690
+2007 ,"'Group M Law' ","'Not EU' ",14280
+2007 ,"'Group N Business and Admin studies' ","'UK' ",209120
+2007 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",22455
+2007 ,"'Group N Business and Admin studies' ","'Not EU' ",48400
+2007 ,"'Group P Mass Communication and Documentation' ","'UK' ",45190
+2007 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",2845
+2007 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",2730
+2007 ,"'Group Q Linguistics, Classics and related' ","'UK' ",64600
+2007 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",2230
+2007 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",1965
+2007 ,"'Group R European Languages, Literature and related' ","'UK' ",22345
+2007 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",1955
+2007 ,"'Group R European Languages, Literature and related' ","'Not EU' ",590
+2007 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",7995
+2007 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",630
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",320
+2007 ,"'Group V History and Philosophical studies' ","'UK' ",74600
+2007 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2150
+2007 ,"'Group V History and Philosophical studies' ","'Not EU' ",2445
+2007 ,"'Group W Creative Arts and Design' ","'UK' ",209755
+2007 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",10510
+2007 ,"'Group W Creative Arts and Design' ","'Not EU' ",8295
+2007 ,"'Group X Education' ","'UK' ",69725
+2007 ,"'Group X Education' ","'EU (excluding UK)' ",1640
+2007 ,"'Group X Education' ","'Not EU' ",775
+2007 ,"'Y Combined arts' ","'UK' ",76250
+2007 ,"'Y Combined arts' ","'EU (excluding UK)' ",3885
+2007 ,"'Y Combined arts' ","'Not EU' ",2375
+2007 ,"'Y Combined sciences' ","'UK' ",37420
+2007 ,"'Y Combined sciences' ","'EU (excluding UK)' ",2350
+2007 ,"'Y Combined sciences' ","'Not EU' ",3845
+2007 ,"'Y Combined social sciences' ","'UK' ",31645
+2007 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3575
+2007 ,"'Y Combined social sciences' ","'Not EU' ",6125
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",107165
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",5780
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",9095
+2007 ,"'Y Social Sciences combined with Arts' ","'UK' ",64300
+2007 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",7740
+2007 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",5745
+2007 ,"'Z General, other combined and unknown' ","'UK' ",17000
+2007 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",1795
+2007 ,"'Z General, other combined and unknown' ","'Not EU' ",1975
+2008 ,"'Group A Medicine and Dentistry' ","'UK' ",64975
+2008 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",6290
+2008 ,"'Group A Medicine and Dentistry' ","'Not EU' ",8540
+2008 ,"'Group B Subjects allied to Medicine' ","'UK' ",194295
+2008 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",10175
+2008 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",9135
+2008 ,"'Group C Biological Sciences' ","'UK' ",151910
+2008 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",7545
+2008 ,"'Group C Biological Sciences' ","'Not EU' ",7290
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",16530
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",1340
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",935
+2008 ,"'Group F Physical Sciences' ","'UK' ",68700
+2008 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",2970
+2008 ,"'Group F Physical Sciences' ","'Not EU' ",4310
+2008 ,"'Group G Mathematical Sciences' ","'UK' ",27025
+2008 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",1680
+2008 ,"'Group G Mathematical Sciences' ","'Not EU' ",4575
+2008 ,"'Group H Engineering' ","'UK' ",71475
+2008 ,"'Group H Engineering' ","'EU (excluding UK)' ",8955
+2008 ,"'Group H Engineering' ","'Not EU' ",24610
+2008 ,"'Group I Computer Sciences' ","'UK' ",61565
+2008 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",3695
+2008 ,"'Group I Computer Sciences' ","'Not EU' ",5860
+2008 ,"'Group J Technologies' ","'UK' ",8540
+2008 ,"'Group J Technologies' ","'EU (excluding UK)' ",640
+2008 ,"'Group J Technologies' ","'Not EU' ",865
+2008 ,"'Group K Architecture, Building and Planning' ","'UK' ",39680
+2008 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",4730
+2008 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",4815
+2008 ,"'Group L Social Studies' ","'UK' ",148780
+2008 ,"'Group L Social Studies' ","'EU (excluding UK)' ",11680
+2008 ,"'Group L Social Studies' ","'Not EU' ",18865
+2008 ,"'Group M Law' ","'UK' ",81965
+2008 ,"'Group M Law' ","'EU (excluding UK)' ",6075
+2008 ,"'Group M Law' ","'Not EU' ",13360
+2008 ,"'Group N Business and Admin studies' ","'UK' ",194515
+2008 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",21000
+2008 ,"'Group N Business and Admin studies' ","'Not EU' ",45620
+2008 ,"'Group P Mass Communication and Documentation' ","'UK' ",41600
+2008 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",2640
+2008 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",2500
+2008 ,"'Group Q Linguistics, Classics and related' ","'UK' ",58395
+2008 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",2055
+2008 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",1720
+2008 ,"'Group R European Languages, Literature and related' ","'UK' ",20405
+2008 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",1875
+2008 ,"'Group R European Languages, Literature and related' ","'Not EU' ",600
+2008 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",6550
+2008 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",465
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",245
+2008 ,"'Group V History and Philosophical studies' ","'UK' ",67860
+2008 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2205
+2008 ,"'Group V History and Philosophical studies' ","'Not EU' ",2240
+2008 ,"'Group W Creative Arts and Design' ","'UK' ",195015
+2008 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",9720
+2008 ,"'Group W Creative Arts and Design' ","'Not EU' ",7995
+2008 ,"'Group X Education' ","'UK' ",64175
+2008 ,"'Group X Education' ","'EU (excluding UK)' ",1250
+2008 ,"'Group X Education' ","'Not EU' ",735
+2008 ,"'Y Combined arts' ","'UK' ",65165
+2008 ,"'Y Combined arts' ","'EU (excluding UK)' ",3220
+2008 ,"'Y Combined arts' ","'Not EU' ",1970
+2008 ,"'Y Combined sciences' ","'UK' ",32595
+2008 ,"'Y Combined sciences' ","'EU (excluding UK)' ",1950
+2008 ,"'Y Combined sciences' ","'Not EU' ",3150
+2008 ,"'Y Combined social sciences' ","'UK' ",27480
+2008 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3000
+2008 ,"'Y Combined social sciences' ","'Not EU' ",5945
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",96675
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",4780
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",8410
+2008 ,"'Y Social Sciences combined with Arts' ","'UK' ",56340
+2008 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",6765
+2008 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",5000
+2008 ,"'Z General, other combined and unknown' ","'UK' ",14145
+2008 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",1365
+2008 ,"'Z General, other combined and unknown' ","'Not EU' ",1910
+2009 ,"'Group A Medicine and Dentistry' ","'UK' ",66300
+2009 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",6450
+2009 ,"'Group A Medicine and Dentistry' ","'Not EU' ",9050
+2009 ,"'Group B Subjects allied to Medicine' ","'UK' ",224990
+2009 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",10415
+2009 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",10800
+2009 ,"'Group C Biological Sciences' ","'UK' ",168425
+2009 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",9410
+2009 ,"'Group C Biological Sciences' ","'Not EU' ",8605
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",18825
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",1530
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",995
+2009 ,"'Group F Physical Sciences' ","'UK' ",73225
+2009 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",3625
+2009 ,"'Group F Physical Sciences' ","'Not EU' ",4760
+2009 ,"'Group G Mathematical Sciences' ","'UK' ",32670
+2009 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2050
+2009 ,"'Group G Mathematical Sciences' ","'Not EU' ",6080
+2009 ,"'Group H Engineering' ","'UK' ",83545
+2009 ,"'Group H Engineering' ","'EU (excluding UK)' ",11450
+2009 ,"'Group H Engineering' ","'Not EU' ",27790
+2009 ,"'Group I Computer Sciences' ","'UK' ",69480
+2009 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",4650
+2009 ,"'Group I Computer Sciences' ","'Not EU' ",5755
+2009 ,"'Group J Technologies' ","'UK' ",9670
+2009 ,"'Group J Technologies' ","'EU (excluding UK)' ",690
+2009 ,"'Group J Technologies' ","'Not EU' ",1130
+2009 ,"'Group K Architecture, Building and Planning' ","'UK' ",39200
+2009 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",5735
+2009 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",5555
+2009 ,"'Group L Social Studies' ","'UK' ",168470
+2009 ,"'Group L Social Studies' ","'EU (excluding UK)' ",14850
+2009 ,"'Group L Social Studies' ","'Not EU' ",21610
+2009 ,"'Group M Law' ","'UK' ",88880
+2009 ,"'Group M Law' ","'EU (excluding UK)' ",6980
+2009 ,"'Group M Law' ","'Not EU' ",15025
+2009 ,"'Group N Business and Admin studies' ","'UK' ",213235
+2009 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",24950
+2009 ,"'Group N Business and Admin studies' ","'Not EU' ",46355
+2009 ,"'Group P Mass Communication and Documentation' ","'UK' ",46965
+2009 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",3550
+2009 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",2590
+2009 ,"'Group Q Linguistics, Classics and related' ","'UK' ",65335
+2009 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",2330
+2009 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",2365
+2009 ,"'Group R European Languages, Literature and related' ","'UK' ",21500
+2009 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",2190
+2009 ,"'Group R European Languages, Literature and related' ","'Not EU' ",725
+2009 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",6870
+2009 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",650
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",305
+2009 ,"'Group V History and Philosophical studies' ","'UK' ",74150
+2009 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2490
+2009 ,"'Group V History and Philosophical studies' ","'Not EU' ",2600
+2009 ,"'Group W Creative Arts and Design' ","'UK' ",215025
+2009 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",11910
+2009 ,"'Group W Creative Arts and Design' ","'Not EU' ",8570
+2009 ,"'Group X Education' ","'UK' ",72450
+2009 ,"'Group X Education' ","'EU (excluding UK)' ",1770
+2009 ,"'Group X Education' ","'Not EU' ",730
+2009 ,"'Y Combined arts' ","'UK' ",61160
+2009 ,"'Y Combined arts' ","'EU (excluding UK)' ",3590
+2009 ,"'Y Combined arts' ","'Not EU' ",2095
+2009 ,"'Y Combined sciences' ","'UK' ",31765
+2009 ,"'Y Combined sciences' ","'EU (excluding UK)' ",2020
+2009 ,"'Y Combined sciences' ","'Not EU' ",3020
+2009 ,"'Y Combined social sciences' ","'UK' ",25410
+2009 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3030
+2009 ,"'Y Combined social sciences' ","'Not EU' ",5280
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",89430
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",4555
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",6695
+2009 ,"'Y Social Sciences combined with Arts' ","'UK' ",51910
+2009 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",6240
+2009 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",4310
+2009 ,"'Z General, other combined and unknown' ","'UK' ",14830
+2009 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",1830
+2009 ,"'Z General, other combined and unknown' ","'Not EU' ",1975
+2010 ,"'Group A Medicine and Dentistry' ","'UK' ",74085
+2010 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",8770
+2010 ,"'Group A Medicine and Dentistry' ","'Not EU' ",10385
+2010 ,"'Group B Subjects allied to Medicine' ","'UK' ",299320
+2010 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",15925
+2010 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",11645
+2010 ,"'Group C Biological Sciences' ","'UK' ",194380
+2010 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",12060
+2010 ,"'Group C Biological Sciences' ","'Not EU' ",9805
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",22325
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",2055
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",1190
+2010 ,"'Group F Physical Sciences' ","'UK' ",81830
+2010 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",4740
+2010 ,"'Group F Physical Sciences' ","'Not EU' ",5620
+2010 ,"'Group G Mathematical Sciences' ","'UK' ",35290
+2010 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2300
+2010 ,"'Group G Mathematical Sciences' ","'Not EU' ",6600
+2010 ,"'Group H Engineering' ","'UK' ",91945
+2010 ,"'Group H Engineering' ","'EU (excluding UK)' ",12700
+2010 ,"'Group H Engineering' ","'Not EU' ",30075
+2010 ,"'Group I Computer Sciences' ","'UK' ",78350
+2010 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",5780
+2010 ,"'Group I Computer Sciences' ","'Not EU' ",6130
+2010 ,"'Group J Technologies' ","'UK' ",10550
+2010 ,"'Group J Technologies' ","'EU (excluding UK)' ",850
+2010 ,"'Group J Technologies' ","'Not EU' ",1210
+2010 ,"'Group K Architecture, Building and Planning' ","'UK' ",37300
+2010 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",6690
+2010 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",6080
+2010 ,"'Group L Social Studies' ","'UK' ",195785
+2010 ,"'Group L Social Studies' ","'EU (excluding UK)' ",18085
+2010 ,"'Group L Social Studies' ","'Not EU' ",23260
+2010 ,"'Group M Law' ","'UK' ",90845
+2010 ,"'Group M Law' ","'EU (excluding UK)' ",8415
+2010 ,"'Group M Law' ","'Not EU' ",17760
+2010 ,"'Group N Business and Admin studies' ","'UK' ",228955
+2010 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",29865
+2010 ,"'Group N Business and Admin studies' ","'Not EU' ",51180
+2010 ,"'Group P Mass Communication and Documentation' ","'UK' ",51130
+2010 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",4505
+2010 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",3070
+2010 ,"'Group Q Linguistics, Classics and related' ","'UK' ",68910
+2010 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",3210
+2010 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",2355
+2010 ,"'Group R European Languages, Literature and related' ","'UK' ",22585
+2010 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",2360
+2010 ,"'Group R European Languages, Literature and related' ","'Not EU' ",770
+2010 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",7285
+2010 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",705
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",425
+2010 ,"'Group V History and Philosophical studies' ","'UK' ",78800
+2010 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2940
+2010 ,"'Group V History and Philosophical studies' ","'Not EU' ",2905
+2010 ,"'Group W Creative Arts and Design' ","'UK' ",258220
+2010 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",16715
+2010 ,"'Group W Creative Arts and Design' ","'Not EU' ",11880
+2010 ,"'Group X Education' ","'UK' ",84680
+2010 ,"'Group X Education' ","'EU (excluding UK)' ",2105
+2010 ,"'Group X Education' ","'Not EU' ",925
+2010 ,"'Y Combined arts' ","'UK' ",65575
+2010 ,"'Y Combined arts' ","'EU (excluding UK)' ",4340
+2010 ,"'Y Combined arts' ","'Not EU' ",2190
+2010 ,"'Y Combined sciences' ","'UK' ",34945
+2010 ,"'Y Combined sciences' ","'EU (excluding UK)' ",2595
+2010 ,"'Y Combined sciences' ","'Not EU' ",3200
+2010 ,"'Y Combined social sciences' ","'UK' ",26170
+2010 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3705
+2010 ,"'Y Combined social sciences' ","'Not EU' ",5440
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",97615
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",5765
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",6675
+2010 ,"'Y Social Sciences combined with Arts' ","'UK' ",54925
+2010 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",7190
+2010 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",4575
+2010 ,"'Z General, other combined and unknown' ","'UK' ",14820
+2010 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",1865
+2010 ,"'Z General, other combined and unknown' ","'Not EU' ",2300
+2011 ,"'Group A Medicine and Dentistry' ","'UK' ",76510
+2011 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",8630
+2011 ,"'Group A Medicine and Dentistry' ","'Not EU' ",11315
+2011 ,"'Group B Subjects allied to Medicine' ","'UK' ",338290
+2011 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",17575
+2011 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",12245
+2011 ,"'Group C Biological Sciences' ","'UK' ",203665
+2011 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",13540
+2011 ,"'Group C Biological Sciences' ","'Not EU' ",11285
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",24865
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",2005
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",1210
+2011 ,"'Group F Physical Sciences' ","'UK' ",88415
+2011 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",5260
+2011 ,"'Group F Physical Sciences' ","'Not EU' ",5765
+2011 ,"'Group G Mathematical Sciences' ","'UK' ",36285
+2011 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2750
+2011 ,"'Group G Mathematical Sciences' ","'Not EU' ",6595
+2011 ,"'Group H Engineering' ","'UK' ",97320
+2011 ,"'Group H Engineering' ","'EU (excluding UK)' ",13610
+2011 ,"'Group H Engineering' ","'Not EU' ",29900
+2011 ,"'Group I Computer Sciences' ","'UK' ",83655
+2011 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",7505
+2011 ,"'Group I Computer Sciences' ","'Not EU' ",5945
+2011 ,"'Group J Technologies' ","'UK' ",10005
+2011 ,"'Group J Technologies' ","'EU (excluding UK)' ",955
+2011 ,"'Group J Technologies' ","'Not EU' ",1160
+2011 ,"'Group K Architecture, Building and Planning' ","'UK' ",36305
+2011 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",6605
+2011 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",6650
+2011 ,"'Group L Social Studies' ","'UK' ",199160
+2011 ,"'Group L Social Studies' ","'EU (excluding UK)' ",19140
+2011 ,"'Group L Social Studies' ","'Not EU' ",24905
+2011 ,"'Group M Law' ","'UK' ",93085
+2011 ,"'Group M Law' ","'EU (excluding UK)' ",9130
+2011 ,"'Group M Law' ","'Not EU' ",20635
+2011 ,"'Group N Business and Admin studies' ","'UK' ",239900
+2011 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",34640
+2011 ,"'Group N Business and Admin studies' ","'Not EU' ",55665
+2011 ,"'Group P Mass Communication and Documentation' ","'UK' ",54225
+2011 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",5230
+2011 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",3315
+2011 ,"'Group Q Linguistics, Classics and related' ","'UK' ",65790
+2011 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",3100
+2011 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",2610
+2011 ,"'Group R European Languages, Literature and related' ","'UK' ",22330
+2011 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",2390
+2011 ,"'Group R European Languages, Literature and related' ","'Not EU' ",770
+2011 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",7290
+2011 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",795
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",355
+2011 ,"'Group V History and Philosophical studies' ","'UK' ",77185
+2011 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2980
+2011 ,"'Group V History and Philosophical studies' ","'Not EU' ",3020
+2011 ,"'Group W Creative Arts and Design' ","'UK' ",270090
+2011 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",18830
+2011 ,"'Group W Creative Arts and Design' ","'Not EU' ",13030
+2011 ,"'Group X Education' ","'UK' ",91170
+2011 ,"'Group X Education' ","'EU (excluding UK)' ",2220
+2011 ,"'Group X Education' ","'Not EU' ",885
+2011 ,"'Y Combined arts' ","'UK' ",63570
+2011 ,"'Y Combined arts' ","'EU (excluding UK)' ",4535
+2011 ,"'Y Combined arts' ","'Not EU' ",2300
+2011 ,"'Y Combined sciences' ","'UK' ",36635
+2011 ,"'Y Combined sciences' ","'EU (excluding UK)' ",2805
+2011 ,"'Y Combined sciences' ","'Not EU' ",3345
+2011 ,"'Y Combined social sciences' ","'UK' ",25120
+2011 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3690
+2011 ,"'Y Combined social sciences' ","'Not EU' ",5330
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",93375
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",5945
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",6595
+2011 ,"'Y Social Sciences combined with Arts' ","'UK' ",52710
+2011 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",7455
+2011 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",4705
+2011 ,"'Z General, other combined and unknown' ","'UK' ",14870
+2011 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",2005
+2011 ,"'Z General, other combined and unknown' ","'Not EU' ",2330
+2012 ,"'Group A Medicine and Dentistry' ","'UK' ",73730
+2012 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",7755
+2012 ,"'Group A Medicine and Dentistry' ","'Not EU' ",12460
+2012 ,"'Group B Subjects allied to Medicine' ","'UK' ",339100
+2012 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",16345
+2012 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",12835
+2012 ,"'Group C Biological Sciences' ","'UK' ",191615
+2012 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",13615
+2012 ,"'Group C Biological Sciences' ","'Not EU' ",12965
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",23650
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",1820
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",1545
+2012 ,"'Group F Physical Sciences' ","'UK' ",86795
+2012 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",5065
+2012 ,"'Group F Physical Sciences' ","'Not EU' ",6645
+2012 ,"'Group G Mathematical Sciences' ","'UK' ",34770
+2012 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2495
+2012 ,"'Group G Mathematical Sciences' ","'Not EU' ",7195
+2012 ,"'Group H Engineering' ","'UK' ",93640
+2012 ,"'Group H Engineering' ","'EU (excluding UK)' ",11625
+2012 ,"'Group H Engineering' ","'Not EU' ",32030
+2012 ,"'Group I Computer Sciences' ","'UK' ",76980
+2012 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",6760
+2012 ,"'Group I Computer Sciences' ","'Not EU' ",6190
+2012 ,"'Group J Technologies' ","'UK' ",8000
+2012 ,"'Group J Technologies' ","'EU (excluding UK)' ",935
+2012 ,"'Group J Technologies' ","'Not EU' ",1050
+2012 ,"'Group K Architecture, Building and Planning' ","'UK' ",29760
+2012 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",4845
+2012 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",6840
+2012 ,"'Group L Social Studies' ","'UK' ",173535
+2012 ,"'Group L Social Studies' ","'EU (excluding UK)' ",16235
+2012 ,"'Group L Social Studies' ","'Not EU' ",25490
+2012 ,"'Group M Law' ","'UK' ",86475
+2012 ,"'Group M Law' ","'EU (excluding UK)' ",8530
+2012 ,"'Group M Law' ","'Not EU' ",22830
+2012 ,"'Group N Business and Admin studies' ","'UK' ",219805
+2012 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",29190
+2012 ,"'Group N Business and Admin studies' ","'Not EU' ",62180
+2012 ,"'Group P Mass Communication and Documentation' ","'UK' ",45780
+2012 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",4425
+2012 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",3585
+2012 ,"'Group Q Linguistics, Classics and related' ","'UK' ",59850
+2012 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",2790
+2012 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",3070
+2012 ,"'Group R European Languages, Literature and related' ","'UK' ",19645
+2012 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",2075
+2012 ,"'Group R European Languages, Literature and related' ","'Not EU' ",785
+2012 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",5740
+2012 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",585
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",375
+2012 ,"'Group V History and Philosophical studies' ","'UK' ",71195
+2012 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2790
+2012 ,"'Group V History and Philosophical studies' ","'Not EU' ",3240
+2012 ,"'Group W Creative Arts and Design' ","'UK' ",224560
+2012 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",14540
+2012 ,"'Group W Creative Arts and Design' ","'Not EU' ",13730
+2012 ,"'Group X Education' ","'UK' ",83730
+2012 ,"'Group X Education' ","'EU (excluding UK)' ",1240
+2012 ,"'Group X Education' ","'Not EU' ",1020
+2012 ,"'Y Combined arts' ","'UK' ",52795
+2012 ,"'Y Combined arts' ","'EU (excluding UK)' ",3690
+2012 ,"'Y Combined arts' ","'Not EU' ",2400
+2012 ,"'Y Combined sciences' ","'UK' ",32600
+2012 ,"'Y Combined sciences' ","'EU (excluding UK)' ",2655
+2012 ,"'Y Combined sciences' ","'Not EU' ",3635
+2012 ,"'Y Combined social sciences' ","'UK' ",20820
+2012 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3380
+2012 ,"'Y Combined social sciences' ","'Not EU' ",5895
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",75980
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",5250
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",6240
+2012 ,"'Y Social Sciences combined with Arts' ","'UK' ",44180
+2012 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",6400
+2012 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",5320
+2012 ,"'Z General, other combined and unknown' ","'UK' ",19100
+2012 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",3385
+2012 ,"'Z General, other combined and unknown' ","'Not EU' ",4465
+2013 ,"'Group A Medicine and Dentistry' ","'UK' ",74535
+2013 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",7775
+2013 ,"'Group A Medicine and Dentistry' ","'Not EU' ",12735
+2013 ,"'Group B Subjects allied to Medicine' ","'UK' ",351740
+2013 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",18160
+2013 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",13805
+2013 ,"'Group C Biological Sciences' ","'UK' ",205150
+2013 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",15240
+2013 ,"'Group C Biological Sciences' ","'Not EU' ",14590
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",25695
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",1990
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",1580
+2013 ,"'Group F Physical Sciences' ","'UK' ",91870
+2013 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",5585
+2013 ,"'Group F Physical Sciences' ","'Not EU' ",7215
+2013 ,"'Group G Mathematical Sciences' ","'UK' ",36665
+2013 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2365
+2013 ,"'Group G Mathematical Sciences' ","'Not EU' ",6880
+2013 ,"'Group H Engineering' ","'UK' ",99645
+2013 ,"'Group H Engineering' ","'EU (excluding UK)' ",12090
+2013 ,"'Group H Engineering' ","'Not EU' ",34615
+2013 ,"'Group I Computer Sciences' ","'UK' ",84980
+2013 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",7825
+2013 ,"'Group I Computer Sciences' ","'Not EU' ",6900
+2013 ,"'Group J Technologies' ","'UK' ",8015
+2013 ,"'Group J Technologies' ","'EU (excluding UK)' ",910
+2013 ,"'Group J Technologies' ","'Not EU' ",1080
+2013 ,"'Group K Architecture, Building and Planning' ","'UK' ",27970
+2013 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",4585
+2013 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",7655
+2013 ,"'Group L Social Studies' ","'UK' ",174640
+2013 ,"'Group L Social Studies' ","'EU (excluding UK)' ",16995
+2013 ,"'Group L Social Studies' ","'Not EU' ",27150
+2013 ,"'Group M Law' ","'UK' ",89500
+2013 ,"'Group M Law' ","'EU (excluding UK)' ",8300
+2013 ,"'Group M Law' ","'Not EU' ",26020
+2013 ,"'Group N Business and Admin studies' ","'UK' ",223590
+2013 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",30205
+2013 ,"'Group N Business and Admin studies' ","'Not EU' ",62955
+2013 ,"'Group P Mass Communication and Documentation' ","'UK' ",48375
+2013 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",5200
+2013 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",4405
+2013 ,"'Group Q Linguistics, Classics and related' ","'UK' ",59400
+2013 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",2925
+2013 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",3385
+2013 ,"'Group R European Languages, Literature and related' ","'UK' ",18650
+2013 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",1875
+2013 ,"'Group R European Languages, Literature and related' ","'Not EU' ",740
+2013 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",5445
+2013 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",490
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",325
+2013 ,"'Group V History and Philosophical studies' ","'UK' ",72740
+2013 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2645
+2013 ,"'Group V History and Philosophical studies' ","'Not EU' ",3500
+2013 ,"'Group W Creative Arts and Design' ","'UK' ",227320
+2013 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",15465
+2013 ,"'Group W Creative Arts and Design' ","'Not EU' ",15740
+2013 ,"'Group X Education' ","'UK' ",81670
+2013 ,"'Group X Education' ","'EU (excluding UK)' ",965
+2013 ,"'Group X Education' ","'Not EU' ",960
+2013 ,"'Y Combined arts' ","'UK' ",49780
+2013 ,"'Y Combined arts' ","'EU (excluding UK)' ",3780
+2013 ,"'Y Combined arts' ","'Not EU' ",2715
+2013 ,"'Y Combined sciences' ","'UK' ",32780
+2013 ,"'Y Combined sciences' ","'EU (excluding UK)' ",2835
+2013 ,"'Y Combined sciences' ","'Not EU' ",3785
+2013 ,"'Y Combined social sciences' ","'UK' ",20095
+2013 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3310
+2013 ,"'Y Combined social sciences' ","'Not EU' ",5975
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",69800
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",5070
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",6340
+2013 ,"'Y Social Sciences combined with Arts' ","'UK' ",42485
+2013 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",6660
+2013 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",6045
+2013 ,"'Z General, other combined and unknown' ","'UK' ",20575
+2013 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",3635
+2013 ,"'Z General, other combined and unknown' ","'Not EU' ",4790
+2014 ,"'Group A Medicine and Dentistry' ","'UK' ",74860
+2014 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",8330
+2014 ,"'Group A Medicine and Dentistry' ","'Not EU' ",14370
+2014 ,"'Group B Subjects allied to Medicine' ","'UK' ",367425
+2014 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",17765
+2014 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",14315
+2014 ,"'Group C Biological Sciences' ","'UK' ",222675
+2014 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",16180
+2014 ,"'Group C Biological Sciences' ","'Not EU' ",16615
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",27110
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",2170
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",1580
+2014 ,"'Group F Physical Sciences' ","'UK' ",95220
+2014 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",5650
+2014 ,"'Group F Physical Sciences' ","'Not EU' ",8465
+2014 ,"'Group G Mathematical Sciences' ","'UK' ",36150
+2014 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2655
+2014 ,"'Group G Mathematical Sciences' ","'Not EU' ",6735
+2014 ,"'Group H Engineering' ","'UK' ",110230
+2014 ,"'Group H Engineering' ","'EU (excluding UK)' ",12805
+2014 ,"'Group H Engineering' ","'Not EU' ",38105
+2014 ,"'Group I Computer Sciences' ","'UK' ",94965
+2014 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",9055
+2014 ,"'Group I Computer Sciences' ","'Not EU' ",8280
+2014 ,"'Group J Technologies' ","'UK' ",8560
+2014 ,"'Group J Technologies' ","'EU (excluding UK)' ",1090
+2014 ,"'Group J Technologies' ","'Not EU' ",1460
+2014 ,"'Group K Architecture, Building and Planning' ","'UK' ",27440
+2014 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",4080
+2014 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",8550
+2014 ,"'Group L Social Studies' ","'UK' ",185910
+2014 ,"'Group L Social Studies' ","'EU (excluding UK)' ",17975
+2014 ,"'Group L Social Studies' ","'Not EU' ",27615
+2014 ,"'Group M Law' ","'UK' ",87070
+2014 ,"'Group M Law' ","'EU (excluding UK)' ",8440
+2014 ,"'Group M Law' ","'Not EU' ",27150
+2014 ,"'Group N Business and Admin studies' ","'UK' ",231585
+2014 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",32005
+2014 ,"'Group N Business and Admin studies' ","'Not EU' ",66095
+2014 ,"'Group P Mass Communication and Documentation' ","'UK' ",51745
+2014 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",5510
+2014 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",5370
+2014 ,"'Group Q Linguistics, Classics and related' ","'UK' ",59665
+2014 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",3265
+2014 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",3630
+2014 ,"'Group R European Languages, Literature and related' ","'UK' ",17450
+2014 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",2005
+2014 ,"'Group R European Languages, Literature and related' ","'Not EU' ",710
+2014 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",4835
+2014 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",440
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",310
+2014 ,"'Group V History and Philosophical studies' ","'UK' ",75290
+2014 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2890
+2014 ,"'Group V History and Philosophical studies' ","'Not EU' ",3385
+2014 ,"'Group W Creative Arts and Design' ","'UK' ",236770
+2014 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",17695
+2014 ,"'Group W Creative Arts and Design' ","'Not EU' ",17880
+2014 ,"'Group X Education' ","'UK' ",81370
+2014 ,"'Group X Education' ","'EU (excluding UK)' ",1100
+2014 ,"'Group X Education' ","'Not EU' ",1005
+2014 ,"'Y Combined arts' ","'UK' ",48430
+2014 ,"'Y Combined arts' ","'EU (excluding UK)' ",4100
+2014 ,"'Y Combined arts' ","'Not EU' ",2895
+2014 ,"'Y Combined sciences' ","'UK' ",32420
+2014 ,"'Y Combined sciences' ","'EU (excluding UK)' ",3165
+2014 ,"'Y Combined sciences' ","'Not EU' ",4370
+2014 ,"'Y Combined social sciences' ","'UK' ",21325
+2014 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3390
+2014 ,"'Y Combined social sciences' ","'Not EU' ",5940
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",64170
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",5385
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",5950
+2014 ,"'Y Social Sciences combined with Arts' ","'UK' ",40010
+2014 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",6385
+2014 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",5595
+2014 ,"'Z General, other combined and unknown' ","'UK' ",22200
+2014 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",4130
+2014 ,"'Z General, other combined and unknown' ","'Not EU' ",5650
+2015 ,"'Group A Medicine and Dentistry' ","'UK' ",66575
+2015 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",7625
+2015 ,"'Group A Medicine and Dentistry' ","'Not EU' ",13335
+2015 ,"'Group B Subjects allied to Medicine' ","'UK' ",361000
+2015 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",17660
+2015 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",15535
+2015 ,"'Group C Biological Sciences' ","'UK' ",237200
+2015 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",18345
+2015 ,"'Group C Biological Sciences' ","'Not EU' ",17440
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",27760
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",2320
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",1645
+2015 ,"'Group F Physical Sciences' ","'UK' ",97395
+2015 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",6435
+2015 ,"'Group F Physical Sciences' ","'Not EU' ",8620
+2015 ,"'Group G Mathematical Sciences' ","'UK' ",37320
+2015 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",2900
+2015 ,"'Group G Mathematical Sciences' ","'Not EU' ",7165
+2015 ,"'Group H Engineering' ","'UK' ",118815
+2015 ,"'Group H Engineering' ","'EU (excluding UK)' ",13780
+2015 ,"'Group H Engineering' ","'Not EU' ",38685
+2015 ,"'Group I Computer Sciences' ","'UK' ",103190
+2015 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",11530
+2015 ,"'Group I Computer Sciences' ","'Not EU' ",9505
+2015 ,"'Group J Technologies' ","'UK' ",7635
+2015 ,"'Group J Technologies' ","'EU (excluding UK)' ",1140
+2015 ,"'Group J Technologies' ","'Not EU' ",1325
+2015 ,"'Group K Architecture, Building and Planning' ","'UK' ",29310
+2015 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",4360
+2015 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",9255
+2015 ,"'Group L Social Studies' ","'UK' ",196270
+2015 ,"'Group L Social Studies' ","'EU (excluding UK)' ",18870
+2015 ,"'Group L Social Studies' ","'Not EU' ",26355
+2015 ,"'Group M Law' ","'UK' ",90595
+2015 ,"'Group M Law' ","'EU (excluding UK)' ",9325
+2015 ,"'Group M Law' ","'Not EU' ",28100
+2015 ,"'Group N Business and Admin studies' ","'UK' ",240155
+2015 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",35545
+2015 ,"'Group N Business and Admin studies' ","'Not EU' ",68190
+2015 ,"'Group P Mass Communication and Documentation' ","'UK' ",53630
+2015 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",6165
+2015 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",5360
+2015 ,"'Group Q Linguistics, Classics and related' ","'UK' ",59140
+2015 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",3475
+2015 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",3965
+2015 ,"'Group R European Languages, Literature and related' ","'UK' ",17355
+2015 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",1985
+2015 ,"'Group R European Languages, Literature and related' ","'Not EU' ",675
+2015 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",5370
+2015 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",485
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",310
+2015 ,"'Group V History and Philosophical studies' ","'UK' ",76500
+2015 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",2925
+2015 ,"'Group V History and Philosophical studies' ","'Not EU' ",3505
+2015 ,"'Group W Creative Arts and Design' ","'UK' ",239405
+2015 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",19855
+2015 ,"'Group W Creative Arts and Design' ","'Not EU' ",18895
+2015 ,"'Group X Education' ","'UK' ",90165
+2015 ,"'Group X Education' ","'EU (excluding UK)' ",2360
+2015 ,"'Group X Education' ","'Not EU' ",1320
+2015 ,"'Y Combined arts' ","'UK' ",45305
+2015 ,"'Y Combined arts' ","'EU (excluding UK)' ",3845
+2015 ,"'Y Combined arts' ","'Not EU' ",2685
+2015 ,"'Y Combined sciences' ","'UK' ",28860
+2015 ,"'Y Combined sciences' ","'EU (excluding UK)' ",3280
+2015 ,"'Y Combined sciences' ","'Not EU' ",4160
+2015 ,"'Y Combined social sciences' ","'UK' ",21305
+2015 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3805
+2015 ,"'Y Combined social sciences' ","'Not EU' ",6330
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",54820
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",4900
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",5325
+2015 ,"'Y Social Sciences combined with Arts' ","'UK' ",39630
+2015 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",6240
+2015 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",4905
+2015 ,"'Z General, other combined and unknown' ","'UK' ",22810
+2015 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",5180
+2015 ,"'Z General, other combined and unknown' ","'Not EU' ",6630
+2016 ,"'Group A Medicine and Dentistry' ","'UK' ",64385
+2016 ,"'Group A Medicine and Dentistry' ","'EU (excluding UK)' ",7895
+2016 ,"'Group A Medicine and Dentistry' ","'Not EU' ",13270
+2016 ,"'Group B Subjects allied to Medicine' ","'UK' ",366680
+2016 ,"'Group B Subjects allied to Medicine' ","'EU (excluding UK)' ",18590
+2016 ,"'Group B Subjects allied to Medicine' ","'Not EU' ",15420
+2016 ,"'Group C Biological Sciences' ","'UK' ",242315
+2016 ,"'Group C Biological Sciences' ","'EU (excluding UK)' ",20440
+2016 ,"'Group C Biological Sciences' ","'Not EU' ",18005
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'UK' ",26620
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'EU (excluding UK)' ",2340
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Not EU' ",1635
+2016 ,"'Group F Physical Sciences' ","'UK' ",92190
+2016 ,"'Group F Physical Sciences' ","'EU (excluding UK)' ",7055
+2016 ,"'Group F Physical Sciences' ","'Not EU' ",9000
+2016 ,"'Group G Mathematical Sciences' ","'UK' ",38300
+2016 ,"'Group G Mathematical Sciences' ","'EU (excluding UK)' ",3205
+2016 ,"'Group G Mathematical Sciences' ","'Not EU' ",7560
+2016 ,"'Group H Engineering' ","'UK' ",119405
+2016 ,"'Group H Engineering' ","'EU (excluding UK)' ",14780
+2016 ,"'Group H Engineering' ","'Not EU' ",36130
+2016 ,"'Group I Computer Sciences' ","'UK' ",105325
+2016 ,"'Group I Computer Sciences' ","'EU (excluding UK)' ",12965
+2016 ,"'Group I Computer Sciences' ","'Not EU' ",10860
+2016 ,"'Group J Technologies' ","'UK' ",6665
+2016 ,"'Group J Technologies' ","'EU (excluding UK)' ",1150
+2016 ,"'Group J Technologies' ","'Not EU' ",1290
+2016 ,"'Group K Architecture, Building and Planning' ","'UK' ",31325
+2016 ,"'Group K Architecture, Building and Planning' ","'EU (excluding UK)' ",4200
+2016 ,"'Group K Architecture, Building and Planning' ","'Not EU' ",8255
+2016 ,"'Group L Social Studies' ","'UK' ",201830
+2016 ,"'Group L Social Studies' ","'EU (excluding UK)' ",19525
+2016 ,"'Group L Social Studies' ","'Not EU' ",27265
+2016 ,"'Group M Law' ","'UK' ",96780
+2016 ,"'Group M Law' ","'EU (excluding UK)' ",9930
+2016 ,"'Group M Law' ","'Not EU' ",27215
+2016 ,"'Group N Business and Admin studies' ","'UK' ",245995
+2016 ,"'Group N Business and Admin studies' ","'EU (excluding UK)' ",37475
+2016 ,"'Group N Business and Admin studies' ","'Not EU' ",63645
+2016 ,"'Group P Mass Communication and Documentation' ","'UK' ",54080
+2016 ,"'Group P Mass Communication and Documentation' ","'EU (excluding UK)' ",6610
+2016 ,"'Group P Mass Communication and Documentation' ","'Not EU' ",5390
+2016 ,"'Group Q Linguistics, Classics and related' ","'UK' ",57030
+2016 ,"'Group Q Linguistics, Classics and related' ","'EU (excluding UK)' ",3740
+2016 ,"'Group Q Linguistics, Classics and related' ","'Not EU' ",3820
+2016 ,"'Group R European Languages, Literature and related' ","'UK' ",16215
+2016 ,"'Group R European Languages, Literature and related' ","'EU (excluding UK)' ",1860
+2016 ,"'Group R European Languages, Literature and related' ","'Not EU' ",650
+2016 ,"'Group T Non-European Languages, Literature and related' ","'UK' ",4885
+2016 ,"'Group T Non-European Languages, Literature and related' ","'EU (excluding UK)' ",565
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Not EU' ",385
+2016 ,"'Group V History and Philosophical studies' ","'UK' ",75170
+2016 ,"'Group V History and Philosophical studies' ","'EU (excluding UK)' ",3385
+2016 ,"'Group V History and Philosophical studies' ","'Not EU' ",4065
+2016 ,"'Group W Creative Arts and Design' ","'UK' ",233940
+2016 ,"'Group W Creative Arts and Design' ","'EU (excluding UK)' ",21095
+2016 ,"'Group W Creative Arts and Design' ","'Not EU' ",18850
+2016 ,"'Group X Education' ","'UK' ",88870
+2016 ,"'Group X Education' ","'EU (excluding UK)' ",2215
+2016 ,"'Group X Education' ","'Not EU' ",1580
+2016 ,"'Y Combined arts' ","'UK' ",43025
+2016 ,"'Y Combined arts' ","'EU (excluding UK)' ",4150
+2016 ,"'Y Combined arts' ","'Not EU' ",2470
+2016 ,"'Y Combined sciences' ","'UK' ",25375
+2016 ,"'Y Combined sciences' ","'EU (excluding UK)' ",3350
+2016 ,"'Y Combined sciences' ","'Not EU' ",3975
+2016 ,"'Y Combined social sciences' ","'UK' ",22675
+2016 ,"'Y Combined social sciences' ","'EU (excluding UK)' ",3825
+2016 ,"'Y Combined social sciences' ","'Not EU' ",6025
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'UK' ",48315
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'EU (excluding UK)' ",5215
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Not EU' ",5310
+2016 ,"'Y Social Sciences combined with Arts' ","'UK' ",38270
+2016 ,"'Y Social Sciences combined with Arts' ","'EU (excluding UK)' ",6530
+2016 ,"'Y Social Sciences combined with Arts' ","'Not EU' ",4625
+2016 ,"'Z General, other combined and unknown' ","'UK' ",22445
+2016 ,"'Z General, other combined and unknown' ","'EU (excluding UK)' ",5745
+2016 ,"'Z General, other combined and unknown' ","'Not EU' ",6965

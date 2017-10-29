@@ -1,0 +1,94 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Provider Country 2016 , Sex , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_008_01.pdf"
+ 
+Cycle Year,Provider Country 2016 , Sex,Number of Acceptances,
+2006 ,"'England' ","'Men' ",150440
+2006 ,"'England' ","'Women' ",174815
+2006 ,"'Northern Ireland' ","'Men' ",3735
+2006 ,"'Northern Ireland' ","'Women' ",4830
+2006 ,"'Scotland' ","'Men' ",16490
+2006 ,"'Scotland' ","'Women' ",18830
+2006 ,"'Wales' ","'Men' ",9890
+2006 ,"'Wales' ","'Women' ",11860
+2007 ,"'England' ","'Men' ",158860
+2007 ,"'England' ","'Women' ",186320
+2007 ,"'Northern Ireland' ","'Men' ",3870
+2007 ,"'Northern Ireland' ","'Women' ",5415
+2007 ,"'Scotland' ","'Men' ",16825
+2007 ,"'Scotland' ","'Women' ",19650
+2007 ,"'Wales' ","'Men' ",10130
+2007 ,"'Wales' ","'Women' ",12360
+2008 ,"'England' ","'Men' ",170785
+2008 ,"'England' ","'Women' ",211760
+2008 ,"'Northern Ireland' ","'Men' ",4140
+2008 ,"'Northern Ireland' ","'Women' ",5680
+2008 ,"'Scotland' ","'Men' ",19050
+2008 ,"'Scotland' ","'Women' ",21570
+2008 ,"'Wales' ","'Men' ",10715
+2008 ,"'Wales' ","'Women' ",12920
+2009 ,"'England' ","'Men' ",180775
+2009 ,"'England' ","'Women' ",221450
+2009 ,"'Northern Ireland' ","'Men' ",4525
+2009 ,"'Northern Ireland' ","'Women' ",5625
+2009 ,"'Scotland' ","'Men' ",20450
+2009 ,"'Scotland' ","'Women' ",22605
+2009 ,"'Wales' ","'Men' ",12435
+2009 ,"'Wales' ","'Women' ",13985
+2010 ,"'England' ","'Men' ",185430
+2010 ,"'England' ","'Women' ",224670
+2010 ,"'Northern Ireland' ","'Men' ",4460
+2010 ,"'Northern Ireland' ","'Women' ",5290
+2010 ,"'Scotland' ","'Men' ",18510
+2010 ,"'Scotland' ","'Women' ",23810
+2010 ,"'Wales' ","'Men' ",11690
+2010 ,"'Wales' ","'Women' ",13475
+2011 ,"'England' ","'Men' ",187425
+2011 ,"'England' ","'Women' ",227645
+2011 ,"'Northern Ireland' ","'Men' ",4420
+2011 ,"'Northern Ireland' ","'Women' ",5130
+2011 ,"'Scotland' ","'Men' ",17675
+2011 ,"'Scotland' ","'Women' ",23490
+2011 ,"'Wales' ","'Men' ",12360
+2011 ,"'Wales' ","'Women' ",13890
+2012 ,"'England' ","'Men' ",174220
+2012 ,"'England' ","'Women' ",214575
+2012 ,"'Northern Ireland' ","'Men' ",4695
+2012 ,"'Northern Ireland' ","'Women' ",5350
+2012 ,"'Scotland' ","'Men' ",18000
+2012 ,"'Scotland' ","'Women' ",23940
+2012 ,"'Wales' ","'Men' ",11370
+2012 ,"'Wales' ","'Women' ",12755
+2013 ,"'England' ","'Men' ",186590
+2013 ,"'England' ","'Women' ",229975
+2013 ,"'Northern Ireland' ","'Men' ",5090
+2013 ,"'Northern Ireland' ","'Women' ",5875
+2013 ,"'Scotland' ","'Men' ",18250
+2013 ,"'Scotland' ","'Women' ",24305
+2013 ,"'Wales' ","'Men' ",12140
+2013 ,"'Wales' ","'Women' ",13375
+2014 ,"'England' ","'Men' ",192280
+2014 ,"'England' ","'Women' ",240890
+2014 ,"'Northern Ireland' ","'Men' ",5225
+2014 ,"'Northern Ireland' ","'Women' ",6035
+2014 ,"'Scotland' ","'Men' ",17595
+2014 ,"'Scotland' ","'Women' ",24405
+2014 ,"'Wales' ","'Men' ",12195
+2014 ,"'Wales' ","'Women' ",13745
+2015 ,"'England' ","'Men' ",197345
+2015 ,"'England' ","'Women' ",252675
+2015 ,"'Northern Ireland' ","'Men' ",4505
+2015 ,"'Northern Ireland' ","'Women' ",5660
+2015 ,"'Scotland' ","'Men' ",18975
+2015 ,"'Scotland' ","'Women' ",27410
+2015 ,"'Wales' ","'Men' ",11890
+2015 ,"'Wales' ","'Women' ",13805
+2016 ,"'England' ","'Men' ",196855
+2016 ,"'England' ","'Women' ",253690
+2016 ,"'Northern Ireland' ","'Men' ",4740
+2016 ,"'Northern Ireland' ","'Women' ",5710
+2016 ,"'Scotland' ","'Men' ",19640
+2016 ,"'Scotland' ","'Women' ",28255
+2016 ,"'Wales' ","'Men' ",11885
+2016 ,"'Wales' ","'Women' ",14405

@@ -1,0 +1,1826 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Summary Level) , Apply Centre Type , Cycle Year"
+"Coverage:   UK domiciled and 18/19 year olds"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_024_01.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Apply Centre Type,Number of Acceptances,
+2007 ,"'Group A Medicine and Dentistry' ","'Academy' ",1525
+2007 ,"'Group A Medicine and Dentistry' ","'Further education' ",145
+2007 ,"'Group A Medicine and Dentistry' ","'Grammar' ",585
+2007 ,"'Group A Medicine and Dentistry' ","'Independent' ",1880
+2007 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",675
+2007 ,"'Group A Medicine and Dentistry' ","'State' ",1250
+2007 ,"'Group A Medicine and Dentistry' ","'Other' ",115
+2007 ,"'Group B Subjects allied to Medicine' ","'Academy' ",3105
+2007 ,"'Group B Subjects allied to Medicine' ","'Further education' ",1535
+2007 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",965
+2007 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1185
+2007 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",2685
+2007 ,"'Group B Subjects allied to Medicine' ","'State' ",4015
+2007 ,"'Group B Subjects allied to Medicine' ","'Other' ",930
+2007 ,"'Group C Biological Sciences' ","'Academy' ",5620
+2007 ,"'Group C Biological Sciences' ","'Further education' ",2890
+2007 ,"'Group C Biological Sciences' ","'Grammar' ",745
+2007 ,"'Group C Biological Sciences' ","'Independent' ",2100
+2007 ,"'Group C Biological Sciences' ","'Sixth form college' ",4520
+2007 ,"'Group C Biological Sciences' ","'State' ",6160
+2007 ,"'Group C Biological Sciences' ","'Other' ",1575
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",465
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",460
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",100
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",320
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",400
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",530
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",305
+2007 ,"'Group F Physical Sciences' ","'Academy' ",3220
+2007 ,"'Group F Physical Sciences' ","'Further education' ",805
+2007 ,"'Group F Physical Sciences' ","'Grammar' ",520
+2007 ,"'Group F Physical Sciences' ","'Independent' ",1545
+2007 ,"'Group F Physical Sciences' ","'Sixth form college' ",1985
+2007 ,"'Group F Physical Sciences' ","'State' ",3580
+2007 ,"'Group F Physical Sciences' ","'Other' ",415
+2007 ,"'Group G Mathematical Sciences' ","'Academy' ",1360
+2007 ,"'Group G Mathematical Sciences' ","'Further education' ",220
+2007 ,"'Group G Mathematical Sciences' ","'Grammar' ",225
+2007 ,"'Group G Mathematical Sciences' ","'Independent' ",490
+2007 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",750
+2007 ,"'Group G Mathematical Sciences' ","'State' ",1220
+2007 ,"'Group G Mathematical Sciences' ","'Other' ",110
+2007 ,"'Group H Engineering' ","'Academy' ",2305
+2007 ,"'Group H Engineering' ","'Further education' ",1115
+2007 ,"'Group H Engineering' ","'Grammar' ",595
+2007 ,"'Group H Engineering' ","'Independent' ",1350
+2007 ,"'Group H Engineering' ","'Sixth form college' ",1730
+2007 ,"'Group H Engineering' ","'State' ",3005
+2007 ,"'Group H Engineering' ","'Other' ",830
+2007 ,"'Group I Computer Sciences' ","'Academy' ",1660
+2007 ,"'Group I Computer Sciences' ","'Further education' ",1925
+2007 ,"'Group I Computer Sciences' ","'Grammar' ",375
+2007 ,"'Group I Computer Sciences' ","'Independent' ",365
+2007 ,"'Group I Computer Sciences' ","'Sixth form college' ",1860
+2007 ,"'Group I Computer Sciences' ","'State' ",2430
+2007 ,"'Group I Computer Sciences' ","'Other' ",1135
+2007 ,"'Group J Technologies' ","'Academy' ",250
+2007 ,"'Group J Technologies' ","'Further education' ",265
+2007 ,"'Group J Technologies' ","'Grammar' ",45
+2007 ,"'Group J Technologies' ","'Independent' ",85
+2007 ,"'Group J Technologies' ","'Sixth form college' ",240
+2007 ,"'Group J Technologies' ","'State' ",275
+2007 ,"'Group J Technologies' ","'Other' ",210
+2007 ,"'Group K Architecture, Building and Planning' ","'Academy' ",1085
+2007 ,"'Group K Architecture, Building and Planning' ","'Further education' ",600
+2007 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",555
+2007 ,"'Group K Architecture, Building and Planning' ","'Independent' ",755
+2007 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",785
+2007 ,"'Group K Architecture, Building and Planning' ","'State' ",1405
+2007 ,"'Group K Architecture, Building and Planning' ","'Other' ",580
+2007 ,"'Group L Social Studies' ","'Academy' ",3850
+2007 ,"'Group L Social Studies' ","'Further education' ",1440
+2007 ,"'Group L Social Studies' ","'Grammar' ",615
+2007 ,"'Group L Social Studies' ","'Independent' ",2615
+2007 ,"'Group L Social Studies' ","'Sixth form college' ",2830
+2007 ,"'Group L Social Studies' ","'State' ",3820
+2007 ,"'Group L Social Studies' ","'Other' ",1180
+2007 ,"'Group M Law' ","'Academy' ",2560
+2007 ,"'Group M Law' ","'Further education' ",1480
+2007 ,"'Group M Law' ","'Grammar' ",705
+2007 ,"'Group M Law' ","'Independent' ",930
+2007 ,"'Group M Law' ","'Sixth form college' ",2885
+2007 ,"'Group M Law' ","'State' ",3100
+2007 ,"'Group M Law' ","'Other' ",865
+2007 ,"'Group N Business and Admin studies' ","'Academy' ",5845
+2007 ,"'Group N Business and Admin studies' ","'Further education' ",3415
+2007 ,"'Group N Business and Admin studies' ","'Grammar' ",1105
+2007 ,"'Group N Business and Admin studies' ","'Independent' ",2820
+2007 ,"'Group N Business and Admin studies' ","'Sixth form college' ",5265
+2007 ,"'Group N Business and Admin studies' ","'State' ",7210
+2007 ,"'Group N Business and Admin studies' ","'Other' ",2685
+2007 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1385
+2007 ,"'Group P Mass Communication and Documentation' ","'Further education' ",965
+2007 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",170
+2007 ,"'Group P Mass Communication and Documentation' ","'Independent' ",260
+2007 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1565
+2007 ,"'Group P Mass Communication and Documentation' ","'State' ",1565
+2007 ,"'Group P Mass Communication and Documentation' ","'Other' ",680
+2007 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2190
+2007 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",560
+2007 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",365
+2007 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1555
+2007 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1565
+2007 ,"'Group Q Linguistics, Classics and related' ","'State' ",1955
+2007 ,"'Group Q Linguistics, Classics and related' ","'Other' ",415
+2007 ,"'Group R European Languages, Literature and related' ","'Academy' ",835
+2007 ,"'Group R European Languages, Literature and related' ","'Further education' ",150
+2007 ,"'Group R European Languages, Literature and related' ","'Grammar' ",195
+2007 ,"'Group R European Languages, Literature and related' ","'Independent' ",780
+2007 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",490
+2007 ,"'Group R European Languages, Literature and related' ","'State' ",665
+2007 ,"'Group R European Languages, Literature and related' ","'Other' ",100
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",345
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",45
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",55
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",380
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",170
+2007 ,"'Group T Non-European Languages, Literature and related' ","'State' ",265
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",45
+2007 ,"'Group V History and Philosophical studies' ","'Academy' ",2770
+2007 ,"'Group V History and Philosophical studies' ","'Further education' ",555
+2007 ,"'Group V History and Philosophical studies' ","'Grammar' ",390
+2007 ,"'Group V History and Philosophical studies' ","'Independent' ",2380
+2007 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1620
+2007 ,"'Group V History and Philosophical studies' ","'State' ",2410
+2007 ,"'Group V History and Philosophical studies' ","'Other' ",385
+2007 ,"'Group W Creative Arts and Design' ","'Academy' ",3645
+2007 ,"'Group W Creative Arts and Design' ","'Further education' ",7020
+2007 ,"'Group W Creative Arts and Design' ","'Grammar' ",380
+2007 ,"'Group W Creative Arts and Design' ","'Independent' ",1305
+2007 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",4960
+2007 ,"'Group W Creative Arts and Design' ","'State' ",4210
+2007 ,"'Group W Creative Arts and Design' ","'Other' ",7485
+2007 ,"'Group X Education' ","'Academy' ",1720
+2007 ,"'Group X Education' ","'Further education' ",1210
+2007 ,"'Group X Education' ","'Grammar' ",165
+2007 ,"'Group X Education' ","'Independent' ",215
+2007 ,"'Group X Education' ","'Sixth form college' ",1610
+2007 ,"'Group X Education' ","'State' ",2370
+2007 ,"'Group X Education' ","'Other' ",750
+2007 ,"'Y Combined arts' ","'Academy' ",2545
+2007 ,"'Y Combined arts' ","'Further education' ",1055
+2007 ,"'Y Combined arts' ","'Grammar' ",420
+2007 ,"'Y Combined arts' ","'Independent' ",1130
+2007 ,"'Y Combined arts' ","'Sixth form college' ",2030
+2007 ,"'Y Combined arts' ","'State' ",2820
+2007 ,"'Y Combined arts' ","'Other' ",815
+2007 ,"'Y Combined sciences' ","'Academy' ",1270
+2007 ,"'Y Combined sciences' ","'Further education' ",660
+2007 ,"'Y Combined sciences' ","'Grammar' ",235
+2007 ,"'Y Combined sciences' ","'Independent' ",510
+2007 ,"'Y Combined sciences' ","'Sixth form college' ",950
+2007 ,"'Y Combined sciences' ","'State' ",1475
+2007 ,"'Y Combined sciences' ","'Other' ",400
+2007 ,"'Y Combined social sciences' ","'Academy' ",940
+2007 ,"'Y Combined social sciences' ","'Further education' ",425
+2007 ,"'Y Combined social sciences' ","'Grammar' ",180
+2007 ,"'Y Combined social sciences' ","'Independent' ",530
+2007 ,"'Y Combined social sciences' ","'Sixth form college' ",795
+2007 ,"'Y Combined social sciences' ","'State' ",1085
+2007 ,"'Y Combined social sciences' ","'Other' ",310
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",3200
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",2105
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",495
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",1230
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",2865
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",4005
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1545
+2007 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1995
+2007 ,"'Y Social Sciences combined with Arts' ","'Further education' ",860
+2007 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",425
+2007 ,"'Y Social Sciences combined with Arts' ","'Independent' ",1385
+2007 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1400
+2007 ,"'Y Social Sciences combined with Arts' ","'State' ",2295
+2007 ,"'Y Social Sciences combined with Arts' ","'Other' ",810
+2007 ,"'Z General, other combined and unknown' ","'Academy' ",630
+2007 ,"'Z General, other combined and unknown' ","'Further education' ",315
+2007 ,"'Z General, other combined and unknown' ","'Grammar' ",70
+2007 ,"'Z General, other combined and unknown' ","'Independent' ",580
+2007 ,"'Z General, other combined and unknown' ","'Sixth form college' ",485
+2007 ,"'Z General, other combined and unknown' ","'State' ",955
+2007 ,"'Z General, other combined and unknown' ","'Other' ",320
+2008 ,"'Group A Medicine and Dentistry' ","'Academy' ",1560
+2008 ,"'Group A Medicine and Dentistry' ","'Further education' ",145
+2008 ,"'Group A Medicine and Dentistry' ","'Grammar' ",605
+2008 ,"'Group A Medicine and Dentistry' ","'Independent' ",1870
+2008 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",710
+2008 ,"'Group A Medicine and Dentistry' ","'State' ",1255
+2008 ,"'Group A Medicine and Dentistry' ","'Other' ",75
+2008 ,"'Group B Subjects allied to Medicine' ","'Academy' ",4025
+2008 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2720
+2008 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",990
+2008 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1170
+2008 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",3870
+2008 ,"'Group B Subjects allied to Medicine' ","'State' ",5025
+2008 ,"'Group B Subjects allied to Medicine' ","'Other' ",1305
+2008 ,"'Group C Biological Sciences' ","'Academy' ",6080
+2008 ,"'Group C Biological Sciences' ","'Further education' ",3165
+2008 ,"'Group C Biological Sciences' ","'Grammar' ",785
+2008 ,"'Group C Biological Sciences' ","'Independent' ",2200
+2008 ,"'Group C Biological Sciences' ","'Sixth form college' ",4915
+2008 ,"'Group C Biological Sciences' ","'State' ",6555
+2008 ,"'Group C Biological Sciences' ","'Other' ",1220
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",540
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",565
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",155
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",375
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",380
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",625
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",285
+2008 ,"'Group F Physical Sciences' ","'Academy' ",3555
+2008 ,"'Group F Physical Sciences' ","'Further education' ",885
+2008 ,"'Group F Physical Sciences' ","'Grammar' ",520
+2008 ,"'Group F Physical Sciences' ","'Independent' ",1610
+2008 ,"'Group F Physical Sciences' ","'Sixth form college' ",2135
+2008 ,"'Group F Physical Sciences' ","'State' ",3555
+2008 ,"'Group F Physical Sciences' ","'Other' ",350
+2008 ,"'Group G Mathematical Sciences' ","'Academy' ",1425
+2008 ,"'Group G Mathematical Sciences' ","'Further education' ",260
+2008 ,"'Group G Mathematical Sciences' ","'Grammar' ",245
+2008 ,"'Group G Mathematical Sciences' ","'Independent' ",525
+2008 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",885
+2008 ,"'Group G Mathematical Sciences' ","'State' ",1360
+2008 ,"'Group G Mathematical Sciences' ","'Other' ",85
+2008 ,"'Group H Engineering' ","'Academy' ",2525
+2008 ,"'Group H Engineering' ","'Further education' ",1265
+2008 ,"'Group H Engineering' ","'Grammar' ",650
+2008 ,"'Group H Engineering' ","'Independent' ",1555
+2008 ,"'Group H Engineering' ","'Sixth form college' ",1830
+2008 ,"'Group H Engineering' ","'State' ",3340
+2008 ,"'Group H Engineering' ","'Other' ",845
+2008 ,"'Group I Computer Sciences' ","'Academy' ",1850
+2008 ,"'Group I Computer Sciences' ","'Further education' ",2025
+2008 ,"'Group I Computer Sciences' ","'Grammar' ",355
+2008 ,"'Group I Computer Sciences' ","'Independent' ",355
+2008 ,"'Group I Computer Sciences' ","'Sixth form college' ",1975
+2008 ,"'Group I Computer Sciences' ","'State' ",2710
+2008 ,"'Group I Computer Sciences' ","'Other' ",1105
+2008 ,"'Group J Technologies' ","'Academy' ",230
+2008 ,"'Group J Technologies' ","'Further education' ",300
+2008 ,"'Group J Technologies' ","'Grammar' ",40
+2008 ,"'Group J Technologies' ","'Independent' ",80
+2008 ,"'Group J Technologies' ","'Sixth form college' ",250
+2008 ,"'Group J Technologies' ","'State' ",275
+2008 ,"'Group J Technologies' ","'Other' ",230
+2008 ,"'Group K Architecture, Building and Planning' ","'Academy' ",1265
+2008 ,"'Group K Architecture, Building and Planning' ","'Further education' ",650
+2008 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",520
+2008 ,"'Group K Architecture, Building and Planning' ","'Independent' ",795
+2008 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",890
+2008 ,"'Group K Architecture, Building and Planning' ","'State' ",1640
+2008 ,"'Group K Architecture, Building and Planning' ","'Other' ",490
+2008 ,"'Group L Social Studies' ","'Academy' ",4275
+2008 ,"'Group L Social Studies' ","'Further education' ",1560
+2008 ,"'Group L Social Studies' ","'Grammar' ",665
+2008 ,"'Group L Social Studies' ","'Independent' ",3040
+2008 ,"'Group L Social Studies' ","'Sixth form college' ",3210
+2008 ,"'Group L Social Studies' ","'State' ",4160
+2008 ,"'Group L Social Studies' ","'Other' ",935
+2008 ,"'Group M Law' ","'Academy' ",2855
+2008 ,"'Group M Law' ","'Further education' ",1485
+2008 ,"'Group M Law' ","'Grammar' ",770
+2008 ,"'Group M Law' ","'Independent' ",985
+2008 ,"'Group M Law' ","'Sixth form college' ",3160
+2008 ,"'Group M Law' ","'State' ",3425
+2008 ,"'Group M Law' ","'Other' ",690
+2008 ,"'Group N Business and Admin studies' ","'Academy' ",6295
+2008 ,"'Group N Business and Admin studies' ","'Further education' ",3620
+2008 ,"'Group N Business and Admin studies' ","'Grammar' ",1200
+2008 ,"'Group N Business and Admin studies' ","'Independent' ",3010
+2008 ,"'Group N Business and Admin studies' ","'Sixth form college' ",5935
+2008 ,"'Group N Business and Admin studies' ","'State' ",7730
+2008 ,"'Group N Business and Admin studies' ","'Other' ",2515
+2008 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1520
+2008 ,"'Group P Mass Communication and Documentation' ","'Further education' ",990
+2008 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",200
+2008 ,"'Group P Mass Communication and Documentation' ","'Independent' ",295
+2008 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1630
+2008 ,"'Group P Mass Communication and Documentation' ","'State' ",1855
+2008 ,"'Group P Mass Communication and Documentation' ","'Other' ",495
+2008 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2410
+2008 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",575
+2008 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",380
+2008 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1660
+2008 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1685
+2008 ,"'Group Q Linguistics, Classics and related' ","'State' ",2290
+2008 ,"'Group Q Linguistics, Classics and related' ","'Other' ",245
+2008 ,"'Group R European Languages, Literature and related' ","'Academy' ",950
+2008 ,"'Group R European Languages, Literature and related' ","'Further education' ",150
+2008 ,"'Group R European Languages, Literature and related' ","'Grammar' ",185
+2008 ,"'Group R European Languages, Literature and related' ","'Independent' ",985
+2008 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",500
+2008 ,"'Group R European Languages, Literature and related' ","'State' ",785
+2008 ,"'Group R European Languages, Literature and related' ","'Other' ",65
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",335
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",55
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",35
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",305
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",170
+2008 ,"'Group T Non-European Languages, Literature and related' ","'State' ",220
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",15
+2008 ,"'Group V History and Philosophical studies' ","'Academy' ",2985
+2008 ,"'Group V History and Philosophical studies' ","'Further education' ",605
+2008 ,"'Group V History and Philosophical studies' ","'Grammar' ",430
+2008 ,"'Group V History and Philosophical studies' ","'Independent' ",2515
+2008 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1690
+2008 ,"'Group V History and Philosophical studies' ","'State' ",2780
+2008 ,"'Group V History and Philosophical studies' ","'Other' ",255
+2008 ,"'Group W Creative Arts and Design' ","'Academy' ",4100
+2008 ,"'Group W Creative Arts and Design' ","'Further education' ",7095
+2008 ,"'Group W Creative Arts and Design' ","'Grammar' ",450
+2008 ,"'Group W Creative Arts and Design' ","'Independent' ",1420
+2008 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",5570
+2008 ,"'Group W Creative Arts and Design' ","'State' ",4625
+2008 ,"'Group W Creative Arts and Design' ","'Other' ",6895
+2008 ,"'Group X Education' ","'Academy' ",1910
+2008 ,"'Group X Education' ","'Further education' ",1445
+2008 ,"'Group X Education' ","'Grammar' ",150
+2008 ,"'Group X Education' ","'Independent' ",260
+2008 ,"'Group X Education' ","'Sixth form college' ",1925
+2008 ,"'Group X Education' ","'State' ",2670
+2008 ,"'Group X Education' ","'Other' ",660
+2008 ,"'Y Combined arts' ","'Academy' ",2785
+2008 ,"'Y Combined arts' ","'Further education' ",1065
+2008 ,"'Y Combined arts' ","'Grammar' ",375
+2008 ,"'Y Combined arts' ","'Independent' ",1155
+2008 ,"'Y Combined arts' ","'Sixth form college' ",2090
+2008 ,"'Y Combined arts' ","'State' ",2870
+2008 ,"'Y Combined arts' ","'Other' ",520
+2008 ,"'Y Combined sciences' ","'Academy' ",1345
+2008 ,"'Y Combined sciences' ","'Further education' ",695
+2008 ,"'Y Combined sciences' ","'Grammar' ",245
+2008 ,"'Y Combined sciences' ","'Independent' ",550
+2008 ,"'Y Combined sciences' ","'Sixth form college' ",1050
+2008 ,"'Y Combined sciences' ","'State' ",1555
+2008 ,"'Y Combined sciences' ","'Other' ",295
+2008 ,"'Y Combined social sciences' ","'Academy' ",990
+2008 ,"'Y Combined social sciences' ","'Further education' ",430
+2008 ,"'Y Combined social sciences' ","'Grammar' ",185
+2008 ,"'Y Combined social sciences' ","'Independent' ",550
+2008 ,"'Y Combined social sciences' ","'Sixth form college' ",915
+2008 ,"'Y Combined social sciences' ","'State' ",1140
+2008 ,"'Y Combined social sciences' ","'Other' ",235
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",3390
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",2225
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",445
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",1270
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",3085
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",4180
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1250
+2008 ,"'Y Social Sciences combined with Arts' ","'Academy' ",2070
+2008 ,"'Y Social Sciences combined with Arts' ","'Further education' ",865
+2008 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",410
+2008 ,"'Y Social Sciences combined with Arts' ","'Independent' ",1395
+2008 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1555
+2008 ,"'Y Social Sciences combined with Arts' ","'State' ",2425
+2008 ,"'Y Social Sciences combined with Arts' ","'Other' ",595
+2008 ,"'Z General, other combined and unknown' ","'Academy' ",720
+2008 ,"'Z General, other combined and unknown' ","'Further education' ",240
+2008 ,"'Z General, other combined and unknown' ","'Grammar' ",85
+2008 ,"'Z General, other combined and unknown' ","'Independent' ",565
+2008 ,"'Z General, other combined and unknown' ","'Sixth form college' ",560
+2008 ,"'Z General, other combined and unknown' ","'State' ",680
+2008 ,"'Z General, other combined and unknown' ","'Other' ",260
+2009 ,"'Group A Medicine and Dentistry' ","'Academy' ",1595
+2009 ,"'Group A Medicine and Dentistry' ","'Further education' ",135
+2009 ,"'Group A Medicine and Dentistry' ","'Grammar' ",640
+2009 ,"'Group A Medicine and Dentistry' ","'Independent' ",1850
+2009 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",680
+2009 ,"'Group A Medicine and Dentistry' ","'State' ",1170
+2009 ,"'Group A Medicine and Dentistry' ","'Other' ",60
+2009 ,"'Group B Subjects allied to Medicine' ","'Academy' ",4240
+2009 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2895
+2009 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",1045
+2009 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1265
+2009 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",4220
+2009 ,"'Group B Subjects allied to Medicine' ","'State' ",5190
+2009 ,"'Group B Subjects allied to Medicine' ","'Other' ",1185
+2009 ,"'Group C Biological Sciences' ","'Academy' ",6500
+2009 ,"'Group C Biological Sciences' ","'Further education' ",3460
+2009 ,"'Group C Biological Sciences' ","'Grammar' ",805
+2009 ,"'Group C Biological Sciences' ","'Independent' ",2300
+2009 ,"'Group C Biological Sciences' ","'Sixth form college' ",5460
+2009 ,"'Group C Biological Sciences' ","'State' ",7080
+2009 ,"'Group C Biological Sciences' ","'Other' ",1170
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",610
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",675
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",130
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",350
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",445
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",715
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",300
+2009 ,"'Group F Physical Sciences' ","'Academy' ",3720
+2009 ,"'Group F Physical Sciences' ","'Further education' ",910
+2009 ,"'Group F Physical Sciences' ","'Grammar' ",565
+2009 ,"'Group F Physical Sciences' ","'Independent' ",1800
+2009 ,"'Group F Physical Sciences' ","'Sixth form college' ",2205
+2009 ,"'Group F Physical Sciences' ","'State' ",3755
+2009 ,"'Group F Physical Sciences' ","'Other' ",315
+2009 ,"'Group G Mathematical Sciences' ","'Academy' ",1735
+2009 ,"'Group G Mathematical Sciences' ","'Further education' ",315
+2009 ,"'Group G Mathematical Sciences' ","'Grammar' ",280
+2009 ,"'Group G Mathematical Sciences' ","'Independent' ",560
+2009 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1050
+2009 ,"'Group G Mathematical Sciences' ","'State' ",1645
+2009 ,"'Group G Mathematical Sciences' ","'Other' ",90
+2009 ,"'Group H Engineering' ","'Academy' ",2905
+2009 ,"'Group H Engineering' ","'Further education' ",1420
+2009 ,"'Group H Engineering' ","'Grammar' ",740
+2009 ,"'Group H Engineering' ","'Independent' ",1600
+2009 ,"'Group H Engineering' ","'Sixth form college' ",2070
+2009 ,"'Group H Engineering' ","'State' ",3750
+2009 ,"'Group H Engineering' ","'Other' ",865
+2009 ,"'Group I Computer Sciences' ","'Academy' ",2025
+2009 ,"'Group I Computer Sciences' ","'Further education' ",2195
+2009 ,"'Group I Computer Sciences' ","'Grammar' ",385
+2009 ,"'Group I Computer Sciences' ","'Independent' ",385
+2009 ,"'Group I Computer Sciences' ","'Sixth form college' ",2365
+2009 ,"'Group I Computer Sciences' ","'State' ",2885
+2009 ,"'Group I Computer Sciences' ","'Other' ",1170
+2009 ,"'Group J Technologies' ","'Academy' ",300
+2009 ,"'Group J Technologies' ","'Further education' ",345
+2009 ,"'Group J Technologies' ","'Grammar' ",50
+2009 ,"'Group J Technologies' ","'Independent' ",125
+2009 ,"'Group J Technologies' ","'Sixth form college' ",305
+2009 ,"'Group J Technologies' ","'State' ",315
+2009 ,"'Group J Technologies' ","'Other' ",240
+2009 ,"'Group K Architecture, Building and Planning' ","'Academy' ",1180
+2009 ,"'Group K Architecture, Building and Planning' ","'Further education' ",740
+2009 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",420
+2009 ,"'Group K Architecture, Building and Planning' ","'Independent' ",730
+2009 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",915
+2009 ,"'Group K Architecture, Building and Planning' ","'State' ",1460
+2009 ,"'Group K Architecture, Building and Planning' ","'Other' ",435
+2009 ,"'Group L Social Studies' ","'Academy' ",4840
+2009 ,"'Group L Social Studies' ","'Further education' ",1805
+2009 ,"'Group L Social Studies' ","'Grammar' ",735
+2009 ,"'Group L Social Studies' ","'Independent' ",3305
+2009 ,"'Group L Social Studies' ","'Sixth form college' ",3630
+2009 ,"'Group L Social Studies' ","'State' ",4735
+2009 ,"'Group L Social Studies' ","'Other' ",1020
+2009 ,"'Group M Law' ","'Academy' ",2960
+2009 ,"'Group M Law' ","'Further education' ",1630
+2009 ,"'Group M Law' ","'Grammar' ",775
+2009 ,"'Group M Law' ","'Independent' ",1080
+2009 ,"'Group M Law' ","'Sixth form college' ",3475
+2009 ,"'Group M Law' ","'State' ",3510
+2009 ,"'Group M Law' ","'Other' ",625
+2009 ,"'Group N Business and Admin studies' ","'Academy' ",6910
+2009 ,"'Group N Business and Admin studies' ","'Further education' ",4160
+2009 ,"'Group N Business and Admin studies' ","'Grammar' ",1150
+2009 ,"'Group N Business and Admin studies' ","'Independent' ",3025
+2009 ,"'Group N Business and Admin studies' ","'Sixth form college' ",6750
+2009 ,"'Group N Business and Admin studies' ","'State' ",8030
+2009 ,"'Group N Business and Admin studies' ","'Other' ",2265
+2009 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1695
+2009 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1120
+2009 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",225
+2009 ,"'Group P Mass Communication and Documentation' ","'Independent' ",300
+2009 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1735
+2009 ,"'Group P Mass Communication and Documentation' ","'State' ",2020
+2009 ,"'Group P Mass Communication and Documentation' ","'Other' ",480
+2009 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2720
+2009 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",730
+2009 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",365
+2009 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1680
+2009 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1970
+2009 ,"'Group Q Linguistics, Classics and related' ","'State' ",2445
+2009 ,"'Group Q Linguistics, Classics and related' ","'Other' ",255
+2009 ,"'Group R European Languages, Literature and related' ","'Academy' ",975
+2009 ,"'Group R European Languages, Literature and related' ","'Further education' ",135
+2009 ,"'Group R European Languages, Literature and related' ","'Grammar' ",200
+2009 ,"'Group R European Languages, Literature and related' ","'Independent' ",1070
+2009 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",505
+2009 ,"'Group R European Languages, Literature and related' ","'State' ",830
+2009 ,"'Group R European Languages, Literature and related' ","'Other' ",65
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",315
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",55
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",40
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",255
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",165
+2009 ,"'Group T Non-European Languages, Literature and related' ","'State' ",225
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",25
+2009 ,"'Group V History and Philosophical studies' ","'Academy' ",3225
+2009 ,"'Group V History and Philosophical studies' ","'Further education' ",660
+2009 ,"'Group V History and Philosophical studies' ","'Grammar' ",425
+2009 ,"'Group V History and Philosophical studies' ","'Independent' ",2600
+2009 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1865
+2009 ,"'Group V History and Philosophical studies' ","'State' ",2775
+2009 ,"'Group V History and Philosophical studies' ","'Other' ",255
+2009 ,"'Group W Creative Arts and Design' ","'Academy' ",4560
+2009 ,"'Group W Creative Arts and Design' ","'Further education' ",7835
+2009 ,"'Group W Creative Arts and Design' ","'Grammar' ",530
+2009 ,"'Group W Creative Arts and Design' ","'Independent' ",1380
+2009 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",6110
+2009 ,"'Group W Creative Arts and Design' ","'State' ",5075
+2009 ,"'Group W Creative Arts and Design' ","'Other' ",6950
+2009 ,"'Group X Education' ","'Academy' ",2140
+2009 ,"'Group X Education' ","'Further education' ",1575
+2009 ,"'Group X Education' ","'Grammar' ",225
+2009 ,"'Group X Education' ","'Independent' ",330
+2009 ,"'Group X Education' ","'Sixth form college' ",2080
+2009 ,"'Group X Education' ","'State' ",2790
+2009 ,"'Group X Education' ","'Other' ",605
+2009 ,"'Y Combined arts' ","'Academy' ",2425
+2009 ,"'Y Combined arts' ","'Further education' ",1060
+2009 ,"'Y Combined arts' ","'Grammar' ",300
+2009 ,"'Y Combined arts' ","'Independent' ",1090
+2009 ,"'Y Combined arts' ","'Sixth form college' ",1990
+2009 ,"'Y Combined arts' ","'State' ",2585
+2009 ,"'Y Combined arts' ","'Other' ",425
+2009 ,"'Y Combined sciences' ","'Academy' ",1215
+2009 ,"'Y Combined sciences' ","'Further education' ",765
+2009 ,"'Y Combined sciences' ","'Grammar' ",225
+2009 ,"'Y Combined sciences' ","'Independent' ",480
+2009 ,"'Y Combined sciences' ","'Sixth form college' ",940
+2009 ,"'Y Combined sciences' ","'State' ",1445
+2009 ,"'Y Combined sciences' ","'Other' ",290
+2009 ,"'Y Combined social sciences' ","'Academy' ",875
+2009 ,"'Y Combined social sciences' ","'Further education' ",350
+2009 ,"'Y Combined social sciences' ","'Grammar' ",110
+2009 ,"'Y Combined social sciences' ","'Independent' ",455
+2009 ,"'Y Combined social sciences' ","'Sixth form college' ",730
+2009 ,"'Y Combined social sciences' ","'State' ",980
+2009 ,"'Y Combined social sciences' ","'Other' ",180
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",2780
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",2165
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",340
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",1030
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",2685
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",3715
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1130
+2009 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1880
+2009 ,"'Y Social Sciences combined with Arts' ","'Further education' ",880
+2009 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",285
+2009 ,"'Y Social Sciences combined with Arts' ","'Independent' ",1150
+2009 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1460
+2009 ,"'Y Social Sciences combined with Arts' ","'State' ",2125
+2009 ,"'Y Social Sciences combined with Arts' ","'Other' ",495
+2009 ,"'Z General, other combined and unknown' ","'Academy' ",670
+2009 ,"'Z General, other combined and unknown' ","'Further education' ",265
+2009 ,"'Z General, other combined and unknown' ","'Grammar' ",70
+2009 ,"'Z General, other combined and unknown' ","'Independent' ",660
+2009 ,"'Z General, other combined and unknown' ","'Sixth form college' ",600
+2009 ,"'Z General, other combined and unknown' ","'State' ",645
+2009 ,"'Z General, other combined and unknown' ","'Other' ",215
+2010 ,"'Group A Medicine and Dentistry' ","'Academy' ",1645
+2010 ,"'Group A Medicine and Dentistry' ","'Further education' ",140
+2010 ,"'Group A Medicine and Dentistry' ","'Grammar' ",650
+2010 ,"'Group A Medicine and Dentistry' ","'Independent' ",1765
+2010 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",635
+2010 ,"'Group A Medicine and Dentistry' ","'State' ",1200
+2010 ,"'Group A Medicine and Dentistry' ","'Other' ",55
+2010 ,"'Group B Subjects allied to Medicine' ","'Academy' ",4505
+2010 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2675
+2010 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",1005
+2010 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1290
+2010 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",4090
+2010 ,"'Group B Subjects allied to Medicine' ","'State' ",5425
+2010 ,"'Group B Subjects allied to Medicine' ","'Other' ",1550
+2010 ,"'Group C Biological Sciences' ","'Academy' ",7135
+2010 ,"'Group C Biological Sciences' ","'Further education' ",3545
+2010 ,"'Group C Biological Sciences' ","'Grammar' ",850
+2010 ,"'Group C Biological Sciences' ","'Independent' ",2530
+2010 ,"'Group C Biological Sciences' ","'Sixth form college' ",5745
+2010 ,"'Group C Biological Sciences' ","'State' ",6860
+2010 ,"'Group C Biological Sciences' ","'Other' ",1655
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",630
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",750
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",140
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",400
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",470
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",680
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",370
+2010 ,"'Group F Physical Sciences' ","'Academy' ",3985
+2010 ,"'Group F Physical Sciences' ","'Further education' ",855
+2010 ,"'Group F Physical Sciences' ","'Grammar' ",575
+2010 ,"'Group F Physical Sciences' ","'Independent' ",1870
+2010 ,"'Group F Physical Sciences' ","'Sixth form college' ",2475
+2010 ,"'Group F Physical Sciences' ","'State' ",3670
+2010 ,"'Group F Physical Sciences' ","'Other' ",475
+2010 ,"'Group G Mathematical Sciences' ","'Academy' ",1885
+2010 ,"'Group G Mathematical Sciences' ","'Further education' ",300
+2010 ,"'Group G Mathematical Sciences' ","'Grammar' ",240
+2010 ,"'Group G Mathematical Sciences' ","'Independent' ",530
+2010 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1160
+2010 ,"'Group G Mathematical Sciences' ","'State' ",1590
+2010 ,"'Group G Mathematical Sciences' ","'Other' ",160
+2010 ,"'Group H Engineering' ","'Academy' ",3015
+2010 ,"'Group H Engineering' ","'Further education' ",1550
+2010 ,"'Group H Engineering' ","'Grammar' ",750
+2010 ,"'Group H Engineering' ","'Independent' ",1730
+2010 ,"'Group H Engineering' ","'Sixth form college' ",2055
+2010 ,"'Group H Engineering' ","'State' ",3715
+2010 ,"'Group H Engineering' ","'Other' ",1060
+2010 ,"'Group I Computer Sciences' ","'Academy' ",2055
+2010 ,"'Group I Computer Sciences' ","'Further education' ",2320
+2010 ,"'Group I Computer Sciences' ","'Grammar' ",440
+2010 ,"'Group I Computer Sciences' ","'Independent' ",385
+2010 ,"'Group I Computer Sciences' ","'Sixth form college' ",2410
+2010 ,"'Group I Computer Sciences' ","'State' ",2690
+2010 ,"'Group I Computer Sciences' ","'Other' ",1360
+2010 ,"'Group J Technologies' ","'Academy' ",320
+2010 ,"'Group J Technologies' ","'Further education' ",290
+2010 ,"'Group J Technologies' ","'Grammar' ",60
+2010 ,"'Group J Technologies' ","'Independent' ",125
+2010 ,"'Group J Technologies' ","'Sixth form college' ",320
+2010 ,"'Group J Technologies' ","'State' ",355
+2010 ,"'Group J Technologies' ","'Other' ",240
+2010 ,"'Group K Architecture, Building and Planning' ","'Academy' ",1000
+2010 ,"'Group K Architecture, Building and Planning' ","'Further education' ",710
+2010 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",280
+2010 ,"'Group K Architecture, Building and Planning' ","'Independent' ",605
+2010 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",775
+2010 ,"'Group K Architecture, Building and Planning' ","'State' ",1190
+2010 ,"'Group K Architecture, Building and Planning' ","'Other' ",575
+2010 ,"'Group L Social Studies' ","'Academy' ",5100
+2010 ,"'Group L Social Studies' ","'Further education' ",1860
+2010 ,"'Group L Social Studies' ","'Grammar' ",680
+2010 ,"'Group L Social Studies' ","'Independent' ",3510
+2010 ,"'Group L Social Studies' ","'Sixth form college' ",3645
+2010 ,"'Group L Social Studies' ","'State' ",4745
+2010 ,"'Group L Social Studies' ","'Other' ",1355
+2010 ,"'Group M Law' ","'Academy' ",2915
+2010 ,"'Group M Law' ","'Further education' ",1490
+2010 ,"'Group M Law' ","'Grammar' ",685
+2010 ,"'Group M Law' ","'Independent' ",1030
+2010 ,"'Group M Law' ","'Sixth form college' ",3315
+2010 ,"'Group M Law' ","'State' ",3400
+2010 ,"'Group M Law' ","'Other' ",825
+2010 ,"'Group N Business and Admin studies' ","'Academy' ",6680
+2010 ,"'Group N Business and Admin studies' ","'Further education' ",4235
+2010 ,"'Group N Business and Admin studies' ","'Grammar' ",1000
+2010 ,"'Group N Business and Admin studies' ","'Independent' ",2855
+2010 ,"'Group N Business and Admin studies' ","'Sixth form college' ",6660
+2010 ,"'Group N Business and Admin studies' ","'State' ",7640
+2010 ,"'Group N Business and Admin studies' ","'Other' ",2850
+2010 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1655
+2010 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1120
+2010 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",180
+2010 ,"'Group P Mass Communication and Documentation' ","'Independent' ",295
+2010 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1865
+2010 ,"'Group P Mass Communication and Documentation' ","'State' ",1840
+2010 ,"'Group P Mass Communication and Documentation' ","'Other' ",705
+2010 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2715
+2010 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",605
+2010 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",395
+2010 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1615
+2010 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1935
+2010 ,"'Group Q Linguistics, Classics and related' ","'State' ",2395
+2010 ,"'Group Q Linguistics, Classics and related' ","'Other' ",420
+2010 ,"'Group R European Languages, Literature and related' ","'Academy' ",1045
+2010 ,"'Group R European Languages, Literature and related' ","'Further education' ",135
+2010 ,"'Group R European Languages, Literature and related' ","'Grammar' ",220
+2010 ,"'Group R European Languages, Literature and related' ","'Independent' ",1105
+2010 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",510
+2010 ,"'Group R European Languages, Literature and related' ","'State' ",810
+2010 ,"'Group R European Languages, Literature and related' ","'Other' ",55
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",310
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",60
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",30
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",235
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",185
+2010 ,"'Group T Non-European Languages, Literature and related' ","'State' ",195
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",45
+2010 ,"'Group V History and Philosophical studies' ","'Academy' ",3240
+2010 ,"'Group V History and Philosophical studies' ","'Further education' ",585
+2010 ,"'Group V History and Philosophical studies' ","'Grammar' ",435
+2010 ,"'Group V History and Philosophical studies' ","'Independent' ",2585
+2010 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1890
+2010 ,"'Group V History and Philosophical studies' ","'State' ",2800
+2010 ,"'Group V History and Philosophical studies' ","'Other' ",420
+2010 ,"'Group W Creative Arts and Design' ","'Academy' ",4540
+2010 ,"'Group W Creative Arts and Design' ","'Further education' ",7530
+2010 ,"'Group W Creative Arts and Design' ","'Grammar' ",470
+2010 ,"'Group W Creative Arts and Design' ","'Independent' ",1400
+2010 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",6080
+2010 ,"'Group W Creative Arts and Design' ","'State' ",4825
+2010 ,"'Group W Creative Arts and Design' ","'Other' ",7420
+2010 ,"'Group X Education' ","'Academy' ",2235
+2010 ,"'Group X Education' ","'Further education' ",1505
+2010 ,"'Group X Education' ","'Grammar' ",280
+2010 ,"'Group X Education' ","'Independent' ",285
+2010 ,"'Group X Education' ","'Sixth form college' ",2090
+2010 ,"'Group X Education' ","'State' ",2650
+2010 ,"'Group X Education' ","'Other' ",825
+2010 ,"'Y Combined arts' ","'Academy' ",2515
+2010 ,"'Y Combined arts' ","'Further education' ",1000
+2010 ,"'Y Combined arts' ","'Grammar' ",280
+2010 ,"'Y Combined arts' ","'Independent' ",1040
+2010 ,"'Y Combined arts' ","'Sixth form college' ",1950
+2010 ,"'Y Combined arts' ","'State' ",2430
+2010 ,"'Y Combined arts' ","'Other' ",610
+2010 ,"'Y Combined sciences' ","'Academy' ",1245
+2010 ,"'Y Combined sciences' ","'Further education' ",805
+2010 ,"'Y Combined sciences' ","'Grammar' ",180
+2010 ,"'Y Combined sciences' ","'Independent' ",460
+2010 ,"'Y Combined sciences' ","'Sixth form college' ",975
+2010 ,"'Y Combined sciences' ","'State' ",1420
+2010 ,"'Y Combined sciences' ","'Other' ",430
+2010 ,"'Y Combined social sciences' ","'Academy' ",860
+2010 ,"'Y Combined social sciences' ","'Further education' ",380
+2010 ,"'Y Combined social sciences' ","'Grammar' ",100
+2010 ,"'Y Combined social sciences' ","'Independent' ",425
+2010 ,"'Y Combined social sciences' ","'Sixth form college' ",750
+2010 ,"'Y Combined social sciences' ","'State' ",875
+2010 ,"'Y Combined social sciences' ","'Other' ",270
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",2825
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",2255
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",315
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",970
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",2670
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",3320
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1400
+2010 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1850
+2010 ,"'Y Social Sciences combined with Arts' ","'Further education' ",830
+2010 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",285
+2010 ,"'Y Social Sciences combined with Arts' ","'Independent' ",1045
+2010 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1395
+2010 ,"'Y Social Sciences combined with Arts' ","'State' ",1885
+2010 ,"'Y Social Sciences combined with Arts' ","'Other' ",670
+2010 ,"'Z General, other combined and unknown' ","'Academy' ",640
+2010 ,"'Z General, other combined and unknown' ","'Further education' ",180
+2010 ,"'Z General, other combined and unknown' ","'Grammar' ",80
+2010 ,"'Z General, other combined and unknown' ","'Independent' ",615
+2010 ,"'Z General, other combined and unknown' ","'Sixth form college' ",460
+2010 ,"'Z General, other combined and unknown' ","'State' ",530
+2010 ,"'Z General, other combined and unknown' ","'Other' ",160
+2011 ,"'Group A Medicine and Dentistry' ","'Academy' ",1645
+2011 ,"'Group A Medicine and Dentistry' ","'Further education' ",105
+2011 ,"'Group A Medicine and Dentistry' ","'Grammar' ",605
+2011 ,"'Group A Medicine and Dentistry' ","'Independent' ",1655
+2011 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",650
+2011 ,"'Group A Medicine and Dentistry' ","'State' ",1020
+2011 ,"'Group A Medicine and Dentistry' ","'Other' ",195
+2011 ,"'Group B Subjects allied to Medicine' ","'Academy' ",4635
+2011 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2380
+2011 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",1005
+2011 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1320
+2011 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",4130
+2011 ,"'Group B Subjects allied to Medicine' ","'State' ",5230
+2011 ,"'Group B Subjects allied to Medicine' ","'Other' ",2165
+2011 ,"'Group C Biological Sciences' ","'Academy' ",7445
+2011 ,"'Group C Biological Sciences' ","'Further education' ",3455
+2011 ,"'Group C Biological Sciences' ","'Grammar' ",855
+2011 ,"'Group C Biological Sciences' ","'Independent' ",2455
+2011 ,"'Group C Biological Sciences' ","'Sixth form college' ",5855
+2011 ,"'Group C Biological Sciences' ","'State' ",7070
+2011 ,"'Group C Biological Sciences' ","'Other' ",2145
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",755
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",725
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",160
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",410
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",510
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",715
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",520
+2011 ,"'Group F Physical Sciences' ","'Academy' ",4305
+2011 ,"'Group F Physical Sciences' ","'Further education' ",790
+2011 ,"'Group F Physical Sciences' ","'Grammar' ",590
+2011 ,"'Group F Physical Sciences' ","'Independent' ",1815
+2011 ,"'Group F Physical Sciences' ","'Sixth form college' ",2565
+2011 ,"'Group F Physical Sciences' ","'State' ",3885
+2011 ,"'Group F Physical Sciences' ","'Other' ",625
+2011 ,"'Group G Mathematical Sciences' ","'Academy' ",2000
+2011 ,"'Group G Mathematical Sciences' ","'Further education' ",310
+2011 ,"'Group G Mathematical Sciences' ","'Grammar' ",290
+2011 ,"'Group G Mathematical Sciences' ","'Independent' ",525
+2011 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1210
+2011 ,"'Group G Mathematical Sciences' ","'State' ",1660
+2011 ,"'Group G Mathematical Sciences' ","'Other' ",225
+2011 ,"'Group H Engineering' ","'Academy' ",3390
+2011 ,"'Group H Engineering' ","'Further education' ",1395
+2011 ,"'Group H Engineering' ","'Grammar' ",725
+2011 ,"'Group H Engineering' ","'Independent' ",1715
+2011 ,"'Group H Engineering' ","'Sixth form college' ",2215
+2011 ,"'Group H Engineering' ","'State' ",3755
+2011 ,"'Group H Engineering' ","'Other' ",1185
+2011 ,"'Group I Computer Sciences' ","'Academy' ",2260
+2011 ,"'Group I Computer Sciences' ","'Further education' ",2225
+2011 ,"'Group I Computer Sciences' ","'Grammar' ",445
+2011 ,"'Group I Computer Sciences' ","'Independent' ",365
+2011 ,"'Group I Computer Sciences' ","'Sixth form college' ",2370
+2011 ,"'Group I Computer Sciences' ","'State' ",2770
+2011 ,"'Group I Computer Sciences' ","'Other' ",1445
+2011 ,"'Group J Technologies' ","'Academy' ",290
+2011 ,"'Group J Technologies' ","'Further education' ",285
+2011 ,"'Group J Technologies' ","'Grammar' ",45
+2011 ,"'Group J Technologies' ","'Independent' ",115
+2011 ,"'Group J Technologies' ","'Sixth form college' ",320
+2011 ,"'Group J Technologies' ","'State' ",285
+2011 ,"'Group J Technologies' ","'Other' ",230
+2011 ,"'Group K Architecture, Building and Planning' ","'Academy' ",980
+2011 ,"'Group K Architecture, Building and Planning' ","'Further education' ",630
+2011 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",290
+2011 ,"'Group K Architecture, Building and Planning' ","'Independent' ",555
+2011 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",780
+2011 ,"'Group K Architecture, Building and Planning' ","'State' ",1090
+2011 ,"'Group K Architecture, Building and Planning' ","'Other' ",565
+2011 ,"'Group L Social Studies' ","'Academy' ",5415
+2011 ,"'Group L Social Studies' ","'Further education' ",1865
+2011 ,"'Group L Social Studies' ","'Grammar' ",705
+2011 ,"'Group L Social Studies' ","'Independent' ",3470
+2011 ,"'Group L Social Studies' ","'Sixth form college' ",4015
+2011 ,"'Group L Social Studies' ","'State' ",4675
+2011 ,"'Group L Social Studies' ","'Other' ",1680
+2011 ,"'Group M Law' ","'Academy' ",3075
+2011 ,"'Group M Law' ","'Further education' ",1435
+2011 ,"'Group M Law' ","'Grammar' ",645
+2011 ,"'Group M Law' ","'Independent' ",1065
+2011 ,"'Group M Law' ","'Sixth form college' ",3355
+2011 ,"'Group M Law' ","'State' ",3375
+2011 ,"'Group M Law' ","'Other' ",1075
+2011 ,"'Group N Business and Admin studies' ","'Academy' ",7290
+2011 ,"'Group N Business and Admin studies' ","'Further education' ",3995
+2011 ,"'Group N Business and Admin studies' ","'Grammar' ",1130
+2011 ,"'Group N Business and Admin studies' ","'Independent' ",2960
+2011 ,"'Group N Business and Admin studies' ","'Sixth form college' ",6865
+2011 ,"'Group N Business and Admin studies' ","'State' ",8015
+2011 ,"'Group N Business and Admin studies' ","'Other' ",3370
+2011 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1830
+2011 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1200
+2011 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",195
+2011 ,"'Group P Mass Communication and Documentation' ","'Independent' ",260
+2011 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1865
+2011 ,"'Group P Mass Communication and Documentation' ","'State' ",1830
+2011 ,"'Group P Mass Communication and Documentation' ","'Other' ",925
+2011 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2735
+2011 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",650
+2011 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",375
+2011 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1605
+2011 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1855
+2011 ,"'Group Q Linguistics, Classics and related' ","'State' ",2220
+2011 ,"'Group Q Linguistics, Classics and related' ","'Other' ",565
+2011 ,"'Group R European Languages, Literature and related' ","'Academy' ",1030
+2011 ,"'Group R European Languages, Literature and related' ","'Further education' ",115
+2011 ,"'Group R European Languages, Literature and related' ","'Grammar' ",200
+2011 ,"'Group R European Languages, Literature and related' ","'Independent' ",1010
+2011 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",555
+2011 ,"'Group R European Languages, Literature and related' ","'State' ",730
+2011 ,"'Group R European Languages, Literature and related' ","'Other' ",130
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",305
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",45
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",25
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",250
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",155
+2011 ,"'Group T Non-European Languages, Literature and related' ","'State' ",205
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",50
+2011 ,"'Group V History and Philosophical studies' ","'Academy' ",3445
+2011 ,"'Group V History and Philosophical studies' ","'Further education' ",580
+2011 ,"'Group V History and Philosophical studies' ","'Grammar' ",425
+2011 ,"'Group V History and Philosophical studies' ","'Independent' ",2505
+2011 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1960
+2011 ,"'Group V History and Philosophical studies' ","'State' ",2730
+2011 ,"'Group V History and Philosophical studies' ","'Other' ",540
+2011 ,"'Group W Creative Arts and Design' ","'Academy' ",5005
+2011 ,"'Group W Creative Arts and Design' ","'Further education' ",7315
+2011 ,"'Group W Creative Arts and Design' ","'Grammar' ",475
+2011 ,"'Group W Creative Arts and Design' ","'Independent' ",1435
+2011 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",6465
+2011 ,"'Group W Creative Arts and Design' ","'State' ",5085
+2011 ,"'Group W Creative Arts and Design' ","'Other' ",8190
+2011 ,"'Group X Education' ","'Academy' ",2335
+2011 ,"'Group X Education' ","'Further education' ",1445
+2011 ,"'Group X Education' ","'Grammar' ",290
+2011 ,"'Group X Education' ","'Independent' ",300
+2011 ,"'Group X Education' ","'Sixth form college' ",2190
+2011 ,"'Group X Education' ","'State' ",2930
+2011 ,"'Group X Education' ","'Other' ",1200
+2011 ,"'Y Combined arts' ","'Academy' ",2485
+2011 ,"'Y Combined arts' ","'Further education' ",865
+2011 ,"'Y Combined arts' ","'Grammar' ",290
+2011 ,"'Y Combined arts' ","'Independent' ",1020
+2011 ,"'Y Combined arts' ","'Sixth form college' ",1870
+2011 ,"'Y Combined arts' ","'State' ",2260
+2011 ,"'Y Combined arts' ","'Other' ",820
+2011 ,"'Y Combined sciences' ","'Academy' ",1405
+2011 ,"'Y Combined sciences' ","'Further education' ",800
+2011 ,"'Y Combined sciences' ","'Grammar' ",210
+2011 ,"'Y Combined sciences' ","'Independent' ",450
+2011 ,"'Y Combined sciences' ","'Sixth form college' ",1045
+2011 ,"'Y Combined sciences' ","'State' ",1350
+2011 ,"'Y Combined sciences' ","'Other' ",525
+2011 ,"'Y Combined social sciences' ","'Academy' ",820
+2011 ,"'Y Combined social sciences' ","'Further education' ",325
+2011 ,"'Y Combined social sciences' ","'Grammar' ",100
+2011 ,"'Y Combined social sciences' ","'Independent' ",380
+2011 ,"'Y Combined social sciences' ","'Sixth form college' ",740
+2011 ,"'Y Combined social sciences' ","'State' ",845
+2011 ,"'Y Combined social sciences' ","'Other' ",275
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",2915
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",2045
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",285
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",905
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",2525
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",3225
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1575
+2011 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1870
+2011 ,"'Y Social Sciences combined with Arts' ","'Further education' ",820
+2011 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",260
+2011 ,"'Y Social Sciences combined with Arts' ","'Independent' ",1090
+2011 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1350
+2011 ,"'Y Social Sciences combined with Arts' ","'State' ",1740
+2011 ,"'Y Social Sciences combined with Arts' ","'Other' ",855
+2011 ,"'Z General, other combined and unknown' ","'Academy' ",725
+2011 ,"'Z General, other combined and unknown' ","'Further education' ",195
+2011 ,"'Z General, other combined and unknown' ","'Grammar' ",115
+2011 ,"'Z General, other combined and unknown' ","'Independent' ",570
+2011 ,"'Z General, other combined and unknown' ","'Sixth form college' ",460
+2011 ,"'Z General, other combined and unknown' ","'State' ",510
+2011 ,"'Z General, other combined and unknown' ","'Other' ",220
+2012 ,"'Group A Medicine and Dentistry' ","'Academy' ",1740
+2012 ,"'Group A Medicine and Dentistry' ","'Further education' ",110
+2012 ,"'Group A Medicine and Dentistry' ","'Grammar' ",540
+2012 ,"'Group A Medicine and Dentistry' ","'Independent' ",1775
+2012 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",605
+2012 ,"'Group A Medicine and Dentistry' ","'State' ",1150
+2012 ,"'Group A Medicine and Dentistry' ","'Other' ",230
+2012 ,"'Group B Subjects allied to Medicine' ","'Academy' ",4615
+2012 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2260
+2012 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",990
+2012 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1330
+2012 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",3930
+2012 ,"'Group B Subjects allied to Medicine' ","'State' ",5090
+2012 ,"'Group B Subjects allied to Medicine' ","'Other' ",2065
+2012 ,"'Group C Biological Sciences' ","'Academy' ",7355
+2012 ,"'Group C Biological Sciences' ","'Further education' ",3370
+2012 ,"'Group C Biological Sciences' ","'Grammar' ",850
+2012 ,"'Group C Biological Sciences' ","'Independent' ",2505
+2012 ,"'Group C Biological Sciences' ","'Sixth form college' ",5590
+2012 ,"'Group C Biological Sciences' ","'State' ",6855
+2012 ,"'Group C Biological Sciences' ","'Other' ",2275
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",705
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",660
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",180
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",430
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",440
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",720
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",465
+2012 ,"'Group F Physical Sciences' ","'Academy' ",4225
+2012 ,"'Group F Physical Sciences' ","'Further education' ",880
+2012 ,"'Group F Physical Sciences' ","'Grammar' ",600
+2012 ,"'Group F Physical Sciences' ","'Independent' ",1845
+2012 ,"'Group F Physical Sciences' ","'Sixth form college' ",2515
+2012 ,"'Group F Physical Sciences' ","'State' ",3845
+2012 ,"'Group F Physical Sciences' ","'Other' ",635
+2012 ,"'Group G Mathematical Sciences' ","'Academy' ",1920
+2012 ,"'Group G Mathematical Sciences' ","'Further education' ",270
+2012 ,"'Group G Mathematical Sciences' ","'Grammar' ",245
+2012 ,"'Group G Mathematical Sciences' ","'Independent' ",490
+2012 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1140
+2012 ,"'Group G Mathematical Sciences' ","'State' ",1685
+2012 ,"'Group G Mathematical Sciences' ","'Other' ",250
+2012 ,"'Group H Engineering' ","'Academy' ",3260
+2012 ,"'Group H Engineering' ","'Further education' ",1315
+2012 ,"'Group H Engineering' ","'Grammar' ",760
+2012 ,"'Group H Engineering' ","'Independent' ",1680
+2012 ,"'Group H Engineering' ","'Sixth form college' ",2195
+2012 ,"'Group H Engineering' ","'State' ",3610
+2012 ,"'Group H Engineering' ","'Other' ",1255
+2012 ,"'Group I Computer Sciences' ","'Academy' ",2165
+2012 ,"'Group I Computer Sciences' ","'Further education' ",1945
+2012 ,"'Group I Computer Sciences' ","'Grammar' ",425
+2012 ,"'Group I Computer Sciences' ","'Independent' ",335
+2012 ,"'Group I Computer Sciences' ","'Sixth form college' ",2245
+2012 ,"'Group I Computer Sciences' ","'State' ",2520
+2012 ,"'Group I Computer Sciences' ","'Other' ",1485
+2012 ,"'Group J Technologies' ","'Academy' ",260
+2012 ,"'Group J Technologies' ","'Further education' ",190
+2012 ,"'Group J Technologies' ","'Grammar' ",55
+2012 ,"'Group J Technologies' ","'Independent' ",90
+2012 ,"'Group J Technologies' ","'Sixth form college' ",220
+2012 ,"'Group J Technologies' ","'State' ",265
+2012 ,"'Group J Technologies' ","'Other' ",175
+2012 ,"'Group K Architecture, Building and Planning' ","'Academy' ",875
+2012 ,"'Group K Architecture, Building and Planning' ","'Further education' ",485
+2012 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",215
+2012 ,"'Group K Architecture, Building and Planning' ","'Independent' ",485
+2012 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",665
+2012 ,"'Group K Architecture, Building and Planning' ","'State' ",990
+2012 ,"'Group K Architecture, Building and Planning' ","'Other' ",505
+2012 ,"'Group L Social Studies' ","'Academy' ",4960
+2012 ,"'Group L Social Studies' ","'Further education' ",1840
+2012 ,"'Group L Social Studies' ","'Grammar' ",640
+2012 ,"'Group L Social Studies' ","'Independent' ",3305
+2012 ,"'Group L Social Studies' ","'Sixth form college' ",3640
+2012 ,"'Group L Social Studies' ","'State' ",4380
+2012 ,"'Group L Social Studies' ","'Other' ",1745
+2012 ,"'Group M Law' ","'Academy' ",2970
+2012 ,"'Group M Law' ","'Further education' ",1315
+2012 ,"'Group M Law' ","'Grammar' ",545
+2012 ,"'Group M Law' ","'Independent' ",1000
+2012 ,"'Group M Law' ","'Sixth form college' ",3370
+2012 ,"'Group M Law' ","'State' ",3265
+2012 ,"'Group M Law' ","'Other' ",980
+2012 ,"'Group N Business and Admin studies' ","'Academy' ",6685
+2012 ,"'Group N Business and Admin studies' ","'Further education' ",3510
+2012 ,"'Group N Business and Admin studies' ","'Grammar' ",1130
+2012 ,"'Group N Business and Admin studies' ","'Independent' ",2810
+2012 ,"'Group N Business and Admin studies' ","'Sixth form college' ",6295
+2012 ,"'Group N Business and Admin studies' ","'State' ",7350
+2012 ,"'Group N Business and Admin studies' ","'Other' ",3450
+2012 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1555
+2012 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1080
+2012 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",150
+2012 ,"'Group P Mass Communication and Documentation' ","'Independent' ",250
+2012 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1635
+2012 ,"'Group P Mass Communication and Documentation' ","'State' ",1575
+2012 ,"'Group P Mass Communication and Documentation' ","'Other' ",850
+2012 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2735
+2012 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",565
+2012 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",325
+2012 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1540
+2012 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1845
+2012 ,"'Group Q Linguistics, Classics and related' ","'State' ",2140
+2012 ,"'Group Q Linguistics, Classics and related' ","'Other' ",540
+2012 ,"'Group R European Languages, Literature and related' ","'Academy' ",885
+2012 ,"'Group R European Languages, Literature and related' ","'Further education' ",110
+2012 ,"'Group R European Languages, Literature and related' ","'Grammar' ",200
+2012 ,"'Group R European Languages, Literature and related' ","'Independent' ",930
+2012 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",490
+2012 ,"'Group R European Languages, Literature and related' ","'State' ",665
+2012 ,"'Group R European Languages, Literature and related' ","'Other' ",115
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",280
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",50
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",25
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",220
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",135
+2012 ,"'Group T Non-European Languages, Literature and related' ","'State' ",175
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",40
+2012 ,"'Group V History and Philosophical studies' ","'Academy' ",3180
+2012 ,"'Group V History and Philosophical studies' ","'Further education' ",555
+2012 ,"'Group V History and Philosophical studies' ","'Grammar' ",380
+2012 ,"'Group V History and Philosophical studies' ","'Independent' ",2445
+2012 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1920
+2012 ,"'Group V History and Philosophical studies' ","'State' ",2565
+2012 ,"'Group V History and Philosophical studies' ","'Other' ",555
+2012 ,"'Group W Creative Arts and Design' ","'Academy' ",4525
+2012 ,"'Group W Creative Arts and Design' ","'Further education' ",6700
+2012 ,"'Group W Creative Arts and Design' ","'Grammar' ",465
+2012 ,"'Group W Creative Arts and Design' ","'Independent' ",1300
+2012 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",5785
+2012 ,"'Group W Creative Arts and Design' ","'State' ",4495
+2012 ,"'Group W Creative Arts and Design' ","'Other' ",7390
+2012 ,"'Group X Education' ","'Academy' ",2520
+2012 ,"'Group X Education' ","'Further education' ",1520
+2012 ,"'Group X Education' ","'Grammar' ",235
+2012 ,"'Group X Education' ","'Independent' ",285
+2012 ,"'Group X Education' ","'Sixth form college' ",2240
+2012 ,"'Group X Education' ","'State' ",2950
+2012 ,"'Group X Education' ","'Other' ",1240
+2012 ,"'Y Combined arts' ","'Academy' ",2240
+2012 ,"'Y Combined arts' ","'Further education' ",765
+2012 ,"'Y Combined arts' ","'Grammar' ",245
+2012 ,"'Y Combined arts' ","'Independent' ",895
+2012 ,"'Y Combined arts' ","'Sixth form college' ",1620
+2012 ,"'Y Combined arts' ","'State' ",1900
+2012 ,"'Y Combined arts' ","'Other' ",715
+2012 ,"'Y Combined sciences' ","'Academy' ",1240
+2012 ,"'Y Combined sciences' ","'Further education' ",665
+2012 ,"'Y Combined sciences' ","'Grammar' ",200
+2012 ,"'Y Combined sciences' ","'Independent' ",485
+2012 ,"'Y Combined sciences' ","'Sixth form college' ",995
+2012 ,"'Y Combined sciences' ","'State' ",1215
+2012 ,"'Y Combined sciences' ","'Other' ",505
+2012 ,"'Y Combined social sciences' ","'Academy' ",815
+2012 ,"'Y Combined social sciences' ","'Further education' ",270
+2012 ,"'Y Combined social sciences' ","'Grammar' ",80
+2012 ,"'Y Combined social sciences' ","'Independent' ",375
+2012 ,"'Y Combined social sciences' ","'Sixth form college' ",670
+2012 ,"'Y Combined social sciences' ","'State' ",685
+2012 ,"'Y Combined social sciences' ","'Other' ",250
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",2405
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",1710
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",255
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",730
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",2050
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",2725
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1405
+2012 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1655
+2012 ,"'Y Social Sciences combined with Arts' ","'Further education' ",640
+2012 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",225
+2012 ,"'Y Social Sciences combined with Arts' ","'Independent' ",990
+2012 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1195
+2012 ,"'Y Social Sciences combined with Arts' ","'State' ",1580
+2012 ,"'Y Social Sciences combined with Arts' ","'Other' ",730
+2012 ,"'Z General, other combined and unknown' ","'Academy' ",940
+2012 ,"'Z General, other combined and unknown' ","'Further education' ",240
+2012 ,"'Z General, other combined and unknown' ","'Grammar' ",145
+2012 ,"'Z General, other combined and unknown' ","'Independent' ",810
+2012 ,"'Z General, other combined and unknown' ","'Sixth form college' ",570
+2012 ,"'Z General, other combined and unknown' ","'State' ",705
+2012 ,"'Z General, other combined and unknown' ","'Other' ",270
+2013 ,"'Group A Medicine and Dentistry' ","'Academy' ",1735
+2013 ,"'Group A Medicine and Dentistry' ","'Further education' ",95
+2013 ,"'Group A Medicine and Dentistry' ","'Grammar' ",530
+2013 ,"'Group A Medicine and Dentistry' ","'Independent' ",1650
+2013 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",660
+2013 ,"'Group A Medicine and Dentistry' ","'State' ",1040
+2013 ,"'Group A Medicine and Dentistry' ","'Other' ",255
+2013 ,"'Group B Subjects allied to Medicine' ","'Academy' ",5110
+2013 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2570
+2013 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",1070
+2013 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1295
+2013 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",4070
+2013 ,"'Group B Subjects allied to Medicine' ","'State' ",5310
+2013 ,"'Group B Subjects allied to Medicine' ","'Other' ",2265
+2013 ,"'Group C Biological Sciences' ","'Academy' ",8275
+2013 ,"'Group C Biological Sciences' ","'Further education' ",3745
+2013 ,"'Group C Biological Sciences' ","'Grammar' ",820
+2013 ,"'Group C Biological Sciences' ","'Independent' ",2455
+2013 ,"'Group C Biological Sciences' ","'Sixth form college' ",6095
+2013 ,"'Group C Biological Sciences' ","'State' ",7575
+2013 ,"'Group C Biological Sciences' ","'Other' ",2795
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",780
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",845
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",170
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",415
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",525
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",695
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",555
+2013 ,"'Group F Physical Sciences' ","'Academy' ",4685
+2013 ,"'Group F Physical Sciences' ","'Further education' ",940
+2013 ,"'Group F Physical Sciences' ","'Grammar' ",610
+2013 ,"'Group F Physical Sciences' ","'Independent' ",1905
+2013 ,"'Group F Physical Sciences' ","'Sixth form college' ",2645
+2013 ,"'Group F Physical Sciences' ","'State' ",3905
+2013 ,"'Group F Physical Sciences' ","'Other' ",780
+2013 ,"'Group G Mathematical Sciences' ","'Academy' ",2220
+2013 ,"'Group G Mathematical Sciences' ","'Further education' ",280
+2013 ,"'Group G Mathematical Sciences' ","'Grammar' ",290
+2013 ,"'Group G Mathematical Sciences' ","'Independent' ",540
+2013 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1145
+2013 ,"'Group G Mathematical Sciences' ","'State' ",1655
+2013 ,"'Group G Mathematical Sciences' ","'Other' ",270
+2013 ,"'Group H Engineering' ","'Academy' ",3830
+2013 ,"'Group H Engineering' ","'Further education' ",1525
+2013 ,"'Group H Engineering' ","'Grammar' ",810
+2013 ,"'Group H Engineering' ","'Independent' ",1785
+2013 ,"'Group H Engineering' ","'Sixth form college' ",2330
+2013 ,"'Group H Engineering' ","'State' ",3825
+2013 ,"'Group H Engineering' ","'Other' ",1360
+2013 ,"'Group I Computer Sciences' ","'Academy' ",2500
+2013 ,"'Group I Computer Sciences' ","'Further education' ",2455
+2013 ,"'Group I Computer Sciences' ","'Grammar' ",550
+2013 ,"'Group I Computer Sciences' ","'Independent' ",395
+2013 ,"'Group I Computer Sciences' ","'Sixth form college' ",2535
+2013 ,"'Group I Computer Sciences' ","'State' ",2875
+2013 ,"'Group I Computer Sciences' ","'Other' ",1495
+2013 ,"'Group J Technologies' ","'Academy' ",255
+2013 ,"'Group J Technologies' ","'Further education' ",225
+2013 ,"'Group J Technologies' ","'Grammar' ",60
+2013 ,"'Group J Technologies' ","'Independent' ",105
+2013 ,"'Group J Technologies' ","'Sixth form college' ",285
+2013 ,"'Group J Technologies' ","'State' ",270
+2013 ,"'Group J Technologies' ","'Other' ",220
+2013 ,"'Group K Architecture, Building and Planning' ","'Academy' ",870
+2013 ,"'Group K Architecture, Building and Planning' ","'Further education' ",535
+2013 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",185
+2013 ,"'Group K Architecture, Building and Planning' ","'Independent' ",455
+2013 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",665
+2013 ,"'Group K Architecture, Building and Planning' ","'State' ",890
+2013 ,"'Group K Architecture, Building and Planning' ","'Other' ",540
+2013 ,"'Group L Social Studies' ","'Academy' ",5760
+2013 ,"'Group L Social Studies' ","'Further education' ",2060
+2013 ,"'Group L Social Studies' ","'Grammar' ",690
+2013 ,"'Group L Social Studies' ","'Independent' ",3240
+2013 ,"'Group L Social Studies' ","'Sixth form college' ",3925
+2013 ,"'Group L Social Studies' ","'State' ",4735
+2013 ,"'Group L Social Studies' ","'Other' ",2110
+2013 ,"'Group M Law' ","'Academy' ",3375
+2013 ,"'Group M Law' ","'Further education' ",1475
+2013 ,"'Group M Law' ","'Grammar' ",595
+2013 ,"'Group M Law' ","'Independent' ",1030
+2013 ,"'Group M Law' ","'Sixth form college' ",3525
+2013 ,"'Group M Law' ","'State' ",3340
+2013 ,"'Group M Law' ","'Other' ",1130
+2013 ,"'Group N Business and Admin studies' ","'Academy' ",7500
+2013 ,"'Group N Business and Admin studies' ","'Further education' ",4035
+2013 ,"'Group N Business and Admin studies' ","'Grammar' ",1110
+2013 ,"'Group N Business and Admin studies' ","'Independent' ",2830
+2013 ,"'Group N Business and Admin studies' ","'Sixth form college' ",6350
+2013 ,"'Group N Business and Admin studies' ","'State' ",7555
+2013 ,"'Group N Business and Admin studies' ","'Other' ",3945
+2013 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1780
+2013 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1170
+2013 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",185
+2013 ,"'Group P Mass Communication and Documentation' ","'Independent' ",235
+2013 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1745
+2013 ,"'Group P Mass Communication and Documentation' ","'State' ",1675
+2013 ,"'Group P Mass Communication and Documentation' ","'Other' ",935
+2013 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2835
+2013 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",560
+2013 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",340
+2013 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1520
+2013 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1890
+2013 ,"'Group Q Linguistics, Classics and related' ","'State' ",2280
+2013 ,"'Group Q Linguistics, Classics and related' ","'Other' ",595
+2013 ,"'Group R European Languages, Literature and related' ","'Academy' ",845
+2013 ,"'Group R European Languages, Literature and related' ","'Further education' ",110
+2013 ,"'Group R European Languages, Literature and related' ","'Grammar' ",180
+2013 ,"'Group R European Languages, Literature and related' ","'Independent' ",935
+2013 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",450
+2013 ,"'Group R European Languages, Literature and related' ","'State' ",670
+2013 ,"'Group R European Languages, Literature and related' ","'Other' ",130
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",250
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",55
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",20
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",200
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",165
+2013 ,"'Group T Non-European Languages, Literature and related' ","'State' ",175
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",60
+2013 ,"'Group V History and Philosophical studies' ","'Academy' ",3530
+2013 ,"'Group V History and Philosophical studies' ","'Further education' ",575
+2013 ,"'Group V History and Philosophical studies' ","'Grammar' ",390
+2013 ,"'Group V History and Philosophical studies' ","'Independent' ",2400
+2013 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1940
+2013 ,"'Group V History and Philosophical studies' ","'State' ",2670
+2013 ,"'Group V History and Philosophical studies' ","'Other' ",655
+2013 ,"'Group W Creative Arts and Design' ","'Academy' ",4880
+2013 ,"'Group W Creative Arts and Design' ","'Further education' ",7345
+2013 ,"'Group W Creative Arts and Design' ","'Grammar' ",495
+2013 ,"'Group W Creative Arts and Design' ","'Independent' ",1275
+2013 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",6040
+2013 ,"'Group W Creative Arts and Design' ","'State' ",4665
+2013 ,"'Group W Creative Arts and Design' ","'Other' ",7955
+2013 ,"'Group X Education' ","'Academy' ",2725
+2013 ,"'Group X Education' ","'Further education' ",1510
+2013 ,"'Group X Education' ","'Grammar' ",290
+2013 ,"'Group X Education' ","'Independent' ",290
+2013 ,"'Group X Education' ","'Sixth form college' ",2140
+2013 ,"'Group X Education' ","'State' ",2880
+2013 ,"'Group X Education' ","'Other' ",1380
+2013 ,"'Y Combined arts' ","'Academy' ",2140
+2013 ,"'Y Combined arts' ","'Further education' ",665
+2013 ,"'Y Combined arts' ","'Grammar' ",245
+2013 ,"'Y Combined arts' ","'Independent' ",875
+2013 ,"'Y Combined arts' ","'Sixth form college' ",1585
+2013 ,"'Y Combined arts' ","'State' ",1930
+2013 ,"'Y Combined arts' ","'Other' ",735
+2013 ,"'Y Combined sciences' ","'Academy' ",1270
+2013 ,"'Y Combined sciences' ","'Further education' ",725
+2013 ,"'Y Combined sciences' ","'Grammar' ",260
+2013 ,"'Y Combined sciences' ","'Independent' ",435
+2013 ,"'Y Combined sciences' ","'Sixth form college' ",1030
+2013 ,"'Y Combined sciences' ","'State' ",1255
+2013 ,"'Y Combined sciences' ","'Other' ",560
+2013 ,"'Y Combined social sciences' ","'Academy' ",790
+2013 ,"'Y Combined social sciences' ","'Further education' ",300
+2013 ,"'Y Combined social sciences' ","'Grammar' ",90
+2013 ,"'Y Combined social sciences' ","'Independent' ",350
+2013 ,"'Y Combined social sciences' ","'Sixth form college' ",680
+2013 ,"'Y Combined social sciences' ","'State' ",795
+2013 ,"'Y Combined social sciences' ","'Other' ",275
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",2615
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",1650
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",275
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",790
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",2125
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",2540
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1445
+2013 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1705
+2013 ,"'Y Social Sciences combined with Arts' ","'Further education' ",705
+2013 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",230
+2013 ,"'Y Social Sciences combined with Arts' ","'Independent' ",1005
+2013 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1140
+2013 ,"'Y Social Sciences combined with Arts' ","'State' ",1455
+2013 ,"'Y Social Sciences combined with Arts' ","'Other' ",765
+2013 ,"'Z General, other combined and unknown' ","'Academy' ",1180
+2013 ,"'Z General, other combined and unknown' ","'Further education' ",310
+2013 ,"'Z General, other combined and unknown' ","'Grammar' ",165
+2013 ,"'Z General, other combined and unknown' ","'Independent' ",900
+2013 ,"'Z General, other combined and unknown' ","'Sixth form college' ",620
+2013 ,"'Z General, other combined and unknown' ","'State' ",880
+2013 ,"'Z General, other combined and unknown' ","'Other' ",350
+2014 ,"'Group A Medicine and Dentistry' ","'Academy' ",1690
+2014 ,"'Group A Medicine and Dentistry' ","'Further education' ",125
+2014 ,"'Group A Medicine and Dentistry' ","'Grammar' ",525
+2014 ,"'Group A Medicine and Dentistry' ","'Independent' ",1595
+2014 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",630
+2014 ,"'Group A Medicine and Dentistry' ","'State' ",1030
+2014 ,"'Group A Medicine and Dentistry' ","'Other' ",270
+2014 ,"'Group B Subjects allied to Medicine' ","'Academy' ",5055
+2014 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2700
+2014 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",990
+2014 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1295
+2014 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",4205
+2014 ,"'Group B Subjects allied to Medicine' ","'State' ",5335
+2014 ,"'Group B Subjects allied to Medicine' ","'Other' ",2245
+2014 ,"'Group C Biological Sciences' ","'Academy' ",9060
+2014 ,"'Group C Biological Sciences' ","'Further education' ",4360
+2014 ,"'Group C Biological Sciences' ","'Grammar' ",865
+2014 ,"'Group C Biological Sciences' ","'Independent' ",2575
+2014 ,"'Group C Biological Sciences' ","'Sixth form college' ",6540
+2014 ,"'Group C Biological Sciences' ","'State' ",7970
+2014 ,"'Group C Biological Sciences' ","'Other' ",3020
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",765
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",885
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",170
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",410
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",545
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",675
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",635
+2014 ,"'Group F Physical Sciences' ","'Academy' ",4820
+2014 ,"'Group F Physical Sciences' ","'Further education' ",1060
+2014 ,"'Group F Physical Sciences' ","'Grammar' ",620
+2014 ,"'Group F Physical Sciences' ","'Independent' ",1845
+2014 ,"'Group F Physical Sciences' ","'Sixth form college' ",2745
+2014 ,"'Group F Physical Sciences' ","'State' ",4035
+2014 ,"'Group F Physical Sciences' ","'Other' ",735
+2014 ,"'Group G Mathematical Sciences' ","'Academy' ",2145
+2014 ,"'Group G Mathematical Sciences' ","'Further education' ",290
+2014 ,"'Group G Mathematical Sciences' ","'Grammar' ",275
+2014 ,"'Group G Mathematical Sciences' ","'Independent' ",565
+2014 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1120
+2014 ,"'Group G Mathematical Sciences' ","'State' ",1670
+2014 ,"'Group G Mathematical Sciences' ","'Other' ",300
+2014 ,"'Group H Engineering' ","'Academy' ",4055
+2014 ,"'Group H Engineering' ","'Further education' ",1665
+2014 ,"'Group H Engineering' ","'Grammar' ",805
+2014 ,"'Group H Engineering' ","'Independent' ",1850
+2014 ,"'Group H Engineering' ","'Sixth form college' ",2555
+2014 ,"'Group H Engineering' ","'State' ",4180
+2014 ,"'Group H Engineering' ","'Other' ",1460
+2014 ,"'Group I Computer Sciences' ","'Academy' ",2755
+2014 ,"'Group I Computer Sciences' ","'Further education' ",2695
+2014 ,"'Group I Computer Sciences' ","'Grammar' ",570
+2014 ,"'Group I Computer Sciences' ","'Independent' ",440
+2014 ,"'Group I Computer Sciences' ","'Sixth form college' ",2770
+2014 ,"'Group I Computer Sciences' ","'State' ",3010
+2014 ,"'Group I Computer Sciences' ","'Other' ",1680
+2014 ,"'Group J Technologies' ","'Academy' ",260
+2014 ,"'Group J Technologies' ","'Further education' ",220
+2014 ,"'Group J Technologies' ","'Grammar' ",30
+2014 ,"'Group J Technologies' ","'Independent' ",120
+2014 ,"'Group J Technologies' ","'Sixth form college' ",265
+2014 ,"'Group J Technologies' ","'State' ",230
+2014 ,"'Group J Technologies' ","'Other' ",225
+2014 ,"'Group K Architecture, Building and Planning' ","'Academy' ",865
+2014 ,"'Group K Architecture, Building and Planning' ","'Further education' ",550
+2014 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",190
+2014 ,"'Group K Architecture, Building and Planning' ","'Independent' ",425
+2014 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",660
+2014 ,"'Group K Architecture, Building and Planning' ","'State' ",965
+2014 ,"'Group K Architecture, Building and Planning' ","'Other' ",520
+2014 ,"'Group L Social Studies' ","'Academy' ",6060
+2014 ,"'Group L Social Studies' ","'Further education' ",2275
+2014 ,"'Group L Social Studies' ","'Grammar' ",705
+2014 ,"'Group L Social Studies' ","'Independent' ",3375
+2014 ,"'Group L Social Studies' ","'Sixth form college' ",4290
+2014 ,"'Group L Social Studies' ","'State' ",5085
+2014 ,"'Group L Social Studies' ","'Other' ",2220
+2014 ,"'Group M Law' ","'Academy' ",3405
+2014 ,"'Group M Law' ","'Further education' ",1315
+2014 ,"'Group M Law' ","'Grammar' ",500
+2014 ,"'Group M Law' ","'Independent' ",960
+2014 ,"'Group M Law' ","'Sixth form college' ",3420
+2014 ,"'Group M Law' ","'State' ",3360
+2014 ,"'Group M Law' ","'Other' ",1190
+2014 ,"'Group N Business and Admin studies' ","'Academy' ",7675
+2014 ,"'Group N Business and Admin studies' ","'Further education' ",4160
+2014 ,"'Group N Business and Admin studies' ","'Grammar' ",1110
+2014 ,"'Group N Business and Admin studies' ","'Independent' ",2875
+2014 ,"'Group N Business and Admin studies' ","'Sixth form college' ",6575
+2014 ,"'Group N Business and Admin studies' ","'State' ",7800
+2014 ,"'Group N Business and Admin studies' ","'Other' ",4010
+2014 ,"'Group P Mass Communication and Documentation' ","'Academy' ",1865
+2014 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1245
+2014 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",170
+2014 ,"'Group P Mass Communication and Documentation' ","'Independent' ",265
+2014 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1900
+2014 ,"'Group P Mass Communication and Documentation' ","'State' ",1830
+2014 ,"'Group P Mass Communication and Documentation' ","'Other' ",1060
+2014 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2800
+2014 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",565
+2014 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",370
+2014 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1585
+2014 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1845
+2014 ,"'Group Q Linguistics, Classics and related' ","'State' ",2190
+2014 ,"'Group Q Linguistics, Classics and related' ","'Other' ",570
+2014 ,"'Group R European Languages, Literature and related' ","'Academy' ",855
+2014 ,"'Group R European Languages, Literature and related' ","'Further education' ",95
+2014 ,"'Group R European Languages, Literature and related' ","'Grammar' ",180
+2014 ,"'Group R European Languages, Literature and related' ","'Independent' ",875
+2014 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",385
+2014 ,"'Group R European Languages, Literature and related' ","'State' ",620
+2014 ,"'Group R European Languages, Literature and related' ","'Other' ",120
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",235
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",45
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",15
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",160
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",145
+2014 ,"'Group T Non-European Languages, Literature and related' ","'State' ",140
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",55
+2014 ,"'Group V History and Philosophical studies' ","'Academy' ",3680
+2014 ,"'Group V History and Philosophical studies' ","'Further education' ",550
+2014 ,"'Group V History and Philosophical studies' ","'Grammar' ",415
+2014 ,"'Group V History and Philosophical studies' ","'Independent' ",2360
+2014 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",2055
+2014 ,"'Group V History and Philosophical studies' ","'State' ",2830
+2014 ,"'Group V History and Philosophical studies' ","'Other' ",640
+2014 ,"'Group W Creative Arts and Design' ","'Academy' ",5335
+2014 ,"'Group W Creative Arts and Design' ","'Further education' ",7565
+2014 ,"'Group W Creative Arts and Design' ","'Grammar' ",520
+2014 ,"'Group W Creative Arts and Design' ","'Independent' ",1395
+2014 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",6285
+2014 ,"'Group W Creative Arts and Design' ","'State' ",4885
+2014 ,"'Group W Creative Arts and Design' ","'Other' ",7925
+2014 ,"'Group X Education' ","'Academy' ",2650
+2014 ,"'Group X Education' ","'Further education' ",1580
+2014 ,"'Group X Education' ","'Grammar' ",270
+2014 ,"'Group X Education' ","'Independent' ",275
+2014 ,"'Group X Education' ","'Sixth form college' ",2290
+2014 ,"'Group X Education' ","'State' ",2915
+2014 ,"'Group X Education' ","'Other' ",1360
+2014 ,"'Y Combined arts' ","'Academy' ",1985
+2014 ,"'Y Combined arts' ","'Further education' ",685
+2014 ,"'Y Combined arts' ","'Grammar' ",235
+2014 ,"'Y Combined arts' ","'Independent' ",880
+2014 ,"'Y Combined arts' ","'Sixth form college' ",1455
+2014 ,"'Y Combined arts' ","'State' ",1855
+2014 ,"'Y Combined arts' ","'Other' ",705
+2014 ,"'Y Combined sciences' ","'Academy' ",1290
+2014 ,"'Y Combined sciences' ","'Further education' ",660
+2014 ,"'Y Combined sciences' ","'Grammar' ",245
+2014 ,"'Y Combined sciences' ","'Independent' ",420
+2014 ,"'Y Combined sciences' ","'Sixth form college' ",985
+2014 ,"'Y Combined sciences' ","'State' ",1200
+2014 ,"'Y Combined sciences' ","'Other' ",525
+2014 ,"'Y Combined social sciences' ","'Academy' ",835
+2014 ,"'Y Combined social sciences' ","'Further education' ",325
+2014 ,"'Y Combined social sciences' ","'Grammar' ",90
+2014 ,"'Y Combined social sciences' ","'Independent' ",375
+2014 ,"'Y Combined social sciences' ","'Sixth form college' ",625
+2014 ,"'Y Combined social sciences' ","'State' ",760
+2014 ,"'Y Combined social sciences' ","'Other' ",270
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",2225
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",1445
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",235
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",710
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",1755
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",2380
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",1170
+2014 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1685
+2014 ,"'Y Social Sciences combined with Arts' ","'Further education' ",645
+2014 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",220
+2014 ,"'Y Social Sciences combined with Arts' ","'Independent' ",910
+2014 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1005
+2014 ,"'Y Social Sciences combined with Arts' ","'State' ",1550
+2014 ,"'Y Social Sciences combined with Arts' ","'Other' ",665
+2014 ,"'Z General, other combined and unknown' ","'Academy' ",1130
+2014 ,"'Z General, other combined and unknown' ","'Further education' ",270
+2014 ,"'Z General, other combined and unknown' ","'Grammar' ",150
+2014 ,"'Z General, other combined and unknown' ","'Independent' ",955
+2014 ,"'Z General, other combined and unknown' ","'Sixth form college' ",575
+2014 ,"'Z General, other combined and unknown' ","'State' ",780
+2014 ,"'Z General, other combined and unknown' ","'Other' ",340
+2015 ,"'Group A Medicine and Dentistry' ","'Academy' ",1725
+2015 ,"'Group A Medicine and Dentistry' ","'Further education' ",110
+2015 ,"'Group A Medicine and Dentistry' ","'Grammar' ",480
+2015 ,"'Group A Medicine and Dentistry' ","'Independent' ",1520
+2015 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",580
+2015 ,"'Group A Medicine and Dentistry' ","'State' ",950
+2015 ,"'Group A Medicine and Dentistry' ","'Other' ",260
+2015 ,"'Group B Subjects allied to Medicine' ","'Academy' ",5250
+2015 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2780
+2015 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",970
+2015 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1355
+2015 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",4415
+2015 ,"'Group B Subjects allied to Medicine' ","'State' ",5285
+2015 ,"'Group B Subjects allied to Medicine' ","'Other' ",2255
+2015 ,"'Group C Biological Sciences' ","'Academy' ",9925
+2015 ,"'Group C Biological Sciences' ","'Further education' ",4670
+2015 ,"'Group C Biological Sciences' ","'Grammar' ",895
+2015 ,"'Group C Biological Sciences' ","'Independent' ",2710
+2015 ,"'Group C Biological Sciences' ","'Sixth form college' ",7120
+2015 ,"'Group C Biological Sciences' ","'State' ",8445
+2015 ,"'Group C Biological Sciences' ","'Other' ",3320
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",795
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",975
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",150
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",410
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",585
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",790
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",840
+2015 ,"'Group F Physical Sciences' ","'Academy' ",4900
+2015 ,"'Group F Physical Sciences' ","'Further education' ",1095
+2015 ,"'Group F Physical Sciences' ","'Grammar' ",615
+2015 ,"'Group F Physical Sciences' ","'Independent' ",1980
+2015 ,"'Group F Physical Sciences' ","'Sixth form college' ",3000
+2015 ,"'Group F Physical Sciences' ","'State' ",4165
+2015 ,"'Group F Physical Sciences' ","'Other' ",845
+2015 ,"'Group G Mathematical Sciences' ","'Academy' ",2210
+2015 ,"'Group G Mathematical Sciences' ","'Further education' ",290
+2015 ,"'Group G Mathematical Sciences' ","'Grammar' ",285
+2015 ,"'Group G Mathematical Sciences' ","'Independent' ",575
+2015 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1220
+2015 ,"'Group G Mathematical Sciences' ","'State' ",1660
+2015 ,"'Group G Mathematical Sciences' ","'Other' ",320
+2015 ,"'Group H Engineering' ","'Academy' ",4540
+2015 ,"'Group H Engineering' ","'Further education' ",1805
+2015 ,"'Group H Engineering' ","'Grammar' ",855
+2015 ,"'Group H Engineering' ","'Independent' ",2020
+2015 ,"'Group H Engineering' ","'Sixth form college' ",2785
+2015 ,"'Group H Engineering' ","'State' ",4545
+2015 ,"'Group H Engineering' ","'Other' ",1605
+2015 ,"'Group I Computer Sciences' ","'Academy' ",3020
+2015 ,"'Group I Computer Sciences' ","'Further education' ",2955
+2015 ,"'Group I Computer Sciences' ","'Grammar' ",520
+2015 ,"'Group I Computer Sciences' ","'Independent' ",485
+2015 ,"'Group I Computer Sciences' ","'Sixth form college' ",3145
+2015 ,"'Group I Computer Sciences' ","'State' ",3275
+2015 ,"'Group I Computer Sciences' ","'Other' ",1985
+2015 ,"'Group J Technologies' ","'Academy' ",255
+2015 ,"'Group J Technologies' ","'Further education' ",190
+2015 ,"'Group J Technologies' ","'Grammar' ",30
+2015 ,"'Group J Technologies' ","'Independent' ",115
+2015 ,"'Group J Technologies' ","'Sixth form college' ",235
+2015 ,"'Group J Technologies' ","'State' ",240
+2015 ,"'Group J Technologies' ","'Other' ",185
+2015 ,"'Group K Architecture, Building and Planning' ","'Academy' ",945
+2015 ,"'Group K Architecture, Building and Planning' ","'Further education' ",480
+2015 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",205
+2015 ,"'Group K Architecture, Building and Planning' ","'Independent' ",475
+2015 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",675
+2015 ,"'Group K Architecture, Building and Planning' ","'State' ",1055
+2015 ,"'Group K Architecture, Building and Planning' ","'Other' ",575
+2015 ,"'Group L Social Studies' ","'Academy' ",7260
+2015 ,"'Group L Social Studies' ","'Further education' ",2390
+2015 ,"'Group L Social Studies' ","'Grammar' ",690
+2015 ,"'Group L Social Studies' ","'Independent' ",3580
+2015 ,"'Group L Social Studies' ","'Sixth form college' ",4715
+2015 ,"'Group L Social Studies' ","'State' ",5770
+2015 ,"'Group L Social Studies' ","'Other' ",2425
+2015 ,"'Group M Law' ","'Academy' ",3750
+2015 ,"'Group M Law' ","'Further education' ",1355
+2015 ,"'Group M Law' ","'Grammar' ",525
+2015 ,"'Group M Law' ","'Independent' ",920
+2015 ,"'Group M Law' ","'Sixth form college' ",3525
+2015 ,"'Group M Law' ","'State' ",3595
+2015 ,"'Group M Law' ","'Other' ",1210
+2015 ,"'Group N Business and Admin studies' ","'Academy' ",8295
+2015 ,"'Group N Business and Admin studies' ","'Further education' ",4300
+2015 ,"'Group N Business and Admin studies' ","'Grammar' ",1030
+2015 ,"'Group N Business and Admin studies' ","'Independent' ",3050
+2015 ,"'Group N Business and Admin studies' ","'Sixth form college' ",6850
+2015 ,"'Group N Business and Admin studies' ","'State' ",8125
+2015 ,"'Group N Business and Admin studies' ","'Other' ",4405
+2015 ,"'Group P Mass Communication and Documentation' ","'Academy' ",2065
+2015 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1335
+2015 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",160
+2015 ,"'Group P Mass Communication and Documentation' ","'Independent' ",295
+2015 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1945
+2015 ,"'Group P Mass Communication and Documentation' ","'State' ",1860
+2015 ,"'Group P Mass Communication and Documentation' ","'Other' ",1115
+2015 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2945
+2015 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",525
+2015 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",295
+2015 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1480
+2015 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1940
+2015 ,"'Group Q Linguistics, Classics and related' ","'State' ",2170
+2015 ,"'Group Q Linguistics, Classics and related' ","'Other' ",620
+2015 ,"'Group R European Languages, Literature and related' ","'Academy' ",875
+2015 ,"'Group R European Languages, Literature and related' ","'Further education' ",80
+2015 ,"'Group R European Languages, Literature and related' ","'Grammar' ",190
+2015 ,"'Group R European Languages, Literature and related' ","'Independent' ",835
+2015 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",425
+2015 ,"'Group R European Languages, Literature and related' ","'State' ",655
+2015 ,"'Group R European Languages, Literature and related' ","'Other' ",105
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",295
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",45
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",15
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",180
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",145
+2015 ,"'Group T Non-European Languages, Literature and related' ","'State' ",185
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",60
+2015 ,"'Group V History and Philosophical studies' ","'Academy' ",3790
+2015 ,"'Group V History and Philosophical studies' ","'Further education' ",575
+2015 ,"'Group V History and Philosophical studies' ","'Grammar' ",360
+2015 ,"'Group V History and Philosophical studies' ","'Independent' ",2410
+2015 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",2085
+2015 ,"'Group V History and Philosophical studies' ","'State' ",2930
+2015 ,"'Group V History and Philosophical studies' ","'Other' ",605
+2015 ,"'Group W Creative Arts and Design' ","'Academy' ",5800
+2015 ,"'Group W Creative Arts and Design' ","'Further education' ",7265
+2015 ,"'Group W Creative Arts and Design' ","'Grammar' ",535
+2015 ,"'Group W Creative Arts and Design' ","'Independent' ",1540
+2015 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",6750
+2015 ,"'Group W Creative Arts and Design' ","'State' ",5130
+2015 ,"'Group W Creative Arts and Design' ","'Other' ",8265
+2015 ,"'Group X Education' ","'Academy' ",2535
+2015 ,"'Group X Education' ","'Further education' ",1540
+2015 ,"'Group X Education' ","'Grammar' ",250
+2015 ,"'Group X Education' ","'Independent' ",255
+2015 ,"'Group X Education' ","'Sixth form college' ",2235
+2015 ,"'Group X Education' ","'State' ",2845
+2015 ,"'Group X Education' ","'Other' ",1460
+2015 ,"'Y Combined arts' ","'Academy' ",2045
+2015 ,"'Y Combined arts' ","'Further education' ",585
+2015 ,"'Y Combined arts' ","'Grammar' ",205
+2015 ,"'Y Combined arts' ","'Independent' ",795
+2015 ,"'Y Combined arts' ","'Sixth form college' ",1395
+2015 ,"'Y Combined arts' ","'State' ",1790
+2015 ,"'Y Combined arts' ","'Other' ",645
+2015 ,"'Y Combined sciences' ","'Academy' ",1150
+2015 ,"'Y Combined sciences' ","'Further education' ",540
+2015 ,"'Y Combined sciences' ","'Grammar' ",250
+2015 ,"'Y Combined sciences' ","'Independent' ",390
+2015 ,"'Y Combined sciences' ","'Sixth form college' ",865
+2015 ,"'Y Combined sciences' ","'State' ",1150
+2015 ,"'Y Combined sciences' ","'Other' ",460
+2015 ,"'Y Combined social sciences' ","'Academy' ",895
+2015 ,"'Y Combined social sciences' ","'Further education' ",325
+2015 ,"'Y Combined social sciences' ","'Grammar' ",110
+2015 ,"'Y Combined social sciences' ","'Independent' ",410
+2015 ,"'Y Combined social sciences' ","'Sixth form college' ",635
+2015 ,"'Y Combined social sciences' ","'State' ",825
+2015 ,"'Y Combined social sciences' ","'Other' ",320
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",1925
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",1140
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",230
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",690
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",1535
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",2025
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",985
+2015 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1660
+2015 ,"'Y Social Sciences combined with Arts' ","'Further education' ",565
+2015 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",230
+2015 ,"'Y Social Sciences combined with Arts' ","'Independent' ",975
+2015 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",1055
+2015 ,"'Y Social Sciences combined with Arts' ","'State' ",1575
+2015 ,"'Y Social Sciences combined with Arts' ","'Other' ",675
+2015 ,"'Z General, other combined and unknown' ","'Academy' ",1230
+2015 ,"'Z General, other combined and unknown' ","'Further education' ",175
+2015 ,"'Z General, other combined and unknown' ","'Grammar' ",155
+2015 ,"'Z General, other combined and unknown' ","'Independent' ",1075
+2015 ,"'Z General, other combined and unknown' ","'Sixth form college' ",645
+2015 ,"'Z General, other combined and unknown' ","'State' ",825
+2015 ,"'Z General, other combined and unknown' ","'Other' ",305
+2016 ,"'Group A Medicine and Dentistry' ","'Academy' ",1825
+2016 ,"'Group A Medicine and Dentistry' ","'Further education' ",80
+2016 ,"'Group A Medicine and Dentistry' ","'Grammar' ",490
+2016 ,"'Group A Medicine and Dentistry' ","'Independent' ",1490
+2016 ,"'Group A Medicine and Dentistry' ","'Sixth form college' ",660
+2016 ,"'Group A Medicine and Dentistry' ","'State' ",1040
+2016 ,"'Group A Medicine and Dentistry' ","'Other' ",230
+2016 ,"'Group B Subjects allied to Medicine' ","'Academy' ",5325
+2016 ,"'Group B Subjects allied to Medicine' ","'Further education' ",2940
+2016 ,"'Group B Subjects allied to Medicine' ","'Grammar' ",1035
+2016 ,"'Group B Subjects allied to Medicine' ","'Independent' ",1200
+2016 ,"'Group B Subjects allied to Medicine' ","'Sixth form college' ",4520
+2016 ,"'Group B Subjects allied to Medicine' ","'State' ",5475
+2016 ,"'Group B Subjects allied to Medicine' ","'Other' ",2635
+2016 ,"'Group C Biological Sciences' ","'Academy' ",10260
+2016 ,"'Group C Biological Sciences' ","'Further education' ",4605
+2016 ,"'Group C Biological Sciences' ","'Grammar' ",930
+2016 ,"'Group C Biological Sciences' ","'Independent' ",2905
+2016 ,"'Group C Biological Sciences' ","'Sixth form college' ",7400
+2016 ,"'Group C Biological Sciences' ","'State' ",8725
+2016 ,"'Group C Biological Sciences' ","'Other' ",3730
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Academy' ",750
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Further education' ",970
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Grammar' ",170
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Independent' ",405
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Sixth form college' ",525
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'State' ",695
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other' ",790
+2016 ,"'Group F Physical Sciences' ","'Academy' ",4870
+2016 ,"'Group F Physical Sciences' ","'Further education' ",995
+2016 ,"'Group F Physical Sciences' ","'Grammar' ",575
+2016 ,"'Group F Physical Sciences' ","'Independent' ",1805
+2016 ,"'Group F Physical Sciences' ","'Sixth form college' ",2750
+2016 ,"'Group F Physical Sciences' ","'State' ",3920
+2016 ,"'Group F Physical Sciences' ","'Other' ",945
+2016 ,"'Group G Mathematical Sciences' ","'Academy' ",2375
+2016 ,"'Group G Mathematical Sciences' ","'Further education' ",270
+2016 ,"'Group G Mathematical Sciences' ","'Grammar' ",305
+2016 ,"'Group G Mathematical Sciences' ","'Independent' ",565
+2016 ,"'Group G Mathematical Sciences' ","'Sixth form college' ",1185
+2016 ,"'Group G Mathematical Sciences' ","'State' ",1720
+2016 ,"'Group G Mathematical Sciences' ","'Other' ",350
+2016 ,"'Group H Engineering' ","'Academy' ",4735
+2016 ,"'Group H Engineering' ","'Further education' ",1945
+2016 ,"'Group H Engineering' ","'Grammar' ",830
+2016 ,"'Group H Engineering' ","'Independent' ",2070
+2016 ,"'Group H Engineering' ","'Sixth form college' ",2830
+2016 ,"'Group H Engineering' ","'State' ",4260
+2016 ,"'Group H Engineering' ","'Other' ",1705
+2016 ,"'Group I Computer Sciences' ","'Academy' ",3245
+2016 ,"'Group I Computer Sciences' ","'Further education' ",3015
+2016 ,"'Group I Computer Sciences' ","'Grammar' ",610
+2016 ,"'Group I Computer Sciences' ","'Independent' ",590
+2016 ,"'Group I Computer Sciences' ","'Sixth form college' ",3085
+2016 ,"'Group I Computer Sciences' ","'State' ",3205
+2016 ,"'Group I Computer Sciences' ","'Other' ",2210
+2016 ,"'Group J Technologies' ","'Academy' ",240
+2016 ,"'Group J Technologies' ","'Further education' ",165
+2016 ,"'Group J Technologies' ","'Grammar' ",20
+2016 ,"'Group J Technologies' ","'Independent' ",100
+2016 ,"'Group J Technologies' ","'Sixth form college' ",175
+2016 ,"'Group J Technologies' ","'State' ",185
+2016 ,"'Group J Technologies' ","'Other' ",155
+2016 ,"'Group K Architecture, Building and Planning' ","'Academy' ",1110
+2016 ,"'Group K Architecture, Building and Planning' ","'Further education' ",515
+2016 ,"'Group K Architecture, Building and Planning' ","'Grammar' ",240
+2016 ,"'Group K Architecture, Building and Planning' ","'Independent' ",550
+2016 ,"'Group K Architecture, Building and Planning' ","'Sixth form college' ",755
+2016 ,"'Group K Architecture, Building and Planning' ","'State' ",1140
+2016 ,"'Group K Architecture, Building and Planning' ","'Other' ",595
+2016 ,"'Group L Social Studies' ","'Academy' ",7900
+2016 ,"'Group L Social Studies' ","'Further education' ",2315
+2016 ,"'Group L Social Studies' ","'Grammar' ",805
+2016 ,"'Group L Social Studies' ","'Independent' ",3720
+2016 ,"'Group L Social Studies' ","'Sixth form college' ",4900
+2016 ,"'Group L Social Studies' ","'State' ",6025
+2016 ,"'Group L Social Studies' ","'Other' ",2820
+2016 ,"'Group M Law' ","'Academy' ",3825
+2016 ,"'Group M Law' ","'Further education' ",1450
+2016 ,"'Group M Law' ","'Grammar' ",565
+2016 ,"'Group M Law' ","'Independent' ",1010
+2016 ,"'Group M Law' ","'Sixth form college' ",3930
+2016 ,"'Group M Law' ","'State' ",3850
+2016 ,"'Group M Law' ","'Other' ",1240
+2016 ,"'Group N Business and Admin studies' ","'Academy' ",8755
+2016 ,"'Group N Business and Admin studies' ","'Further education' ",4375
+2016 ,"'Group N Business and Admin studies' ","'Grammar' ",1200
+2016 ,"'Group N Business and Admin studies' ","'Independent' ",3230
+2016 ,"'Group N Business and Admin studies' ","'Sixth form college' ",7270
+2016 ,"'Group N Business and Admin studies' ","'State' ",8570
+2016 ,"'Group N Business and Admin studies' ","'Other' ",4620
+2016 ,"'Group P Mass Communication and Documentation' ","'Academy' ",2115
+2016 ,"'Group P Mass Communication and Documentation' ","'Further education' ",1405
+2016 ,"'Group P Mass Communication and Documentation' ","'Grammar' ",220
+2016 ,"'Group P Mass Communication and Documentation' ","'Independent' ",285
+2016 ,"'Group P Mass Communication and Documentation' ","'Sixth form college' ",1965
+2016 ,"'Group P Mass Communication and Documentation' ","'State' ",2000
+2016 ,"'Group P Mass Communication and Documentation' ","'Other' ",1215
+2016 ,"'Group Q Linguistics, Classics and related' ","'Academy' ",2840
+2016 ,"'Group Q Linguistics, Classics and related' ","'Further education' ",475
+2016 ,"'Group Q Linguistics, Classics and related' ","'Grammar' ",295
+2016 ,"'Group Q Linguistics, Classics and related' ","'Independent' ",1530
+2016 ,"'Group Q Linguistics, Classics and related' ","'Sixth form college' ",1805
+2016 ,"'Group Q Linguistics, Classics and related' ","'State' ",2170
+2016 ,"'Group Q Linguistics, Classics and related' ","'Other' ",625
+2016 ,"'Group R European Languages, Literature and related' ","'Academy' ",795
+2016 ,"'Group R European Languages, Literature and related' ","'Further education' ",75
+2016 ,"'Group R European Languages, Literature and related' ","'Grammar' ",160
+2016 ,"'Group R European Languages, Literature and related' ","'Independent' ",765
+2016 ,"'Group R European Languages, Literature and related' ","'Sixth form college' ",375
+2016 ,"'Group R European Languages, Literature and related' ","'State' ",615
+2016 ,"'Group R European Languages, Literature and related' ","'Other' ",115
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Academy' ",260
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Further education' ",45
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Grammar' ",15
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Independent' ",150
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Sixth form college' ",140
+2016 ,"'Group T Non-European Languages, Literature and related' ","'State' ",165
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Other' ",55
+2016 ,"'Group V History and Philosophical studies' ","'Academy' ",3925
+2016 ,"'Group V History and Philosophical studies' ","'Further education' ",515
+2016 ,"'Group V History and Philosophical studies' ","'Grammar' ",390
+2016 ,"'Group V History and Philosophical studies' ","'Independent' ",2405
+2016 ,"'Group V History and Philosophical studies' ","'Sixth form college' ",1970
+2016 ,"'Group V History and Philosophical studies' ","'State' ",2955
+2016 ,"'Group V History and Philosophical studies' ","'Other' ",725
+2016 ,"'Group W Creative Arts and Design' ","'Academy' ",5770
+2016 ,"'Group W Creative Arts and Design' ","'Further education' ",7220
+2016 ,"'Group W Creative Arts and Design' ","'Grammar' ",550
+2016 ,"'Group W Creative Arts and Design' ","'Independent' ",1545
+2016 ,"'Group W Creative Arts and Design' ","'Sixth form college' ",6425
+2016 ,"'Group W Creative Arts and Design' ","'State' ",5095
+2016 ,"'Group W Creative Arts and Design' ","'Other' ",8015
+2016 ,"'Group X Education' ","'Academy' ",2455
+2016 ,"'Group X Education' ","'Further education' ",1455
+2016 ,"'Group X Education' ","'Grammar' ",245
+2016 ,"'Group X Education' ","'Independent' ",230
+2016 ,"'Group X Education' ","'Sixth form college' ",2085
+2016 ,"'Group X Education' ","'State' ",2805
+2016 ,"'Group X Education' ","'Other' ",1445
+2016 ,"'Y Combined arts' ","'Academy' ",1900
+2016 ,"'Y Combined arts' ","'Further education' ",505
+2016 ,"'Y Combined arts' ","'Grammar' ",225
+2016 ,"'Y Combined arts' ","'Independent' ",815
+2016 ,"'Y Combined arts' ","'Sixth form college' ",1250
+2016 ,"'Y Combined arts' ","'State' ",1680
+2016 ,"'Y Combined arts' ","'Other' ",620
+2016 ,"'Y Combined sciences' ","'Academy' ",1020
+2016 ,"'Y Combined sciences' ","'Further education' ",490
+2016 ,"'Y Combined sciences' ","'Grammar' ",200
+2016 ,"'Y Combined sciences' ","'Independent' ",360
+2016 ,"'Y Combined sciences' ","'Sixth form college' ",750
+2016 ,"'Y Combined sciences' ","'State' ",1035
+2016 ,"'Y Combined sciences' ","'Other' ",455
+2016 ,"'Y Combined social sciences' ","'Academy' ",975
+2016 ,"'Y Combined social sciences' ","'Further education' ",240
+2016 ,"'Y Combined social sciences' ","'Grammar' ",115
+2016 ,"'Y Combined social sciences' ","'Independent' ",435
+2016 ,"'Y Combined social sciences' ","'Sixth form college' ",660
+2016 ,"'Y Combined social sciences' ","'State' ",870
+2016 ,"'Y Combined social sciences' ","'Other' ",270
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Academy' ",1770
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Further education' ",940
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Grammar' ",210
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Independent' ",580
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Sixth form college' ",1255
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'State' ",1845
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other' ",985
+2016 ,"'Y Social Sciences combined with Arts' ","'Academy' ",1700
+2016 ,"'Y Social Sciences combined with Arts' ","'Further education' ",465
+2016 ,"'Y Social Sciences combined with Arts' ","'Grammar' ",220
+2016 ,"'Y Social Sciences combined with Arts' ","'Independent' ",960
+2016 ,"'Y Social Sciences combined with Arts' ","'Sixth form college' ",960
+2016 ,"'Y Social Sciences combined with Arts' ","'State' ",1560
+2016 ,"'Y Social Sciences combined with Arts' ","'Other' ",650
+2016 ,"'Z General, other combined and unknown' ","'Academy' ",1190
+2016 ,"'Z General, other combined and unknown' ","'Further education' ",185
+2016 ,"'Z General, other combined and unknown' ","'Grammar' ",160
+2016 ,"'Z General, other combined and unknown' ","'Independent' ",1015
+2016 ,"'Z General, other combined and unknown' ","'Sixth form college' ",650
+2016 ,"'Z General, other combined and unknown' ","'State' ",710
+2016 ,"'Z General, other combined and unknown' ","'Other' ",265

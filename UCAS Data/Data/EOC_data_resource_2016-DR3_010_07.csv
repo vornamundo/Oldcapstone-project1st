@@ -1,0 +1,2008 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Subject Group (Summary Level) , Acceptance Route , Cycle Year"
+"Coverage:   All"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_010_07.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Acceptance Route,Number of Acceptances,
+2007 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",8400
+2007 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",105
+2007 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",45
+2007 ,"'Group A Medicine and Dentistry' ","'Extra' ",30
+2007 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",370
+2007 ,"'Group A Medicine and Dentistry' ","'Direct Clearing' ",5
+2007 ,"'Group A Medicine and Dentistry' ","'RPA' ",115
+2007 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",19625
+2007 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",1405
+2007 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1050
+2007 ,"'Group B Subjects allied to Medicine' ","'Extra' ",425
+2007 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",2690
+2007 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",580
+2007 ,"'Group B Subjects allied to Medicine' ","'RPA' ",1445
+2007 ,"'Group C Biological Sciences' ","'Firm choice' ",23935
+2007 ,"'Group C Biological Sciences' ","'Insurance choice' ",2415
+2007 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",945
+2007 ,"'Group C Biological Sciences' ","'Extra' ",370
+2007 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",2465
+2007 ,"'Group C Biological Sciences' ","'Direct Clearing' ",590
+2007 ,"'Group C Biological Sciences' ","'RPA' ",1470
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",3120
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",140
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",230
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",20
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",210
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",230
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",370
+2007 ,"'Group F Physical Sciences' ","'Firm choice' ",12080
+2007 ,"'Group F Physical Sciences' ","'Insurance choice' ",1185
+2007 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",375
+2007 ,"'Group F Physical Sciences' ","'Extra' ",95
+2007 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",975
+2007 ,"'Group F Physical Sciences' ","'Direct Clearing' ",255
+2007 ,"'Group F Physical Sciences' ","'RPA' ",510
+2007 ,"'Group G Mathematical Sciences' ","'Firm choice' ",4210
+2007 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",790
+2007 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",120
+2007 ,"'Group G Mathematical Sciences' ","'Extra' ",50
+2007 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",410
+2007 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",90
+2007 ,"'Group G Mathematical Sciences' ","'RPA' ",165
+2007 ,"'Group H Engineering' ","'Firm choice' ",13715
+2007 ,"'Group H Engineering' ","'Insurance choice' ",1590
+2007 ,"'Group H Engineering' ","'Other main scheme choice' ",1480
+2007 ,"'Group H Engineering' ","'Extra' ",130
+2007 ,"'Group H Engineering' ","'Main scheme Clearing' ",1495
+2007 ,"'Group H Engineering' ","'Direct Clearing' ",560
+2007 ,"'Group H Engineering' ","'RPA' ",2120
+2007 ,"'Group I Computer Sciences' ","'Firm choice' ",11130
+2007 ,"'Group I Computer Sciences' ","'Insurance choice' ",915
+2007 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",1035
+2007 ,"'Group I Computer Sciences' ","'Extra' ",95
+2007 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",1350
+2007 ,"'Group I Computer Sciences' ","'Direct Clearing' ",660
+2007 ,"'Group I Computer Sciences' ","'RPA' ",2090
+2007 ,"'Group J Technologies' ","'Firm choice' ",1820
+2007 ,"'Group J Technologies' ","'Insurance choice' ",90
+2007 ,"'Group J Technologies' ","'Other main scheme choice' ",165
+2007 ,"'Group J Technologies' ","'Extra' ",20
+2007 ,"'Group J Technologies' ","'Main scheme Clearing' ",140
+2007 ,"'Group J Technologies' ","'Direct Clearing' ",75
+2007 ,"'Group J Technologies' ","'RPA' ",290
+2007 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",6500
+2007 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",665
+2007 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",505
+2007 ,"'Group K Architecture, Building and Planning' ","'Extra' ",70
+2007 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",625
+2007 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",230
+2007 ,"'Group K Architecture, Building and Planning' ","'RPA' ",700
+2007 ,"'Group L Social Studies' ","'Firm choice' ",21725
+2007 ,"'Group L Social Studies' ","'Insurance choice' ",1855
+2007 ,"'Group L Social Studies' ","'Other main scheme choice' ",1325
+2007 ,"'Group L Social Studies' ","'Extra' ",320
+2007 ,"'Group L Social Studies' ","'Main scheme Clearing' ",2580
+2007 ,"'Group L Social Studies' ","'Direct Clearing' ",700
+2007 ,"'Group L Social Studies' ","'RPA' ",1900
+2007 ,"'Group M Law' ","'Firm choice' ",13285
+2007 ,"'Group M Law' ","'Insurance choice' ",1685
+2007 ,"'Group M Law' ","'Other main scheme choice' ",705
+2007 ,"'Group M Law' ","'Extra' ",170
+2007 ,"'Group M Law' ","'Main scheme Clearing' ",1655
+2007 ,"'Group M Law' ","'Direct Clearing' ",360
+2007 ,"'Group M Law' ","'RPA' ",1215
+2007 ,"'Group N Business and Admin studies' ","'Firm choice' ",32120
+2007 ,"'Group N Business and Admin studies' ","'Insurance choice' ",3615
+2007 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",2695
+2007 ,"'Group N Business and Admin studies' ","'Extra' ",430
+2007 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",4075
+2007 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",1390
+2007 ,"'Group N Business and Admin studies' ","'RPA' ",5415
+2007 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",7090
+2007 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",405
+2007 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",385
+2007 ,"'Group P Mass Communication and Documentation' ","'Extra' ",115
+2007 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",615
+2007 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",225
+2007 ,"'Group P Mass Communication and Documentation' ","'RPA' ",645
+2007 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",8610
+2007 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",715
+2007 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",250
+2007 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",110
+2007 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",650
+2007 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",175
+2007 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",340
+2007 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3250
+2007 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",295
+2007 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",95
+2007 ,"'Group R European Languages, Literature and related' ","'Extra' ",25
+2007 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",250
+2007 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",40
+2007 ,"'Group R European Languages, Literature and related' ","'RPA' ",85
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",1485
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",70
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",25
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",10
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",80
+2007 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",5
+2007 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",35
+2007 ,"'Group V History and Philosophical studies' ","'Firm choice' ",10565
+2007 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",850
+2007 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",250
+2007 ,"'Group V History and Philosophical studies' ","'Extra' ",85
+2007 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",780
+2007 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",195
+2007 ,"'Group V History and Philosophical studies' ","'RPA' ",290
+2007 ,"'Group W Creative Arts and Design' ","'Firm choice' ",37325
+2007 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",610
+2007 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",2035
+2007 ,"'Group W Creative Arts and Design' ","'Extra' ",365
+2007 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2215
+2007 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",915
+2007 ,"'Group W Creative Arts and Design' ","'RPA' ",2430
+2007 ,"'Group X Education' ","'Firm choice' ",10130
+2007 ,"'Group X Education' ","'Insurance choice' ",380
+2007 ,"'Group X Education' ","'Other main scheme choice' ",630
+2007 ,"'Group X Education' ","'Extra' ",100
+2007 ,"'Group X Education' ","'Main scheme Clearing' ",635
+2007 ,"'Group X Education' ","'Direct Clearing' ",345
+2007 ,"'Group X Education' ","'RPA' ",815
+2007 ,"'Y Combined arts' ","'Firm choice' ",11645
+2007 ,"'Y Combined arts' ","'Insurance choice' ",685
+2007 ,"'Y Combined arts' ","'Other main scheme choice' ",460
+2007 ,"'Y Combined arts' ","'Extra' ",160
+2007 ,"'Y Combined arts' ","'Main scheme Clearing' ",860
+2007 ,"'Y Combined arts' ","'Direct Clearing' ",295
+2007 ,"'Y Combined arts' ","'RPA' ",585
+2007 ,"'Y Combined sciences' ","'Firm choice' ",5985
+2007 ,"'Y Combined sciences' ","'Insurance choice' ",540
+2007 ,"'Y Combined sciences' ","'Other main scheme choice' ",350
+2007 ,"'Y Combined sciences' ","'Extra' ",100
+2007 ,"'Y Combined sciences' ","'Main scheme Clearing' ",710
+2007 ,"'Y Combined sciences' ","'Direct Clearing' ",175
+2007 ,"'Y Combined sciences' ","'RPA' ",580
+2007 ,"'Y Combined social sciences' ","'Firm choice' ",4495
+2007 ,"'Y Combined social sciences' ","'Insurance choice' ",535
+2007 ,"'Y Combined social sciences' ","'Other main scheme choice' ",250
+2007 ,"'Y Combined social sciences' ","'Extra' ",70
+2007 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",605
+2007 ,"'Y Combined social sciences' ","'Direct Clearing' ",120
+2007 ,"'Y Combined social sciences' ","'RPA' ",365
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",16925
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",1205
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",950
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",225
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1720
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",555
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",1525
+2007 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",10075
+2007 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",740
+2007 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",500
+2007 ,"'Y Social Sciences combined with Arts' ","'Extra' ",130
+2007 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",870
+2007 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",260
+2007 ,"'Y Social Sciences combined with Arts' ","'RPA' ",640
+2007 ,"'Z General, other combined and unknown' ","'Firm choice' ",3745
+2007 ,"'Z General, other combined and unknown' ","'Insurance choice' ",270
+2007 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",245
+2007 ,"'Z General, other combined and unknown' ","'Extra' ",45
+2007 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",655
+2007 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",145
+2007 ,"'Z General, other combined and unknown' ","'RPA' ",845
+2008 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",8710
+2008 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",85
+2008 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",30
+2008 ,"'Group A Medicine and Dentistry' ","'Extra' ",40
+2008 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",260
+2008 ,"'Group A Medicine and Dentistry' ","'RPA' ",130
+2008 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",31175
+2008 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",1585
+2008 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",2450
+2008 ,"'Group B Subjects allied to Medicine' ","'Extra' ",790
+2008 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",3615
+2008 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",1090
+2008 ,"'Group B Subjects allied to Medicine' ","'RPA' ",2365
+2008 ,"'Group C Biological Sciences' ","'Firm choice' ",25335
+2008 ,"'Group C Biological Sciences' ","'Insurance choice' ",2765
+2008 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",895
+2008 ,"'Group C Biological Sciences' ","'Extra' ",465
+2008 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",2565
+2008 ,"'Group C Biological Sciences' ","'Direct Clearing' ",685
+2008 ,"'Group C Biological Sciences' ","'RPA' ",1560
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",3395
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",140
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",245
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",50
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",215
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",220
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",545
+2008 ,"'Group F Physical Sciences' ","'Firm choice' ",12365
+2008 ,"'Group F Physical Sciences' ","'Insurance choice' ",1410
+2008 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",330
+2008 ,"'Group F Physical Sciences' ","'Extra' ",115
+2008 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",1170
+2008 ,"'Group F Physical Sciences' ","'Direct Clearing' ",245
+2008 ,"'Group F Physical Sciences' ","'RPA' ",575
+2008 ,"'Group G Mathematical Sciences' ","'Firm choice' ",4460
+2008 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",910
+2008 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",115
+2008 ,"'Group G Mathematical Sciences' ","'Extra' ",85
+2008 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",580
+2008 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",75
+2008 ,"'Group G Mathematical Sciences' ","'RPA' ",170
+2008 ,"'Group H Engineering' ","'Firm choice' ",14420
+2008 ,"'Group H Engineering' ","'Insurance choice' ",1895
+2008 ,"'Group H Engineering' ","'Other main scheme choice' ",1375
+2008 ,"'Group H Engineering' ","'Extra' ",200
+2008 ,"'Group H Engineering' ","'Main scheme Clearing' ",1795
+2008 ,"'Group H Engineering' ","'Direct Clearing' ",680
+2008 ,"'Group H Engineering' ","'RPA' ",2580
+2008 ,"'Group I Computer Sciences' ","'Firm choice' ",11750
+2008 ,"'Group I Computer Sciences' ","'Insurance choice' ",1050
+2008 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",1070
+2008 ,"'Group I Computer Sciences' ","'Extra' ",160
+2008 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",1440
+2008 ,"'Group I Computer Sciences' ","'Direct Clearing' ",735
+2008 ,"'Group I Computer Sciences' ","'RPA' ",2305
+2008 ,"'Group J Technologies' ","'Firm choice' ",1950
+2008 ,"'Group J Technologies' ","'Insurance choice' ",85
+2008 ,"'Group J Technologies' ","'Other main scheme choice' ",190
+2008 ,"'Group J Technologies' ","'Extra' ",25
+2008 ,"'Group J Technologies' ","'Main scheme Clearing' ",130
+2008 ,"'Group J Technologies' ","'Direct Clearing' ",85
+2008 ,"'Group J Technologies' ","'RPA' ",255
+2008 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",7255
+2008 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",695
+2008 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",450
+2008 ,"'Group K Architecture, Building and Planning' ","'Extra' ",120
+2008 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",685
+2008 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",290
+2008 ,"'Group K Architecture, Building and Planning' ","'RPA' ",745
+2008 ,"'Group L Social Studies' ","'Firm choice' ",23625
+2008 ,"'Group L Social Studies' ","'Insurance choice' ",2125
+2008 ,"'Group L Social Studies' ","'Other main scheme choice' ",1275
+2008 ,"'Group L Social Studies' ","'Extra' ",415
+2008 ,"'Group L Social Studies' ","'Main scheme Clearing' ",2875
+2008 ,"'Group L Social Studies' ","'Direct Clearing' ",790
+2008 ,"'Group L Social Studies' ","'RPA' ",2450
+2008 ,"'Group M Law' ","'Firm choice' ",14295
+2008 ,"'Group M Law' ","'Insurance choice' ",1760
+2008 ,"'Group M Law' ","'Other main scheme choice' ",655
+2008 ,"'Group M Law' ","'Extra' ",215
+2008 ,"'Group M Law' ","'Main scheme Clearing' ",1845
+2008 ,"'Group M Law' ","'Direct Clearing' ",425
+2008 ,"'Group M Law' ","'RPA' ",1285
+2008 ,"'Group N Business and Admin studies' ","'Firm choice' ",34315
+2008 ,"'Group N Business and Admin studies' ","'Insurance choice' ",4235
+2008 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",2660
+2008 ,"'Group N Business and Admin studies' ","'Extra' ",605
+2008 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",4755
+2008 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",1565
+2008 ,"'Group N Business and Admin studies' ","'RPA' ",6830
+2008 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",7675
+2008 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",475
+2008 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",345
+2008 ,"'Group P Mass Communication and Documentation' ","'Extra' ",115
+2008 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",675
+2008 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",245
+2008 ,"'Group P Mass Communication and Documentation' ","'RPA' ",675
+2008 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9120
+2008 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",875
+2008 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",255
+2008 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",175
+2008 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",690
+2008 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",180
+2008 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",335
+2008 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3545
+2008 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",380
+2008 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",70
+2008 ,"'Group R European Languages, Literature and related' ","'Extra' ",30
+2008 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",295
+2008 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",45
+2008 ,"'Group R European Languages, Literature and related' ","'RPA' ",100
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",1240
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",85
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",30
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",10
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",80
+2008 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",15
+2008 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",20
+2008 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11210
+2008 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1120
+2008 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",260
+2008 ,"'Group V History and Philosophical studies' ","'Extra' ",125
+2008 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",870
+2008 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",195
+2008 ,"'Group V History and Philosophical studies' ","'RPA' ",380
+2008 ,"'Group W Creative Arts and Design' ","'Firm choice' ",39275
+2008 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",705
+2008 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1905
+2008 ,"'Group W Creative Arts and Design' ","'Extra' ",470
+2008 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2390
+2008 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",900
+2008 ,"'Group W Creative Arts and Design' ","'RPA' ",3010
+2008 ,"'Group X Education' ","'Firm choice' ",11185
+2008 ,"'Group X Education' ","'Insurance choice' ",360
+2008 ,"'Group X Education' ","'Other main scheme choice' ",640
+2008 ,"'Group X Education' ","'Extra' ",165
+2008 ,"'Group X Education' ","'Main scheme Clearing' ",765
+2008 ,"'Group X Education' ","'Direct Clearing' ",510
+2008 ,"'Group X Education' ","'RPA' ",1035
+2008 ,"'Y Combined arts' ","'Firm choice' ",11675
+2008 ,"'Y Combined arts' ","'Insurance choice' ",760
+2008 ,"'Y Combined arts' ","'Other main scheme choice' ",370
+2008 ,"'Y Combined arts' ","'Extra' ",185
+2008 ,"'Y Combined arts' ","'Main scheme Clearing' ",955
+2008 ,"'Y Combined arts' ","'Direct Clearing' ",260
+2008 ,"'Y Combined arts' ","'RPA' ",600
+2008 ,"'Y Combined sciences' ","'Firm choice' ",6285
+2008 ,"'Y Combined sciences' ","'Insurance choice' ",530
+2008 ,"'Y Combined sciences' ","'Other main scheme choice' ",330
+2008 ,"'Y Combined sciences' ","'Extra' ",135
+2008 ,"'Y Combined sciences' ","'Main scheme Clearing' ",675
+2008 ,"'Y Combined sciences' ","'Direct Clearing' ",220
+2008 ,"'Y Combined sciences' ","'RPA' ",535
+2008 ,"'Y Combined social sciences' ","'Firm choice' ",4640
+2008 ,"'Y Combined social sciences' ","'Insurance choice' ",620
+2008 ,"'Y Combined social sciences' ","'Other main scheme choice' ",225
+2008 ,"'Y Combined social sciences' ","'Extra' ",90
+2008 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",740
+2008 ,"'Y Combined social sciences' ","'Direct Clearing' ",130
+2008 ,"'Y Combined social sciences' ","'RPA' ",445
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",17540
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",1470
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",900
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",300
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1715
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",585
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",1660
+2008 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",10325
+2008 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",870
+2008 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",405
+2008 ,"'Y Social Sciences combined with Arts' ","'Extra' ",160
+2008 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",910
+2008 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",310
+2008 ,"'Y Social Sciences combined with Arts' ","'RPA' ",735
+2008 ,"'Z General, other combined and unknown' ","'Firm choice' ",3430
+2008 ,"'Z General, other combined and unknown' ","'Insurance choice' ",200
+2008 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",220
+2008 ,"'Z General, other combined and unknown' ","'Extra' ",75
+2008 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",570
+2008 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",150
+2008 ,"'Z General, other combined and unknown' ","'RPA' ",980
+2009 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",8695
+2009 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",105
+2009 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",20
+2009 ,"'Group A Medicine and Dentistry' ","'Extra' ",40
+2009 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",10
+2009 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",250
+2009 ,"'Group A Medicine and Dentistry' ","'Direct Clearing' ",5
+2009 ,"'Group A Medicine and Dentistry' ","'RPA' ",105
+2009 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",34870
+2009 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",1835
+2009 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",3745
+2009 ,"'Group B Subjects allied to Medicine' ","'Extra' ",875
+2009 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",25
+2009 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",3840
+2009 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",1060
+2009 ,"'Group B Subjects allied to Medicine' ","'RPA' ",1875
+2009 ,"'Group C Biological Sciences' ","'Firm choice' ",26675
+2009 ,"'Group C Biological Sciences' ","'Insurance choice' ",3585
+2009 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",1125
+2009 ,"'Group C Biological Sciences' ","'Extra' ",520
+2009 ,"'Group C Biological Sciences' ","'Adjustment' ",30
+2009 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",3125
+2009 ,"'Group C Biological Sciences' ","'Direct Clearing' ",715
+2009 ,"'Group C Biological Sciences' ","'RPA' ",1180
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",3755
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",200
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",360
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",55
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",300
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",250
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",535
+2009 ,"'Group F Physical Sciences' ","'Firm choice' ",12765
+2009 ,"'Group F Physical Sciences' ","'Insurance choice' ",1775
+2009 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",390
+2009 ,"'Group F Physical Sciences' ","'Extra' ",120
+2009 ,"'Group F Physical Sciences' ","'Adjustment' ",20
+2009 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",1420
+2009 ,"'Group F Physical Sciences' ","'Direct Clearing' ",300
+2009 ,"'Group F Physical Sciences' ","'RPA' ",510
+2009 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5195
+2009 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1285
+2009 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",145
+2009 ,"'Group G Mathematical Sciences' ","'Extra' ",65
+2009 ,"'Group G Mathematical Sciences' ","'Adjustment' ",10
+2009 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",730
+2009 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",115
+2009 ,"'Group G Mathematical Sciences' ","'RPA' ",155
+2009 ,"'Group H Engineering' ","'Firm choice' ",15990
+2009 ,"'Group H Engineering' ","'Insurance choice' ",2360
+2009 ,"'Group H Engineering' ","'Other main scheme choice' ",1685
+2009 ,"'Group H Engineering' ","'Extra' ",195
+2009 ,"'Group H Engineering' ","'Adjustment' ",10
+2009 ,"'Group H Engineering' ","'Main scheme Clearing' ",2210
+2009 ,"'Group H Engineering' ","'Direct Clearing' ",740
+2009 ,"'Group H Engineering' ","'RPA' ",2250
+2009 ,"'Group I Computer Sciences' ","'Firm choice' ",12955
+2009 ,"'Group I Computer Sciences' ","'Insurance choice' ",1330
+2009 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",1240
+2009 ,"'Group I Computer Sciences' ","'Extra' ",140
+2009 ,"'Group I Computer Sciences' ","'Adjustment' ",20
+2009 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",1710
+2009 ,"'Group I Computer Sciences' ","'Direct Clearing' ",845
+2009 ,"'Group I Computer Sciences' ","'RPA' ",2040
+2009 ,"'Group J Technologies' ","'Firm choice' ",2175
+2009 ,"'Group J Technologies' ","'Insurance choice' ",115
+2009 ,"'Group J Technologies' ","'Other main scheme choice' ",250
+2009 ,"'Group J Technologies' ","'Extra' ",25
+2009 ,"'Group J Technologies' ","'Main scheme Clearing' ",200
+2009 ,"'Group J Technologies' ","'Direct Clearing' ",90
+2009 ,"'Group J Technologies' ","'RPA' ",220
+2009 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",7240
+2009 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",720
+2009 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",550
+2009 ,"'Group K Architecture, Building and Planning' ","'Extra' ",80
+2009 ,"'Group K Architecture, Building and Planning' ","'Adjustment' ",5
+2009 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",735
+2009 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",300
+2009 ,"'Group K Architecture, Building and Planning' ","'RPA' ",660
+2009 ,"'Group L Social Studies' ","'Firm choice' ",25530
+2009 ,"'Group L Social Studies' ","'Insurance choice' ",2980
+2009 ,"'Group L Social Studies' ","'Other main scheme choice' ",1715
+2009 ,"'Group L Social Studies' ","'Extra' ",505
+2009 ,"'Group L Social Studies' ","'Adjustment' ",40
+2009 ,"'Group L Social Studies' ","'Main scheme Clearing' ",3040
+2009 ,"'Group L Social Studies' ","'Direct Clearing' ",750
+2009 ,"'Group L Social Studies' ","'RPA' ",2185
+2009 ,"'Group M Law' ","'Firm choice' ",14690
+2009 ,"'Group M Law' ","'Insurance choice' ",2105
+2009 ,"'Group M Law' ","'Other main scheme choice' ",875
+2009 ,"'Group M Law' ","'Extra' ",275
+2009 ,"'Group M Law' ","'Adjustment' ",40
+2009 ,"'Group M Law' ","'Main scheme Clearing' ",2240
+2009 ,"'Group M Law' ","'Direct Clearing' ",470
+2009 ,"'Group M Law' ","'RPA' ",1335
+2009 ,"'Group N Business and Admin studies' ","'Firm choice' ",35985
+2009 ,"'Group N Business and Admin studies' ","'Insurance choice' ",5230
+2009 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",2995
+2009 ,"'Group N Business and Admin studies' ","'Extra' ",575
+2009 ,"'Group N Business and Admin studies' ","'Adjustment' ",50
+2009 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",5285
+2009 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",1585
+2009 ,"'Group N Business and Admin studies' ","'RPA' ",6710
+2009 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",8345
+2009 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",585
+2009 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",465
+2009 ,"'Group P Mass Communication and Documentation' ","'Extra' ",110
+2009 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",10
+2009 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",760
+2009 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",250
+2009 ,"'Group P Mass Communication and Documentation' ","'RPA' ",505
+2009 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9910
+2009 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",1120
+2009 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",315
+2009 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",175
+2009 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",10
+2009 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",835
+2009 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",200
+2009 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",300
+2009 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3650
+2009 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",405
+2009 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",95
+2009 ,"'Group R European Languages, Literature and related' ","'Extra' ",30
+2009 ,"'Group R European Languages, Literature and related' ","'Adjustment' ",5
+2009 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",345
+2009 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",35
+2009 ,"'Group R European Languages, Literature and related' ","'RPA' ",50
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",1210
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",100
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",40
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",15
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",95
+2009 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",20
+2009 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",15
+2009 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11465
+2009 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1460
+2009 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",300
+2009 ,"'Group V History and Philosophical studies' ","'Extra' ",145
+2009 ,"'Group V History and Philosophical studies' ","'Adjustment' ",15
+2009 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",915
+2009 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",200
+2009 ,"'Group V History and Philosophical studies' ","'RPA' ",315
+2009 ,"'Group W Creative Arts and Design' ","'Firm choice' ",41540
+2009 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",905
+2009 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",2495
+2009 ,"'Group W Creative Arts and Design' ","'Extra' ",640
+2009 ,"'Group W Creative Arts and Design' ","'Adjustment' ",25
+2009 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2615
+2009 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",1020
+2009 ,"'Group W Creative Arts and Design' ","'RPA' ",2980
+2009 ,"'Group X Education' ","'Firm choice' ",12365
+2009 ,"'Group X Education' ","'Insurance choice' ",545
+2009 ,"'Group X Education' ","'Other main scheme choice' ",805
+2009 ,"'Group X Education' ","'Extra' ",145
+2009 ,"'Group X Education' ","'Adjustment' ",5
+2009 ,"'Group X Education' ","'Main scheme Clearing' ",825
+2009 ,"'Group X Education' ","'Direct Clearing' ",355
+2009 ,"'Group X Education' ","'RPA' ",985
+2009 ,"'Y Combined arts' ","'Firm choice' ",10635
+2009 ,"'Y Combined arts' ","'Insurance choice' ",915
+2009 ,"'Y Combined arts' ","'Other main scheme choice' ",435
+2009 ,"'Y Combined arts' ","'Extra' ",210
+2009 ,"'Y Combined arts' ","'Adjustment' ",10
+2009 ,"'Y Combined arts' ","'Main scheme Clearing' ",840
+2009 ,"'Y Combined arts' ","'Direct Clearing' ",230
+2009 ,"'Y Combined arts' ","'RPA' ",335
+2009 ,"'Y Combined sciences' ","'Firm choice' ",5930
+2009 ,"'Y Combined sciences' ","'Insurance choice' ",580
+2009 ,"'Y Combined sciences' ","'Other main scheme choice' ",425
+2009 ,"'Y Combined sciences' ","'Extra' ",130
+2009 ,"'Y Combined sciences' ","'Adjustment' ",10
+2009 ,"'Y Combined sciences' ","'Main scheme Clearing' ",675
+2009 ,"'Y Combined sciences' ","'Direct Clearing' ",200
+2009 ,"'Y Combined sciences' ","'RPA' ",420
+2009 ,"'Y Combined social sciences' ","'Firm choice' ",3830
+2009 ,"'Y Combined social sciences' ","'Insurance choice' ",585
+2009 ,"'Y Combined social sciences' ","'Other main scheme choice' ",235
+2009 ,"'Y Combined social sciences' ","'Extra' ",85
+2009 ,"'Y Combined social sciences' ","'Adjustment' ",5
+2009 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",650
+2009 ,"'Y Combined social sciences' ","'Direct Clearing' ",65
+2009 ,"'Y Combined social sciences' ","'RPA' ",280
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",15325
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",1390
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",960
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",230
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",15
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1670
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",545
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",1410
+2009 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",9175
+2009 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",855
+2009 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",535
+2009 ,"'Y Social Sciences combined with Arts' ","'Extra' ",155
+2009 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",10
+2009 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",965
+2009 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",290
+2009 ,"'Y Social Sciences combined with Arts' ","'RPA' ",740
+2009 ,"'Z General, other combined and unknown' ","'Firm choice' ",3555
+2009 ,"'Z General, other combined and unknown' ","'Insurance choice' ",225
+2009 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",320
+2009 ,"'Z General, other combined and unknown' ","'Extra' ",85
+2009 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",590
+2009 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",170
+2009 ,"'Z General, other combined and unknown' ","'RPA' ",800
+2010 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",8755
+2010 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",85
+2010 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",20
+2010 ,"'Group A Medicine and Dentistry' ","'Extra' ",35
+2010 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",5
+2010 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",215
+2010 ,"'Group A Medicine and Dentistry' ","'RPA' ",130
+2010 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",39710
+2010 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",2230
+2010 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1835
+2010 ,"'Group B Subjects allied to Medicine' ","'Extra' ",955
+2010 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",20
+2010 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",3390
+2010 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",555
+2010 ,"'Group B Subjects allied to Medicine' ","'RPA' ",1195
+2010 ,"'Group C Biological Sciences' ","'Firm choice' ",28605
+2010 ,"'Group C Biological Sciences' ","'Insurance choice' ",4210
+2010 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",670
+2010 ,"'Group C Biological Sciences' ","'Extra' ",615
+2010 ,"'Group C Biological Sciences' ","'Adjustment' ",30
+2010 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",3385
+2010 ,"'Group C Biological Sciences' ","'Direct Clearing' ",435
+2010 ,"'Group C Biological Sciences' ","'RPA' ",875
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",4300
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",215
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",230
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",65
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",360
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",180
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",430
+2010 ,"'Group F Physical Sciences' ","'Firm choice' ",13505
+2010 ,"'Group F Physical Sciences' ","'Insurance choice' ",1975
+2010 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",250
+2010 ,"'Group F Physical Sciences' ","'Extra' ",155
+2010 ,"'Group F Physical Sciences' ","'Adjustment' ",20
+2010 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",1505
+2010 ,"'Group F Physical Sciences' ","'Direct Clearing' ",190
+2010 ,"'Group F Physical Sciences' ","'RPA' ",405
+2010 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5505
+2010 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1345
+2010 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",100
+2010 ,"'Group G Mathematical Sciences' ","'Extra' ",75
+2010 ,"'Group G Mathematical Sciences' ","'Adjustment' ",15
+2010 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",680
+2010 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",80
+2010 ,"'Group G Mathematical Sciences' ","'RPA' ",125
+2010 ,"'Group H Engineering' ","'Firm choice' ",16810
+2010 ,"'Group H Engineering' ","'Insurance choice' ",2730
+2010 ,"'Group H Engineering' ","'Other main scheme choice' ",1035
+2010 ,"'Group H Engineering' ","'Extra' ",225
+2010 ,"'Group H Engineering' ","'Adjustment' ",10
+2010 ,"'Group H Engineering' ","'Main scheme Clearing' ",2445
+2010 ,"'Group H Engineering' ","'Direct Clearing' ",530
+2010 ,"'Group H Engineering' ","'RPA' ",2275
+2010 ,"'Group I Computer Sciences' ","'Firm choice' ",13755
+2010 ,"'Group I Computer Sciences' ","'Insurance choice' ",1455
+2010 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",770
+2010 ,"'Group I Computer Sciences' ","'Extra' ",185
+2010 ,"'Group I Computer Sciences' ","'Adjustment' ",25
+2010 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",2040
+2010 ,"'Group I Computer Sciences' ","'Direct Clearing' ",685
+2010 ,"'Group I Computer Sciences' ","'RPA' ",1580
+2010 ,"'Group J Technologies' ","'Firm choice' ",2315
+2010 ,"'Group J Technologies' ","'Insurance choice' ",150
+2010 ,"'Group J Technologies' ","'Other main scheme choice' ",150
+2010 ,"'Group J Technologies' ","'Extra' ",35
+2010 ,"'Group J Technologies' ","'Adjustment' ",5
+2010 ,"'Group J Technologies' ","'Main scheme Clearing' ",235
+2010 ,"'Group J Technologies' ","'Direct Clearing' ",60
+2010 ,"'Group J Technologies' ","'RPA' ",285
+2010 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",6810
+2010 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",735
+2010 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",410
+2010 ,"'Group K Architecture, Building and Planning' ","'Extra' ",100
+2010 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",710
+2010 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",230
+2010 ,"'Group K Architecture, Building and Planning' ","'RPA' ",415
+2010 ,"'Group L Social Studies' ","'Firm choice' ",27515
+2010 ,"'Group L Social Studies' ","'Insurance choice' ",3310
+2010 ,"'Group L Social Studies' ","'Other main scheme choice' ",1110
+2010 ,"'Group L Social Studies' ","'Extra' ",635
+2010 ,"'Group L Social Studies' ","'Adjustment' ",45
+2010 ,"'Group L Social Studies' ","'Main scheme Clearing' ",3750
+2010 ,"'Group L Social Studies' ","'Direct Clearing' ",585
+2010 ,"'Group L Social Studies' ","'RPA' ",1685
+2010 ,"'Group M Law' ","'Firm choice' ",14630
+2010 ,"'Group M Law' ","'Insurance choice' ",2385
+2010 ,"'Group M Law' ","'Other main scheme choice' ",730
+2010 ,"'Group M Law' ","'Extra' ",310
+2010 ,"'Group M Law' ","'Adjustment' ",45
+2010 ,"'Group M Law' ","'Main scheme Clearing' ",2435
+2010 ,"'Group M Law' ","'Direct Clearing' ",460
+2010 ,"'Group M Law' ","'RPA' ",865
+2010 ,"'Group N Business and Admin studies' ","'Firm choice' ",37185
+2010 ,"'Group N Business and Admin studies' ","'Insurance choice' ",5515
+2010 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",1980
+2010 ,"'Group N Business and Admin studies' ","'Extra' ",685
+2010 ,"'Group N Business and Admin studies' ","'Adjustment' ",60
+2010 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",5900
+2010 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",1385
+2010 ,"'Group N Business and Admin studies' ","'RPA' ",6540
+2010 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",8465
+2010 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",755
+2010 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",300
+2010 ,"'Group P Mass Communication and Documentation' ","'Extra' ",150
+2010 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",10
+2010 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",1010
+2010 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",185
+2010 ,"'Group P Mass Communication and Documentation' ","'RPA' ",335
+2010 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9945
+2010 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",1275
+2010 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",170
+2010 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",160
+2010 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",15
+2010 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",775
+2010 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",110
+2010 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",205
+2010 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3785
+2010 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",445
+2010 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",45
+2010 ,"'Group R European Languages, Literature and related' ","'Extra' ",35
+2010 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",315
+2010 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",25
+2010 ,"'Group R European Languages, Literature and related' ","'RPA' ",30
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",1180
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",150
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",30
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",15
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",95
+2010 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",10
+2010 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",5
+2010 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11565
+2010 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1745
+2010 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",165
+2010 ,"'Group V History and Philosophical studies' ","'Extra' ",140
+2010 ,"'Group V History and Philosophical studies' ","'Adjustment' ",15
+2010 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",1005
+2010 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",135
+2010 ,"'Group V History and Philosophical studies' ","'RPA' ",200
+2010 ,"'Group W Creative Arts and Design' ","'Firm choice' ",42270
+2010 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",1130
+2010 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1570
+2010 ,"'Group W Creative Arts and Design' ","'Extra' ",1065
+2010 ,"'Group W Creative Arts and Design' ","'Adjustment' ",15
+2010 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2630
+2010 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",775
+2010 ,"'Group W Creative Arts and Design' ","'RPA' ",2105
+2010 ,"'Group X Education' ","'Firm choice' ",12925
+2010 ,"'Group X Education' ","'Insurance choice' ",635
+2010 ,"'Group X Education' ","'Other main scheme choice' ",455
+2010 ,"'Group X Education' ","'Extra' ",245
+2010 ,"'Group X Education' ","'Adjustment' ",5
+2010 ,"'Group X Education' ","'Main scheme Clearing' ",1010
+2010 ,"'Group X Education' ","'Direct Clearing' ",270
+2010 ,"'Group X Education' ","'RPA' ",790
+2010 ,"'Y Combined arts' ","'Firm choice' ",10515
+2010 ,"'Y Combined arts' ","'Insurance choice' ",1060
+2010 ,"'Y Combined arts' ","'Other main scheme choice' ",210
+2010 ,"'Y Combined arts' ","'Extra' ",210
+2010 ,"'Y Combined arts' ","'Adjustment' ",10
+2010 ,"'Y Combined arts' ","'Main scheme Clearing' ",820
+2010 ,"'Y Combined arts' ","'Direct Clearing' ",195
+2010 ,"'Y Combined arts' ","'RPA' ",250
+2010 ,"'Y Combined sciences' ","'Firm choice' ",6055
+2010 ,"'Y Combined sciences' ","'Insurance choice' ",635
+2010 ,"'Y Combined sciences' ","'Other main scheme choice' ",220
+2010 ,"'Y Combined sciences' ","'Extra' ",190
+2010 ,"'Y Combined sciences' ","'Main scheme Clearing' ",955
+2010 ,"'Y Combined sciences' ","'Direct Clearing' ",170
+2010 ,"'Y Combined sciences' ","'RPA' ",345
+2010 ,"'Y Combined social sciences' ","'Firm choice' ",4050
+2010 ,"'Y Combined social sciences' ","'Insurance choice' ",645
+2010 ,"'Y Combined social sciences' ","'Other main scheme choice' ",155
+2010 ,"'Y Combined social sciences' ","'Extra' ",145
+2010 ,"'Y Combined social sciences' ","'Adjustment' ",5
+2010 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",555
+2010 ,"'Y Combined social sciences' ","'Direct Clearing' ",60
+2010 ,"'Y Combined social sciences' ","'RPA' ",190
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",15905
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",1490
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",590
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",325
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",15
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1575
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",385
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",965
+2010 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",9360
+2010 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",930
+2010 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",330
+2010 ,"'Y Social Sciences combined with Arts' ","'Extra' ",205
+2010 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",5
+2010 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",800
+2010 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",175
+2010 ,"'Y Social Sciences combined with Arts' ","'RPA' ",540
+2010 ,"'Z General, other combined and unknown' ","'Firm choice' ",3385
+2010 ,"'Z General, other combined and unknown' ","'Insurance choice' ",225
+2010 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",185
+2010 ,"'Z General, other combined and unknown' ","'Extra' ",65
+2010 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",355
+2010 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",90
+2010 ,"'Z General, other combined and unknown' ","'RPA' ",250
+2011 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",8505
+2011 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",80
+2011 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",20
+2011 ,"'Group A Medicine and Dentistry' ","'Extra' ",45
+2011 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",5
+2011 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",220
+2011 ,"'Group A Medicine and Dentistry' ","'Direct Clearing' ",5
+2011 ,"'Group A Medicine and Dentistry' ","'RPA' ",185
+2011 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",36825
+2011 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",2530
+2011 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1505
+2011 ,"'Group B Subjects allied to Medicine' ","'Extra' ",1610
+2011 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",20
+2011 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",4165
+2011 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",545
+2011 ,"'Group B Subjects allied to Medicine' ","'RPA' ",760
+2011 ,"'Group C Biological Sciences' ","'Firm choice' ",29245
+2011 ,"'Group C Biological Sciences' ","'Insurance choice' ",4465
+2011 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",755
+2011 ,"'Group C Biological Sciences' ","'Extra' ",860
+2011 ,"'Group C Biological Sciences' ","'Adjustment' ",40
+2011 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",3755
+2011 ,"'Group C Biological Sciences' ","'Direct Clearing' ",460
+2011 ,"'Group C Biological Sciences' ","'RPA' ",565
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",4615
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",285
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",265
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",95
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",385
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",170
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",300
+2011 ,"'Group F Physical Sciences' ","'Firm choice' ",13490
+2011 ,"'Group F Physical Sciences' ","'Insurance choice' ",2405
+2011 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",230
+2011 ,"'Group F Physical Sciences' ","'Extra' ",200
+2011 ,"'Group F Physical Sciences' ","'Adjustment' ",40
+2011 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",1680
+2011 ,"'Group F Physical Sciences' ","'Direct Clearing' ",135
+2011 ,"'Group F Physical Sciences' ","'RPA' ",260
+2011 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5695
+2011 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1400
+2011 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",115
+2011 ,"'Group G Mathematical Sciences' ","'Extra' ",105
+2011 ,"'Group G Mathematical Sciences' ","'Adjustment' ",20
+2011 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",830
+2011 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",105
+2011 ,"'Group G Mathematical Sciences' ","'RPA' ",90
+2011 ,"'Group H Engineering' ","'Firm choice' ",16910
+2011 ,"'Group H Engineering' ","'Insurance choice' ",3005
+2011 ,"'Group H Engineering' ","'Other main scheme choice' ",1110
+2011 ,"'Group H Engineering' ","'Extra' ",300
+2011 ,"'Group H Engineering' ","'Adjustment' ",20
+2011 ,"'Group H Engineering' ","'Main scheme Clearing' ",2660
+2011 ,"'Group H Engineering' ","'Direct Clearing' ",575
+2011 ,"'Group H Engineering' ","'RPA' ",1415
+2011 ,"'Group I Computer Sciences' ","'Firm choice' ",13770
+2011 ,"'Group I Computer Sciences' ","'Insurance choice' ",1725
+2011 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",870
+2011 ,"'Group I Computer Sciences' ","'Extra' ",255
+2011 ,"'Group I Computer Sciences' ","'Adjustment' ",20
+2011 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",2175
+2011 ,"'Group I Computer Sciences' ","'Direct Clearing' ",665
+2011 ,"'Group I Computer Sciences' ","'RPA' ",930
+2011 ,"'Group J Technologies' ","'Firm choice' ",2125
+2011 ,"'Group J Technologies' ","'Insurance choice' ",145
+2011 ,"'Group J Technologies' ","'Other main scheme choice' ",105
+2011 ,"'Group J Technologies' ","'Extra' ",45
+2011 ,"'Group J Technologies' ","'Main scheme Clearing' ",235
+2011 ,"'Group J Technologies' ","'Direct Clearing' ",65
+2011 ,"'Group J Technologies' ","'RPA' ",100
+2011 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",6480
+2011 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",755
+2011 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",385
+2011 ,"'Group K Architecture, Building and Planning' ","'Extra' ",145
+2011 ,"'Group K Architecture, Building and Planning' ","'Adjustment' ",10
+2011 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",675
+2011 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",250
+2011 ,"'Group K Architecture, Building and Planning' ","'RPA' ",260
+2011 ,"'Group L Social Studies' ","'Firm choice' ",28340
+2011 ,"'Group L Social Studies' ","'Insurance choice' ",3645
+2011 ,"'Group L Social Studies' ","'Other main scheme choice' ",1140
+2011 ,"'Group L Social Studies' ","'Extra' ",960
+2011 ,"'Group L Social Studies' ","'Adjustment' ",55
+2011 ,"'Group L Social Studies' ","'Main scheme Clearing' ",3745
+2011 ,"'Group L Social Studies' ","'Direct Clearing' ",555
+2011 ,"'Group L Social Studies' ","'RPA' ",1485
+2011 ,"'Group M Law' ","'Firm choice' ",15240
+2011 ,"'Group M Law' ","'Insurance choice' ",2505
+2011 ,"'Group M Law' ","'Other main scheme choice' ",740
+2011 ,"'Group M Law' ","'Extra' ",365
+2011 ,"'Group M Law' ","'Adjustment' ",75
+2011 ,"'Group M Law' ","'Main scheme Clearing' ",2720
+2011 ,"'Group M Law' ","'Direct Clearing' ",575
+2011 ,"'Group M Law' ","'RPA' ",505
+2011 ,"'Group N Business and Admin studies' ","'Firm choice' ",39750
+2011 ,"'Group N Business and Admin studies' ","'Insurance choice' ",5985
+2011 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",2195
+2011 ,"'Group N Business and Admin studies' ","'Extra' ",950
+2011 ,"'Group N Business and Admin studies' ","'Adjustment' ",70
+2011 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",6630
+2011 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",1475
+2011 ,"'Group N Business and Admin studies' ","'RPA' ",4045
+2011 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",8915
+2011 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",810
+2011 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",380
+2011 ,"'Group P Mass Communication and Documentation' ","'Extra' ",185
+2011 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",10
+2011 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",1050
+2011 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",160
+2011 ,"'Group P Mass Communication and Documentation' ","'RPA' ",280
+2011 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9785
+2011 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",1240
+2011 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",165
+2011 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",195
+2011 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",30
+2011 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",955
+2011 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",120
+2011 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",145
+2011 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3630
+2011 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",460
+2011 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",45
+2011 ,"'Group R European Languages, Literature and related' ","'Extra' ",40
+2011 ,"'Group R European Languages, Literature and related' ","'Adjustment' ",5
+2011 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",350
+2011 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",20
+2011 ,"'Group R European Languages, Literature and related' ","'RPA' ",20
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",1155
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",155
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",10
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",15
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",80
+2011 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",10
+2011 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",10
+2011 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11435
+2011 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1770
+2011 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",185
+2011 ,"'Group V History and Philosophical studies' ","'Extra' ",150
+2011 ,"'Group V History and Philosophical studies' ","'Adjustment' ",35
+2011 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",1210
+2011 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",115
+2011 ,"'Group V History and Philosophical studies' ","'RPA' ",165
+2011 ,"'Group W Creative Arts and Design' ","'Firm choice' ",43880
+2011 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",1360
+2011 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1680
+2011 ,"'Group W Creative Arts and Design' ","'Extra' ",1175
+2011 ,"'Group W Creative Arts and Design' ","'Adjustment' ",20
+2011 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2710
+2011 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",785
+2011 ,"'Group W Creative Arts and Design' ","'RPA' ",1450
+2011 ,"'Group X Education' ","'Firm choice' ",13015
+2011 ,"'Group X Education' ","'Insurance choice' ",610
+2011 ,"'Group X Education' ","'Other main scheme choice' ",605
+2011 ,"'Group X Education' ","'Extra' ",495
+2011 ,"'Group X Education' ","'Adjustment' ",10
+2011 ,"'Group X Education' ","'Main scheme Clearing' ",1220
+2011 ,"'Group X Education' ","'Direct Clearing' ",315
+2011 ,"'Group X Education' ","'RPA' ",685
+2011 ,"'Y Combined arts' ","'Firm choice' ",10185
+2011 ,"'Y Combined arts' ","'Insurance choice' ",1045
+2011 ,"'Y Combined arts' ","'Other main scheme choice' ",265
+2011 ,"'Y Combined arts' ","'Extra' ",205
+2011 ,"'Y Combined arts' ","'Adjustment' ",10
+2011 ,"'Y Combined arts' ","'Main scheme Clearing' ",865
+2011 ,"'Y Combined arts' ","'Direct Clearing' ",125
+2011 ,"'Y Combined arts' ","'RPA' ",145
+2011 ,"'Y Combined sciences' ","'Firm choice' ",6180
+2011 ,"'Y Combined sciences' ","'Insurance choice' ",720
+2011 ,"'Y Combined sciences' ","'Other main scheme choice' ",225
+2011 ,"'Y Combined sciences' ","'Extra' ",215
+2011 ,"'Y Combined sciences' ","'Adjustment' ",5
+2011 ,"'Y Combined sciences' ","'Main scheme Clearing' ",1095
+2011 ,"'Y Combined sciences' ","'Direct Clearing' ",175
+2011 ,"'Y Combined sciences' ","'RPA' ",235
+2011 ,"'Y Combined social sciences' ","'Firm choice' ",3845
+2011 ,"'Y Combined social sciences' ","'Insurance choice' ",565
+2011 ,"'Y Combined social sciences' ","'Other main scheme choice' ",135
+2011 ,"'Y Combined social sciences' ","'Extra' ",130
+2011 ,"'Y Combined social sciences' ","'Adjustment' ",15
+2011 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",670
+2011 ,"'Y Combined social sciences' ","'Direct Clearing' ",75
+2011 ,"'Y Combined social sciences' ","'RPA' ",150
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",15435
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",1445
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",555
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",415
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",15
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1655
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",390
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",510
+2011 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",9040
+2011 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",975
+2011 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",345
+2011 ,"'Y Social Sciences combined with Arts' ","'Extra' ",275
+2011 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",15
+2011 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",875
+2011 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",170
+2011 ,"'Y Social Sciences combined with Arts' ","'RPA' ",505
+2011 ,"'Z General, other combined and unknown' ","'Firm choice' ",3290
+2011 ,"'Z General, other combined and unknown' ","'Insurance choice' ",295
+2011 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",140
+2011 ,"'Z General, other combined and unknown' ","'Extra' ",110
+2011 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",430
+2011 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",100
+2011 ,"'Z General, other combined and unknown' ","'RPA' ",230
+2012 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",8315
+2012 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",70
+2012 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",30
+2012 ,"'Group A Medicine and Dentistry' ","'Extra' ",65
+2012 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",10
+2012 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",445
+2012 ,"'Group A Medicine and Dentistry' ","'RPA' ",150
+2012 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",35895
+2012 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",2000
+2012 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1075
+2012 ,"'Group B Subjects allied to Medicine' ","'Extra' ",1560
+2012 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",60
+2012 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",4465
+2012 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",735
+2012 ,"'Group B Subjects allied to Medicine' ","'RPA' ",825
+2012 ,"'Group C Biological Sciences' ","'Firm choice' ",28740
+2012 ,"'Group C Biological Sciences' ","'Insurance choice' ",3345
+2012 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",620
+2012 ,"'Group C Biological Sciences' ","'Extra' ",765
+2012 ,"'Group C Biological Sciences' ","'Adjustment' ",135
+2012 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",4240
+2012 ,"'Group C Biological Sciences' ","'Direct Clearing' ",925
+2012 ,"'Group C Biological Sciences' ","'RPA' ",855
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",4395
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",215
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",150
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",65
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Adjustment' ",5
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",405
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",250
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",295
+2012 ,"'Group F Physical Sciences' ","'Firm choice' ",13645
+2012 ,"'Group F Physical Sciences' ","'Insurance choice' ",1950
+2012 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",205
+2012 ,"'Group F Physical Sciences' ","'Extra' ",200
+2012 ,"'Group F Physical Sciences' ","'Adjustment' ",40
+2012 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",1715
+2012 ,"'Group F Physical Sciences' ","'Direct Clearing' ",235
+2012 ,"'Group F Physical Sciences' ","'RPA' ",280
+2012 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5740
+2012 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1145
+2012 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",100
+2012 ,"'Group G Mathematical Sciences' ","'Extra' ",75
+2012 ,"'Group G Mathematical Sciences' ","'Adjustment' ",30
+2012 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",765
+2012 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",130
+2012 ,"'Group G Mathematical Sciences' ","'RPA' ",115
+2012 ,"'Group H Engineering' ","'Firm choice' ",16645
+2012 ,"'Group H Engineering' ","'Insurance choice' ",2500
+2012 ,"'Group H Engineering' ","'Other main scheme choice' ",845
+2012 ,"'Group H Engineering' ","'Extra' ",270
+2012 ,"'Group H Engineering' ","'Adjustment' ",50
+2012 ,"'Group H Engineering' ","'Main scheme Clearing' ",2690
+2012 ,"'Group H Engineering' ","'Direct Clearing' ",780
+2012 ,"'Group H Engineering' ","'RPA' ",1515
+2012 ,"'Group I Computer Sciences' ","'Firm choice' ",13365
+2012 ,"'Group I Computer Sciences' ","'Insurance choice' ",1305
+2012 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",615
+2012 ,"'Group I Computer Sciences' ","'Extra' ",205
+2012 ,"'Group I Computer Sciences' ","'Adjustment' ",35
+2012 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",1860
+2012 ,"'Group I Computer Sciences' ","'Direct Clearing' ",860
+2012 ,"'Group I Computer Sciences' ","'RPA' ",1105
+2012 ,"'Group J Technologies' ","'Firm choice' ",1710
+2012 ,"'Group J Technologies' ","'Insurance choice' ",130
+2012 ,"'Group J Technologies' ","'Other main scheme choice' ",95
+2012 ,"'Group J Technologies' ","'Extra' ",25
+2012 ,"'Group J Technologies' ","'Adjustment' ",5
+2012 ,"'Group J Technologies' ","'Main scheme Clearing' ",175
+2012 ,"'Group J Technologies' ","'Direct Clearing' ",100
+2012 ,"'Group J Technologies' ","'RPA' ",105
+2012 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",5475
+2012 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",455
+2012 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",305
+2012 ,"'Group K Architecture, Building and Planning' ","'Extra' ",80
+2012 ,"'Group K Architecture, Building and Planning' ","'Adjustment' ",30
+2012 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",620
+2012 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",285
+2012 ,"'Group K Architecture, Building and Planning' ","'RPA' ",300
+2012 ,"'Group L Social Studies' ","'Firm choice' ",26285
+2012 ,"'Group L Social Studies' ","'Insurance choice' ",2610
+2012 ,"'Group L Social Studies' ","'Other main scheme choice' ",1010
+2012 ,"'Group L Social Studies' ","'Extra' ",820
+2012 ,"'Group L Social Studies' ","'Adjustment' ",125
+2012 ,"'Group L Social Studies' ","'Main scheme Clearing' ",4295
+2012 ,"'Group L Social Studies' ","'Direct Clearing' ",1005
+2012 ,"'Group L Social Studies' ","'RPA' ",1680
+2012 ,"'Group M Law' ","'Firm choice' ",15160
+2012 ,"'Group M Law' ","'Insurance choice' ",1860
+2012 ,"'Group M Law' ","'Other main scheme choice' ",655
+2012 ,"'Group M Law' ","'Extra' ",300
+2012 ,"'Group M Law' ","'Adjustment' ",125
+2012 ,"'Group M Law' ","'Main scheme Clearing' ",2615
+2012 ,"'Group M Law' ","'Direct Clearing' ",670
+2012 ,"'Group M Law' ","'RPA' ",695
+2012 ,"'Group N Business and Admin studies' ","'Firm choice' ",37305
+2012 ,"'Group N Business and Admin studies' ","'Insurance choice' ",4515
+2012 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",1815
+2012 ,"'Group N Business and Admin studies' ","'Extra' ",770
+2012 ,"'Group N Business and Admin studies' ","'Adjustment' ",170
+2012 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",6445
+2012 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",2165
+2012 ,"'Group N Business and Admin studies' ","'RPA' ",4410
+2012 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",7940
+2012 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",565
+2012 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",285
+2012 ,"'Group P Mass Communication and Documentation' ","'Extra' ",135
+2012 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",25
+2012 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",975
+2012 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",310
+2012 ,"'Group P Mass Communication and Documentation' ","'RPA' ",360
+2012 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9645
+2012 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",790
+2012 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",165
+2012 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",130
+2012 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",95
+2012 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",810
+2012 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",190
+2012 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",205
+2012 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3305
+2012 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",295
+2012 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",30
+2012 ,"'Group R European Languages, Literature and related' ","'Extra' ",25
+2012 ,"'Group R European Languages, Literature and related' ","'Adjustment' ",30
+2012 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",315
+2012 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",30
+2012 ,"'Group R European Languages, Literature and related' ","'RPA' ",35
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",975
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",70
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",20
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",10
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Adjustment' ",5
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",125
+2012 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",15
+2012 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",15
+2012 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11005
+2012 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1225
+2012 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",195
+2012 ,"'Group V History and Philosophical studies' ","'Extra' ",120
+2012 ,"'Group V History and Philosophical studies' ","'Adjustment' ",80
+2012 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",1110
+2012 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",235
+2012 ,"'Group V History and Philosophical studies' ","'RPA' ",190
+2012 ,"'Group W Creative Arts and Design' ","'Firm choice' ",39045
+2012 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",935
+2012 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1365
+2012 ,"'Group W Creative Arts and Design' ","'Extra' ",760
+2012 ,"'Group W Creative Arts and Design' ","'Adjustment' ",65
+2012 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2715
+2012 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",1350
+2012 ,"'Group W Creative Arts and Design' ","'RPA' ",1500
+2012 ,"'Group X Education' ","'Firm choice' ",12785
+2012 ,"'Group X Education' ","'Insurance choice' ",535
+2012 ,"'Group X Education' ","'Other main scheme choice' ",420
+2012 ,"'Group X Education' ","'Extra' ",460
+2012 ,"'Group X Education' ","'Adjustment' ",15
+2012 ,"'Group X Education' ","'Main scheme Clearing' ",1320
+2012 ,"'Group X Education' ","'Direct Clearing' ",585
+2012 ,"'Group X Education' ","'RPA' ",775
+2012 ,"'Y Combined arts' ","'Firm choice' ",8785
+2012 ,"'Y Combined arts' ","'Insurance choice' ",740
+2012 ,"'Y Combined arts' ","'Other main scheme choice' ",185
+2012 ,"'Y Combined arts' ","'Extra' ",120
+2012 ,"'Y Combined arts' ","'Adjustment' ",40
+2012 ,"'Y Combined arts' ","'Main scheme Clearing' ",845
+2012 ,"'Y Combined arts' ","'Direct Clearing' ",245
+2012 ,"'Y Combined arts' ","'RPA' ",200
+2012 ,"'Y Combined sciences' ","'Firm choice' ",5715
+2012 ,"'Y Combined sciences' ","'Insurance choice' ",545
+2012 ,"'Y Combined sciences' ","'Other main scheme choice' ",170
+2012 ,"'Y Combined sciences' ","'Extra' ",240
+2012 ,"'Y Combined sciences' ","'Adjustment' ",25
+2012 ,"'Y Combined sciences' ","'Main scheme Clearing' ",1000
+2012 ,"'Y Combined sciences' ","'Direct Clearing' ",225
+2012 ,"'Y Combined sciences' ","'RPA' ",260
+2012 ,"'Y Combined social sciences' ","'Firm choice' ",3455
+2012 ,"'Y Combined social sciences' ","'Insurance choice' ",405
+2012 ,"'Y Combined social sciences' ","'Other main scheme choice' ",115
+2012 ,"'Y Combined social sciences' ","'Extra' ",95
+2012 ,"'Y Combined social sciences' ","'Adjustment' ",35
+2012 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",710
+2012 ,"'Y Combined social sciences' ","'Direct Clearing' ",105
+2012 ,"'Y Combined social sciences' ","'RPA' ",180
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",13350
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",880
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",410
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",300
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",25
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1440
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",530
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",600
+2012 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",8145
+2012 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",625
+2012 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",245
+2012 ,"'Y Social Sciences combined with Arts' ","'Extra' ",175
+2012 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",35
+2012 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",805
+2012 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",210
+2012 ,"'Y Social Sciences combined with Arts' ","'RPA' ",385
+2012 ,"'Z General, other combined and unknown' ","'Firm choice' ",4475
+2012 ,"'Z General, other combined and unknown' ","'Insurance choice' ",280
+2012 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",120
+2012 ,"'Z General, other combined and unknown' ","'Extra' ",95
+2012 ,"'Z General, other combined and unknown' ","'Adjustment' ",45
+2012 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",530
+2012 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",120
+2012 ,"'Z General, other combined and unknown' ","'RPA' ",430
+2013 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",7930
+2013 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",60
+2013 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",15
+2013 ,"'Group A Medicine and Dentistry' ","'Extra' ",65
+2013 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",5
+2013 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",430
+2013 ,"'Group A Medicine and Dentistry' ","'RPA' ",255
+2013 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",37860
+2013 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",2245
+2013 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1235
+2013 ,"'Group B Subjects allied to Medicine' ","'Extra' ",1545
+2013 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",70
+2013 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",4730
+2013 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",935
+2013 ,"'Group B Subjects allied to Medicine' ","'RPA' ",855
+2013 ,"'Group C Biological Sciences' ","'Firm choice' ",32115
+2013 ,"'Group C Biological Sciences' ","'Insurance choice' ",3760
+2013 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",925
+2013 ,"'Group C Biological Sciences' ","'Extra' ",860
+2013 ,"'Group C Biological Sciences' ","'Adjustment' ",135
+2013 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",4265
+2013 ,"'Group C Biological Sciences' ","'Direct Clearing' ",1160
+2013 ,"'Group C Biological Sciences' ","'RPA' ",1190
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",4860
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",265
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",270
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",75
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Adjustment' ",5
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",365
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",290
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",310
+2013 ,"'Group F Physical Sciences' ","'Firm choice' ",14435
+2013 ,"'Group F Physical Sciences' ","'Insurance choice' ",2190
+2013 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",235
+2013 ,"'Group F Physical Sciences' ","'Extra' ",185
+2013 ,"'Group F Physical Sciences' ","'Adjustment' ",50
+2013 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",1665
+2013 ,"'Group F Physical Sciences' ","'Direct Clearing' ",310
+2013 ,"'Group F Physical Sciences' ","'RPA' ",255
+2013 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5990
+2013 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1225
+2013 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",100
+2013 ,"'Group G Mathematical Sciences' ","'Extra' ",65
+2013 ,"'Group G Mathematical Sciences' ","'Adjustment' ",45
+2013 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",815
+2013 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",145
+2013 ,"'Group G Mathematical Sciences' ","'RPA' ",90
+2013 ,"'Group H Engineering' ","'Firm choice' ",18195
+2013 ,"'Group H Engineering' ","'Insurance choice' ",2635
+2013 ,"'Group H Engineering' ","'Other main scheme choice' ",985
+2013 ,"'Group H Engineering' ","'Extra' ",295
+2013 ,"'Group H Engineering' ","'Adjustment' ",50
+2013 ,"'Group H Engineering' ","'Main scheme Clearing' ",2670
+2013 ,"'Group H Engineering' ","'Direct Clearing' ",915
+2013 ,"'Group H Engineering' ","'RPA' ",1410
+2013 ,"'Group I Computer Sciences' ","'Firm choice' ",15305
+2013 ,"'Group I Computer Sciences' ","'Insurance choice' ",1490
+2013 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",810
+2013 ,"'Group I Computer Sciences' ","'Extra' ",215
+2013 ,"'Group I Computer Sciences' ","'Adjustment' ",35
+2013 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",1755
+2013 ,"'Group I Computer Sciences' ","'Direct Clearing' ",1010
+2013 ,"'Group I Computer Sciences' ","'RPA' ",1090
+2013 ,"'Group J Technologies' ","'Firm choice' ",1920
+2013 ,"'Group J Technologies' ","'Insurance choice' ",125
+2013 ,"'Group J Technologies' ","'Other main scheme choice' ",100
+2013 ,"'Group J Technologies' ","'Extra' ",30
+2013 ,"'Group J Technologies' ","'Main scheme Clearing' ",165
+2013 ,"'Group J Technologies' ","'Direct Clearing' ",105
+2013 ,"'Group J Technologies' ","'RPA' ",115
+2013 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",5575
+2013 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",500
+2013 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",350
+2013 ,"'Group K Architecture, Building and Planning' ","'Extra' ",85
+2013 ,"'Group K Architecture, Building and Planning' ","'Adjustment' ",15
+2013 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",540
+2013 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",380
+2013 ,"'Group K Architecture, Building and Planning' ","'RPA' ",285
+2013 ,"'Group L Social Studies' ","'Firm choice' ",28165
+2013 ,"'Group L Social Studies' ","'Insurance choice' ",2870
+2013 ,"'Group L Social Studies' ","'Other main scheme choice' ",1385
+2013 ,"'Group L Social Studies' ","'Extra' ",950
+2013 ,"'Group L Social Studies' ","'Adjustment' ",155
+2013 ,"'Group L Social Studies' ","'Main scheme Clearing' ",4270
+2013 ,"'Group L Social Studies' ","'Direct Clearing' ",1205
+2013 ,"'Group L Social Studies' ","'RPA' ",1925
+2013 ,"'Group M Law' ","'Firm choice' ",16325
+2013 ,"'Group M Law' ","'Insurance choice' ",2170
+2013 ,"'Group M Law' ","'Other main scheme choice' ",755
+2013 ,"'Group M Law' ","'Extra' ",325
+2013 ,"'Group M Law' ","'Adjustment' ",110
+2013 ,"'Group M Law' ","'Main scheme Clearing' ",2490
+2013 ,"'Group M Law' ","'Direct Clearing' ",860
+2013 ,"'Group M Law' ","'RPA' ",720
+2013 ,"'Group N Business and Admin studies' ","'Firm choice' ",40010
+2013 ,"'Group N Business and Admin studies' ","'Insurance choice' ",4845
+2013 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",2190
+2013 ,"'Group N Business and Admin studies' ","'Extra' ",745
+2013 ,"'Group N Business and Admin studies' ","'Adjustment' ",155
+2013 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",6035
+2013 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",2530
+2013 ,"'Group N Business and Admin studies' ","'RPA' ",4480
+2013 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",9030
+2013 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",670
+2013 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",390
+2013 ,"'Group P Mass Communication and Documentation' ","'Extra' ",120
+2013 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",15
+2013 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",810
+2013 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",410
+2013 ,"'Group P Mass Communication and Documentation' ","'RPA' ",400
+2013 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9955
+2013 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",870
+2013 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",205
+2013 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",110
+2013 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",55
+2013 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",865
+2013 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",205
+2013 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",190
+2013 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3270
+2013 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",310
+2013 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",45
+2013 ,"'Group R European Languages, Literature and related' ","'Extra' ",20
+2013 ,"'Group R European Languages, Literature and related' ","'Adjustment' ",15
+2013 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",275
+2013 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",35
+2013 ,"'Group R European Languages, Literature and related' ","'RPA' ",35
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",980
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",75
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",25
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",10
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",125
+2013 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",25
+2013 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",15
+2013 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11665
+2013 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1285
+2013 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",245
+2013 ,"'Group V History and Philosophical studies' ","'Extra' ",125
+2013 ,"'Group V History and Philosophical studies' ","'Adjustment' ",65
+2013 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",1060
+2013 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",285
+2013 ,"'Group V History and Philosophical studies' ","'RPA' ",195
+2013 ,"'Group W Creative Arts and Design' ","'Firm choice' ",41595
+2013 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",1045
+2013 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1885
+2013 ,"'Group W Creative Arts and Design' ","'Extra' ",685
+2013 ,"'Group W Creative Arts and Design' ","'Adjustment' ",35
+2013 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2480
+2013 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",1540
+2013 ,"'Group W Creative Arts and Design' ","'RPA' ",2375
+2013 ,"'Group X Education' ","'Firm choice' ",13195
+2013 ,"'Group X Education' ","'Insurance choice' ",580
+2013 ,"'Group X Education' ","'Other main scheme choice' ",585
+2013 ,"'Group X Education' ","'Extra' ",390
+2013 ,"'Group X Education' ","'Adjustment' ",10
+2013 ,"'Group X Education' ","'Main scheme Clearing' ",1385
+2013 ,"'Group X Education' ","'Direct Clearing' ",805
+2013 ,"'Group X Education' ","'RPA' ",905
+2013 ,"'Y Combined arts' ","'Firm choice' ",8650
+2013 ,"'Y Combined arts' ","'Insurance choice' ",675
+2013 ,"'Y Combined arts' ","'Other main scheme choice' ",230
+2013 ,"'Y Combined arts' ","'Extra' ",130
+2013 ,"'Y Combined arts' ","'Adjustment' ",40
+2013 ,"'Y Combined arts' ","'Main scheme Clearing' ",755
+2013 ,"'Y Combined arts' ","'Direct Clearing' ",255
+2013 ,"'Y Combined arts' ","'RPA' ",190
+2013 ,"'Y Combined sciences' ","'Firm choice' ",5955
+2013 ,"'Y Combined sciences' ","'Insurance choice' ",575
+2013 ,"'Y Combined sciences' ","'Other main scheme choice' ",235
+2013 ,"'Y Combined sciences' ","'Extra' ",195
+2013 ,"'Y Combined sciences' ","'Adjustment' ",20
+2013 ,"'Y Combined sciences' ","'Main scheme Clearing' ",865
+2013 ,"'Y Combined sciences' ","'Direct Clearing' ",235
+2013 ,"'Y Combined sciences' ","'RPA' ",300
+2013 ,"'Y Combined social sciences' ","'Firm choice' ",3550
+2013 ,"'Y Combined social sciences' ","'Insurance choice' ",435
+2013 ,"'Y Combined social sciences' ","'Other main scheme choice' ",135
+2013 ,"'Y Combined social sciences' ","'Extra' ",75
+2013 ,"'Y Combined social sciences' ","'Adjustment' ",35
+2013 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",665
+2013 ,"'Y Combined social sciences' ","'Direct Clearing' ",95
+2013 ,"'Y Combined social sciences' ","'RPA' ",195
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",13350
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",895
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",480
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",260
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",35
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1270
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",585
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",530
+2013 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",8285
+2013 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",655
+2013 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",305
+2013 ,"'Y Social Sciences combined with Arts' ","'Extra' ",155
+2013 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",35
+2013 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",825
+2013 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",265
+2013 ,"'Y Social Sciences combined with Arts' ","'RPA' ",515
+2013 ,"'Z General, other combined and unknown' ","'Firm choice' ",5090
+2013 ,"'Z General, other combined and unknown' ","'Insurance choice' ",390
+2013 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",155
+2013 ,"'Z General, other combined and unknown' ","'Extra' ",100
+2013 ,"'Z General, other combined and unknown' ","'Adjustment' ",25
+2013 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",700
+2013 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",230
+2013 ,"'Z General, other combined and unknown' ","'RPA' ",265
+2014 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",7885
+2014 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",95
+2014 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",30
+2014 ,"'Group A Medicine and Dentistry' ","'Extra' ",115
+2014 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",5
+2014 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",520
+2014 ,"'Group A Medicine and Dentistry' ","'RPA' ",265
+2014 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",40200
+2014 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",2250
+2014 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1440
+2014 ,"'Group B Subjects allied to Medicine' ","'Extra' ",1690
+2014 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",70
+2014 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",5215
+2014 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",810
+2014 ,"'Group B Subjects allied to Medicine' ","'RPA' ",735
+2014 ,"'Group C Biological Sciences' ","'Firm choice' ",34950
+2014 ,"'Group C Biological Sciences' ","'Insurance choice' ",4255
+2014 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",900
+2014 ,"'Group C Biological Sciences' ","'Extra' ",875
+2014 ,"'Group C Biological Sciences' ","'Adjustment' ",110
+2014 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",5225
+2014 ,"'Group C Biological Sciences' ","'Direct Clearing' ",1175
+2014 ,"'Group C Biological Sciences' ","'RPA' ",1325
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",5155
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",255
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",195
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",85
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Adjustment' ",5
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",450
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",300
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",295
+2014 ,"'Group F Physical Sciences' ","'Firm choice' ",14470
+2014 ,"'Group F Physical Sciences' ","'Insurance choice' ",2470
+2014 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",240
+2014 ,"'Group F Physical Sciences' ","'Extra' ",175
+2014 ,"'Group F Physical Sciences' ","'Adjustment' ",60
+2014 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",2010
+2014 ,"'Group F Physical Sciences' ","'Direct Clearing' ",260
+2014 ,"'Group F Physical Sciences' ","'RPA' ",240
+2014 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5705
+2014 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1350
+2014 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",100
+2014 ,"'Group G Mathematical Sciences' ","'Extra' ",60
+2014 ,"'Group G Mathematical Sciences' ","'Adjustment' ",40
+2014 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",975
+2014 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",155
+2014 ,"'Group G Mathematical Sciences' ","'RPA' ",85
+2014 ,"'Group H Engineering' ","'Firm choice' ",18755
+2014 ,"'Group H Engineering' ","'Insurance choice' ",3275
+2014 ,"'Group H Engineering' ","'Other main scheme choice' ",835
+2014 ,"'Group H Engineering' ","'Extra' ",255
+2014 ,"'Group H Engineering' ","'Adjustment' ",50
+2014 ,"'Group H Engineering' ","'Main scheme Clearing' ",3355
+2014 ,"'Group H Engineering' ","'Direct Clearing' ",840
+2014 ,"'Group H Engineering' ","'RPA' ",1745
+2014 ,"'Group I Computer Sciences' ","'Firm choice' ",16620
+2014 ,"'Group I Computer Sciences' ","'Insurance choice' ",1800
+2014 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",830
+2014 ,"'Group I Computer Sciences' ","'Extra' ",215
+2014 ,"'Group I Computer Sciences' ","'Adjustment' ",40
+2014 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",1990
+2014 ,"'Group I Computer Sciences' ","'Direct Clearing' ",970
+2014 ,"'Group I Computer Sciences' ","'RPA' ",1125
+2014 ,"'Group J Technologies' ","'Firm choice' ",1965
+2014 ,"'Group J Technologies' ","'Insurance choice' ",145
+2014 ,"'Group J Technologies' ","'Other main scheme choice' ",95
+2014 ,"'Group J Technologies' ","'Extra' ",25
+2014 ,"'Group J Technologies' ","'Main scheme Clearing' ",175
+2014 ,"'Group J Technologies' ","'Direct Clearing' ",70
+2014 ,"'Group J Technologies' ","'RPA' ",105
+2014 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",5490
+2014 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",540
+2014 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",320
+2014 ,"'Group K Architecture, Building and Planning' ","'Extra' ",75
+2014 ,"'Group K Architecture, Building and Planning' ","'Adjustment' ",10
+2014 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",660
+2014 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",335
+2014 ,"'Group K Architecture, Building and Planning' ","'RPA' ",255
+2014 ,"'Group L Social Studies' ","'Firm choice' ",29555
+2014 ,"'Group L Social Studies' ","'Insurance choice' ",3445
+2014 ,"'Group L Social Studies' ","'Other main scheme choice' ",1315
+2014 ,"'Group L Social Studies' ","'Extra' ",845
+2014 ,"'Group L Social Studies' ","'Adjustment' ",165
+2014 ,"'Group L Social Studies' ","'Main scheme Clearing' ",4955
+2014 ,"'Group L Social Studies' ","'Direct Clearing' ",1180
+2014 ,"'Group L Social Studies' ","'RPA' ",1870
+2014 ,"'Group M Law' ","'Firm choice' ",15845
+2014 ,"'Group M Law' ","'Insurance choice' ",2325
+2014 ,"'Group M Law' ","'Other main scheme choice' ",675
+2014 ,"'Group M Law' ","'Extra' ",305
+2014 ,"'Group M Law' ","'Adjustment' ",105
+2014 ,"'Group M Law' ","'Main scheme Clearing' ",2750
+2014 ,"'Group M Law' ","'Direct Clearing' ",755
+2014 ,"'Group M Law' ","'RPA' ",940
+2014 ,"'Group N Business and Admin studies' ","'Firm choice' ",40745
+2014 ,"'Group N Business and Admin studies' ","'Insurance choice' ",5160
+2014 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",2065
+2014 ,"'Group N Business and Admin studies' ","'Extra' ",720
+2014 ,"'Group N Business and Admin studies' ","'Adjustment' ",185
+2014 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",6750
+2014 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",2705
+2014 ,"'Group N Business and Admin studies' ","'RPA' ",5340
+2014 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",9660
+2014 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",765
+2014 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",395
+2014 ,"'Group P Mass Communication and Documentation' ","'Extra' ",145
+2014 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",20
+2014 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",920
+2014 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",330
+2014 ,"'Group P Mass Communication and Documentation' ","'RPA' ",485
+2014 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9650
+2014 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",1045
+2014 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",220
+2014 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",95
+2014 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",65
+2014 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",1055
+2014 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",210
+2014 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",180
+2014 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3060
+2014 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",315
+2014 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",40
+2014 ,"'Group R European Languages, Literature and related' ","'Extra' ",20
+2014 ,"'Group R European Languages, Literature and related' ","'Adjustment' ",10
+2014 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",275
+2014 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",35
+2014 ,"'Group R European Languages, Literature and related' ","'RPA' ",30
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",870
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",75
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",30
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",5
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Adjustment' ",5
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",100
+2014 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",20
+2014 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",10
+2014 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11890
+2014 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1420
+2014 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",215
+2014 ,"'Group V History and Philosophical studies' ","'Extra' ",80
+2014 ,"'Group V History and Philosophical studies' ","'Adjustment' ",50
+2014 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",1185
+2014 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",240
+2014 ,"'Group V History and Philosophical studies' ","'RPA' ",205
+2014 ,"'Group W Creative Arts and Design' ","'Firm choice' ",43830
+2014 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",1175
+2014 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1790
+2014 ,"'Group W Creative Arts and Design' ","'Extra' ",650
+2014 ,"'Group W Creative Arts and Design' ","'Adjustment' ",30
+2014 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2585
+2014 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",1370
+2014 ,"'Group W Creative Arts and Design' ","'RPA' ",1895
+2014 ,"'Group X Education' ","'Firm choice' ",13860
+2014 ,"'Group X Education' ","'Insurance choice' ",650
+2014 ,"'Group X Education' ","'Other main scheme choice' ",575
+2014 ,"'Group X Education' ","'Extra' ",360
+2014 ,"'Group X Education' ","'Adjustment' ",15
+2014 ,"'Group X Education' ","'Main scheme Clearing' ",1380
+2014 ,"'Group X Education' ","'Direct Clearing' ",770
+2014 ,"'Group X Education' ","'RPA' ",825
+2014 ,"'Y Combined arts' ","'Firm choice' ",8345
+2014 ,"'Y Combined arts' ","'Insurance choice' ",775
+2014 ,"'Y Combined arts' ","'Other main scheme choice' ",200
+2014 ,"'Y Combined arts' ","'Extra' ",115
+2014 ,"'Y Combined arts' ","'Adjustment' ",30
+2014 ,"'Y Combined arts' ","'Main scheme Clearing' ",740
+2014 ,"'Y Combined arts' ","'Direct Clearing' ",210
+2014 ,"'Y Combined arts' ","'RPA' ",165
+2014 ,"'Y Combined sciences' ","'Firm choice' ",5940
+2014 ,"'Y Combined sciences' ","'Insurance choice' ",635
+2014 ,"'Y Combined sciences' ","'Other main scheme choice' ",215
+2014 ,"'Y Combined sciences' ","'Extra' ",215
+2014 ,"'Y Combined sciences' ","'Adjustment' ",15
+2014 ,"'Y Combined sciences' ","'Main scheme Clearing' ",850
+2014 ,"'Y Combined sciences' ","'Direct Clearing' ",170
+2014 ,"'Y Combined sciences' ","'RPA' ",260
+2014 ,"'Y Combined social sciences' ","'Firm choice' ",3525
+2014 ,"'Y Combined social sciences' ","'Insurance choice' ",480
+2014 ,"'Y Combined social sciences' ","'Other main scheme choice' ",125
+2014 ,"'Y Combined social sciences' ","'Extra' ",65
+2014 ,"'Y Combined social sciences' ","'Adjustment' ",15
+2014 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",690
+2014 ,"'Y Combined social sciences' ","'Direct Clearing' ",125
+2014 ,"'Y Combined social sciences' ","'RPA' ",185
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",11600
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",930
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",380
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",210
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",25
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1175
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",445
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",435
+2014 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",7665
+2014 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",695
+2014 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",230
+2014 ,"'Y Social Sciences combined with Arts' ","'Extra' ",135
+2014 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",20
+2014 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",880
+2014 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",215
+2014 ,"'Y Social Sciences combined with Arts' ","'RPA' ",295
+2014 ,"'Z General, other combined and unknown' ","'Firm choice' ",4940
+2014 ,"'Z General, other combined and unknown' ","'Insurance choice' ",420
+2014 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",155
+2014 ,"'Z General, other combined and unknown' ","'Extra' ",85
+2014 ,"'Z General, other combined and unknown' ","'Adjustment' ",15
+2014 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",640
+2014 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",115
+2014 ,"'Z General, other combined and unknown' ","'RPA' ",490
+2015 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",7910
+2015 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",100
+2015 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",20
+2015 ,"'Group A Medicine and Dentistry' ","'Extra' ",130
+2015 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",5
+2015 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",520
+2015 ,"'Group A Medicine and Dentistry' ","'Direct Clearing' ",5
+2015 ,"'Group A Medicine and Dentistry' ","'RPA' ",265
+2015 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",40615
+2015 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",2280
+2015 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1535
+2015 ,"'Group B Subjects allied to Medicine' ","'Extra' ",1575
+2015 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",90
+2015 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",5435
+2015 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",1045
+2015 ,"'Group B Subjects allied to Medicine' ","'RPA' ",965
+2015 ,"'Group C Biological Sciences' ","'Firm choice' ",37235
+2015 ,"'Group C Biological Sciences' ","'Insurance choice' ",4730
+2015 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",965
+2015 ,"'Group C Biological Sciences' ","'Extra' ",810
+2015 ,"'Group C Biological Sciences' ","'Adjustment' ",130
+2015 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",5665
+2015 ,"'Group C Biological Sciences' ","'Direct Clearing' ",1200
+2015 ,"'Group C Biological Sciences' ","'RPA' ",1520
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",5695
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",300
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",235
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",110
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",495
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",325
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",385
+2015 ,"'Group F Physical Sciences' ","'Firm choice' ",15170
+2015 ,"'Group F Physical Sciences' ","'Insurance choice' ",2470
+2015 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",280
+2015 ,"'Group F Physical Sciences' ","'Extra' ",150
+2015 ,"'Group F Physical Sciences' ","'Adjustment' ",50
+2015 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",2195
+2015 ,"'Group F Physical Sciences' ","'Direct Clearing' ",330
+2015 ,"'Group F Physical Sciences' ","'RPA' ",300
+2015 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5830
+2015 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1465
+2015 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",105
+2015 ,"'Group G Mathematical Sciences' ","'Extra' ",55
+2015 ,"'Group G Mathematical Sciences' ","'Adjustment' ",25
+2015 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",980
+2015 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",160
+2015 ,"'Group G Mathematical Sciences' ","'RPA' ",105
+2015 ,"'Group H Engineering' ","'Firm choice' ",19960
+2015 ,"'Group H Engineering' ","'Insurance choice' ",3725
+2015 ,"'Group H Engineering' ","'Other main scheme choice' ",760
+2015 ,"'Group H Engineering' ","'Extra' ",280
+2015 ,"'Group H Engineering' ","'Adjustment' ",65
+2015 ,"'Group H Engineering' ","'Main scheme Clearing' ",3560
+2015 ,"'Group H Engineering' ","'Direct Clearing' ",950
+2015 ,"'Group H Engineering' ","'RPA' ",1550
+2015 ,"'Group I Computer Sciences' ","'Firm choice' ",18085
+2015 ,"'Group I Computer Sciences' ","'Insurance choice' ",2145
+2015 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",870
+2015 ,"'Group I Computer Sciences' ","'Extra' ",230
+2015 ,"'Group I Computer Sciences' ","'Adjustment' ",35
+2015 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",2265
+2015 ,"'Group I Computer Sciences' ","'Direct Clearing' ",1030
+2015 ,"'Group I Computer Sciences' ","'RPA' ",1280
+2015 ,"'Group J Technologies' ","'Firm choice' ",1795
+2015 ,"'Group J Technologies' ","'Insurance choice' ",115
+2015 ,"'Group J Technologies' ","'Other main scheme choice' ",70
+2015 ,"'Group J Technologies' ","'Extra' ",20
+2015 ,"'Group J Technologies' ","'Adjustment' ",5
+2015 ,"'Group J Technologies' ","'Main scheme Clearing' ",170
+2015 ,"'Group J Technologies' ","'Direct Clearing' ",120
+2015 ,"'Group J Technologies' ","'RPA' ",80
+2015 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",5915
+2015 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",615
+2015 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",315
+2015 ,"'Group K Architecture, Building and Planning' ","'Extra' ",85
+2015 ,"'Group K Architecture, Building and Planning' ","'Adjustment' ",15
+2015 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",670
+2015 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",400
+2015 ,"'Group K Architecture, Building and Planning' ","'RPA' ",320
+2015 ,"'Group L Social Studies' ","'Firm choice' ",31190
+2015 ,"'Group L Social Studies' ","'Insurance choice' ",3980
+2015 ,"'Group L Social Studies' ","'Other main scheme choice' ",1265
+2015 ,"'Group L Social Studies' ","'Extra' ",935
+2015 ,"'Group L Social Studies' ","'Adjustment' ",145
+2015 ,"'Group L Social Studies' ","'Main scheme Clearing' ",5305
+2015 ,"'Group L Social Studies' ","'Direct Clearing' ",1410
+2015 ,"'Group L Social Studies' ","'RPA' ",2350
+2015 ,"'Group M Law' ","'Firm choice' ",16125
+2015 ,"'Group M Law' ","'Insurance choice' ",2480
+2015 ,"'Group M Law' ","'Other main scheme choice' ",710
+2015 ,"'Group M Law' ","'Extra' ",290
+2015 ,"'Group M Law' ","'Adjustment' ",115
+2015 ,"'Group M Law' ","'Main scheme Clearing' ",2940
+2015 ,"'Group M Law' ","'Direct Clearing' ",770
+2015 ,"'Group M Law' ","'RPA' ",865
+2015 ,"'Group N Business and Admin studies' ","'Firm choice' ",42850
+2015 ,"'Group N Business and Admin studies' ","'Insurance choice' ",5475
+2015 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",1955
+2015 ,"'Group N Business and Admin studies' ","'Extra' ",725
+2015 ,"'Group N Business and Admin studies' ","'Adjustment' ",160
+2015 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",6620
+2015 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",2685
+2015 ,"'Group N Business and Admin studies' ","'RPA' ",6040
+2015 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",10165
+2015 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",635
+2015 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",375
+2015 ,"'Group P Mass Communication and Documentation' ","'Extra' ",125
+2015 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",15
+2015 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",945
+2015 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",390
+2015 ,"'Group P Mass Communication and Documentation' ","'RPA' ",390
+2015 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9705
+2015 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",1085
+2015 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",180
+2015 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",95
+2015 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",55
+2015 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",1010
+2015 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",225
+2015 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",220
+2015 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",3060
+2015 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",350
+2015 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",30
+2015 ,"'Group R European Languages, Literature and related' ","'Extra' ",25
+2015 ,"'Group R European Languages, Literature and related' ","'Adjustment' ",10
+2015 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",285
+2015 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",35
+2015 ,"'Group R European Languages, Literature and related' ","'RPA' ",25
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",950
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",110
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",35
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",5
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Adjustment' ",5
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",115
+2015 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",35
+2015 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",15
+2015 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11720
+2015 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1660
+2015 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",180
+2015 ,"'Group V History and Philosophical studies' ","'Extra' ",85
+2015 ,"'Group V History and Philosophical studies' ","'Adjustment' ",35
+2015 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",1310
+2015 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",290
+2015 ,"'Group V History and Philosophical studies' ","'RPA' ",215
+2015 ,"'Group W Creative Arts and Design' ","'Firm choice' ",45355
+2015 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",1185
+2015 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1740
+2015 ,"'Group W Creative Arts and Design' ","'Extra' ",650
+2015 ,"'Group W Creative Arts and Design' ","'Adjustment' ",35
+2015 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2575
+2015 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",1575
+2015 ,"'Group W Creative Arts and Design' ","'RPA' ",2315
+2015 ,"'Group X Education' ","'Firm choice' ",15410
+2015 ,"'Group X Education' ","'Insurance choice' ",635
+2015 ,"'Group X Education' ","'Other main scheme choice' ",690
+2015 ,"'Group X Education' ","'Extra' ",370
+2015 ,"'Group X Education' ","'Adjustment' ",20
+2015 ,"'Group X Education' ","'Main scheme Clearing' ",1360
+2015 ,"'Group X Education' ","'Direct Clearing' ",845
+2015 ,"'Group X Education' ","'RPA' ",1095
+2015 ,"'Y Combined arts' ","'Firm choice' ",7685
+2015 ,"'Y Combined arts' ","'Insurance choice' ",775
+2015 ,"'Y Combined arts' ","'Other main scheme choice' ",190
+2015 ,"'Y Combined arts' ","'Extra' ",100
+2015 ,"'Y Combined arts' ","'Adjustment' ",25
+2015 ,"'Y Combined arts' ","'Main scheme Clearing' ",745
+2015 ,"'Y Combined arts' ","'Direct Clearing' ",245
+2015 ,"'Y Combined arts' ","'RPA' ",195
+2015 ,"'Y Combined sciences' ","'Firm choice' ",5415
+2015 ,"'Y Combined sciences' ","'Insurance choice' ",585
+2015 ,"'Y Combined sciences' ","'Other main scheme choice' ",160
+2015 ,"'Y Combined sciences' ","'Extra' ",165
+2015 ,"'Y Combined sciences' ","'Adjustment' ",10
+2015 ,"'Y Combined sciences' ","'Main scheme Clearing' ",660
+2015 ,"'Y Combined sciences' ","'Direct Clearing' ",210
+2015 ,"'Y Combined sciences' ","'RPA' ",190
+2015 ,"'Y Combined social sciences' ","'Firm choice' ",3630
+2015 ,"'Y Combined social sciences' ","'Insurance choice' ",550
+2015 ,"'Y Combined social sciences' ","'Other main scheme choice' ",110
+2015 ,"'Y Combined social sciences' ","'Extra' ",65
+2015 ,"'Y Combined social sciences' ","'Adjustment' ",30
+2015 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",755
+2015 ,"'Y Combined social sciences' ","'Direct Clearing' ",135
+2015 ,"'Y Combined social sciences' ","'RPA' ",370
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",9955
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",785
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",295
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",210
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",10
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",1010
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",460
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",455
+2015 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",7440
+2015 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",790
+2015 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",195
+2015 ,"'Y Social Sciences combined with Arts' ","'Extra' ",125
+2015 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",20
+2015 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",920
+2015 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",230
+2015 ,"'Y Social Sciences combined with Arts' ","'RPA' ",515
+2015 ,"'Z General, other combined and unknown' ","'Firm choice' ",5280
+2015 ,"'Z General, other combined and unknown' ","'Insurance choice' ",450
+2015 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",105
+2015 ,"'Z General, other combined and unknown' ","'Extra' ",70
+2015 ,"'Z General, other combined and unknown' ","'Adjustment' ",15
+2015 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",625
+2015 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",115
+2015 ,"'Z General, other combined and unknown' ","'RPA' ",265
+2016 ,"'Group A Medicine and Dentistry' ","'Firm choice' ",7845
+2016 ,"'Group A Medicine and Dentistry' ","'Insurance choice' ",100
+2016 ,"'Group A Medicine and Dentistry' ","'Other main scheme choice' ",65
+2016 ,"'Group A Medicine and Dentistry' ","'Extra' ",105
+2016 ,"'Group A Medicine and Dentistry' ","'Adjustment' ",20
+2016 ,"'Group A Medicine and Dentistry' ","'Main scheme Clearing' ",710
+2016 ,"'Group A Medicine and Dentistry' ","'Direct Clearing' ",15
+2016 ,"'Group A Medicine and Dentistry' ","'RPA' ",260
+2016 ,"'Group B Subjects allied to Medicine' ","'Firm choice' ",42565
+2016 ,"'Group B Subjects allied to Medicine' ","'Insurance choice' ",2375
+2016 ,"'Group B Subjects allied to Medicine' ","'Other main scheme choice' ",1550
+2016 ,"'Group B Subjects allied to Medicine' ","'Extra' ",1590
+2016 ,"'Group B Subjects allied to Medicine' ","'Adjustment' ",65
+2016 ,"'Group B Subjects allied to Medicine' ","'Main scheme Clearing' ",5360
+2016 ,"'Group B Subjects allied to Medicine' ","'Direct Clearing' ",1075
+2016 ,"'Group B Subjects allied to Medicine' ","'RPA' ",875
+2016 ,"'Group C Biological Sciences' ","'Firm choice' ",38290
+2016 ,"'Group C Biological Sciences' ","'Insurance choice' ",4890
+2016 ,"'Group C Biological Sciences' ","'Other main scheme choice' ",1205
+2016 ,"'Group C Biological Sciences' ","'Extra' ",900
+2016 ,"'Group C Biological Sciences' ","'Adjustment' ",110
+2016 ,"'Group C Biological Sciences' ","'Main scheme Clearing' ",5875
+2016 ,"'Group C Biological Sciences' ","'Direct Clearing' ",1325
+2016 ,"'Group C Biological Sciences' ","'RPA' ",1605
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Firm choice' ",5425
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Insurance choice' ",290
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Other main scheme choice' ",230
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Extra' ",70
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Main scheme Clearing' ",380
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'Direct Clearing' ",275
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'RPA' ",480
+2016 ,"'Group F Physical Sciences' ","'Firm choice' ",14600
+2016 ,"'Group F Physical Sciences' ","'Insurance choice' ",2340
+2016 ,"'Group F Physical Sciences' ","'Other main scheme choice' ",235
+2016 ,"'Group F Physical Sciences' ","'Extra' ",155
+2016 ,"'Group F Physical Sciences' ","'Adjustment' ",50
+2016 ,"'Group F Physical Sciences' ","'Main scheme Clearing' ",2195
+2016 ,"'Group F Physical Sciences' ","'Direct Clearing' ",345
+2016 ,"'Group F Physical Sciences' ","'RPA' ",290
+2016 ,"'Group G Mathematical Sciences' ","'Firm choice' ",5960
+2016 ,"'Group G Mathematical Sciences' ","'Insurance choice' ",1475
+2016 ,"'Group G Mathematical Sciences' ","'Other main scheme choice' ",90
+2016 ,"'Group G Mathematical Sciences' ","'Extra' ",45
+2016 ,"'Group G Mathematical Sciences' ","'Adjustment' ",35
+2016 ,"'Group G Mathematical Sciences' ","'Main scheme Clearing' ",1180
+2016 ,"'Group G Mathematical Sciences' ","'Direct Clearing' ",180
+2016 ,"'Group G Mathematical Sciences' ","'RPA' ",105
+2016 ,"'Group H Engineering' ","'Firm choice' ",20215
+2016 ,"'Group H Engineering' ","'Insurance choice' ",3585
+2016 ,"'Group H Engineering' ","'Other main scheme choice' ",830
+2016 ,"'Group H Engineering' ","'Extra' ",255
+2016 ,"'Group H Engineering' ","'Adjustment' ",50
+2016 ,"'Group H Engineering' ","'Main scheme Clearing' ",3505
+2016 ,"'Group H Engineering' ","'Direct Clearing' ",905
+2016 ,"'Group H Engineering' ","'RPA' ",1430
+2016 ,"'Group I Computer Sciences' ","'Firm choice' ",18805
+2016 ,"'Group I Computer Sciences' ","'Insurance choice' ",2110
+2016 ,"'Group I Computer Sciences' ","'Other main scheme choice' ",950
+2016 ,"'Group I Computer Sciences' ","'Extra' ",255
+2016 ,"'Group I Computer Sciences' ","'Adjustment' ",35
+2016 ,"'Group I Computer Sciences' ","'Main scheme Clearing' ",2305
+2016 ,"'Group I Computer Sciences' ","'Direct Clearing' ",1070
+2016 ,"'Group I Computer Sciences' ","'RPA' ",1310
+2016 ,"'Group J Technologies' ","'Firm choice' ",1540
+2016 ,"'Group J Technologies' ","'Insurance choice' ",120
+2016 ,"'Group J Technologies' ","'Other main scheme choice' ",85
+2016 ,"'Group J Technologies' ","'Extra' ",15
+2016 ,"'Group J Technologies' ","'Main scheme Clearing' ",130
+2016 ,"'Group J Technologies' ","'Direct Clearing' ",80
+2016 ,"'Group J Technologies' ","'RPA' ",190
+2016 ,"'Group K Architecture, Building and Planning' ","'Firm choice' ",6025
+2016 ,"'Group K Architecture, Building and Planning' ","'Insurance choice' ",660
+2016 ,"'Group K Architecture, Building and Planning' ","'Other main scheme choice' ",340
+2016 ,"'Group K Architecture, Building and Planning' ","'Extra' ",90
+2016 ,"'Group K Architecture, Building and Planning' ","'Adjustment' ",20
+2016 ,"'Group K Architecture, Building and Planning' ","'Main scheme Clearing' ",770
+2016 ,"'Group K Architecture, Building and Planning' ","'Direct Clearing' ",335
+2016 ,"'Group K Architecture, Building and Planning' ","'RPA' ",340
+2016 ,"'Group L Social Studies' ","'Firm choice' ",31525
+2016 ,"'Group L Social Studies' ","'Insurance choice' ",4200
+2016 ,"'Group L Social Studies' ","'Other main scheme choice' ",1525
+2016 ,"'Group L Social Studies' ","'Extra' ",835
+2016 ,"'Group L Social Studies' ","'Adjustment' ",110
+2016 ,"'Group L Social Studies' ","'Main scheme Clearing' ",5900
+2016 ,"'Group L Social Studies' ","'Direct Clearing' ",1475
+2016 ,"'Group L Social Studies' ","'RPA' ",2365
+2016 ,"'Group M Law' ","'Firm choice' ",16940
+2016 ,"'Group M Law' ","'Insurance choice' ",2575
+2016 ,"'Group M Law' ","'Other main scheme choice' ",720
+2016 ,"'Group M Law' ","'Extra' ",285
+2016 ,"'Group M Law' ","'Adjustment' ",75
+2016 ,"'Group M Law' ","'Main scheme Clearing' ",3000
+2016 ,"'Group M Law' ","'Direct Clearing' ",685
+2016 ,"'Group M Law' ","'RPA' ",770
+2016 ,"'Group N Business and Admin studies' ","'Firm choice' ",44280
+2016 ,"'Group N Business and Admin studies' ","'Insurance choice' ",5540
+2016 ,"'Group N Business and Admin studies' ","'Other main scheme choice' ",2150
+2016 ,"'Group N Business and Admin studies' ","'Extra' ",720
+2016 ,"'Group N Business and Admin studies' ","'Adjustment' ",100
+2016 ,"'Group N Business and Admin studies' ","'Main scheme Clearing' ",6715
+2016 ,"'Group N Business and Admin studies' ","'Direct Clearing' ",2525
+2016 ,"'Group N Business and Admin studies' ","'RPA' ",5630
+2016 ,"'Group P Mass Communication and Documentation' ","'Firm choice' ",10610
+2016 ,"'Group P Mass Communication and Documentation' ","'Insurance choice' ",625
+2016 ,"'Group P Mass Communication and Documentation' ","'Other main scheme choice' ",435
+2016 ,"'Group P Mass Communication and Documentation' ","'Extra' ",160
+2016 ,"'Group P Mass Communication and Documentation' ","'Adjustment' ",15
+2016 ,"'Group P Mass Communication and Documentation' ","'Main scheme Clearing' ",860
+2016 ,"'Group P Mass Communication and Documentation' ","'Direct Clearing' ",430
+2016 ,"'Group P Mass Communication and Documentation' ","'RPA' ",490
+2016 ,"'Group Q Linguistics, Classics and related' ","'Firm choice' ",9480
+2016 ,"'Group Q Linguistics, Classics and related' ","'Insurance choice' ",1020
+2016 ,"'Group Q Linguistics, Classics and related' ","'Other main scheme choice' ",170
+2016 ,"'Group Q Linguistics, Classics and related' ","'Extra' ",115
+2016 ,"'Group Q Linguistics, Classics and related' ","'Adjustment' ",40
+2016 ,"'Group Q Linguistics, Classics and related' ","'Main scheme Clearing' ",1040
+2016 ,"'Group Q Linguistics, Classics and related' ","'Direct Clearing' ",220
+2016 ,"'Group Q Linguistics, Classics and related' ","'RPA' ",160
+2016 ,"'Group R European Languages, Literature and related' ","'Firm choice' ",2775
+2016 ,"'Group R European Languages, Literature and related' ","'Insurance choice' ",310
+2016 ,"'Group R European Languages, Literature and related' ","'Other main scheme choice' ",25
+2016 ,"'Group R European Languages, Literature and related' ","'Extra' ",20
+2016 ,"'Group R European Languages, Literature and related' ","'Adjustment' ",10
+2016 ,"'Group R European Languages, Literature and related' ","'Main scheme Clearing' ",315
+2016 ,"'Group R European Languages, Literature and related' ","'Direct Clearing' ",35
+2016 ,"'Group R European Languages, Literature and related' ","'RPA' ",20
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Firm choice' ",895
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Insurance choice' ",90
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Other main scheme choice' ",25
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Extra' ",10
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Main scheme Clearing' ",90
+2016 ,"'Group T Non-European Languages, Literature and related' ","'Direct Clearing' ",30
+2016 ,"'Group T Non-European Languages, Literature and related' ","'RPA' ",10
+2016 ,"'Group V History and Philosophical studies' ","'Firm choice' ",11835
+2016 ,"'Group V History and Philosophical studies' ","'Insurance choice' ",1610
+2016 ,"'Group V History and Philosophical studies' ","'Other main scheme choice' ",185
+2016 ,"'Group V History and Philosophical studies' ","'Extra' ",110
+2016 ,"'Group V History and Philosophical studies' ","'Adjustment' ",30
+2016 ,"'Group V History and Philosophical studies' ","'Main scheme Clearing' ",1390
+2016 ,"'Group V History and Philosophical studies' ","'Direct Clearing' ",310
+2016 ,"'Group V History and Philosophical studies' ","'RPA' ",220
+2016 ,"'Group W Creative Arts and Design' ","'Firm choice' ",44510
+2016 ,"'Group W Creative Arts and Design' ","'Insurance choice' ",1215
+2016 ,"'Group W Creative Arts and Design' ","'Other main scheme choice' ",1845
+2016 ,"'Group W Creative Arts and Design' ","'Extra' ",660
+2016 ,"'Group W Creative Arts and Design' ","'Adjustment' ",20
+2016 ,"'Group W Creative Arts and Design' ","'Main scheme Clearing' ",2365
+2016 ,"'Group W Creative Arts and Design' ","'Direct Clearing' ",1480
+2016 ,"'Group W Creative Arts and Design' ","'RPA' ",2390
+2016 ,"'Group X Education' ","'Firm choice' ",15270
+2016 ,"'Group X Education' ","'Insurance choice' ",630
+2016 ,"'Group X Education' ","'Other main scheme choice' ",785
+2016 ,"'Group X Education' ","'Extra' ",390
+2016 ,"'Group X Education' ","'Adjustment' ",10
+2016 ,"'Group X Education' ","'Main scheme Clearing' ",1305
+2016 ,"'Group X Education' ","'Direct Clearing' ",820
+2016 ,"'Group X Education' ","'RPA' ",950
+2016 ,"'Y Combined arts' ","'Firm choice' ",7260
+2016 ,"'Y Combined arts' ","'Insurance choice' ",665
+2016 ,"'Y Combined arts' ","'Other main scheme choice' ",200
+2016 ,"'Y Combined arts' ","'Extra' ",105
+2016 ,"'Y Combined arts' ","'Adjustment' ",15
+2016 ,"'Y Combined arts' ","'Main scheme Clearing' ",715
+2016 ,"'Y Combined arts' ","'Direct Clearing' ",215
+2016 ,"'Y Combined arts' ","'RPA' ",180
+2016 ,"'Y Combined sciences' ","'Firm choice' ",4855
+2016 ,"'Y Combined sciences' ","'Insurance choice' ",530
+2016 ,"'Y Combined sciences' ","'Other main scheme choice' ",180
+2016 ,"'Y Combined sciences' ","'Extra' ",130
+2016 ,"'Y Combined sciences' ","'Adjustment' ",5
+2016 ,"'Y Combined sciences' ","'Main scheme Clearing' ",690
+2016 ,"'Y Combined sciences' ","'Direct Clearing' ",175
+2016 ,"'Y Combined sciences' ","'RPA' ",255
+2016 ,"'Y Combined social sciences' ","'Firm choice' ",3605
+2016 ,"'Y Combined social sciences' ","'Insurance choice' ",560
+2016 ,"'Y Combined social sciences' ","'Other main scheme choice' ",105
+2016 ,"'Y Combined social sciences' ","'Extra' ",90
+2016 ,"'Y Combined social sciences' ","'Adjustment' ",15
+2016 ,"'Y Combined social sciences' ","'Main scheme Clearing' ",815
+2016 ,"'Y Combined social sciences' ","'Direct Clearing' ",145
+2016 ,"'Y Combined social sciences' ","'RPA' ",210
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Firm choice' ",8880
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Insurance choice' ",795
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Other main scheme choice' ",270
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Extra' ",190
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Adjustment' ",15
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Main scheme Clearing' ",945
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'Direct Clearing' ",370
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'RPA' ",560
+2016 ,"'Y Social Sciences combined with Arts' ","'Firm choice' ",7055
+2016 ,"'Y Social Sciences combined with Arts' ","'Insurance choice' ",760
+2016 ,"'Y Social Sciences combined with Arts' ","'Other main scheme choice' ",220
+2016 ,"'Y Social Sciences combined with Arts' ","'Extra' ",120
+2016 ,"'Y Social Sciences combined with Arts' ","'Adjustment' ",20
+2016 ,"'Y Social Sciences combined with Arts' ","'Main scheme Clearing' ",995
+2016 ,"'Y Social Sciences combined with Arts' ","'Direct Clearing' ",225
+2016 ,"'Y Social Sciences combined with Arts' ","'RPA' ",345
+2016 ,"'Z General, other combined and unknown' ","'Firm choice' ",5295
+2016 ,"'Z General, other combined and unknown' ","'Insurance choice' ",430
+2016 ,"'Z General, other combined and unknown' ","'Other main scheme choice' ",95
+2016 ,"'Z General, other combined and unknown' ","'Extra' ",70
+2016 ,"'Z General, other combined and unknown' ","'Adjustment' ",15
+2016 ,"'Z General, other combined and unknown' ","'Main scheme Clearing' ",485
+2016 ,"'Z General, other combined and unknown' ","'Direct Clearing' ",95
+2016 ,"'Z General, other combined and unknown' ","'RPA' ",105

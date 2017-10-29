@@ -1,0 +1,1306 @@
+"Statistic:   Number of Applications"
+"Variables:   Subject Group (Summary Level) , Age Band , Cycle Year"
+"Coverage:   Applications through the main scheme"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2016-DR3_013_03.pdf"
+ 
+Cycle Year,Subject Group (Summary Level) , Age Band,Number of Applications,
+2007 ,"'Group A Medicine and Dentistry' ","'17 and under' ",1740
+2007 ,"'Group A Medicine and Dentistry' ","'18' ",41775
+2007 ,"'Group A Medicine and Dentistry' ","'19' ",11730
+2007 ,"'Group A Medicine and Dentistry' ","'20' ",3145
+2007 ,"'Group A Medicine and Dentistry' ","'21 and over' ",25115
+2007 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2545
+2007 ,"'Group B Subjects allied to Medicine' ","'18' ",87410
+2007 ,"'Group B Subjects allied to Medicine' ","'19' ",31730
+2007 ,"'Group B Subjects allied to Medicine' ","'20' ",12275
+2007 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",53190
+2007 ,"'Group C Biological Sciences' ","'17 and under' ",2600
+2007 ,"'Group C Biological Sciences' ","'18' ",124210
+2007 ,"'Group C Biological Sciences' ","'19' ",31700
+2007 ,"'Group C Biological Sciences' ","'20' ",9770
+2007 ,"'Group C Biological Sciences' ","'21 and over' ",19275
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",315
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",10850
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",2810
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",1045
+2007 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",3410
+2007 ,"'Group F Physical Sciences' ","'17 and under' ",1355
+2007 ,"'Group F Physical Sciences' ","'18' ",63760
+2007 ,"'Group F Physical Sciences' ","'19' ",11535
+2007 ,"'Group F Physical Sciences' ","'20' ",2915
+2007 ,"'Group F Physical Sciences' ","'21 and over' ",5880
+2007 ,"'Group G Mathematical Sciences' ","'17 and under' ",965
+2007 ,"'Group G Mathematical Sciences' ","'18' ",26160
+2007 ,"'Group G Mathematical Sciences' ","'19' ",5095
+2007 ,"'Group G Mathematical Sciences' ","'20' ",1545
+2007 ,"'Group G Mathematical Sciences' ","'21 and over' ",1640
+2007 ,"'Group H Engineering' ","'17 and under' ",3985
+2007 ,"'Group H Engineering' ","'18' ",60290
+2007 ,"'Group H Engineering' ","'19' ",20415
+2007 ,"'Group H Engineering' ","'20' ",9415
+2007 ,"'Group H Engineering' ","'21 and over' ",19065
+2007 ,"'Group I Computer Sciences' ","'17 and under' ",1180
+2007 ,"'Group I Computer Sciences' ","'18' ",39070
+2007 ,"'Group I Computer Sciences' ","'19' ",15965
+2007 ,"'Group I Computer Sciences' ","'20' ",8200
+2007 ,"'Group I Computer Sciences' ","'21 and over' ",15305
+2007 ,"'Group J Technologies' ","'17 and under' ",105
+2007 ,"'Group J Technologies' ","'18' ",5010
+2007 ,"'Group J Technologies' ","'19' ",2360
+2007 ,"'Group J Technologies' ","'20' ",1175
+2007 ,"'Group J Technologies' ","'21 and over' ",2115
+2007 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",1040
+2007 ,"'Group K Architecture, Building and Planning' ","'18' ",29155
+2007 ,"'Group K Architecture, Building and Planning' ","'19' ",9840
+2007 ,"'Group K Architecture, Building and Planning' ","'20' ",3360
+2007 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",7530
+2007 ,"'Group L Social Studies' ","'17 and under' ",3315
+2007 ,"'Group L Social Studies' ","'18' ",92170
+2007 ,"'Group L Social Studies' ","'19' ",33625
+2007 ,"'Group L Social Studies' ","'20' ",11845
+2007 ,"'Group L Social Studies' ","'21 and over' ",50055
+2007 ,"'Group M Law' ","'17 and under' ",2675
+2007 ,"'Group M Law' ","'18' ",67980
+2007 ,"'Group M Law' ","'19' ",17990
+2007 ,"'Group M Law' ","'20' ",6320
+2007 ,"'Group M Law' ","'21 and over' ",15695
+2007 ,"'Group N Business and Admin studies' ","'17 and under' ",6280
+2007 ,"'Group N Business and Admin studies' ","'18' ",145960
+2007 ,"'Group N Business and Admin studies' ","'19' ",62765
+2007 ,"'Group N Business and Admin studies' ","'20' ",25120
+2007 ,"'Group N Business and Admin studies' ","'21 and over' ",39855
+2007 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",540
+2007 ,"'Group P Mass Communication and Documentation' ","'18' ",29750
+2007 ,"'Group P Mass Communication and Documentation' ","'19' ",10855
+2007 ,"'Group P Mass Communication and Documentation' ","'20' ",3940
+2007 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",5680
+2007 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",925
+2007 ,"'Group Q Linguistics, Classics and related' ","'18' ",48890
+2007 ,"'Group Q Linguistics, Classics and related' ","'19' ",11395
+2007 ,"'Group Q Linguistics, Classics and related' ","'20' ",2750
+2007 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",4830
+2007 ,"'Group R European Languages, Literature and related' ","'17 and under' ",455
+2007 ,"'Group R European Languages, Literature and related' ","'18' ",19100
+2007 ,"'Group R European Languages, Literature and related' ","'19' ",3105
+2007 ,"'Group R European Languages, Literature and related' ","'20' ",735
+2007 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1495
+2007 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",160
+2007 ,"'Group T Non-European Languages, Literature and related' ","'18' ",6095
+2007 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1390
+2007 ,"'Group T Non-European Languages, Literature and related' ","'20' ",405
+2007 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",895
+2007 ,"'Group V History and Philosophical studies' ","'17 and under' ",840
+2007 ,"'Group V History and Philosophical studies' ","'18' ",57640
+2007 ,"'Group V History and Philosophical studies' ","'19' ",12735
+2007 ,"'Group V History and Philosophical studies' ","'20' ",2715
+2007 ,"'Group V History and Philosophical studies' ","'21 and over' ",5265
+2007 ,"'Group W Creative Arts and Design' ","'17 and under' ",1440
+2007 ,"'Group W Creative Arts and Design' ","'18' ",103075
+2007 ,"'Group W Creative Arts and Design' ","'19' ",67185
+2007 ,"'Group W Creative Arts and Design' ","'20' ",21860
+2007 ,"'Group W Creative Arts and Design' ","'21 and over' ",34995
+2007 ,"'Group X Education' ","'17 and under' ",510
+2007 ,"'Group X Education' ","'18' ",42370
+2007 ,"'Group X Education' ","'19' ",11745
+2007 ,"'Group X Education' ","'20' ",4760
+2007 ,"'Group X Education' ","'21 and over' ",12755
+2007 ,"'Y Combined arts' ","'17 and under' ",885
+2007 ,"'Y Combined arts' ","'18' ",53105
+2007 ,"'Y Combined arts' ","'19' ",14625
+2007 ,"'Y Combined arts' ","'20' ",4615
+2007 ,"'Y Combined arts' ","'21 and over' ",9275
+2007 ,"'Y Combined sciences' ","'17 and under' ",790
+2007 ,"'Y Combined sciences' ","'18' ",26460
+2007 ,"'Y Combined sciences' ","'19' ",7510
+2007 ,"'Y Combined sciences' ","'20' ",2875
+2007 ,"'Y Combined sciences' ","'21 and over' ",5985
+2007 ,"'Y Combined social sciences' ","'17 and under' ",930
+2007 ,"'Y Combined social sciences' ","'18' ",23215
+2007 ,"'Y Combined social sciences' ","'19' ",9285
+2007 ,"'Y Combined social sciences' ","'20' ",3055
+2007 ,"'Y Combined social sciences' ","'21 and over' ",4855
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",1490
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",71390
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",24190
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",8640
+2007 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",16325
+2007 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1530
+2007 ,"'Y Social Sciences combined with Arts' ","'18' ",47250
+2007 ,"'Y Social Sciences combined with Arts' ","'19' ",15625
+2007 ,"'Y Social Sciences combined with Arts' ","'20' ",5110
+2007 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",8275
+2007 ,"'Z General, other combined and unknown' ","'17 and under' ",815
+2007 ,"'Z General, other combined and unknown' ","'18' ",11690
+2007 ,"'Z General, other combined and unknown' ","'19' ",3775
+2007 ,"'Z General, other combined and unknown' ","'20' ",1315
+2007 ,"'Z General, other combined and unknown' ","'21 and over' ",3175
+2008 ,"'Group A Medicine and Dentistry' ","'17 and under' ",1760
+2008 ,"'Group A Medicine and Dentistry' ","'18' ",40275
+2008 ,"'Group A Medicine and Dentistry' ","'19' ",11260
+2008 ,"'Group A Medicine and Dentistry' ","'20' ",3180
+2008 ,"'Group A Medicine and Dentistry' ","'21 and over' ",23335
+2008 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2340
+2008 ,"'Group B Subjects allied to Medicine' ","'18' ",81935
+2008 ,"'Group B Subjects allied to Medicine' ","'19' ",33605
+2008 ,"'Group B Subjects allied to Medicine' ","'20' ",16080
+2008 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",79640
+2008 ,"'Group C Biological Sciences' ","'17 and under' ",2020
+2008 ,"'Group C Biological Sciences' ","'18' ",108370
+2008 ,"'Group C Biological Sciences' ","'19' ",28570
+2008 ,"'Group C Biological Sciences' ","'20' ",9475
+2008 ,"'Group C Biological Sciences' ","'21 and over' ",18315
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",290
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",10855
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",3080
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",1065
+2008 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",3510
+2008 ,"'Group F Physical Sciences' ","'17 and under' ",1065
+2008 ,"'Group F Physical Sciences' ","'18' ",55790
+2008 ,"'Group F Physical Sciences' ","'19' ",10860
+2008 ,"'Group F Physical Sciences' ","'20' ",2985
+2008 ,"'Group F Physical Sciences' ","'21 and over' ",5280
+2008 ,"'Group G Mathematical Sciences' ","'17 and under' ",810
+2008 ,"'Group G Mathematical Sciences' ","'18' ",23905
+2008 ,"'Group G Mathematical Sciences' ","'19' ",5225
+2008 ,"'Group G Mathematical Sciences' ","'20' ",1715
+2008 ,"'Group G Mathematical Sciences' ","'21 and over' ",1625
+2008 ,"'Group H Engineering' ","'17 and under' ",3775
+2008 ,"'Group H Engineering' ","'18' ",55450
+2008 ,"'Group H Engineering' ","'19' ",19300
+2008 ,"'Group H Engineering' ","'20' ",9080
+2008 ,"'Group H Engineering' ","'21 and over' ",17430
+2008 ,"'Group I Computer Sciences' ","'17 and under' ",785
+2008 ,"'Group I Computer Sciences' ","'18' ",34275
+2008 ,"'Group I Computer Sciences' ","'19' ",14790
+2008 ,"'Group I Computer Sciences' ","'20' ",7530
+2008 ,"'Group I Computer Sciences' ","'21 and over' ",13740
+2008 ,"'Group J Technologies' ","'17 and under' ",140
+2008 ,"'Group J Technologies' ","'18' ",4500
+2008 ,"'Group J Technologies' ","'19' ",2285
+2008 ,"'Group J Technologies' ","'20' ",1145
+2008 ,"'Group J Technologies' ","'21 and over' ",1980
+2008 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",960
+2008 ,"'Group K Architecture, Building and Planning' ","'18' ",26610
+2008 ,"'Group K Architecture, Building and Planning' ","'19' ",9915
+2008 ,"'Group K Architecture, Building and Planning' ","'20' ",3605
+2008 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",8140
+2008 ,"'Group L Social Studies' ","'17 and under' ",2780
+2008 ,"'Group L Social Studies' ","'18' ",85865
+2008 ,"'Group L Social Studies' ","'19' ",32295
+2008 ,"'Group L Social Studies' ","'20' ",12300
+2008 ,"'Group L Social Studies' ","'21 and over' ",46090
+2008 ,"'Group M Law' ","'17 and under' ",2205
+2008 ,"'Group M Law' ","'18' ",60360
+2008 ,"'Group M Law' ","'19' ",17710
+2008 ,"'Group M Law' ","'20' ",6185
+2008 ,"'Group M Law' ","'21 and over' ",14940
+2008 ,"'Group N Business and Admin studies' ","'17 and under' ",5680
+2008 ,"'Group N Business and Admin studies' ","'18' ",132105
+2008 ,"'Group N Business and Admin studies' ","'19' ",59170
+2008 ,"'Group N Business and Admin studies' ","'20' ",26065
+2008 ,"'Group N Business and Admin studies' ","'21 and over' ",38110
+2008 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",510
+2008 ,"'Group P Mass Communication and Documentation' ","'18' ",26700
+2008 ,"'Group P Mass Communication and Documentation' ","'19' ",10200
+2008 ,"'Group P Mass Communication and Documentation' ","'20' ",3865
+2008 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",5465
+2008 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",585
+2008 ,"'Group Q Linguistics, Classics and related' ","'18' ",43300
+2008 ,"'Group Q Linguistics, Classics and related' ","'19' ",11040
+2008 ,"'Group Q Linguistics, Classics and related' ","'20' ",2750
+2008 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",4500
+2008 ,"'Group R European Languages, Literature and related' ","'17 and under' ",470
+2008 ,"'Group R European Languages, Literature and related' ","'18' ",17255
+2008 ,"'Group R European Languages, Literature and related' ","'19' ",3210
+2008 ,"'Group R European Languages, Literature and related' ","'20' ",665
+2008 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1280
+2008 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",85
+2008 ,"'Group T Non-European Languages, Literature and related' ","'18' ",4870
+2008 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1180
+2008 ,"'Group T Non-European Languages, Literature and related' ","'20' ",370
+2008 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",755
+2008 ,"'Group V History and Philosophical studies' ","'17 and under' ",605
+2008 ,"'Group V History and Philosophical studies' ","'18' ",51435
+2008 ,"'Group V History and Philosophical studies' ","'19' ",12020
+2008 ,"'Group V History and Philosophical studies' ","'20' ",2920
+2008 ,"'Group V History and Philosophical studies' ","'21 and over' ",5335
+2008 ,"'Group W Creative Arts and Design' ","'17 and under' ",1220
+2008 ,"'Group W Creative Arts and Design' ","'18' ",92955
+2008 ,"'Group W Creative Arts and Design' ","'19' ",61140
+2008 ,"'Group W Creative Arts and Design' ","'20' ",22980
+2008 ,"'Group W Creative Arts and Design' ","'21 and over' ",34435
+2008 ,"'Group X Education' ","'17 and under' ",385
+2008 ,"'Group X Education' ","'18' ",37780
+2008 ,"'Group X Education' ","'19' ",10945
+2008 ,"'Group X Education' ","'20' ",4965
+2008 ,"'Group X Education' ","'21 and over' ",12080
+2008 ,"'Y Combined arts' ","'17 and under' ",690
+2008 ,"'Y Combined arts' ","'18' ",44315
+2008 ,"'Y Combined arts' ","'19' ",12945
+2008 ,"'Y Combined arts' ","'20' ",4370
+2008 ,"'Y Combined arts' ","'21 and over' ",8030
+2008 ,"'Y Combined sciences' ","'17 and under' ",670
+2008 ,"'Y Combined sciences' ","'18' ",22325
+2008 ,"'Y Combined sciences' ","'19' ",6830
+2008 ,"'Y Combined sciences' ","'20' ",2555
+2008 ,"'Y Combined sciences' ","'21 and over' ",5315
+2008 ,"'Y Combined social sciences' ","'17 and under' ",790
+2008 ,"'Y Combined social sciences' ","'18' ",20030
+2008 ,"'Y Combined social sciences' ","'19' ",8445
+2008 ,"'Y Combined social sciences' ","'20' ",2940
+2008 ,"'Y Combined social sciences' ","'21 and over' ",4225
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",1295
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",62685
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",22060
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",8695
+2008 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",15125
+2008 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1285
+2008 ,"'Y Social Sciences combined with Arts' ","'18' ",40640
+2008 ,"'Y Social Sciences combined with Arts' ","'19' ",13845
+2008 ,"'Y Social Sciences combined with Arts' ","'20' ",4865
+2008 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",7475
+2008 ,"'Z General, other combined and unknown' ","'17 and under' ",420
+2008 ,"'Z General, other combined and unknown' ","'18' ",10065
+2008 ,"'Z General, other combined and unknown' ","'19' ",3340
+2008 ,"'Z General, other combined and unknown' ","'20' ",1185
+2008 ,"'Z General, other combined and unknown' ","'21 and over' ",2405
+2009 ,"'Group A Medicine and Dentistry' ","'17 and under' ",1620
+2009 ,"'Group A Medicine and Dentistry' ","'18' ",39815
+2009 ,"'Group A Medicine and Dentistry' ","'19' ",11875
+2009 ,"'Group A Medicine and Dentistry' ","'20' ",3345
+2009 ,"'Group A Medicine and Dentistry' ","'21 and over' ",25140
+2009 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2465
+2009 ,"'Group B Subjects allied to Medicine' ","'18' ",85510
+2009 ,"'Group B Subjects allied to Medicine' ","'19' ",37425
+2009 ,"'Group B Subjects allied to Medicine' ","'20' ",18310
+2009 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",102490
+2009 ,"'Group C Biological Sciences' ","'17 and under' ",2255
+2009 ,"'Group C Biological Sciences' ","'18' ",119055
+2009 ,"'Group C Biological Sciences' ","'19' ",33125
+2009 ,"'Group C Biological Sciences' ","'20' ",11020
+2009 ,"'Group C Biological Sciences' ","'21 and over' ",20990
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",350
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",11825
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",3705
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",1330
+2009 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",4140
+2009 ,"'Group F Physical Sciences' ","'17 and under' ",1235
+2009 ,"'Group F Physical Sciences' ","'18' ",58860
+2009 ,"'Group F Physical Sciences' ","'19' ",11785
+2009 ,"'Group F Physical Sciences' ","'20' ",3490
+2009 ,"'Group F Physical Sciences' ","'21 and over' ",6235
+2009 ,"'Group G Mathematical Sciences' ","'17 and under' ",980
+2009 ,"'Group G Mathematical Sciences' ","'18' ",28575
+2009 ,"'Group G Mathematical Sciences' ","'19' ",6715
+2009 ,"'Group G Mathematical Sciences' ","'20' ",2300
+2009 ,"'Group G Mathematical Sciences' ","'21 and over' ",2235
+2009 ,"'Group H Engineering' ","'17 and under' ",4345
+2009 ,"'Group H Engineering' ","'18' ",64120
+2009 ,"'Group H Engineering' ","'19' ",23160
+2009 ,"'Group H Engineering' ","'20' ",10670
+2009 ,"'Group H Engineering' ","'21 and over' ",20485
+2009 ,"'Group I Computer Sciences' ","'17 and under' ",1030
+2009 ,"'Group I Computer Sciences' ","'18' ",37410
+2009 ,"'Group I Computer Sciences' ","'19' ",17275
+2009 ,"'Group I Computer Sciences' ","'20' ",8410
+2009 ,"'Group I Computer Sciences' ","'21 and over' ",15760
+2009 ,"'Group J Technologies' ","'17 and under' ",130
+2009 ,"'Group J Technologies' ","'18' ",5235
+2009 ,"'Group J Technologies' ","'19' ",2650
+2009 ,"'Group J Technologies' ","'20' ",1270
+2009 ,"'Group J Technologies' ","'21 and over' ",2205
+2009 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",1090
+2009 ,"'Group K Architecture, Building and Planning' ","'18' ",25555
+2009 ,"'Group K Architecture, Building and Planning' ","'19' ",10310
+2009 ,"'Group K Architecture, Building and Planning' ","'20' ",4170
+2009 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",9365
+2009 ,"'Group L Social Studies' ","'17 and under' ",3455
+2009 ,"'Group L Social Studies' ","'18' ",98105
+2009 ,"'Group L Social Studies' ","'19' ",38010
+2009 ,"'Group L Social Studies' ","'20' ",13660
+2009 ,"'Group L Social Studies' ","'21 and over' ",51705
+2009 ,"'Group M Law' ","'17 and under' ",2495
+2009 ,"'Group M Law' ","'18' ",64180
+2009 ,"'Group M Law' ","'19' ",19345
+2009 ,"'Group M Law' ","'20' ",7070
+2009 ,"'Group M Law' ","'21 and over' ",17795
+2009 ,"'Group N Business and Admin studies' ","'17 and under' ",5710
+2009 ,"'Group N Business and Admin studies' ","'18' ",142055
+2009 ,"'Group N Business and Admin studies' ","'19' ",65680
+2009 ,"'Group N Business and Admin studies' ","'20' ",28275
+2009 ,"'Group N Business and Admin studies' ","'21 and over' ",42820
+2009 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",485
+2009 ,"'Group P Mass Communication and Documentation' ","'18' ",30480
+2009 ,"'Group P Mass Communication and Documentation' ","'19' ",11530
+2009 ,"'Group P Mass Communication and Documentation' ","'20' ",4385
+2009 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",6230
+2009 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",680
+2009 ,"'Group Q Linguistics, Classics and related' ","'18' ",48205
+2009 ,"'Group Q Linguistics, Classics and related' ","'19' ",12315
+2009 ,"'Group Q Linguistics, Classics and related' ","'20' ",3120
+2009 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",5710
+2009 ,"'Group R European Languages, Literature and related' ","'17 and under' ",485
+2009 ,"'Group R European Languages, Literature and related' ","'18' ",17800
+2009 ,"'Group R European Languages, Literature and related' ","'19' ",3795
+2009 ,"'Group R European Languages, Literature and related' ","'20' ",925
+2009 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1415
+2009 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",80
+2009 ,"'Group T Non-European Languages, Literature and related' ","'18' ",5005
+2009 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1400
+2009 ,"'Group T Non-European Languages, Literature and related' ","'20' ",430
+2009 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",910
+2009 ,"'Group V History and Philosophical studies' ","'17 and under' ",605
+2009 ,"'Group V History and Philosophical studies' ","'18' ",55680
+2009 ,"'Group V History and Philosophical studies' ","'19' ",13530
+2009 ,"'Group V History and Philosophical studies' ","'20' ",3200
+2009 ,"'Group V History and Philosophical studies' ","'21 and over' ",6225
+2009 ,"'Group W Creative Arts and Design' ","'17 and under' ",1345
+2009 ,"'Group W Creative Arts and Design' ","'18' ",103240
+2009 ,"'Group W Creative Arts and Design' ","'19' ",67035
+2009 ,"'Group W Creative Arts and Design' ","'20' ",24720
+2009 ,"'Group W Creative Arts and Design' ","'21 and over' ",39165
+2009 ,"'Group X Education' ","'17 and under' ",465
+2009 ,"'Group X Education' ","'18' ",41540
+2009 ,"'Group X Education' ","'19' ",12970
+2009 ,"'Group X Education' ","'20' ",5275
+2009 ,"'Group X Education' ","'21 and over' ",14700
+2009 ,"'Y Combined arts' ","'17 and under' ",580
+2009 ,"'Y Combined arts' ","'18' ",41030
+2009 ,"'Y Combined arts' ","'19' ",12485
+2009 ,"'Y Combined arts' ","'20' ",4325
+2009 ,"'Y Combined arts' ","'21 and over' ",8430
+2009 ,"'Y Combined sciences' ","'17 and under' ",545
+2009 ,"'Y Combined sciences' ","'18' ",20955
+2009 ,"'Y Combined sciences' ","'19' ",6845
+2009 ,"'Y Combined sciences' ","'20' ",2760
+2009 ,"'Y Combined sciences' ","'21 and over' ",5700
+2009 ,"'Y Combined social sciences' ","'17 and under' ",760
+2009 ,"'Y Combined social sciences' ","'18' ",18550
+2009 ,"'Y Combined social sciences' ","'19' ",7710
+2009 ,"'Y Combined social sciences' ","'20' ",2650
+2009 ,"'Y Combined social sciences' ","'21 and over' ",4045
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",1015
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",56355
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",20535
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",7925
+2009 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",14850
+2009 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1020
+2009 ,"'Y Social Sciences combined with Arts' ","'18' ",35810
+2009 ,"'Y Social Sciences combined with Arts' ","'19' ",13340
+2009 ,"'Y Social Sciences combined with Arts' ","'20' ",4570
+2009 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",7715
+2009 ,"'Z General, other combined and unknown' ","'17 and under' ",570
+2009 ,"'Z General, other combined and unknown' ","'18' ",10370
+2009 ,"'Z General, other combined and unknown' ","'19' ",3650
+2009 ,"'Z General, other combined and unknown' ","'20' ",1330
+2009 ,"'Z General, other combined and unknown' ","'21 and over' ",2715
+2010 ,"'Group A Medicine and Dentistry' ","'17 and under' ",2030
+2010 ,"'Group A Medicine and Dentistry' ","'18' ",44545
+2010 ,"'Group A Medicine and Dentistry' ","'19' ",13260
+2010 ,"'Group A Medicine and Dentistry' ","'20' ",3820
+2010 ,"'Group A Medicine and Dentistry' ","'21 and over' ",29580
+2010 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",3020
+2010 ,"'Group B Subjects allied to Medicine' ","'18' ",106380
+2010 ,"'Group B Subjects allied to Medicine' ","'19' ",47225
+2010 ,"'Group B Subjects allied to Medicine' ","'20' ",23465
+2010 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",146795
+2010 ,"'Group C Biological Sciences' ","'17 and under' ",2630
+2010 ,"'Group C Biological Sciences' ","'18' ",134230
+2010 ,"'Group C Biological Sciences' ","'19' ",40420
+2010 ,"'Group C Biological Sciences' ","'20' ",13535
+2010 ,"'Group C Biological Sciences' ","'21 and over' ",25430
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",385
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",13625
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",4710
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",1735
+2010 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",5115
+2010 ,"'Group F Physical Sciences' ","'17 and under' ",1345
+2010 ,"'Group F Physical Sciences' ","'18' ",64960
+2010 ,"'Group F Physical Sciences' ","'19' ",14440
+2010 ,"'Group F Physical Sciences' ","'20' ",4180
+2010 ,"'Group F Physical Sciences' ","'21 and over' ",7265
+2010 ,"'Group G Mathematical Sciences' ","'17 and under' ",875
+2010 ,"'Group G Mathematical Sciences' ","'18' ",30080
+2010 ,"'Group G Mathematical Sciences' ","'19' ",8075
+2010 ,"'Group G Mathematical Sciences' ","'20' ",2545
+2010 ,"'Group G Mathematical Sciences' ","'21 and over' ",2615
+2010 ,"'Group H Engineering' ","'17 and under' ",4705
+2010 ,"'Group H Engineering' ","'18' ",69020
+2010 ,"'Group H Engineering' ","'19' ",26560
+2010 ,"'Group H Engineering' ","'20' ",11950
+2010 ,"'Group H Engineering' ","'21 and over' ",22485
+2010 ,"'Group I Computer Sciences' ","'17 and under' ",1000
+2010 ,"'Group I Computer Sciences' ","'18' ",40600
+2010 ,"'Group I Computer Sciences' ","'19' ",20375
+2010 ,"'Group I Computer Sciences' ","'20' ",10035
+2010 ,"'Group I Computer Sciences' ","'21 and over' ",18250
+2010 ,"'Group J Technologies' ","'17 and under' ",155
+2010 ,"'Group J Technologies' ","'18' ",5455
+2010 ,"'Group J Technologies' ","'19' ",2890
+2010 ,"'Group J Technologies' ","'20' ",1430
+2010 ,"'Group J Technologies' ","'21 and over' ",2675
+2010 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",1030
+2010 ,"'Group K Architecture, Building and Planning' ","'18' ",23355
+2010 ,"'Group K Architecture, Building and Planning' ","'19' ",10875
+2010 ,"'Group K Architecture, Building and Planning' ","'20' ",4460
+2010 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",10355
+2010 ,"'Group L Social Studies' ","'17 and under' ",3380
+2010 ,"'Group L Social Studies' ","'18' ",104870
+2010 ,"'Group L Social Studies' ","'19' ",43920
+2010 ,"'Group L Social Studies' ","'20' ",15365
+2010 ,"'Group L Social Studies' ","'21 and over' ",69595
+2010 ,"'Group M Law' ","'17 and under' ",2370
+2010 ,"'Group M Law' ","'18' ",64985
+2010 ,"'Group M Law' ","'19' ",21495
+2010 ,"'Group M Law' ","'20' ",7895
+2010 ,"'Group M Law' ","'21 and over' ",20280
+2010 ,"'Group N Business and Admin studies' ","'17 and under' ",6025
+2010 ,"'Group N Business and Admin studies' ","'18' ",146095
+2010 ,"'Group N Business and Admin studies' ","'19' ",75620
+2010 ,"'Group N Business and Admin studies' ","'20' ",33335
+2010 ,"'Group N Business and Admin studies' ","'21 and over' ",48925
+2010 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",495
+2010 ,"'Group P Mass Communication and Documentation' ","'18' ",32305
+2010 ,"'Group P Mass Communication and Documentation' ","'19' ",13610
+2010 ,"'Group P Mass Communication and Documentation' ","'20' ",4960
+2010 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",7330
+2010 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",735
+2010 ,"'Group Q Linguistics, Classics and related' ","'18' ",50445
+2010 ,"'Group Q Linguistics, Classics and related' ","'19' ",13425
+2010 ,"'Group Q Linguistics, Classics and related' ","'20' ",3370
+2010 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",6500
+2010 ,"'Group R European Languages, Literature and related' ","'17 and under' ",440
+2010 ,"'Group R European Languages, Literature and related' ","'18' ",19210
+2010 ,"'Group R European Languages, Literature and related' ","'19' ",3635
+2010 ,"'Group R European Languages, Literature and related' ","'20' ",850
+2010 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1575
+2010 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",95
+2010 ,"'Group T Non-European Languages, Literature and related' ","'18' ",4940
+2010 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1730
+2010 ,"'Group T Non-European Languages, Literature and related' ","'20' ",485
+2010 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",1165
+2010 ,"'Group V History and Philosophical studies' ","'17 and under' ",630
+2010 ,"'Group V History and Philosophical studies' ","'18' ",57805
+2010 ,"'Group V History and Philosophical studies' ","'19' ",15420
+2010 ,"'Group V History and Philosophical studies' ","'20' ",3495
+2010 ,"'Group V History and Philosophical studies' ","'21 and over' ",7300
+2010 ,"'Group W Creative Arts and Design' ","'17 and under' ",1590
+2010 ,"'Group W Creative Arts and Design' ","'18' ",118215
+2010 ,"'Group W Creative Arts and Design' ","'19' ",86615
+2010 ,"'Group W Creative Arts and Design' ","'20' ",31495
+2010 ,"'Group W Creative Arts and Design' ","'21 and over' ",48895
+2010 ,"'Group X Education' ","'17 and under' ",395
+2010 ,"'Group X Education' ","'18' ",47460
+2010 ,"'Group X Education' ","'19' ",15325
+2010 ,"'Group X Education' ","'20' ",6430
+2010 ,"'Group X Education' ","'21 and over' ",18105
+2010 ,"'Y Combined arts' ","'17 and under' ",640
+2010 ,"'Y Combined arts' ","'18' ",43140
+2010 ,"'Y Combined arts' ","'19' ",14630
+2010 ,"'Y Combined arts' ","'20' ",4590
+2010 ,"'Y Combined arts' ","'21 and over' ",9105
+2010 ,"'Y Combined sciences' ","'17 and under' ",685
+2010 ,"'Y Combined sciences' ","'18' ",22310
+2010 ,"'Y Combined sciences' ","'19' ",7990
+2010 ,"'Y Combined sciences' ","'20' ",3130
+2010 ,"'Y Combined sciences' ","'21 and over' ",6620
+2010 ,"'Y Combined social sciences' ","'17 and under' ",725
+2010 ,"'Y Combined social sciences' ","'18' ",18450
+2010 ,"'Y Combined social sciences' ","'19' ",8820
+2010 ,"'Y Combined social sciences' ","'20' ",2965
+2010 ,"'Y Combined social sciences' ","'21 and over' ",4350
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",990
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",57680
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",24510
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",9385
+2010 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",17485
+2010 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1100
+2010 ,"'Y Social Sciences combined with Arts' ","'18' ",36675
+2010 ,"'Y Social Sciences combined with Arts' ","'19' ",14995
+2010 ,"'Y Social Sciences combined with Arts' ","'20' ",5225
+2010 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",8695
+2010 ,"'Z General, other combined and unknown' ","'17 and under' ",520
+2010 ,"'Z General, other combined and unknown' ","'18' ",10615
+2010 ,"'Z General, other combined and unknown' ","'19' ",3680
+2010 ,"'Z General, other combined and unknown' ","'20' ",1295
+2010 ,"'Z General, other combined and unknown' ","'21 and over' ",2880
+2011 ,"'Group A Medicine and Dentistry' ","'17 and under' ",2155
+2011 ,"'Group A Medicine and Dentistry' ","'18' ",44965
+2011 ,"'Group A Medicine and Dentistry' ","'19' ",14235
+2011 ,"'Group A Medicine and Dentistry' ","'20' ",3655
+2011 ,"'Group A Medicine and Dentistry' ","'21 and over' ",31445
+2011 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2870
+2011 ,"'Group B Subjects allied to Medicine' ","'18' ",114880
+2011 ,"'Group B Subjects allied to Medicine' ","'19' ",57460
+2011 ,"'Group B Subjects allied to Medicine' ","'20' ",26320
+2011 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",166580
+2011 ,"'Group C Biological Sciences' ","'17 and under' ",2460
+2011 ,"'Group C Biological Sciences' ","'18' ",135130
+2011 ,"'Group C Biological Sciences' ","'19' ",47620
+2011 ,"'Group C Biological Sciences' ","'20' ",15310
+2011 ,"'Group C Biological Sciences' ","'21 and over' ",27975
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",420
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",14640
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",5650
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",2080
+2011 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",5290
+2011 ,"'Group F Physical Sciences' ","'17 and under' ",1425
+2011 ,"'Group F Physical Sciences' ","'18' ",69055
+2011 ,"'Group F Physical Sciences' ","'19' ",16980
+2011 ,"'Group F Physical Sciences' ","'20' ",4240
+2011 ,"'Group F Physical Sciences' ","'21 and over' ",7740
+2011 ,"'Group G Mathematical Sciences' ","'17 and under' ",985
+2011 ,"'Group G Mathematical Sciences' ","'18' ",30800
+2011 ,"'Group G Mathematical Sciences' ","'19' ",8610
+2011 ,"'Group G Mathematical Sciences' ","'20' ",2480
+2011 ,"'Group G Mathematical Sciences' ","'21 and over' ",2750
+2011 ,"'Group H Engineering' ","'17 and under' ",4630
+2011 ,"'Group H Engineering' ","'18' ",71515
+2011 ,"'Group H Engineering' ","'19' ",29285
+2011 ,"'Group H Engineering' ","'20' ",12000
+2011 ,"'Group H Engineering' ","'21 and over' ",23400
+2011 ,"'Group I Computer Sciences' ","'17 and under' ",1265
+2011 ,"'Group I Computer Sciences' ","'18' ",42750
+2011 ,"'Group I Computer Sciences' ","'19' ",22870
+2011 ,"'Group I Computer Sciences' ","'20' ",10785
+2011 ,"'Group I Computer Sciences' ","'21 and over' ",19430
+2011 ,"'Group J Technologies' ","'17 and under' ",170
+2011 ,"'Group J Technologies' ","'18' ",5355
+2011 ,"'Group J Technologies' ","'19' ",2655
+2011 ,"'Group J Technologies' ","'20' ",1370
+2011 ,"'Group J Technologies' ","'21 and over' ",2570
+2011 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",935
+2011 ,"'Group K Architecture, Building and Planning' ","'18' ",22630
+2011 ,"'Group K Architecture, Building and Planning' ","'19' ",11350
+2011 ,"'Group K Architecture, Building and Planning' ","'20' ",4600
+2011 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",10045
+2011 ,"'Group L Social Studies' ","'17 and under' ",3720
+2011 ,"'Group L Social Studies' ","'18' ",106025
+2011 ,"'Group L Social Studies' ","'19' ",47260
+2011 ,"'Group L Social Studies' ","'20' ",16255
+2011 ,"'Group L Social Studies' ","'21 and over' ",69945
+2011 ,"'Group M Law' ","'17 and under' ",2620
+2011 ,"'Group M Law' ","'18' ",65410
+2011 ,"'Group M Law' ","'19' ",24045
+2011 ,"'Group M Law' ","'20' ",8995
+2011 ,"'Group M Law' ","'21 and over' ",21780
+2011 ,"'Group N Business and Admin studies' ","'17 and under' ",6510
+2011 ,"'Group N Business and Admin studies' ","'18' ",150140
+2011 ,"'Group N Business and Admin studies' ","'19' ",83140
+2011 ,"'Group N Business and Admin studies' ","'20' ",36320
+2011 ,"'Group N Business and Admin studies' ","'21 and over' ",54090
+2011 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",625
+2011 ,"'Group P Mass Communication and Documentation' ","'18' ",34100
+2011 ,"'Group P Mass Communication and Documentation' ","'19' ",14740
+2011 ,"'Group P Mass Communication and Documentation' ","'20' ",5715
+2011 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",7590
+2011 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",700
+2011 ,"'Group Q Linguistics, Classics and related' ","'18' ",47200
+2011 ,"'Group Q Linguistics, Classics and related' ","'19' ",13580
+2011 ,"'Group Q Linguistics, Classics and related' ","'20' ",3765
+2011 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",6250
+2011 ,"'Group R European Languages, Literature and related' ","'17 and under' ",520
+2011 ,"'Group R European Languages, Literature and related' ","'18' ",18285
+2011 ,"'Group R European Languages, Literature and related' ","'19' ",4295
+2011 ,"'Group R European Languages, Literature and related' ","'20' ",890
+2011 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1495
+2011 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",80
+2011 ,"'Group T Non-European Languages, Literature and related' ","'18' ",5215
+2011 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1655
+2011 ,"'Group T Non-European Languages, Literature and related' ","'20' ",505
+2011 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",985
+2011 ,"'Group V History and Philosophical studies' ","'17 and under' ",705
+2011 ,"'Group V History and Philosophical studies' ","'18' ",57095
+2011 ,"'Group V History and Philosophical studies' ","'19' ",15255
+2011 ,"'Group V History and Philosophical studies' ","'20' ",3570
+2011 ,"'Group V History and Philosophical studies' ","'21 and over' ",6560
+2011 ,"'Group W Creative Arts and Design' ","'17 and under' ",1735
+2011 ,"'Group W Creative Arts and Design' ","'18' ",125220
+2011 ,"'Group W Creative Arts and Design' ","'19' ",91145
+2011 ,"'Group W Creative Arts and Design' ","'20' ",34145
+2011 ,"'Group W Creative Arts and Design' ","'21 and over' ",49710
+2011 ,"'Group X Education' ","'17 and under' ",360
+2011 ,"'Group X Education' ","'18' ",50445
+2011 ,"'Group X Education' ","'19' ",17840
+2011 ,"'Group X Education' ","'20' ",6910
+2011 ,"'Group X Education' ","'21 and over' ",18715
+2011 ,"'Y Combined arts' ","'17 and under' ",605
+2011 ,"'Y Combined arts' ","'18' ",41800
+2011 ,"'Y Combined arts' ","'19' ",14705
+2011 ,"'Y Combined arts' ","'20' ",4750
+2011 ,"'Y Combined arts' ","'21 and over' ",8550
+2011 ,"'Y Combined sciences' ","'17 and under' ",685
+2011 ,"'Y Combined sciences' ","'18' ",22700
+2011 ,"'Y Combined sciences' ","'19' ",9255
+2011 ,"'Y Combined sciences' ","'20' ",3380
+2011 ,"'Y Combined sciences' ","'21 and over' ",6765
+2011 ,"'Y Combined social sciences' ","'17 and under' ",740
+2011 ,"'Y Combined social sciences' ","'18' ",17255
+2011 ,"'Y Combined social sciences' ","'19' ",8810
+2011 ,"'Y Combined social sciences' ","'20' ",2890
+2011 ,"'Y Combined social sciences' ","'21 and over' ",4440
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",1070
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",54715
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",24005
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",9345
+2011 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",16775
+2011 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1025
+2011 ,"'Y Social Sciences combined with Arts' ","'18' ",35800
+2011 ,"'Y Social Sciences combined with Arts' ","'19' ",15060
+2011 ,"'Y Social Sciences combined with Arts' ","'20' ",4965
+2011 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",8015
+2011 ,"'Z General, other combined and unknown' ","'17 and under' ",470
+2011 ,"'Z General, other combined and unknown' ","'18' ",10990
+2011 ,"'Z General, other combined and unknown' ","'19' ",4080
+2011 ,"'Z General, other combined and unknown' ","'20' ",1280
+2011 ,"'Z General, other combined and unknown' ","'21 and over' ",2385
+2012 ,"'Group A Medicine and Dentistry' ","'17 and under' ",2320
+2012 ,"'Group A Medicine and Dentistry' ","'18' ",44385
+2012 ,"'Group A Medicine and Dentistry' ","'19' ",13515
+2012 ,"'Group A Medicine and Dentistry' ","'20' ",3580
+2012 ,"'Group A Medicine and Dentistry' ","'21 and over' ",30145
+2012 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2510
+2012 ,"'Group B Subjects allied to Medicine' ","'18' ",116895
+2012 ,"'Group B Subjects allied to Medicine' ","'19' ",55650
+2012 ,"'Group B Subjects allied to Medicine' ","'20' ",27625
+2012 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",165595
+2012 ,"'Group C Biological Sciences' ","'17 and under' ",2780
+2012 ,"'Group C Biological Sciences' ","'18' ",134825
+2012 ,"'Group C Biological Sciences' ","'19' ",42010
+2012 ,"'Group C Biological Sciences' ","'20' ",13790
+2012 ,"'Group C Biological Sciences' ","'21 and over' ",24790
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",390
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",14665
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",5395
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",1785
+2012 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",4785
+2012 ,"'Group F Physical Sciences' ","'17 and under' ",1430
+2012 ,"'Group F Physical Sciences' ","'18' ",70355
+2012 ,"'Group F Physical Sciences' ","'19' ",15765
+2012 ,"'Group F Physical Sciences' ","'20' ",4225
+2012 ,"'Group F Physical Sciences' ","'21 and over' ",6730
+2012 ,"'Group G Mathematical Sciences' ","'17 and under' ",1055
+2012 ,"'Group G Mathematical Sciences' ","'18' ",30880
+2012 ,"'Group G Mathematical Sciences' ","'19' ",7780
+2012 ,"'Group G Mathematical Sciences' ","'20' ",2175
+2012 ,"'Group G Mathematical Sciences' ","'21 and over' ",2575
+2012 ,"'Group H Engineering' ","'17 and under' ",5050
+2012 ,"'Group H Engineering' ","'18' ",72730
+2012 ,"'Group H Engineering' ","'19' ",26520
+2012 ,"'Group H Engineering' ","'20' ",11880
+2012 ,"'Group H Engineering' ","'21 and over' ",21110
+2012 ,"'Group I Computer Sciences' ","'17 and under' ",1145
+2012 ,"'Group I Computer Sciences' ","'18' ",41475
+2012 ,"'Group I Computer Sciences' ","'19' ",20040
+2012 ,"'Group I Computer Sciences' ","'20' ",9980
+2012 ,"'Group I Computer Sciences' ","'21 and over' ",17290
+2012 ,"'Group J Technologies' ","'17 and under' ",155
+2012 ,"'Group J Technologies' ","'18' ",4590
+2012 ,"'Group J Technologies' ","'19' ",2095
+2012 ,"'Group J Technologies' ","'20' ",1135
+2012 ,"'Group J Technologies' ","'21 and over' ",2010
+2012 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",1020
+2012 ,"'Group K Architecture, Building and Planning' ","'18' ",20370
+2012 ,"'Group K Architecture, Building and Planning' ","'19' ",8965
+2012 ,"'Group K Architecture, Building and Planning' ","'20' ",3825
+2012 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",7270
+2012 ,"'Group L Social Studies' ","'17 and under' ",3905
+2012 ,"'Group L Social Studies' ","'18' ",101820
+2012 ,"'Group L Social Studies' ","'19' ",38980
+2012 ,"'Group L Social Studies' ","'20' ",13800
+2012 ,"'Group L Social Studies' ","'21 and over' ",56750
+2012 ,"'Group M Law' ","'17 and under' ",2975
+2012 ,"'Group M Law' ","'18' ",64115
+2012 ,"'Group M Law' ","'19' ",21635
+2012 ,"'Group M Law' ","'20' ",8595
+2012 ,"'Group M Law' ","'21 and over' ",20510
+2012 ,"'Group N Business and Admin studies' ","'17 and under' ",7150
+2012 ,"'Group N Business and Admin studies' ","'18' ",149195
+2012 ,"'Group N Business and Admin studies' ","'19' ",73260
+2012 ,"'Group N Business and Admin studies' ","'20' ",32970
+2012 ,"'Group N Business and Admin studies' ","'21 and over' ",48605
+2012 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",510
+2012 ,"'Group P Mass Communication and Documentation' ","'18' ",29855
+2012 ,"'Group P Mass Communication and Documentation' ","'19' ",11875
+2012 ,"'Group P Mass Communication and Documentation' ","'20' ",4735
+2012 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",6815
+2012 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",670
+2012 ,"'Group Q Linguistics, Classics and related' ","'18' ",46820
+2012 ,"'Group Q Linguistics, Classics and related' ","'19' ",10245
+2012 ,"'Group Q Linguistics, Classics and related' ","'20' ",2625
+2012 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",5345
+2012 ,"'Group R European Languages, Literature and related' ","'17 and under' ",405
+2012 ,"'Group R European Languages, Literature and related' ","'18' ",17105
+2012 ,"'Group R European Languages, Literature and related' ","'19' ",3210
+2012 ,"'Group R European Languages, Literature and related' ","'20' ",705
+2012 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1080
+2012 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",75
+2012 ,"'Group T Non-European Languages, Literature and related' ","'18' ",4270
+2012 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1240
+2012 ,"'Group T Non-European Languages, Literature and related' ","'20' ",370
+2012 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",745
+2012 ,"'Group V History and Philosophical studies' ","'17 and under' ",620
+2012 ,"'Group V History and Philosophical studies' ","'18' ",56015
+2012 ,"'Group V History and Philosophical studies' ","'19' ",12300
+2012 ,"'Group V History and Philosophical studies' ","'20' ",2850
+2012 ,"'Group V History and Philosophical studies' ","'21 and over' ",5445
+2012 ,"'Group W Creative Arts and Design' ","'17 and under' ",1585
+2012 ,"'Group W Creative Arts and Design' ","'18' ",110605
+2012 ,"'Group W Creative Arts and Design' ","'19' ",73305
+2012 ,"'Group W Creative Arts and Design' ","'20' ",27325
+2012 ,"'Group W Creative Arts and Design' ","'21 and over' ",40005
+2012 ,"'Group X Education' ","'17 and under' ",270
+2012 ,"'Group X Education' ","'18' ",48880
+2012 ,"'Group X Education' ","'19' ",15300
+2012 ,"'Group X Education' ","'20' ",6130
+2012 ,"'Group X Education' ","'21 and over' ",15415
+2012 ,"'Y Combined arts' ","'17 and under' ",630
+2012 ,"'Y Combined arts' ","'18' ",37455
+2012 ,"'Y Combined arts' ","'19' ",10705
+2012 ,"'Y Combined arts' ","'20' ",3525
+2012 ,"'Y Combined arts' ","'21 and over' ",6575
+2012 ,"'Y Combined sciences' ","'17 and under' ",720
+2012 ,"'Y Combined sciences' ","'18' ",21525
+2012 ,"'Y Combined sciences' ","'19' ",7745
+2012 ,"'Y Combined sciences' ","'20' ",3080
+2012 ,"'Y Combined sciences' ","'21 and over' ",5820
+2012 ,"'Y Combined social sciences' ","'17 and under' ",815
+2012 ,"'Y Combined social sciences' ","'18' ",16095
+2012 ,"'Y Combined social sciences' ","'19' ",7095
+2012 ,"'Y Combined social sciences' ","'20' ",2515
+2012 ,"'Y Combined social sciences' ","'21 and over' ",3575
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",970
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",47080
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",18455
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",7445
+2012 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",13520
+2012 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1145
+2012 ,"'Y Social Sciences combined with Arts' ","'18' ",32670
+2012 ,"'Y Social Sciences combined with Arts' ","'19' ",11770
+2012 ,"'Y Social Sciences combined with Arts' ","'20' ",4085
+2012 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",6235
+2012 ,"'Z General, other combined and unknown' ","'17 and under' ",880
+2012 ,"'Z General, other combined and unknown' ","'18' ",15775
+2012 ,"'Z General, other combined and unknown' ","'19' ",5390
+2012 ,"'Z General, other combined and unknown' ","'20' ",1920
+2012 ,"'Z General, other combined and unknown' ","'21 and over' ",2985
+2013 ,"'Group A Medicine and Dentistry' ","'17 and under' ",2395
+2013 ,"'Group A Medicine and Dentistry' ","'18' ",44675
+2013 ,"'Group A Medicine and Dentistry' ","'19' ",14010
+2013 ,"'Group A Medicine and Dentistry' ","'20' ",3200
+2013 ,"'Group A Medicine and Dentistry' ","'21 and over' ",30760
+2013 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2645
+2013 ,"'Group B Subjects allied to Medicine' ","'18' ",117565
+2013 ,"'Group B Subjects allied to Medicine' ","'19' ",62745
+2013 ,"'Group B Subjects allied to Medicine' ","'20' ",29090
+2013 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",171655
+2013 ,"'Group C Biological Sciences' ","'17 and under' ",3045
+2013 ,"'Group C Biological Sciences' ","'18' ",140470
+2013 ,"'Group C Biological Sciences' ","'19' ",48815
+2013 ,"'Group C Biological Sciences' ","'20' ",15380
+2013 ,"'Group C Biological Sciences' ","'21 and over' ",27270
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",375
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",15260
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",6015
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",2305
+2013 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",5305
+2013 ,"'Group F Physical Sciences' ","'17 and under' ",1725
+2013 ,"'Group F Physical Sciences' ","'18' ",73845
+2013 ,"'Group F Physical Sciences' ","'19' ",18080
+2013 ,"'Group F Physical Sciences' ","'20' ",4055
+2013 ,"'Group F Physical Sciences' ","'21 and over' ",6965
+2013 ,"'Group G Mathematical Sciences' ","'17 and under' ",1015
+2013 ,"'Group G Mathematical Sciences' ","'18' ",31865
+2013 ,"'Group G Mathematical Sciences' ","'19' ",8295
+2013 ,"'Group G Mathematical Sciences' ","'20' ",2425
+2013 ,"'Group G Mathematical Sciences' ","'21 and over' ",2310
+2013 ,"'Group H Engineering' ","'17 and under' ",5965
+2013 ,"'Group H Engineering' ","'18' ",77615
+2013 ,"'Group H Engineering' ","'19' ",30215
+2013 ,"'Group H Engineering' ","'20' ",11650
+2013 ,"'Group H Engineering' ","'21 and over' ",20900
+2013 ,"'Group I Computer Sciences' ","'17 and under' ",1530
+2013 ,"'Group I Computer Sciences' ","'18' ",47255
+2013 ,"'Group I Computer Sciences' ","'19' ",22780
+2013 ,"'Group I Computer Sciences' ","'20' ",10405
+2013 ,"'Group I Computer Sciences' ","'21 and over' ",17730
+2013 ,"'Group J Technologies' ","'17 and under' ",160
+2013 ,"'Group J Technologies' ","'18' ",4620
+2013 ,"'Group J Technologies' ","'19' ",2260
+2013 ,"'Group J Technologies' ","'20' ",1065
+2013 ,"'Group J Technologies' ","'21 and over' ",1900
+2013 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",945
+2013 ,"'Group K Architecture, Building and Planning' ","'18' ",18670
+2013 ,"'Group K Architecture, Building and Planning' ","'19' ",9710
+2013 ,"'Group K Architecture, Building and Planning' ","'20' ",3610
+2013 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",7275
+2013 ,"'Group L Social Studies' ","'17 and under' ",4220
+2013 ,"'Group L Social Studies' ","'18' ",106860
+2013 ,"'Group L Social Studies' ","'19' ",41900
+2013 ,"'Group L Social Studies' ","'20' ",13740
+2013 ,"'Group L Social Studies' ","'21 and over' ",52065
+2013 ,"'Group M Law' ","'17 and under' ",3285
+2013 ,"'Group M Law' ","'18' ",67110
+2013 ,"'Group M Law' ","'19' ",23770
+2013 ,"'Group M Law' ","'20' ",8975
+2013 ,"'Group M Law' ","'21 and over' ",20685
+2013 ,"'Group N Business and Admin studies' ","'17 and under' ",7825
+2013 ,"'Group N Business and Admin studies' ","'18' ",150460
+2013 ,"'Group N Business and Admin studies' ","'19' ",78380
+2013 ,"'Group N Business and Admin studies' ","'20' ",33440
+2013 ,"'Group N Business and Admin studies' ","'21 and over' ",46645
+2013 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",690
+2013 ,"'Group P Mass Communication and Documentation' ","'18' ",31605
+2013 ,"'Group P Mass Communication and Documentation' ","'19' ",13090
+2013 ,"'Group P Mass Communication and Documentation' ","'20' ",5490
+2013 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",7110
+2013 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",610
+2013 ,"'Group Q Linguistics, Classics and related' ","'18' ",45940
+2013 ,"'Group Q Linguistics, Classics and related' ","'19' ",11410
+2013 ,"'Group Q Linguistics, Classics and related' ","'20' ",2475
+2013 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",5275
+2013 ,"'Group R European Languages, Literature and related' ","'17 and under' ",390
+2013 ,"'Group R European Languages, Literature and related' ","'18' ",15500
+2013 ,"'Group R European Languages, Literature and related' ","'19' ",3490
+2013 ,"'Group R European Languages, Literature and related' ","'20' ",790
+2013 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1090
+2013 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",65
+2013 ,"'Group T Non-European Languages, Literature and related' ","'18' ",3915
+2013 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1195
+2013 ,"'Group T Non-European Languages, Literature and related' ","'20' ",325
+2013 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",765
+2013 ,"'Group V History and Philosophical studies' ","'17 and under' ",550
+2013 ,"'Group V History and Philosophical studies' ","'18' ",56070
+2013 ,"'Group V History and Philosophical studies' ","'19' ",13885
+2013 ,"'Group V History and Philosophical studies' ","'20' ",2765
+2013 ,"'Group V History and Philosophical studies' ","'21 and over' ",5615
+2013 ,"'Group W Creative Arts and Design' ","'17 and under' ",1685
+2013 ,"'Group W Creative Arts and Design' ","'18' ",111525
+2013 ,"'Group W Creative Arts and Design' ","'19' ",77435
+2013 ,"'Group W Creative Arts and Design' ","'20' ",27865
+2013 ,"'Group W Creative Arts and Design' ","'21 and over' ",40015
+2013 ,"'Group X Education' ","'17 and under' ",245
+2013 ,"'Group X Education' ","'18' ",45995
+2013 ,"'Group X Education' ","'19' ",15885
+2013 ,"'Group X Education' ","'20' ",6115
+2013 ,"'Group X Education' ","'21 and over' ",15355
+2013 ,"'Y Combined arts' ","'17 and under' ",555
+2013 ,"'Y Combined arts' ","'18' ",35280
+2013 ,"'Y Combined arts' ","'19' ",10890
+2013 ,"'Y Combined arts' ","'20' ",3295
+2013 ,"'Y Combined arts' ","'21 and over' ",6255
+2013 ,"'Y Combined sciences' ","'17 and under' ",770
+2013 ,"'Y Combined sciences' ","'18' ",21665
+2013 ,"'Y Combined sciences' ","'19' ",8495
+2013 ,"'Y Combined sciences' ","'20' ",2900
+2013 ,"'Y Combined sciences' ","'21 and over' ",5570
+2013 ,"'Y Combined social sciences' ","'17 and under' ",845
+2013 ,"'Y Combined social sciences' ","'18' ",15875
+2013 ,"'Y Combined social sciences' ","'19' ",7135
+2013 ,"'Y Combined social sciences' ","'20' ",2300
+2013 ,"'Y Combined social sciences' ","'21 and over' ",3225
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",935
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",43180
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",17940
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",7075
+2013 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",12080
+2013 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1205
+2013 ,"'Y Social Sciences combined with Arts' ","'18' ",31130
+2013 ,"'Y Social Sciences combined with Arts' ","'19' ",12530
+2013 ,"'Y Social Sciences combined with Arts' ","'20' ",4005
+2013 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",6320
+2013 ,"'Z General, other combined and unknown' ","'17 and under' ",945
+2013 ,"'Z General, other combined and unknown' ","'18' ",17005
+2013 ,"'Z General, other combined and unknown' ","'19' ",6205
+2013 ,"'Z General, other combined and unknown' ","'20' ",1860
+2013 ,"'Z General, other combined and unknown' ","'21 and over' ",2990
+2014 ,"'Group A Medicine and Dentistry' ","'17 and under' ",2415
+2014 ,"'Group A Medicine and Dentistry' ","'18' ",43705
+2014 ,"'Group A Medicine and Dentistry' ","'19' ",14945
+2014 ,"'Group A Medicine and Dentistry' ","'20' ",3895
+2014 ,"'Group A Medicine and Dentistry' ","'21 and over' ",32600
+2014 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2920
+2014 ,"'Group B Subjects allied to Medicine' ","'18' ",117750
+2014 ,"'Group B Subjects allied to Medicine' ","'19' ",62440
+2014 ,"'Group B Subjects allied to Medicine' ","'20' ",30810
+2014 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",185585
+2014 ,"'Group C Biological Sciences' ","'17 and under' ",3725
+2014 ,"'Group C Biological Sciences' ","'18' ",151645
+2014 ,"'Group C Biological Sciences' ","'19' ",52590
+2014 ,"'Group C Biological Sciences' ","'20' ",17680
+2014 ,"'Group C Biological Sciences' ","'21 and over' ",29830
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",370
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",15305
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",7070
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",2355
+2014 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",5760
+2014 ,"'Group F Physical Sciences' ","'17 and under' ",1765
+2014 ,"'Group F Physical Sciences' ","'18' ",75650
+2014 ,"'Group F Physical Sciences' ","'19' ",20005
+2014 ,"'Group F Physical Sciences' ","'20' ",4885
+2014 ,"'Group F Physical Sciences' ","'21 and over' ",7035
+2014 ,"'Group G Mathematical Sciences' ","'17 and under' ",1180
+2014 ,"'Group G Mathematical Sciences' ","'18' ",31595
+2014 ,"'Group G Mathematical Sciences' ","'19' ",8045
+2014 ,"'Group G Mathematical Sciences' ","'20' ",2255
+2014 ,"'Group G Mathematical Sciences' ","'21 and over' ",2470
+2014 ,"'Group H Engineering' ","'17 and under' ",6620
+2014 ,"'Group H Engineering' ","'18' ",85705
+2014 ,"'Group H Engineering' ","'19' ",33245
+2014 ,"'Group H Engineering' ","'20' ",13855
+2014 ,"'Group H Engineering' ","'21 and over' ",21715
+2014 ,"'Group I Computer Sciences' ","'17 and under' ",1720
+2014 ,"'Group I Computer Sciences' ","'18' ",54035
+2014 ,"'Group I Computer Sciences' ","'19' ",25935
+2014 ,"'Group I Computer Sciences' ","'20' ",11670
+2014 ,"'Group I Computer Sciences' ","'21 and over' ",18935
+2014 ,"'Group J Technologies' ","'17 and under' ",215
+2014 ,"'Group J Technologies' ","'18' ",5025
+2014 ,"'Group J Technologies' ","'19' ",2525
+2014 ,"'Group J Technologies' ","'20' ",1325
+2014 ,"'Group J Technologies' ","'21 and over' ",2025
+2014 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",1130
+2014 ,"'Group K Architecture, Building and Planning' ","'18' ",18805
+2014 ,"'Group K Architecture, Building and Planning' ","'19' ",9490
+2014 ,"'Group K Architecture, Building and Planning' ","'20' ",3700
+2014 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",6940
+2014 ,"'Group L Social Studies' ","'17 and under' ",4750
+2014 ,"'Group L Social Studies' ","'18' ",113855
+2014 ,"'Group L Social Studies' ","'19' ",43970
+2014 ,"'Group L Social Studies' ","'20' ",15565
+2014 ,"'Group L Social Studies' ","'21 and over' ",53355
+2014 ,"'Group M Law' ","'17 and under' ",3390
+2014 ,"'Group M Law' ","'18' ",65455
+2014 ,"'Group M Law' ","'19' ",23665
+2014 ,"'Group M Law' ","'20' ",9435
+2014 ,"'Group M Law' ","'21 and over' ",20715
+2014 ,"'Group N Business and Admin studies' ","'17 and under' ",8445
+2014 ,"'Group N Business and Admin studies' ","'18' ",157570
+2014 ,"'Group N Business and Admin studies' ","'19' ",81305
+2014 ,"'Group N Business and Admin studies' ","'20' ",34645
+2014 ,"'Group N Business and Admin studies' ","'21 and over' ",47725
+2014 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",795
+2014 ,"'Group P Mass Communication and Documentation' ","'18' ",34240
+2014 ,"'Group P Mass Communication and Documentation' ","'19' ",14275
+2014 ,"'Group P Mass Communication and Documentation' ","'20' ",5740
+2014 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",7580
+2014 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",805
+2014 ,"'Group Q Linguistics, Classics and related' ","'18' ",45825
+2014 ,"'Group Q Linguistics, Classics and related' ","'19' ",11415
+2014 ,"'Group Q Linguistics, Classics and related' ","'20' ",3150
+2014 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",5365
+2014 ,"'Group R European Languages, Literature and related' ","'17 and under' ",395
+2014 ,"'Group R European Languages, Literature and related' ","'18' ",14640
+2014 ,"'Group R European Languages, Literature and related' ","'19' ",3325
+2014 ,"'Group R European Languages, Literature and related' ","'20' ",690
+2014 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1105
+2014 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",65
+2014 ,"'Group T Non-European Languages, Literature and related' ","'18' ",3335
+2014 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1085
+2014 ,"'Group T Non-European Languages, Literature and related' ","'20' ",310
+2014 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",790
+2014 ,"'Group V History and Philosophical studies' ","'17 and under' ",610
+2014 ,"'Group V History and Philosophical studies' ","'18' ",57945
+2014 ,"'Group V History and Philosophical studies' ","'19' ",14090
+2014 ,"'Group V History and Philosophical studies' ","'20' ",3030
+2014 ,"'Group V History and Philosophical studies' ","'21 and over' ",5885
+2014 ,"'Group W Creative Arts and Design' ","'17 and under' ",2120
+2014 ,"'Group W Creative Arts and Design' ","'18' ",118760
+2014 ,"'Group W Creative Arts and Design' ","'19' ",80255
+2014 ,"'Group W Creative Arts and Design' ","'20' ",29220
+2014 ,"'Group W Creative Arts and Design' ","'21 and over' ",41990
+2014 ,"'Group X Education' ","'17 and under' ",260
+2014 ,"'Group X Education' ","'18' ",45205
+2014 ,"'Group X Education' ","'19' ",15820
+2014 ,"'Group X Education' ","'20' ",6515
+2014 ,"'Group X Education' ","'21 and over' ",15670
+2014 ,"'Y Combined arts' ","'17 and under' ",640
+2014 ,"'Y Combined arts' ","'18' ",34315
+2014 ,"'Y Combined arts' ","'19' ",10780
+2014 ,"'Y Combined arts' ","'20' ",3555
+2014 ,"'Y Combined arts' ","'21 and over' ",6135
+2014 ,"'Y Combined sciences' ","'17 and under' ",915
+2014 ,"'Y Combined sciences' ","'18' ",21835
+2014 ,"'Y Combined sciences' ","'19' ",8570
+2014 ,"'Y Combined sciences' ","'20' ",3075
+2014 ,"'Y Combined sciences' ","'21 and over' ",5560
+2014 ,"'Y Combined social sciences' ","'17 and under' ",975
+2014 ,"'Y Combined social sciences' ","'18' ",16870
+2014 ,"'Y Combined social sciences' ","'19' ",7135
+2014 ,"'Y Combined social sciences' ","'20' ",2400
+2014 ,"'Y Combined social sciences' ","'21 and over' ",3270
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",1020
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",41035
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",16150
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",6425
+2014 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",10875
+2014 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1235
+2014 ,"'Y Social Sciences combined with Arts' ","'18' ",29765
+2014 ,"'Y Social Sciences combined with Arts' ","'19' ",11645
+2014 ,"'Y Social Sciences combined with Arts' ","'20' ",3815
+2014 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",5530
+2014 ,"'Z General, other combined and unknown' ","'17 and under' ",1150
+2014 ,"'Z General, other combined and unknown' ","'18' ",19205
+2014 ,"'Z General, other combined and unknown' ","'19' ",6795
+2014 ,"'Z General, other combined and unknown' ","'20' ",1935
+2014 ,"'Z General, other combined and unknown' ","'21 and over' ",2895
+2015 ,"'Group A Medicine and Dentistry' ","'17 and under' ",2255
+2015 ,"'Group A Medicine and Dentistry' ","'18' ",39335
+2015 ,"'Group A Medicine and Dentistry' ","'19' ",12995
+2015 ,"'Group A Medicine and Dentistry' ","'20' ",3630
+2015 ,"'Group A Medicine and Dentistry' ","'21 and over' ",29315
+2015 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2755
+2015 ,"'Group B Subjects allied to Medicine' ","'18' ",120910
+2015 ,"'Group B Subjects allied to Medicine' ","'19' ",62345
+2015 ,"'Group B Subjects allied to Medicine' ","'20' ",29775
+2015 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",178410
+2015 ,"'Group C Biological Sciences' ","'17 and under' ",3740
+2015 ,"'Group C Biological Sciences' ","'18' ",163970
+2015 ,"'Group C Biological Sciences' ","'19' ",56380
+2015 ,"'Group C Biological Sciences' ","'20' ",17885
+2015 ,"'Group C Biological Sciences' ","'21 and over' ",31010
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",400
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",15715
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",7175
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",2640
+2015 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",5795
+2015 ,"'Group F Physical Sciences' ","'17 and under' ",1840
+2015 ,"'Group F Physical Sciences' ","'18' ",78185
+2015 ,"'Group F Physical Sciences' ","'19' ",20655
+2015 ,"'Group F Physical Sciences' ","'20' ",4820
+2015 ,"'Group F Physical Sciences' ","'21 and over' ",6950
+2015 ,"'Group G Mathematical Sciences' ","'17 and under' ",1215
+2015 ,"'Group G Mathematical Sciences' ","'18' ",32770
+2015 ,"'Group G Mathematical Sciences' ","'19' ",8745
+2015 ,"'Group G Mathematical Sciences' ","'20' ",2145
+2015 ,"'Group G Mathematical Sciences' ","'21 and over' ",2515
+2015 ,"'Group H Engineering' ","'17 and under' ",7000
+2015 ,"'Group H Engineering' ","'18' ",91310
+2015 ,"'Group H Engineering' ","'19' ",36700
+2015 ,"'Group H Engineering' ","'20' ",14115
+2015 ,"'Group H Engineering' ","'21 and over' ",22150
+2015 ,"'Group I Computer Sciences' ","'17 and under' ",2180
+2015 ,"'Group I Computer Sciences' ","'18' ",60840
+2015 ,"'Group I Computer Sciences' ","'19' ",29055
+2015 ,"'Group I Computer Sciences' ","'20' ",12050
+2015 ,"'Group I Computer Sciences' ","'21 and over' ",20100
+2015 ,"'Group J Technologies' ","'17 and under' ",215
+2015 ,"'Group J Technologies' ","'18' ",4800
+2015 ,"'Group J Technologies' ","'19' ",2250
+2015 ,"'Group J Technologies' ","'20' ",1185
+2015 ,"'Group J Technologies' ","'21 and over' ",1650
+2015 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",1090
+2015 ,"'Group K Architecture, Building and Planning' ","'18' ",20660
+2015 ,"'Group K Architecture, Building and Planning' ","'19' ",9980
+2015 ,"'Group K Architecture, Building and Planning' ","'20' ",4105
+2015 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",7085
+2015 ,"'Group L Social Studies' ","'17 and under' ",4650
+2015 ,"'Group L Social Studies' ","'18' ",126060
+2015 ,"'Group L Social Studies' ","'19' ",46245
+2015 ,"'Group L Social Studies' ","'20' ",15065
+2015 ,"'Group L Social Studies' ","'21 and over' ",49480
+2015 ,"'Group M Law' ","'17 and under' ",3420
+2015 ,"'Group M Law' ","'18' ",70570
+2015 ,"'Group M Law' ","'19' ",24280
+2015 ,"'Group M Law' ","'20' ",9110
+2015 ,"'Group M Law' ","'21 and over' ",20645
+2015 ,"'Group N Business and Admin studies' ","'17 and under' ",9125
+2015 ,"'Group N Business and Admin studies' ","'18' ",168855
+2015 ,"'Group N Business and Admin studies' ","'19' ",84770
+2015 ,"'Group N Business and Admin studies' ","'20' ",32955
+2015 ,"'Group N Business and Admin studies' ","'21 and over' ",48185
+2015 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",985
+2015 ,"'Group P Mass Communication and Documentation' ","'18' ",36665
+2015 ,"'Group P Mass Communication and Documentation' ","'19' ",14850
+2015 ,"'Group P Mass Communication and Documentation' ","'20' ",5595
+2015 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",7055
+2015 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",685
+2015 ,"'Group Q Linguistics, Classics and related' ","'18' ",46790
+2015 ,"'Group Q Linguistics, Classics and related' ","'19' ",11335
+2015 ,"'Group Q Linguistics, Classics and related' ","'20' ",2835
+2015 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",4925
+2015 ,"'Group R European Languages, Literature and related' ","'17 and under' ",375
+2015 ,"'Group R European Languages, Literature and related' ","'18' ",15070
+2015 ,"'Group R European Languages, Literature and related' ","'19' ",2915
+2015 ,"'Group R European Languages, Literature and related' ","'20' ",620
+2015 ,"'Group R European Languages, Literature and related' ","'21 and over' ",1030
+2015 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",60
+2015 ,"'Group T Non-European Languages, Literature and related' ","'18' ",3735
+2015 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1205
+2015 ,"'Group T Non-European Languages, Literature and related' ","'20' ",385
+2015 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",780
+2015 ,"'Group V History and Philosophical studies' ","'17 and under' ",630
+2015 ,"'Group V History and Philosophical studies' ","'18' ",60170
+2015 ,"'Group V History and Philosophical studies' ","'19' ",13715
+2015 ,"'Group V History and Philosophical studies' ","'20' ",3165
+2015 ,"'Group V History and Philosophical studies' ","'21 and over' ",5250
+2015 ,"'Group W Creative Arts and Design' ","'17 and under' ",2315
+2015 ,"'Group W Creative Arts and Design' ","'18' ",125215
+2015 ,"'Group W Creative Arts and Design' ","'19' ",79965
+2015 ,"'Group W Creative Arts and Design' ","'20' ",28760
+2015 ,"'Group W Creative Arts and Design' ","'21 and over' ",41895
+2015 ,"'Group X Education' ","'17 and under' ",240
+2015 ,"'Group X Education' ","'18' ",43460
+2015 ,"'Group X Education' ","'19' ",14760
+2015 ,"'Group X Education' ","'20' ",5820
+2015 ,"'Group X Education' ","'21 and over' ",29565
+2015 ,"'Y Combined arts' ","'17 and under' ",540
+2015 ,"'Y Combined arts' ","'18' ",33250
+2015 ,"'Y Combined arts' ","'19' ",9785
+2015 ,"'Y Combined arts' ","'20' ",3045
+2015 ,"'Y Combined arts' ","'21 and over' ",5215
+2015 ,"'Y Combined sciences' ","'17 and under' ",955
+2015 ,"'Y Combined sciences' ","'18' ",20490
+2015 ,"'Y Combined sciences' ","'19' ",7680
+2015 ,"'Y Combined sciences' ","'20' ",2465
+2015 ,"'Y Combined sciences' ","'21 and over' ",4710
+2015 ,"'Y Combined social sciences' ","'17 and under' ",1045
+2015 ,"'Y Combined social sciences' ","'18' ",17490
+2015 ,"'Y Combined social sciences' ","'19' ",7205
+2015 ,"'Y Combined social sciences' ","'20' ",2390
+2015 ,"'Y Combined social sciences' ","'21 and over' ",3310
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",945
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",35875
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",13705
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",5075
+2015 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",9445
+2015 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1030
+2015 ,"'Y Social Sciences combined with Arts' ","'18' ",30115
+2015 ,"'Y Social Sciences combined with Arts' ","'19' ",10955
+2015 ,"'Y Social Sciences combined with Arts' ","'20' ",3320
+2015 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",5355
+2015 ,"'Z General, other combined and unknown' ","'17 and under' ",1525
+2015 ,"'Z General, other combined and unknown' ","'18' ",21480
+2015 ,"'Z General, other combined and unknown' ","'19' ",6900
+2015 ,"'Z General, other combined and unknown' ","'20' ",2060
+2015 ,"'Z General, other combined and unknown' ","'21 and over' ",2650
+2016 ,"'Group A Medicine and Dentistry' ","'17 and under' ",2340
+2016 ,"'Group A Medicine and Dentistry' ","'18' ",40265
+2016 ,"'Group A Medicine and Dentistry' ","'19' ",11920
+2016 ,"'Group A Medicine and Dentistry' ","'20' ",3490
+2016 ,"'Group A Medicine and Dentistry' ","'21 and over' ",27535
+2016 ,"'Group B Subjects allied to Medicine' ","'17 and under' ",2875
+2016 ,"'Group B Subjects allied to Medicine' ","'18' ",122300
+2016 ,"'Group B Subjects allied to Medicine' ","'19' ",63285
+2016 ,"'Group B Subjects allied to Medicine' ","'20' ",28360
+2016 ,"'Group B Subjects allied to Medicine' ","'21 and over' ",183870
+2016 ,"'Group C Biological Sciences' ","'17 and under' ",4165
+2016 ,"'Group C Biological Sciences' ","'18' ",171690
+2016 ,"'Group C Biological Sciences' ","'19' ",56700
+2016 ,"'Group C Biological Sciences' ","'20' ",18255
+2016 ,"'Group C Biological Sciences' ","'21 and over' ",29950
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'17 and under' ",510
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'18' ",15445
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'19' ",6300
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'20' ",2550
+2016 ,"'Group D Veterinary Sciences, Agriculture and related' ","'21 and over' ",5790
+2016 ,"'Group F Physical Sciences' ","'17 and under' ",1990
+2016 ,"'Group F Physical Sciences' ","'18' ",74240
+2016 ,"'Group F Physical Sciences' ","'19' ",20685
+2016 ,"'Group F Physical Sciences' ","'20' ",4745
+2016 ,"'Group F Physical Sciences' ","'21 and over' ",6580
+2016 ,"'Group G Mathematical Sciences' ","'17 and under' ",1445
+2016 ,"'Group G Mathematical Sciences' ","'18' ",34165
+2016 ,"'Group G Mathematical Sciences' ","'19' ",8835
+2016 ,"'Group G Mathematical Sciences' ","'20' ",2255
+2016 ,"'Group G Mathematical Sciences' ","'21 and over' ",2365
+2016 ,"'Group H Engineering' ","'17 and under' ",6825
+2016 ,"'Group H Engineering' ","'18' ",92665
+2016 ,"'Group H Engineering' ","'19' ",36555
+2016 ,"'Group H Engineering' ","'20' ",13840
+2016 ,"'Group H Engineering' ","'21 and over' ",20430
+2016 ,"'Group I Computer Sciences' ","'17 and under' ",2360
+2016 ,"'Group I Computer Sciences' ","'18' ",62400
+2016 ,"'Group I Computer Sciences' ","'19' ",31805
+2016 ,"'Group I Computer Sciences' ","'20' ",12320
+2016 ,"'Group I Computer Sciences' ","'21 and over' ",20260
+2016 ,"'Group J Technologies' ","'17 and under' ",205
+2016 ,"'Group J Technologies' ","'18' ",4165
+2016 ,"'Group J Technologies' ","'19' ",2090
+2016 ,"'Group J Technologies' ","'20' ",970
+2016 ,"'Group J Technologies' ","'21 and over' ",1680
+2016 ,"'Group K Architecture, Building and Planning' ","'17 and under' ",1155
+2016 ,"'Group K Architecture, Building and Planning' ","'18' ",21690
+2016 ,"'Group K Architecture, Building and Planning' ","'19' ",10595
+2016 ,"'Group K Architecture, Building and Planning' ","'20' ",3700
+2016 ,"'Group K Architecture, Building and Planning' ","'21 and over' ",6640
+2016 ,"'Group L Social Studies' ","'17 and under' ",4860
+2016 ,"'Group L Social Studies' ","'18' ",133305
+2016 ,"'Group L Social Studies' ","'19' ",48935
+2016 ,"'Group L Social Studies' ","'20' ",14355
+2016 ,"'Group L Social Studies' ","'21 and over' ",47165
+2016 ,"'Group M Law' ","'17 and under' ",3755
+2016 ,"'Group M Law' ","'18' ",75780
+2016 ,"'Group M Law' ","'19' ",25005
+2016 ,"'Group M Law' ","'20' ",8885
+2016 ,"'Group M Law' ","'21 and over' ",20500
+2016 ,"'Group N Business and Admin studies' ","'17 and under' ",8970
+2016 ,"'Group N Business and Admin studies' ","'18' ",177215
+2016 ,"'Group N Business and Admin studies' ","'19' ",85675
+2016 ,"'Group N Business and Admin studies' ","'20' ",31530
+2016 ,"'Group N Business and Admin studies' ","'21 and over' ",43725
+2016 ,"'Group P Mass Communication and Documentation' ","'17 and under' ",1020
+2016 ,"'Group P Mass Communication and Documentation' ","'18' ",37455
+2016 ,"'Group P Mass Communication and Documentation' ","'19' ",15105
+2016 ,"'Group P Mass Communication and Documentation' ","'20' ",5770
+2016 ,"'Group P Mass Communication and Documentation' ","'21 and over' ",6730
+2016 ,"'Group Q Linguistics, Classics and related' ","'17 and under' ",820
+2016 ,"'Group Q Linguistics, Classics and related' ","'18' ",45115
+2016 ,"'Group Q Linguistics, Classics and related' ","'19' ",11190
+2016 ,"'Group Q Linguistics, Classics and related' ","'20' ",2815
+2016 ,"'Group Q Linguistics, Classics and related' ","'21 and over' ",4650
+2016 ,"'Group R European Languages, Literature and related' ","'17 and under' ",405
+2016 ,"'Group R European Languages, Literature and related' ","'18' ",13820
+2016 ,"'Group R European Languages, Literature and related' ","'19' ",2960
+2016 ,"'Group R European Languages, Literature and related' ","'20' ",650
+2016 ,"'Group R European Languages, Literature and related' ","'21 and over' ",885
+2016 ,"'Group T Non-European Languages, Literature and related' ","'17 and under' ",70
+2016 ,"'Group T Non-European Languages, Literature and related' ","'18' ",3495
+2016 ,"'Group T Non-European Languages, Literature and related' ","'19' ",1120
+2016 ,"'Group T Non-European Languages, Literature and related' ","'20' ",355
+2016 ,"'Group T Non-European Languages, Literature and related' ","'21 and over' ",795
+2016 ,"'Group V History and Philosophical studies' ","'17 and under' ",630
+2016 ,"'Group V History and Philosophical studies' ","'18' ",59380
+2016 ,"'Group V History and Philosophical studies' ","'19' ",14395
+2016 ,"'Group V History and Philosophical studies' ","'20' ",3120
+2016 ,"'Group V History and Philosophical studies' ","'21 and over' ",5095
+2016 ,"'Group W Creative Arts and Design' ","'17 and under' ",2430
+2016 ,"'Group W Creative Arts and Design' ","'18' ",124445
+2016 ,"'Group W Creative Arts and Design' ","'19' ",77840
+2016 ,"'Group W Creative Arts and Design' ","'20' ",28115
+2016 ,"'Group W Creative Arts and Design' ","'21 and over' ",41050
+2016 ,"'Group X Education' ","'17 and under' ",225
+2016 ,"'Group X Education' ","'18' ",40560
+2016 ,"'Group X Education' ","'19' ",14480
+2016 ,"'Group X Education' ","'20' ",5595
+2016 ,"'Group X Education' ","'21 and over' ",31805
+2016 ,"'Y Combined arts' ","'17 and under' ",655
+2016 ,"'Y Combined arts' ","'18' ",31610
+2016 ,"'Y Combined arts' ","'19' ",9655
+2016 ,"'Y Combined arts' ","'20' ",2870
+2016 ,"'Y Combined arts' ","'21 and over' ",4850
+2016 ,"'Y Combined sciences' ","'17 and under' ",930
+2016 ,"'Y Combined sciences' ","'18' ",18370
+2016 ,"'Y Combined sciences' ","'19' ",6920
+2016 ,"'Y Combined sciences' ","'20' ",2385
+2016 ,"'Y Combined sciences' ","'21 and over' ",4090
+2016 ,"'Y Combined social sciences' ","'17 and under' ",1180
+2016 ,"'Y Combined social sciences' ","'18' ",18545
+2016 ,"'Y Combined social sciences' ","'19' ",7445
+2016 ,"'Y Combined social sciences' ","'20' ",2190
+2016 ,"'Y Combined social sciences' ","'21 and over' ",3165
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'17 and under' ",1035
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'18' ",32015
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'19' ",12830
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'20' ",4600
+2016 ,"'Y Sciences combined with Social Sciences or Arts' ","'21 and over' ",8360
+2016 ,"'Y Social Sciences combined with Arts' ","'17 and under' ",1195
+2016 ,"'Y Social Sciences combined with Arts' ","'18' ",29700
+2016 ,"'Y Social Sciences combined with Arts' ","'19' ",10885
+2016 ,"'Y Social Sciences combined with Arts' ","'20' ",3045
+2016 ,"'Y Social Sciences combined with Arts' ","'21 and over' ",4595
+2016 ,"'Z General, other combined and unknown' ","'17 and under' ",1635
+2016 ,"'Z General, other combined and unknown' ","'18' ",21385
+2016 ,"'Z General, other combined and unknown' ","'19' ",7380
+2016 ,"'Z General, other combined and unknown' ","'20' ",2085
+2016 ,"'Z General, other combined and unknown' ","'21 and over' ",2670
